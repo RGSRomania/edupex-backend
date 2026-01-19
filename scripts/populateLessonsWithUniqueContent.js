@@ -277,12 +277,14 @@ async function updateLessons() {
           };
         }
 
-        // Update lesson
+        // Update lesson with correct nested structure
         await Lectie.findByIdAndUpdate(lesson._id, {
           summary: content.summary,
-          theory: content.theory,
-          examples: content.examples,
-          tips: content.tips
+          content: {
+            theory: content.theory,
+            examples: content.examples,
+            tips: content.tips
+          }
         });
 
         // Update or create question
