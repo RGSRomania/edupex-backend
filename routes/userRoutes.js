@@ -113,7 +113,60 @@ router.post('/login', async (req, res) => {
       }
     });
   } catch (error) {
-    res.status(500).json({ message: 'Eroare de server', error: error.message });
+    res.status(500).json({ message: 'Error updating preferences', error: error.message });
+  }
+});
+
+// Update user streak
+router.put('/streak', authMiddleware, async (req, res) => {
+  try {
+    const user = await User.findById(req.user._id);
+
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+
+    // Initialize streak if not exists
+    if (!user.streak) {
+      user.streak = 0;
+    }
+
+    // Get last activity date
+    const lastActivityDate = user.lastActivityDate ? new Date(user.lastActivityDate) : null;
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    // Check if user already has activity today
+    if (lastActivityDate) {
+      lastActivityDate.setHours(0, 0, 0, 0);
+      if (lastActivityDate.getTime() === today.getTime()) {
+        // Already updated today
+        return res.json({ streak: user.streak });
+      }
+
+      // Check if streak should continue (activity yesterday)
+      const yesterday = new Date(today);
+      yesterday.setDate(yesterday.getDate() - 1);
+
+      if (lastActivityDate.getTime() === yesterday.getTime()) {
+        // Continue streak
+        user.streak += 1;
+      } else {
+        // Streak broken, restart
+        user.streak = 1;
+      }
+    } else {
+      // First activity
+      user.streak = 1;
+    }
+
+    // Update last activity date
+    user.lastActivityDate = new Date();
+    await user.save();
+
+    res.json({ streak: user.streak });
+  } catch (error) {
+    res.status(500).json({ message: 'Error updating streak', error: error.message });
   }
 });
 
