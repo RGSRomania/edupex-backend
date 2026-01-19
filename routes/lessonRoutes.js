@@ -15,13 +15,31 @@ const authenticate = require('../middleware/authenticate');
 // ==================== MATERIE ROUTES ====================
 // PUBLIC ENDPOINTS - NO AUTHENTICATION REQUIRED
 
+// GET test endpoint - just to verify route is accessible
+router.get('/test', async (req, res) => {
+  res.json({ message: 'Lesson routes are accessible!', timestamp: new Date() });
+});
+
 // GET all materii (subjects) - PUBLIC
 router.get('/materii', async (req, res) => {
   try {
+    // Check if Materie is defined
+    if (!Materie) {
+      return res.status(500).json({
+        error: 'Materie model not initialized',
+        details: 'The Materie model could not be loaded from models/Lesson.js'
+      });
+    }
+
     const materii = await Materie.find().sort({ order: 1 });
     res.json(materii);
   } catch (error) {
-    res.status(500).json({ error: error.message });
+    console.error('Error fetching materii:', error);
+    res.status(500).json({
+      error: error.message,
+      type: error.name,
+      details: 'Check MongoDB connection and models'
+    });
   }
 });
 
