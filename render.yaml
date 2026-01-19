@@ -25,5 +25,7 @@ services:
         value: gpt-4o
       - key: JWT_SECRET
         sync: false
+      - key: MONGODB_URI
+        sync: false
     healthCheckPath: /
 
