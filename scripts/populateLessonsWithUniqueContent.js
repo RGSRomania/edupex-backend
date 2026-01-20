@@ -137,10 +137,54 @@ const LESSON_CONTENT = {
       question: {
         text: 'Care este rezultatul: 10 + 2 × 5?',
         options: [
-          { text: '20', correct: false },
           { text: '60', correct: false },
-          { text: '20', correct: false },
+          { text: '12', correct: false },
+          { text: '15', correct: false },
           { text: '20', correct: true }
+        ]
+      }
+    },
+    'L7': {
+      summary: 'Fracții și operații cu fracții',
+      theory: 'Fracțiile reprezintă părți dintr-un întreg. O fracție este compusă din numărător (sus) și numitor (jos). Numitorul indică în câte părți este împărțit întregul, iar numărătorul indică câte din acele părți luăm. Fracțiile echivalente sunt fracții care reprezintă aceeași valoare (de ex: 1/2 = 2/4).',
+      examples: [
+        'Exemplu: 1/2 înseamnă jumătate dintr-un întreg',
+        'Exemplu: 3/4 înseamnă 3 din 4 părti egale',
+        'Exemplu: 1/2 = 2/4 = 3/6 (fracții echivalente)'
+      ],
+      tips: [
+        'Simplifică fracțiile prin împărțirea numărătorului și numitorului la aceiași număr',
+        'Pentru a compara fracții, găsește un numitor comun'
+      ],
+      question: {
+        text: 'Care fracție este echivalentă cu 1/2?',
+        options: [
+          { text: '2/3', correct: false },
+          { text: '3/6', correct: true },
+          { text: '2/5', correct: false },
+          { text: '4/6', correct: false }
+        ]
+      }
+    },
+    'L8': {
+      summary: 'Zecimale și conversia fracție-zecimală',
+      theory: 'Numerele zecimale sunt o altă formă de a reprezenta fracții. Ele folosesc punctul zecimal pentru a separa întregii de părțile fracționare. Fiecare pozitie după punctul zecimal reprezintă putere de 10 (zecimi, sutimi, miimi). Pentru a converti o fracție în zecimală, împărțim numărătorul la numitor.',
+      examples: [
+        'Exemplu: 1/2 = 0,5 (jumătate)',
+        'Exemplu: 3/4 = 0,75 (trei sferturi)',
+        'Exemplu: 1/10 = 0,1 (unu pe zece)'
+      ],
+      tips: [
+        'Memorează conversiile comune: 1/2=0,5; 1/4=0,25; 1/5=0,2; 1/10=0,1',
+        'Practică împărțirea pentru a convertii fracții în zecimale'
+      ],
+      question: {
+        text: 'Cât este 1/4 ca zecimală?',
+        options: [
+          { text: '0,2', correct: false },
+          { text: '0,25', correct: true },
+          { text: '0,4', correct: false },
+          { text: '0,5', correct: false }
         ]
       }
     }
@@ -209,6 +253,116 @@ const LESSON_CONTENT = {
           { text: 'Asemănarea sunetelor la sfârșitul versurilor', correct: true },
           { text: 'Numărul de silabe dintr-un vers', correct: false },
           { text: 'O figură de stil care compară două lucruri', correct: false }
+        ]
+      }
+    },
+    'L4': {
+      summary: 'Figuri de stil: metaforă, comparație și personificare',
+      theory: 'Figurile de stil sunt instrumente literare care fac textul mai expresiv și mai frumos. Metafora este o comparație fără "ca și" (de ex: "Inima ta e un vulcan"). Comparația folosește "ca și" (de ex: "Frumos ca o floare"). Personificarea dă calități umane lucrurilor neînsuflețite (de ex: "Vântul șoapte").',
+      examples: [
+        'Metaforă: "Ochii tăi sunt stele" (ochii nu sunt literal stele, dar sunt frumoși ca acestea)',
+        'Comparație: "Curat ca zăpada" (comparație explicită)',
+        'Personificare: "Pădurea șoapte misterios" (pădurea nu șoapte, dar textul o însuflețește)'
+      ],
+      tips: [
+        'Identifică figurile de stil la lectura unui text',
+        'Înțelege cum figurile de stil contribuie la sensul și frumusețea textului'
+      ],
+      question: {
+        text: 'Care este o metaforă?',
+        options: [
+          { text: '"Curat ca apa"', correct: false },
+          { text: '"Inima mea este o pasăre"', correct: true },
+          { text: '"Pădurea cântă"', correct: false },
+          { text: '"Frumos și plin de culoare"', correct: false }
+        ]
+      }
+    },
+    'L5': {
+      summary: 'Analiza textelor: tema, mesaj și intenție autorului',
+      theory: 'La lectura unui text, trebuie să identificăm tema (subiectul principal), mesajul (ce vrea să transmită autorul) și intenția (pentru ce a scris autorul aceasta - să informeze, să distreze, să emoționeze). Analiza aprofundată ne ajută să înțelegem mai bine opera.',
+      examples: [
+        'Temă: relația dintre oameni și natură',
+        'Mesaj: importanța conservării mediului',
+        'Intenție: să conștientizeze cititorul asupra problemelor de mediu'
+      ],
+      tips: [
+        'Citește cu atenție și iau notițe privind ideile principale',
+        'Gândește-te la contextul istoric în care a fost scrisă obra'
+      ],
+      question: {
+        text: 'Care este diferența dintre temă și mesaj?',
+        options: [
+          { text: 'Sunt exact același lucru', correct: false },
+          { text: 'Tema este subiectul, mesajul este ideea principală pe care vrea s-o transmită', correct: true },
+          { text: 'Mesajul este subiectul, tema este ideea principală', correct: false },
+          { text: 'Nu există o diferență între ele', correct: false }
+        ]
+      }
+    },
+    'L6': {
+      summary: 'Scrierea creativă și tehnici de redactare',
+      theory: 'Scrierea creativă ne permite să exprimăm idei și emoții în propriile cuvinte. Tehnicile importante includ: planificarea (ideație și organizare), redactarea (scrierea unei prime versiuni), revizuirea (corectarea și îmbunătățirea), și editarea (verificarea unei versiuni finale).',
+      examples: [
+        'Brainstorming: scriere liberă a ideilor fără autocenzură',
+        'Crearea unui plan: organizarea ideilor înainte de redactare',
+        'Revizuire: lectura și schimbarea textului pentru a fi mai clar'
+      ],
+      tips: [
+        'Nu te gândi la perfecțiune în prima versiune - scrie liber!',
+        'Cere feedback de la alții pentru a îmbunătăți textul tău'
+      ],
+      question: {
+        text: 'Care este prima etapă a procesului de scriere creativă?',
+        options: [
+          { text: 'Editarea finală', correct: false },
+          { text: 'Revizuirea', correct: false },
+          { text: 'Planificarea și ideație', correct: true },
+          { text: 'Publicarea textului', correct: false }
+        ]
+      }
+    },
+    'L7': {
+      summary: 'Comunicarea și vorbirea în public',
+      theory: 'Comunicarea eficace necesită claritate, organizare și abilitate de ascultare. Vorbirea în public poate fi intimidantă, dar cu practică și pregătire devine mai ușoară. Elementele cheie includ: cunoașterea subiectului, pregatire, contact vizual cu audiența, și intonație potrivită.',
+      examples: [
+        'Pregătire: exercitare textului înainte de prezentare',
+        'Contact vizual: privire către diferitele persoane din audiență',
+        'Intonație: variația volumului și vitezei vorbirii pentru a menține interes'
+      ],
+      tips: [
+        'Practică în fața oglinzii sau cu prieteni înainte de prezentare',
+        'Respira adânc și relaxează-te - emoțiile se observă în voce'
+      ],
+      question: {
+        text: 'Care este un element important al vorbirii în public?',
+        options: [
+          { text: 'Să evuți contact vizual cu audiența', correct: false },
+          { text: 'Să vorbești cât mai repede posibil', correct: false },
+          { text: 'Contactul vizual și intonația potrivită', correct: true },
+          { text: 'Să memorezi cuvânt cu cuvânt textul', correct: false }
+        ]
+      }
+    },
+    'L8': {
+      summary: 'Literatura universală și opere clasice',
+      theory: 'Literatura universală cuprinde opere clasice de la diferiți autori și perioade din întreaga lume. Aceste opere au influențat generații de cititori și continuă să fie relevante astazi. Exemple includ "Odiseea", "Don Quijote", "Orgoliul și prejudecata" și altele. Studierea acestor opere ne ajută să înțelegem culturile și valorile umane.',
+      examples: [
+        'Homer - "Odiseea" (epopeul grec ancient)',
+        'Cervantes - "Don Quijote" (roman spaniol din sec. XVII)',
+        'Austen - "Orgoliul și prejudecata" (roman britanic din sec. XIX)'
+      ],
+      tips: [
+        'Citește versiuni adaptate pentru a face mai ușor accesul la opere clasice',
+        'Compar diferitele culturi și perioade prin lucrări literare'
+      ],
+      question: {
+        text: 'Cine este autorul "Odiseei"?',
+        options: [
+          { text: 'Cervantes', correct: false },
+          { text: 'Homer', correct: true },
+          { text: 'Jane Austen', correct: false },
+          { text: 'Dante Alighieri', correct: false }
         ]
       }
     }
