@@ -1,0 +1,1229 @@
+{
+  "exportDate": "2026-01-20T09:20:49.743Z",
+  "totalLessons": 24,
+  "lessons": [
+    {
+      "_id": "696def98866c2a77c06d4cd0",
+      "title": "L1 - Lecția 1",
+      "summary": "Numere naturale și operații fundamentale",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Metoda reducerii la unitate constă în a afla valoarea pentru o unitate, apoi a o folosi pentru a afla valoarea pentru mai multe unități. Pași: 1) Afla valoarea pentru 1 unitate 2) Înmulțește cu numărul de unități dorit.",
+        "examples": [
+          "5 kg de orez costă 50 lei. Cât costă 3 kg? Răspuns: 1 kg costă 10 lei, deci 3 kg costă 30 lei."
+        ],
+        "tips": [
+          "Identifică ce trebuie redus la unitate",
+          "După ce afli valoarea pentru 1, înmulțește cu cantitatea dorită"
+        ]
+      },
+      "question": {
+        "question": "Care sunt primele zece numere naturale în ordine crescătoare?",
+        "options": [
+          {
+            "text": "0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+            "isCorrect": true,
+            "explanation": "Corect! Numerele naturale incep de la 0.",
+            "_id": "696f3c0944edbe3928e92b87"
+          },
+          {
+            "text": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+            "isCorrect": false,
+            "explanation": "Incorect. Seria incepe de la 0.",
+            "_id": "696f3c0944edbe3928e92b88"
+          },
+          {
+            "text": "1, 3, 5, 7, 9, 11, 13, 15, 17, 19",
+            "isCorrect": false,
+            "explanation": "Incorect. Acestea sunt doar numerele impare.",
+            "_id": "696f3c0944edbe3928e92b89"
+          },
+          {
+            "text": "2, 4, 6, 8, 10, 12, 14, 16, 18, 20",
+            "isCorrect": false,
+            "explanation": "Incorect. Acestea sunt doar numerele pare.",
+            "_id": "696f3c0944edbe3928e92b8a"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T08:47:20.306Z"
+    },
+    {
+      "_id": "696df346e3aab0f8b6c94914",
+      "title": "L2 - Lecția 2",
+      "summary": "Adunarea și scăderea numerelor naturale",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Reprezentarea numerelor pe o dreaptă numerică:\n- Pe o axă numerică orizontală, numerele cresc de la stânga la dreapta\n- Fiecare punct corespunde unui număr natural\n- Distanțele între puncte sunt egale\n\nCompararea numerelor naturale:\n- Semnul < (mai mic): 3 < 7\n- Semnul > (mai mare): 9 > 4\n- Semnul = (egal): 5 = 5\n\nOrdonarea numerelor: Aranjarea lor în ordinea crescătoare sau descrescătoare\n\nAproximări și estimări:\n- Rotunjire la zeci: 24 ≈ 20\n- Rotunjire la sute: 456 ≈ 500\n- Estimare: evaluarea aproximativă a unui rezultat",
+        "examples": [
+          "Comparare: 15 < 20 (15 este mai mic decât 20)",
+          "Pe axa numerelor: 0---1---2---3---4---5",
+          "Rotunjire: 347 rotunjit la sute este 300",
+          "Ordine crescătoare: 5, 12, 23, 45, 67"
+        ],
+        "tips": [
+          "Pe axa, mai la dreapta = mai mare",
+          "La rotunjire, uită-te la cifra din dreapta",
+          "Dacă cifra este ≥ 5, rotunjești în sus",
+          "Dacă cifra este < 5, rotunjești în jos"
+        ]
+      },
+      "question": {
+        "question": "Dacă aduni 15 + 27, care este rezultatul?",
+        "options": [
+          {
+            "text": "42",
+            "isCorrect": true,
+            "explanation": "Corect! 15 + 27 = 42",
+            "_id": "696f3c0944edbe3928e92b91"
+          },
+          {
+            "text": "40",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3c0944edbe3928e92b92"
+          },
+          {
+            "text": "45",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3c0944edbe3928e92b93"
+          },
+          {
+            "text": "35",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3c0944edbe3928e92b94"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:02.692Z"
+    },
+    {
+      "_id": "696df346e3aab0f8b6c9491e",
+      "title": "L3 - Lecția 3",
+      "summary": "Înmulțirea numerelor naturale",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Adunarea numerelor naturale:\n- Operația inversă scăderii\n- Termeni: numerele care se adună\n- Sumă: rezultatul adunării\n\nProprietatea comutativă: a + b = b + a\nExemplu: 3 + 5 = 5 + 3 = 8\n\nProprietatea asociativă: (a + b) + c = a + (b + c)\nExemplu: (2 + 3) + 4 = 2 + (3 + 4) = 9\n\nElement neutru: a + 0 = a\nExemplu: 7 + 0 = 7",
+        "examples": [
+          "3 + 5 = 8 (termenii: 3 și 5; suma: 8)",
+          "5 + 3 = 8 (comutativă)",
+          "(2 + 3) + 4 = 5 + 4 = 9",
+          "2 + (3 + 4) = 2 + 7 = 9"
+        ],
+        "tips": [
+          "Folosește proprietatea comutativă pentru ordine mai convenabilă",
+          "Grupează numerele care se adună ușor",
+          "Verifică prin efectuarea în cealaltă ordine"
+        ]
+      },
+      "question": {
+        "question": "Care este rezultatul înmulțirii 6 × 8?",
+        "options": [
+          {
+            "text": "48",
+            "isCorrect": true,
+            "explanation": "Corect! 6 × 8 = 48",
+            "_id": "696f3b9916459a2af60330e5"
+          },
+          {
+            "text": "56",
+            "isCorrect": false,
+            "explanation": "Incorect. Aceasta ar fi 7 × 8.",
+            "_id": "696f3b9916459a2af60330e6"
+          },
+          {
+            "text": "42",
+            "isCorrect": false,
+            "explanation": "Incorect. Aceasta ar fi 6 × 7.",
+            "_id": "696f3b9916459a2af60330e7"
+          },
+          {
+            "text": "54",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3b9916459a2af60330e8"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:02.869Z"
+    },
+    {
+      "_id": "696df347e3aab0f8b6c94928",
+      "title": "L4 - Lecția 4",
+      "summary": "Împărțirea numerelor naturale",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Scăderea numerelor naturale:\n- Operația inversă adunării\n- Descăzut: numărul din care se scade\n- Scăzător: numărul care se scade\n- Diferență: rezultatul scăderii\n\nDacă a - b = c, atunci c + b = a\n\nVerificare: Diferența + Scăzătorul = Descăzutul\nExemplu: 10 - 3 = 7, verificare: 7 + 3 = 10\n\nObservație: Scăderea nu este comutativă! 5 - 2 ≠ 2 - 5",
+        "examples": [
+          "10 - 3 = 7 (descăzut: 10, scăzător: 3, diferență: 7)",
+          "Verificare: 7 + 3 = 10",
+          "25 - 8 = 17",
+          "100 - 45 = 55"
+        ],
+        "tips": [
+          "Descăzut trebuie să fie mai mare sau egal cu scăzătorul",
+          "Verifică scăderea prin adunare: rezultat + scăzător = descăzut",
+          "Scăderea nu este comutativă!"
+        ]
+      },
+      "question": {
+        "question": "Care este rezultatul împărțirii 56 ÷ 7?",
+        "options": [
+          {
+            "text": "8",
+            "isCorrect": true,
+            "explanation": "Corect! 56 ÷ 7 = 8",
+            "_id": "696f3b9916459a2af60330ef"
+          },
+          {
+            "text": "7",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3b9916459a2af60330f0"
+          },
+          {
+            "text": "6",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3b9916459a2af60330f1"
+          },
+          {
+            "text": "9",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3b9916459a2af60330f2"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:03.049Z"
+    },
+    {
+      "_id": "696df347e3aab0f8b6c94932",
+      "title": "L5 - Lecția 5",
+      "summary": "Operații cu numere naturale - exerciții",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Înmulțirea numerelor naturale:\n- Înmulțire = adunare repetată\n- Factori: numerele care se înmulțesc\n- Produs: rezultatul înmulțirii\n\nProprietatea comutativă: a × b = b × a\nExemplu: 3 × 5 = 5 × 3 = 15\n\nProprietatea asociativă: (a × b) × c = a × (b × c)\nExemplu: (2 × 3) × 4 = 2 × (3 × 4) = 24\n\nDistributivitate: a × (b + c) = a × b + a × c\n\nElemente speciale:\n- Element neutru: a × 1 = a\n- Element absorbant: a × 0 = 0",
+        "examples": [
+          "3 × 4 = 4 + 4 + 4 = 12",
+          "5 × 7 = 7 × 5 = 35",
+          "(2 × 3) × 4 = 6 × 4 = 24",
+          "2 × (3 + 4) = 2 × 7 = 14 = 2 × 3 + 2 × 4 = 6 + 8"
+        ],
+        "tips": [
+          "Comutativitatea ușurează calculele",
+          "Înmulțire cu 0 = 0",
+          "Înmulțire cu 1 = același număr",
+          "Grupează factori pentru calcule mai ușoare"
+        ]
+      },
+      "question": {
+        "question": "Calculează: (10 + 5) × 2",
+        "options": [
+          {
+            "text": "30",
+            "isCorrect": true,
+            "explanation": "Corect! (10 + 5) × 2 = 15 × 2 = 30",
+            "_id": "696f3c0944edbe3928e92b9b"
+          },
+          {
+            "text": "25",
+            "isCorrect": false,
+            "explanation": "Incorect. Trebuie sa faci adunarea mai intai.",
+            "_id": "696f3c0944edbe3928e92b9c"
+          },
+          {
+            "text": "20",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3c0944edbe3928e92b9d"
+          },
+          {
+            "text": "40",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3c0944edbe3928e92b9e"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:03.256Z"
+    },
+    {
+      "_id": "696df347e3aab0f8b6c9493c",
+      "title": "L6 - Lecția 6",
+      "summary": "Puterea unui număr natural",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Împărțirea numerelor naturale:\n- Operația inversă înmulțirii\n- Deîmpărțit: numărul care se împarte\n- Împărțitor: numărul la care se împarte\n- Cât: rezultatul împărțirii\n- Rest: ceea ce rămâne după împărțire\n\nRelație: Deîmpărțit = Împărțitor × Cât + Rest\n\nÎmpărțire exactă: Rest = 0\nÎmpărțire cu rest: Rest < Împărțitor\n\nObservație: Împărțirea la 0 NU este permisă!",
+        "examples": [
+          "20 : 4 = 5 (deîmpărțit: 20, împărțitor: 4, cât: 5)",
+          "23 : 4 = 5 rest 3 (23 = 4 × 5 + 3)",
+          "Verificare: 4 × 5 + 3 = 20 + 3 = 23",
+          "50 : 5 = 10 (împărțire exactă)"
+        ],
+        "tips": [
+          "Restul este întotdeauna mai mic decât împărțitorul",
+          "Verifică: cât × împărțitor + rest = deîmpărțit",
+          "Împărțire la 1 = același număr",
+          "Împărțire la 0 = IMPOSIBIL"
+        ]
+      },
+      "question": {
+        "question": "Care este valoarea lui 2^4 (2 la puterea 4)?",
+        "options": [
+          {
+            "text": "16",
+            "isCorrect": true,
+            "explanation": "Corect! 2^4 = 2 × 2 × 2 × 2 = 16",
+            "_id": "696f3c0944edbe3928e92ba5"
+          },
+          {
+            "text": "8",
+            "isCorrect": false,
+            "explanation": "Incorect. 2^3 = 8, nu 2^4.",
+            "_id": "696f3c0944edbe3928e92ba6"
+          },
+          {
+            "text": "32",
+            "isCorrect": false,
+            "explanation": "Incorect. 2^5 = 32, nu 2^4.",
+            "_id": "696f3c0944edbe3928e92ba7"
+          },
+          {
+            "text": "6",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza 2 × 2 × 2 × 2.",
+            "_id": "696f3c0944edbe3928e92ba8"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:03.440Z"
+    },
+    {
+      "_id": "696df347e3aab0f8b6c94946",
+      "title": "L7 - Lecția 7",
+      "summary": "Ordinea efectuării operațiilor",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Ordinea efectuării operațiilor (PEMDAS/BODMAS):\n\n1. Paranteze (rotunde, pătrate, acolade)\n2. Exponenți (puteri)\n3. Înmulțire și Împărțire (de la stânga la dreapta)\n4. Adunare și Scădere (de la stânga la dreapta)\n\nParantezele:\n- Rotunde: ( )\n- Pătrate: [ ]\n- Acolade: { }\n\nSe rezolvă din interior spre exterior și din stânga spre dreapta",
+        "examples": [
+          "2 + 3 × 4 = 2 + 12 = 14 (nu 20)",
+          "(2 + 3) × 4 = 5 × 4 = 20",
+          "24 : 6 × 2 = 4 × 2 = 8",
+          "2 + 3 × (4 - 1) = 2 + 3 × 3 = 2 + 9 = 11"
+        ],
+        "tips": [
+          "Parantezele schimbă ordinea!",
+          "Înmulțire și împărțire au aceeași prioritate - stânga la dreapta",
+          "Adunare și scădere au aceeași prioritate - stânga la dreapta",
+          "Memorează: PEMDAS (Parentheses, Exponents, Multiply/Divide, Add/Subtract)"
+        ]
+      },
+      "question": {
+        "question": "Care este rezultatul: 2 + 3 × 4?",
+        "options": [
+          {
+            "text": "14",
+            "isCorrect": true,
+            "explanation": "Corect! Inmultirile se fac inaintea adunarii: 3 × 4 = 12, apoi 2 + 12 = 14",
+            "_id": "696f3c0944edbe3928e92baf"
+          },
+          {
+            "text": "20",
+            "isCorrect": false,
+            "explanation": "Incorect. Nu se calculeaza de la stanga la dreapta.",
+            "_id": "696f3c0944edbe3928e92bb0"
+          },
+          {
+            "text": "11",
+            "isCorrect": false,
+            "explanation": "Incorect. Trebuie sa respecti ordinea operatiilor.",
+            "_id": "696f3c0944edbe3928e92bb1"
+          },
+          {
+            "text": "5",
+            "isCorrect": false,
+            "explanation": "Incorect. Trebuie sa faci inmultirea inaintea adunarii.",
+            "_id": "696f3c0944edbe3928e92bb2"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:03.616Z"
+    },
+    {
+      "_id": "696df347e3aab0f8b6c9495a",
+      "title": "L9 - Lecția 9",
+      "summary": "Probleme cu numere naturale",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Reguli de calcul cu puteri (cu aceeași bază):\n\nÎnmulțire: a^m × a^n = a^(m+n)\nExemplu: 2^3 × 2^2 = 2^5 = 32\n\nÎmpărțire: a^m : a^n = a^(m-n) (m > n)\nExemplu: 2^5 : 2^2 = 2^3 = 8\n\nPutere de putere: (a^m)^n = a^(m×n)\nExemplu: (2^2)^3 = 2^6 = 64\n\nPuterea unui produs: (a × b)^n = a^n × b^n\nExemplu: (2 × 3)^2 = 2^2 × 3^2 = 4 × 9 = 36\n\nPuterea unui cât: (a : b)^n = a^n : b^n\nExemplu: (6 : 2)^2 = 6^2 : 2^2 = 36 : 4 = 9",
+        "examples": [
+          "3^2 × 3^3 = 3^5 = 243",
+          "5^4 : 5^2 = 5^2 = 25",
+          "(2^2)^3 = 2^6 = 64",
+          "(2 × 5)^2 = 4 × 25 = 100",
+          "(10 : 5)^2 = 100 : 25 = 4"
+        ],
+        "tips": [
+          "La înmulțire: adună exponenții",
+          "La împărțire: scade exponenții",
+          "La putere de putere: înmulțește exponenții",
+          "Regulile se aplică doar dacă bazele sunt aceleași!"
+        ]
+      },
+      "question": {
+        "question": "Andrei are 15 mere. Mama ii mai da 8. Cate mere are acum?",
+        "options": [
+          {
+            "text": "23",
+            "isCorrect": true,
+            "explanation": "Corect! 15 + 8 = 23",
+            "_id": "696f3c0944edbe3928e92bc3"
+          },
+          {
+            "text": "20",
+            "isCorrect": false,
+            "explanation": "Incorect. Aduna din nou.",
+            "_id": "696f3c0944edbe3928e92bc4"
+          },
+          {
+            "text": "25",
+            "isCorrect": false,
+            "explanation": "Incorect. Aduna din nou.",
+            "_id": "696f3c0944edbe3928e92bc5"
+          },
+          {
+            "text": "30",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza mai atent.",
+            "_id": "696f3c0944edbe3928e92bc6"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:03.995Z"
+    },
+    {
+      "_id": "696df348e3aab0f8b6c94964",
+      "title": "L10 - Lecția 10",
+      "summary": "Comunicare orală și redactare",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Divizibilitate a numerelor naturale:\n\nUn număr a este divizibil cu b (se notează a | b) dacă există un număr natural c\nastfel încât a = b × c.\n\nCriteriile de divizibilitate:\n\nDivizibilitate cu 2: Ultima cifră este pară (0, 2, 4, 6, 8)\nExemplu: 24, 136, 450\n\nDivizibilitate cu 5: Ultima cifră este 0 sau 5\nExemplu: 15, 230, 405\n\nDivizibilitate cu 10: Ultima cifră este 0\nExemplu: 20, 450, 1000\n\nDivizibilitate cu 3: Suma cifrelor este divizibilă cu 3\nExemplu: 123 (1+2+3=6, div cu 3)\n\nDivizibilitate cu 9: Suma cifrelor este divizibilă cu 9\nExemplu: 108 (1+0+8=9, div cu 9)\n\nDivizibilitate cu 4: Ultimele 2 cifre formează un număr div cu 4\nExemplu: 316 (16 div cu 4)\n\nDivizibilitate cu 25: Ultimele 2 cifre sunt 00, 25, 50 sau 75",
+        "examples": [
+          "120 este div cu 2, 5, 10 (ultima cifră 0)",
+          "123 este div cu 3 (suma 1+2+3=6)",
+          "225 este div cu 5 și 25",
+          "1008 este div cu 3 și 9 (suma 1+0+0+8=9)"
+        ],
+        "tips": [
+          "Memorează criteriile principale: 2, 3, 5, 10",
+          "Pentru 3 și 9, adună cifrele",
+          "Ultimele cifre ajută la 2, 4, 5, 10, 25",
+          "Criteriile te ajută să calculezi mai rapid"
+        ]
+      },
+      "question": {
+        "question": "Care sunt tipurile principale de comunicare orală?",
+        "options": [
+          {
+            "text": "Conversația, expunerea și dialogul",
+            "isCorrect": true,
+            "explanation": "Corect! Acestea sunt principalele forme de comunicare orală.",
+            "_id": "696f3c0944edbe3928e92bcd"
+          },
+          {
+            "text": "Doar scrisul",
+            "isCorrect": false,
+            "explanation": "Incorect. Aceasta este comunicare scrisa.",
+            "_id": "696f3c0944edbe3928e92bce"
+          },
+          {
+            "text": "Doar gesturile",
+            "isCorrect": false,
+            "explanation": "Incorect. Aceasta este comunicare non-verbala.",
+            "_id": "696f3c0944edbe3928e92bcf"
+          },
+          {
+            "text": "Doar cititul",
+            "isCorrect": false,
+            "explanation": "Incorect. Cititul nu este comunicare orala.",
+            "_id": "696f3c0944edbe3928e92bd0"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:04.178Z"
+    },
+    {
+      "_id": "696df348e3aab0f8b6c9496e",
+      "title": "L11 - Lecția 11",
+      "summary": "Textul narativ și descriptiv",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Numere prime și numere compuse:\n\nNumăr prim: Are exact DOI divizori: 1 și el însuși\nExemplu: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47\n\nNumăr compus: Are MAI MULT de doi divizori\nExemplu: 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20\n\nCazuri speciale:\n- 1: NU este nici prim, nici compus\n- 2: SINGURUL număr prim par\n- Toate celelalte numere pare sunt COMPUSE\n\nObservații:\n- Numerele prime până la 50: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47\n- Numerele compuse pot fi descompuse în factori primi",
+        "examples": [
+          "7 este prim (div doar cu 1 și 7)",
+          "12 este compus (div cu 1, 2, 3, 4, 6, 12)",
+          "2 este prim și PAR",
+          "9 este compus (3 × 3)"
+        ],
+        "tips": [
+          "Numerele pare (în afară de 2) sunt compuse",
+          "Dacă suma cifrelor e div cu 3, nu e prim",
+          "Dacă se termină în 0 sau 5, nu e prim (în afară de 5)",
+          "1 NU este prim!"
+        ]
+      },
+      "question": {
+        "question": "Care este diferența dintre textul narativ și cel descriptiv?",
+        "options": [
+          {
+            "text": "Textul narativ povestește o întâmplare, descriptivul descrie o situație",
+            "isCorrect": true,
+            "explanation": "Corect! Aceasta este diferența principală.",
+            "_id": "696f3c0a44edbe3928e92bd7"
+          },
+          {
+            "text": "Sunt aceleași",
+            "isCorrect": false,
+            "explanation": "Incorect. Au scopuri diferite.",
+            "_id": "696f3c0a44edbe3928e92bd8"
+          },
+          {
+            "text": "Textul descriptiv povestește",
+            "isCorrect": false,
+            "explanation": "Incorect. Descriptivul descrie.",
+            "_id": "696f3c0a44edbe3928e92bd9"
+          },
+          {
+            "text": "Nu au diferență",
+            "isCorrect": false,
+            "explanation": "Incorect. Au caracteristici diferite.",
+            "_id": "696f3c0a44edbe3928e92bda"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:04.362Z"
+    },
+    {
+      "_id": "696df348e3aab0f8b6c94978",
+      "title": "L12 - Lecția 12",
+      "summary": "Textul dialogat și alte forme de expresie",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Descompunerea în factori primi:\n\nFiecare număr compus se descompune UNIC în factori primi.\n\nMetoda descompunerii:\n1. Împarte numărul la cel mai mic factor prim (2, 3, 5, 7...)\n2. Continuă cu catul obținut\n3. Repetă până obții 1\n\nNotație exponențială:\n12 = 2^2 × 3\n30 = 2 × 3 × 5\n36 = 2^2 × 3^2\n\nCMMDC (Cel Mai Mare Divizor Comun):\n- Se iau factorii comuni cu puterea cea mai mică\n\nCMMMC (Cel Mai Mic Multiplu Comun):\n- Se iau toți factorii cu puterea cea mai mare",
+        "examples": [
+          "12 = 2 × 2 × 3 = 2^2 × 3",
+          "30 = 2 × 3 × 5",
+          "100 = 2^2 × 5^2",
+          "CMMDC(12, 18) = 6 (2 × 3)",
+          "CMMMC(12, 18) = 36 (2^2 × 3^2)"
+        ],
+        "tips": [
+          "Începe cu cel mai mic factor prim",
+          "Pune exponenți pentru factori repetați",
+          "Reține formule pentru CMMDC și CMMMC",
+          "Toți numerele se descompun unic!"
+        ]
+      },
+      "question": {
+        "question": "Ce este un dialog?",
+        "options": [
+          {
+            "text": "O conversație între doi sau mai mulți personaje",
+            "isCorrect": true,
+            "explanation": "Corect! Dialogul este o formă de exprimare a convorbirii.",
+            "_id": "696f3c0a44edbe3928e92be1"
+          },
+          {
+            "text": "O narațiune lungă",
+            "isCorrect": false,
+            "explanation": "Incorect. Dialogul nu este narațiune.",
+            "_id": "696f3c0a44edbe3928e92be2"
+          },
+          {
+            "text": "O descriere",
+            "isCorrect": false,
+            "explanation": "Incorect. Dialogul nu este descriere.",
+            "_id": "696f3c0a44edbe3928e92be3"
+          },
+          {
+            "text": "Un vers",
+            "isCorrect": false,
+            "explanation": "Incorect. Dialogul poate fi în proză.",
+            "_id": "696f3c0a44edbe3928e92be4"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:04.569Z"
+    },
+    {
+      "_id": "696df348e3aab0f8b6c94982",
+      "title": "L13 - Lecția 13",
+      "summary": "Descompunerea în factori primi",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Ecuații în N (multimea numerelor naturale):\n\nO ecuație este o egalitate cu una sau mai multe necunoscute.\n\nTip: a + x = b\nRezolvare: x = b - a (dacă b ≥ a)\n\nTip: x - a = b\nRezolvare: x = a + b\n\nTip: a × x = b\nRezolvare: x = b : a (dacă a | b)\n\nTip: x : a = b\nRezolvare: x = a × b\n\nTip: ax + b = c\nRezolvare: x = (c - b) : a\n\nObservație: În N, soluția trebuie să fie număr natural!\n\nVerificare: Înlocuiești valoarea găsită în ecuația inițială",
+        "examples": [
+          "x + 5 = 12 → x = 12 - 5 = 7",
+          "x - 3 = 10 → x = 10 + 3 = 13",
+          "3 × x = 15 → x = 15 : 3 = 5",
+          "x : 4 = 6 → x = 4 × 6 = 24",
+          "2x + 1 = 9 → 2x = 8 → x = 4"
+        ],
+        "tips": [
+          "Inversa adunării: scădere",
+          "Inversa scăderii: adunare",
+          "Inversa înmulțirii: împărțire",
+          "Inversa împărțirii: înmulțire",
+          "Verifică întotdeauna soluția!"
+        ]
+      },
+      "question": {
+        "question": "Care sunt operațiile cu numere raționale pozitive?",
+        "options": [
+          {
+            "text": "Adunare, scădere, înmulțire și împărțire cu reguli specifice fracțiilor",
+            "isCorrect": true,
+            "explanation": "Corect: Adunare, scădere, înmulțire și împărțire cu reguli specifice fracțiilor",
+            "_id": "696f3a215428291e0db0c86b"
+          },
+          {
+            "text": "Aceleași ca la numere naturale",
+            "isCorrect": false,
+            "explanation": "Greșit",
+            "_id": "696f3a215428291e0db0c86c"
+          },
+          {
+            "text": "Nu se pot efectua operații",
+            "isCorrect": false,
+            "explanation": "Greșit",
+            "_id": "696f3a215428291e0db0c86d"
+          },
+          {
+            "text": "Doar adunare și scădere",
+            "isCorrect": false,
+            "explanation": "Greșit",
+            "_id": "696f3a215428291e0db0c86e"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:04.751Z"
+    },
+    {
+      "_id": "696df350e3aab0f8b6c94b2f",
+      "title": "L1 - Lecția 1",
+      "summary": "Comunicare și limba - procesul comunicării",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Comunicarea este schimbul de mesaje între persoane pentru a transmite idei, sentimente și informații.\n\nELEMENTELE COMUNICĂRII:\n1. Emiţător (vorbitor) - persoana care trimite mesajul\n2. Receptor (ascultător) - persoana care primește mesajul\n3. Mesaj - informația transmisă\n4. Canal - calea prin care se transmite (vorbire, scris, gesturi)\n5. Cod - limbajul folosit (limba română, cifre, gesturi)\n6. Context - situația în care se comunică\n\nTIPURI DE COMUNICARE:\n- Verbală: folosesc cuvinte (vorbire, scris)\n- Nonverbală: fără cuvinte (gesturi, expresia feței, ton de voce)\n- Paraverbală: modul cum se spun lucrurile (intonație, ritm, volum)",
+        "examples": [
+          "Comunicare verbală: o conversație între doi prieteni",
+          "Comunicare nonverbală: zâmbetul unei mame",
+          "Comunicare paraverbală: vorbitul rar și clar vs. grăbit și ageresiv",
+          "Comunicare scrisă: o scrisoare, un mesaj pe telefon"
+        ],
+        "tips": [
+          "Ascultă cu atenție înainte de a răspunde",
+          "Observă expresiile faciale și limbajul corpului",
+          "Vorbește clar și cu voce puternică pentru a fi auzit",
+          "Pune întrebări pentru a clarifica mesajul"
+        ]
+      },
+      "question": {
+        "question": "Care sunt elementele esențiale ale procesului de comunicare?",
+        "options": [
+          {
+            "text": "Emițător, receptor, mesaj, canal și context",
+            "isCorrect": true,
+            "explanation": "Corect! Acestea sunt cei 5 elemente fundamentale.",
+            "_id": "696f3c0c44edbe3928e92d0d"
+          },
+          {
+            "text": "Doar emițător și receptor",
+            "isCorrect": false,
+            "explanation": "Incorect. Sunt mai multi factori implicati.",
+            "_id": "696f3c0c44edbe3928e92d0e"
+          },
+          {
+            "text": "Doar mesajul",
+            "isCorrect": false,
+            "explanation": "Incorect. Comunicarea necesita mai multi elemente.",
+            "_id": "696f3c0c44edbe3928e92d0f"
+          },
+          {
+            "text": "Doar contextul",
+            "isCorrect": false,
+            "explanation": "Incorect. Contextul este important dar nu singur.",
+            "_id": "696f3c0c44edbe3928e92d10"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:12.913Z"
+    },
+    {
+      "_id": "696df351e3aab0f8b6c94b39",
+      "title": "L2 - Lecția 2",
+      "summary": "Sunetele limbii - pronunția și ortografia",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Limba română are 25 de sunete (foneme) care se reprezintă prin litere în scris.\n\nSUNETE ȘI LITERE:\n- Vocale: a, e, i, o, u - se pronunță liber, fără obstrucție\n- Consoane: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z - pronunția este blocată\n- Semivocale: w, y\n\nASPECTE ALE PRONUNȚIEI:\n- Diftongii: ae, ai, au, ea, ei, eu, ia, ie, io, iu, oa, oi, ou, ua, ue, ui, uo (două vocale într-o silabă)\n- Trifongii: trei vocale într-o silabă (iau, eau, uia)\n\nORTOGRAFIA:\n- Regulile de ortografie ne ajută să scriem corect\n- Literele se scriu mare la începutul propoziției și al numelor proprii\n- Accentul indică pe care silabă cade accentul tonal",
+        "examples": [
+          "Diftong: \"bai\" (ba-i), \"glas\" (gla-s)",
+          "Trifong: \"miau\" (mia-u), \"frumos\" (fru-mos)",
+          "Pronunție corectă vs. incorectă: \"psiholog\" (psi-ho-log) nu (psi-log)",
+          "Ortografia numelor: Maria, București, Dunărea (cu maiusculă)"
+        ],
+        "tips": [
+          "Ascultă cu atenție vorbitori nativi",
+          "Repetă cuvintele greu de pronunțat",
+          "Folosiți dictionare cu transcriere fonetică",
+          "Citește cu voce tare pentru a exersa pronunția"
+        ]
+      },
+      "question": {
+        "question": "Limba română are câte sunete principale?",
+        "options": [
+          {
+            "text": "25 de sunete (foneme)",
+            "isCorrect": true,
+            "explanation": "Corect! Limba română are 25 de sunete distincte.",
+            "_id": "696f3c0c44edbe3928e92d17"
+          },
+          {
+            "text": "26 de sunete",
+            "isCorrect": false,
+            "explanation": "Incorect. Aceasta este numarul de litere din alfabetul englez.",
+            "_id": "696f3c0c44edbe3928e92d18"
+          },
+          {
+            "text": "24 de sunete",
+            "isCorrect": false,
+            "explanation": "Incorect. Limba română are 25 de sunete.",
+            "_id": "696f3c0c44edbe3928e92d19"
+          },
+          {
+            "text": "30 de sunete",
+            "isCorrect": false,
+            "explanation": "Incorect. Calculeaza din nou.",
+            "_id": "696f3c0c44edbe3928e92d1a"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:13.099Z"
+    },
+    {
+      "_id": "696df351e3aab0f8b6c94b43",
+      "title": "L3 - Lecția 3",
+      "summary": "Cuvântul și clasificarea cuvintelor",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Cuvântul este unitatea limbajului care are o formă și o semnificație.\n\nPĂRȚI DE VORBIRE (Clasificarea cuvintelor):\n1. SUBSTANTIV - denumește persoane, animale, obiecte, idei (copil, pisică, masă, bucurie)\n2. ADJECTIV - descrie proprietăți ale substantivelor (frumos, mic, roșu, inteligent)\n3. PRONUME - înlocuiește substantivul (eu, tu, el, ea, noi, voi, ei)\n4. VERB - exprimă acțiuni sau stări (a merge, a mânca, a fi, a dormi)\n5. ADVERBUL - descrie cum, când, unde se întâmplă acțiunea (repede, azi, acolo)\n6. PREPOZIȚIE - indică relații între cuvinte (în, pe, sub, lângă, pentru)\n7. CONJUNCȚIE - leagă propoziții sau cuvinte (și, sau, dacă, deoarece)\n8. INTERJECȚIE - exprimă sentimente (aia!, oh!, bravo!)\n\nSINGULARUL ȘI PLURALUL:\n- Singular: un obiect (copil, copilă)\n- Plural: mai mulți obiecți (copii, copile)",
+        "examples": [
+          "Substantive: cărți, copii, mese, flori",
+          "Adjective: frumos, vesel, negru, mare",
+          "Verbe: citi, merge, mânca, dormi",
+          "Adverburi: rapid, ieri, sus, agale"
+        ],
+        "tips": [
+          "Căutați substantivele în propoziție - acestea sunt de obicei cuvintele principale",
+          "Adjectivele descriu intotdeauna un substantiv",
+          "Verbele exprimă acțiune sau stare",
+          "Exercitații: Identifica parțile de vorbire într-o propoziție"
+        ]
+      },
+      "question": {
+        "question": "Ce este cuvântul și cum se clasifică?",
+        "options": [
+          {
+            "text": "Unitatea limbajului cu formă și semnificație; se clasifică în lexicale și gramaticale",
+            "isCorrect": true,
+            "explanation": "Corect: Unitatea limbajului cu formă și semnificație; se clasifică în lexicale și gramaticale",
+            "_id": "696f3a255428291e0db0ca05"
+          },
+          {
+            "text": "Unitatea de scris",
+            "isCorrect": false,
+            "explanation": "Greșit",
+            "_id": "696f3a255428291e0db0ca06"
+          },
+          {
+            "text": "Unitatea de pronunție",
+            "isCorrect": false,
+            "explanation": "Greșit",
+            "_id": "696f3a255428291e0db0ca07"
+          },
+          {
+            "text": "Unitatea de citire",
+            "isCorrect": false,
+            "explanation": "Greșit",
+            "_id": "696f3a255428291e0db0ca08"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:13.280Z"
+    },
+    {
+      "_id": "696df351e3aab0f8b6c94b4d",
+      "title": "L4 - Lecția 4",
+      "summary": "Comunicare și limbă - procesul comunicării",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Substantivul este cuvântul care denumește persoane, animale, obiecte și idei.\n\nGENUL SUBSTANTIVULUI (masculin/feminin):\n- Masculin: se referă la bărbați, animale mascule, obiecte neutre (băiat, moș, crab, pom)\n- Feminin: se referă la femei, animale femele (fată, nană, păsărică, masă)\n\nRECUNOAȘTEREA GENULUI:\n- Sufixele masculine: -u, -or, -ar (om, profesor, pescar)\n- Sufixele feminine: -ă, -e, -ie, -ție (fată, carte, perie, frumusețe)\n\nPLURALUL SUBSTANTIVELOR:\n- Masculin singular → masculin plural: băiat → băieți, om → oameni\n- Feminin singular → feminin plural: fată → fete, carte → cărți\n\nGENUL NEUTER:\n- În limba română, cuvintele care sunt neutre în alte limbi sunt masculine sau feminine (copil-masculin, mână-feminin)",
+        "examples": [
+          "Substantive masculine: copil, om, pom, glas",
+          "Substantive feminine: fată, mamă, masă, carte",
+          "Plural masculin: copii, oameni, pomi, glasuri",
+          "Plural feminin: fete, mame, mese, cărți"
+        ],
+        "tips": [
+          "Observă terminația cuvântului pentru a determina genul",
+          "Articolul îți ajută: \"un, o, unii, unele\"",
+          "Unele cuvinte au plural neregulat: om-oameni, copil-copii",
+          "Practica cu articole: \"un corabie\" vs. \"o corabie\""
+        ]
+      },
+      "question": {
+        "question": "Care este scopul principal al comunicării?",
+        "options": [
+          {
+            "text": "Schimbul de informații și idei",
+            "isCorrect": true,
+            "explanation": "Corect! Comunicarea servește să transmitem mesaje.",
+            "_id": "696f3c8c23107732d6871c23"
+          },
+          {
+            "text": "Doar vorbitul",
+            "isCorrect": false,
+            "explanation": "Incorect. Comunicarea nu este doar vorbire.",
+            "_id": "696f3c8c23107732d6871c24"
+          },
+          {
+            "text": "Doar ascultatul",
+            "isCorrect": false,
+            "explanation": "Incorect. Comunicarea este bidirecțională.",
+            "_id": "696f3c8c23107732d6871c25"
+          },
+          {
+            "text": "Nu are scop",
+            "isCorrect": false,
+            "explanation": "Incorect. Comunicarea are rol important.",
+            "_id": "696f3c8c23107732d6871c26"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:13.462Z"
+    },
+    {
+      "_id": "696df351e3aab0f8b6c94b57",
+      "title": "L5 - Lecția 5",
+      "summary": "Ortografia și punctuația",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Adjectivul este cuvântul care descrie o proprietate a substantivului și TREBUIE SĂ SE ACORDE cu acesta.\n\nACORDUL ADJECTIVULUI:\n- Adjectivul se schimbă în gen și număr după substantivul pe care îl descrie\n- Exemplu: copil frumos → copii frumoși (feminin: fată frumoasă → fete frumoase)\n\nTRECEREA ADJECTIVELOR LA PLURAL:\n- Masculin: frumos → frumoși, glas → glasuri\n- Feminin: frumoasă → frumoase\n\nPOZIȚIA ADJECTIVULUI:\n- Înaintea substantivului: \"omul bun\"\n- După substantiv: \"omul bun\" sau \"bunul om\"\n\nGRADELE ADJECTIVULUI:\n- Grad pozitiv: frumos\n- Grad comparativ: mai frumos, mai puțin frumos\n- Grad superlativ: cel mai frumos (cel mai puțin frumos)",
+        "examples": [
+          "Acord: casa roșie, case roșii, copil frumos, copii frumoși",
+          "Comparativ: El este mai inteligent decât mine",
+          "Superlativ: Aceasta este cea mai frumoasă carte din bibliotecă",
+          "Pozitie: părul negru vs. negrul păr (ambele sunt corecte)"
+        ],
+        "tips": [
+          "Observă genul și numărul substantivului pentru a acorda adjectivul",
+          "Unele adjective nu se schimbă: culori simple (roșu, albastru), unele adjective derivate",
+          "Folosiți \"mai\" pentru comparativ și \"cel mai/cea mai\" pentru superlativ",
+          "Adjectivele derivate din alte limbi rămân neschimbate uneori"
+        ]
+      },
+      "question": {
+        "question": "Care sunt principalele semne de punctuație în limba română?",
+        "options": [
+          {
+            "text": "Punctul, virgula, punctul și virgula, două puncte, punctul de exclamare, semnul întrebării",
+            "isCorrect": true,
+            "explanation": "Corect! Acestea sunt semnele principale de punctuație.",
+            "_id": "696f3c8c23107732d6871c2d"
+          },
+          {
+            "text": "Doar punctul",
+            "isCorrect": false,
+            "explanation": "Incorect. Sunt mai multe semne.",
+            "_id": "696f3c8c23107732d6871c2e"
+          },
+          {
+            "text": "Doar virgula",
+            "isCorrect": false,
+            "explanation": "Incorect. Sunt mai multe semne.",
+            "_id": "696f3c8c23107732d6871c2f"
+          },
+          {
+            "text": "Nu sunt semne de punctuație",
+            "isCorrect": false,
+            "explanation": "Incorect. Punctuația există.",
+            "_id": "696f3c8c23107732d6871c30"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:13.635Z"
+    },
+    {
+      "_id": "696df351e3aab0f8b6c94b61",
+      "title": "L6 - Lecția 6",
+      "summary": "Verbul și conjugarea acestuia",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Verbul exprimă o acțiune, o stare sau o întâmplare.\n\nTIMPURILE VERBALE:\n1. PREZENT: se întâmplă acum (eu merg, tu mergi, el merge)\n2. TRECUT: s-a întâmplat deja\n   - Perfectul simplu: am mers, ai mers (acțiune încheiată)\n   - Perfectul compus: am mercat, ai mercat\n   - Imperfectul: mergeam, mergeai (acțiune trecută care se repeta)\n3. VIITOR: se va întâmpla mai târziu\n   - Viitorul apropiat: o să merg, voi merge\n   - Viitorul depărtat: voi fi mers\n\nMODURILE VERBALE:\n1. Indicativ - afirmă o acțiune reală (eu merg)\n2. Condițional - exprimă o acțiune posibilă (aș merge dacă)\n3. Conjunctiv - exprimă dorință, teamă, îndoială (să merg)\n4. Imperativ - dă ordine (mergi! mergeți!)\n\nASPECTUL VERBAL:\n- Aspect perfective: acțiune încheiată (a scrie - am scris)\n- Aspect imperfective: acțiune în curs (a scrisa - scriam)",
+        "examples": [
+          "Prezent: Eu citesc cartea acum",
+          "Trecut: Ieri am citit cartea",
+          "Viitor: Mâine voi citi cartea",
+          "Condițional: Aș citi cartea dacă aș avea timp",
+          "Imperativ: Citește cartea!"
+        ],
+        "tips": [
+          "Coniugă verbele regulate pentru a înțelege modelul",
+          "Unele verbe sunt neregulate: a fi (sunt, ești, este), a avea (am, ai, are)",
+          "Folosiți timpurile corecte pentru a exprima corect ideile",
+          "Practica cu diferitele timpuri și moduri"
+        ]
+      },
+      "question": {
+        "question": "Cum se conjugă verbul \"a fi\" în prezent?",
+        "options": [
+          {
+            "text": "sunt, ești, este, suntem, sunteți, sunt",
+            "isCorrect": true,
+            "explanation": "Corect! Aceasta este conjugarea corectă în prezent.",
+            "_id": "696f3c8c23107732d6871c37"
+          },
+          {
+            "text": "eram, erai, era...",
+            "isCorrect": false,
+            "explanation": "Incorect. Aceasta este conjugarea în imperfect.",
+            "_id": "696f3c8c23107732d6871c38"
+          },
+          {
+            "text": "voi fi, vei fi, va fi...",
+            "isCorrect": false,
+            "explanation": "Incorect. Aceasta este conjugarea în viitor.",
+            "_id": "696f3c8c23107732d6871c39"
+          },
+          {
+            "text": "nu se poate conjuga",
+            "isCorrect": false,
+            "explanation": "Incorect. Verbul \"a fi\" se conjugă.",
+            "_id": "696f3c8c23107732d6871c3a"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:13.809Z"
+    },
+    {
+      "_id": "696df351e3aab0f8b6c94b6b",
+      "title": "L7 - Lecția 7",
+      "summary": "Adjectivul și gradul acestuia",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Propoziția este o unitate de limbă care exprimă o idee completă și are cel puțin o predicație.\n\nPROPOZIȚIA SIMPLĂ are o singură predicație și conține:\n\nFUNCȚIILE CUVINTELOR:\n1. SUBIECTUL - ce/cine se vorbește (Copilul citește)\n2. PREDICATUL - ce se spune despre subiect (Copilul CITEȘTE o carte)\n3. COMPLEMENT DIRECT - cine/ce primește acțiunea (Copilul citește CARTEA)\n4. COMPLEMENT INDIRECT - cui/cui se spune (Dau cadoul PRIETENEI)\n5. COMPLEMENT CIRCUMSTANȚIAL - unde, când, cum, de ce\n   - de timp: AZI am venit\n   - de loc: Am venit în CASĂ\n   - de mod: A venit REPEDE\n6. ATRIBUT - descrie un obiect (Un copil FRUMOS)\n\nORDINEA NATURAL: Subiect + Predicat + Complementele\n\nPUNCTUAȚIA:\n- . (punct) - sfârșit de propoziție\n- , (virgulă) - desparte parți\n- ! (exclamation) - expresii emoționate\n- ? (întrebare) - pentru întrebări",
+        "examples": [
+          "Propoziție: \"Copilul frumos citește cartea roșie în bibliotecă.\"",
+          "Subiect: copilul, Predicat: citește, Complement direct: cartea",
+          "Complement circumst. de loc: în bibliotecă",
+          "Atribut: frumos (pentru copil), roșie (pentru carte)"
+        ],
+        "tips": [
+          "Identifică mai întâi verbul pentru a găsi predicatul",
+          "Pune întrebări: Cine? (subiect), Ce? (complement direct)",
+          "Unde? Când? Cum? (complement circumstanțial)",
+          "Nu uita de semne de punctuație!"
+        ]
+      },
+      "question": {
+        "question": "Care sunt gradele adjectivului?",
+        "options": [
+          {
+            "text": "Gradul pozitiv, comparativ și superlativ",
+            "isCorrect": true,
+            "explanation": "Corect! Adjectivele au trei grade.",
+            "_id": "696f3c8c23107732d6871c41"
+          },
+          {
+            "text": "Doar gradul pozitiv",
+            "isCorrect": false,
+            "explanation": "Incorect. Sunt mai multe grade.",
+            "_id": "696f3c8c23107732d6871c42"
+          },
+          {
+            "text": "Doar gradul comparativ",
+            "isCorrect": false,
+            "explanation": "Incorect. Sunt mai multe grade.",
+            "_id": "696f3c8c23107732d6871c43"
+          },
+          {
+            "text": "Nu au grade",
+            "isCorrect": false,
+            "explanation": "Incorect. Adjectivele au grade.",
+            "_id": "696f3c8c23107732d6871c44"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:13.984Z"
+    },
+    {
+      "_id": "696df352e3aab0f8b6c94b75",
+      "title": "L8 - Lecția 8",
+      "summary": "Pronumele și clasificarea acestuia",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Textul este o succesiune de propoziții organizate pentru a exprima idei complete.\n\nTIPURI DE TEXTE:\n\n1. NARAȚIUNE - Povestește o întâmplare\n   - Are o succesiune de evenimente\n   - Personaje care acționează\n   - Ordinea cronologică (ceea ce se întâmplă mai întâi)\n   - Exemple: povești, fapte cărți, aventuri\n\n2. DESCRIERE - Prezintă o persoană, obiect sau peisaj\n   - Detalii despre cum arată ceva\n   - Adjective și adverbe descriptive\n   - Poate fi descriptivă (cum arată) sau emoțională (cum simți)\n   - Exemple: portrete, peisaje, descrieri de locuri\n\n3. DIALOG - Conversație între persoane\n   - Fiecare vorbă este pe rând\n   - Ghilimele pentru vorbele directe\n   - Cuvinte care introduc dialogul\n   - Exemplu: \"Bună!\" zise Maria. \"Bună!\" răspunse Ion.\n\n4. TEXT INSTRUCTIV/EXPLICATIV\n   - Explică cum să faci ceva\n   - Are pași clari\n   - Ordine logică\n   - Exemple: rețete, instrucțiuni",
+        "examples": [
+          "Narațiune: \"Un copil a plecat pe o călătorie... și s-a întors acasă\"",
+          "Descriere: \"Casa avea ferestre mari cu perdele albe...\"",
+          "Dialog: \"—Vii cu mine?\\n—Nu, sunt ocupat.\"",
+          "Text instructiv: \"Pentru a face o prăjituri: 1. Amesteci... 2. Pui-o la cuptor...\""
+        ],
+        "tips": [
+          "Identifică tipul de text pentru a-l citi mai bine",
+          "Folosiți organizatori grafici (diagrame) pentru a planifica",
+          "Narațiunea trebuie să aibă o ordine logică",
+          "Descrierea folosește mulți detalii și adjective",
+          "Dialogul trebuie să sune natural"
+        ]
+      },
+      "question": {
+        "question": "Care sunt tipurile principale de pronume?",
+        "options": [
+          {
+            "text": "Personale, posesive, demonstrative, relative, interogative, nedefinite",
+            "isCorrect": true,
+            "explanation": "Corect! Acestea sunt principalele tipuri de pronume.",
+            "_id": "696f3c8c23107732d6871c4b"
+          },
+          {
+            "text": "Doar pronumele personale",
+            "isCorrect": false,
+            "explanation": "Incorect. Sunt mai multe tipuri.",
+            "_id": "696f3c8c23107732d6871c4c"
+          },
+          {
+            "text": "Doar pronumele posesive",
+            "isCorrect": false,
+            "explanation": "Incorect. Sunt mai multe tipuri.",
+            "_id": "696f3c8c23107732d6871c4d"
+          },
+          {
+            "text": "Nu există tipuri de pronume",
+            "isCorrect": false,
+            "explanation": "Incorect. Pronumele se clasifică.",
+            "_id": "696f3c8c23107732d6871c4e"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:14.163Z"
+    },
+    {
+      "_id": "696df352e3aab0f8b6c94b7f",
+      "title": "L9 - Lecția 9",
+      "summary": "Textul și structura acestuia",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Redactarea este procesul de a pune în cuvinte idei și gânduri într-o formă scrisă, structurată și coerentă.\n\n    Redactarea unui text trebuie să respecte următoarele principii:\n    1. Claritate: Ideile trebuie să fie clare și ușor de înțeles\n    2. Coerență: Enunțurile trebuie să se conecteze logic\n    3. Corectitudine: Respectarea regulilor de ortografie și punctuație\n    4. Completitudine: Includerea tuturor informațiilor esențiale\n\n    Când redactezi un răspuns la o întrebare:\n    - Citeș cu atenție întrebarea\n    - Identifică ce se cere exact\n    - Structurează răspunsul logic\n    - Folosește cuvinte potrivite și exprimări corecte\n    - Revizuiește răspunsul înainte de a-l finaliza\n\n    Exemplu de structură: Introducere → Dezvoltare → Concluzie",
+        "examples": [
+          "La întrebarea \"Ce este comunicarea?\" - răspunsul trebuie să definească conceptul și să dea exemple",
+          "La o întrebare despre o poveste - trebuie să iei în considerare aspecte precum: personaje, acțiune, mesaj",
+          "La o întrebare de analiză - trebuie să explici cumulative, nu doar să enumeri fapte",
+          "La o întrebare de opinie - trebuie să-ți susții punctul de vedere cu argumente"
+        ],
+        "tips": [
+          "Planifică răspunsul înainte de a scrie: note rapide cu ideile principale",
+          "Folosește propoziții complete și variază lungimea și structura lor",
+          "Citește răspunsul din nou pentru a verifica dacă are sens și dacă e complet",
+          "Nu ignora punctuația - virgulele și punctele sunt importante pentru claritate"
+        ]
+      },
+      "question": {
+        "question": "Din ce este alcătuit un text bine structurat?",
+        "options": [
+          {
+            "text": "Introducere, dezvoltare și încheiere",
+            "isCorrect": true,
+            "explanation": "Corect! Aceasta este structura de bază a unui text.",
+            "_id": "696f3c8c23107732d6871c55"
+          },
+          {
+            "text": "Doar cuvinte aleatoare",
+            "isCorrect": false,
+            "explanation": "Incorect. Textul trebuie organizat.",
+            "_id": "696f3c8c23107732d6871c56"
+          },
+          {
+            "text": "Doar cuvinte lungi",
+            "isCorrect": false,
+            "explanation": "Incorect. Lungimea nu determină structura.",
+            "_id": "696f3c8c23107732d6871c57"
+          },
+          {
+            "text": "Nu are structură",
+            "isCorrect": false,
+            "explanation": "Incorect. Orice text bun are structură.",
+            "_id": "696f3c8c23107732d6871c58"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:14.340Z"
+    },
+    {
+      "_id": "696df352e3aab0f8b6c94b89",
+      "title": "L10 - Lecția 10",
+      "summary": "Comunicare orală și redactare",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Comunicarea orală este transmiterea mesajelor prin cuvânt vorbit, cu voce, intonație și gestivă.\n    Redactarea (comunicarea scrisă) transmite mesaje prin text scris.\n\n    Diferențe importante:\n    - Comunicarea orală este spontană și directă; redactarea este mai planificată\n    - Comunicarea orală poate folosi tone și expresii faciale; redactarea se bazează pe cuvinte și punctuație\n    - Comunicarea orală permite reacții immediate; redactarea permite revizuire înainte de trimitere\n\n    Elemente ale comunicării orale:\n    - Tonul vocii (grav, ușor, strigat)\n    - Ritmul și viteza vorbirii\n    - Intonația și accentul\n    - Gesturile și expresiile faciale\n    - Contactul vizual\n\n    Elemente ale redactării:\n    - Alegerea cuvintelor potrivite\n    - Structura enunțurilor\n    - Punctuația\n    - Organizarea textului în paragrafe\n    - Ortografia corectă",
+        "examples": [
+          "Comunicare orală: Poți spune \"Hei, vino repede!\" cu urgență. Redactare: \"Te rog să vii cât mai curând posibil.\"",
+          "În oral poți folosi \"hmm...\" și pauze pentru gândire. În scris trebuie structurat clar",
+          "Comunicarea orală beneficiază de tonul favorabil. Redactarea trebuie să fie foarte clară pentru a compensa lipsa tonului",
+          "Poți corecta imediat în comunicarea orală. În redactare trebuie grijă mai mare la revizuire"
+        ],
+        "tips": [
+          "În comunicarea orală, vorbe cu încredere și articuleaza clar",
+          "În redactare, citește textul din nou pentru a verifica coerenț și claritate",
+          "Folosește punctuația pentru a marca pauze și intonații în texte scrise",
+          "Ambele forme de comunicare sunt importante - antrenează-te la amândouă"
+        ]
+      },
+      "question": {
+        "question": "Care sunt tipurile principale de comunicare orală?",
+        "options": [
+          {
+            "text": "Conversația, expunerea și dialogul",
+            "isCorrect": true,
+            "explanation": "Corect! Acestea sunt principalele forme de comunicare orală.",
+            "_id": "696f3c0c44edbe3928e92d21"
+          },
+          {
+            "text": "Doar scrisul",
+            "isCorrect": false,
+            "explanation": "Incorect. Aceasta este comunicare scrisa.",
+            "_id": "696f3c0c44edbe3928e92d22"
+          },
+          {
+            "text": "Doar gesturile",
+            "isCorrect": false,
+            "explanation": "Incorect. Aceasta este comunicare non-verbala.",
+            "_id": "696f3c0c44edbe3928e92d23"
+          },
+          {
+            "text": "Doar cititul",
+            "isCorrect": false,
+            "explanation": "Incorect. Cititul nu este comunicare orala.",
+            "_id": "696f3c0c44edbe3928e92d24"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:14.520Z"
+    },
+    {
+      "_id": "696df352e3aab0f8b6c94b93",
+      "title": "L11 - Lecția 11",
+      "summary": "Textul narativ și descriptiv",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Textul narativ (povestea) prezintă o succesiune de evenimente în timp, cu un început, o dezvoltare și un final.\n    Textul descriptiv prezintă caracteristicile unui obiect, persoană, loc sau fenomen.\n\n    Textul narativ conține:\n    - Personaje (cine)\n    - Acțiune (ce se întâmplă)\n    - Timp (când se întâmplă)\n    - Loc (unde se întâmplă)\n    - Mesaj moral (ce înveți din poveste)\n\n    Structura textului narativ:\n    1. Expozitio: Prezentarea situației inițiale\n    2. Nod (conflict): Complicația care apare\n    3. Deznodământ: Rezolvarea conflictului\n    4. Concluzie: Moralul sau lecția povestei\n\n    Textul descriptiv conține:\n    - Observații directe despre obiectul descris\n    - Detalii senzoriale (cum arată, cum sună, cum miroase)\n    - Adjectivele și adverbele care caracterizează\n    - Comparații pentru claritate\n\n    Diferența cheie: Naratiunea vorbește despre \"ce se întâmplă\", descrierea vorbește despre \"cum arată\"",
+        "examples": [
+          "Narație: \"Ion și-a pierdut mingea în piscină. S-a gândit cum să o recupereze. A cerut ajutor bunicului. Împreună au găsit-o.\" - Aceasta spune o poveste",
+          "Descriere: \"Mingea era roșie, cu benzi albe și avea o textură puțin moale. Era albastră la interior și semigonflată.\" - Aceasta descrie caracteristicile mingei",
+          "Narație: \"Maria s-a întors acasă. Era întuneric. A auzit un zgomot ciudat. S-a speriat.\" - Progresiune de timp",
+          "Descriere: \"Casa era copacul frâu, cu frunze verzi și grosime. Interior era luminos și plin de cuvinte.\" - Caracterizare statică"
+        ],
+        "tips": [
+          "În naratiune, folosește cuvinte care marchează succesiunea: apoi, mai apoi, în sfârșit",
+          "În descriere, folosește adjectivele și comparații pentru a picta o imagine clară",
+          "Naratiunea poate conține descrieri, dar descrierea nu este neapărat o naratiune",
+          "La citire, identifică dacă textul ți se pare mai mult dinamic (narație) sau static (descriere)"
+        ]
+      },
+      "question": {
+        "question": "Care este diferența dintre textul narativ și cel descriptiv?",
+        "options": [
+          {
+            "text": "Textul narativ povestește o întâmplare, descriptivul descrie o situație",
+            "isCorrect": true,
+            "explanation": "Corect! Aceasta este diferența principală.",
+            "_id": "696f3c0d44edbe3928e92d2b"
+          },
+          {
+            "text": "Sunt aceleași",
+            "isCorrect": false,
+            "explanation": "Incorect. Au scopuri diferite.",
+            "_id": "696f3c0d44edbe3928e92d2c"
+          },
+          {
+            "text": "Textul descriptiv povestește",
+            "isCorrect": false,
+            "explanation": "Incorect. Descriptivul descrie.",
+            "_id": "696f3c0d44edbe3928e92d2d"
+          },
+          {
+            "text": "Nu au diferență",
+            "isCorrect": false,
+            "explanation": "Incorect. Au caracteristici diferite.",
+            "_id": "696f3c0d44edbe3928e92d2e"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:14.719Z"
+    },
+    {
+      "_id": "696df352e3aab0f8b6c94b9d",
+      "title": "L12 - Lecția 12",
+      "summary": "Textul dialogat și alte forme de expresie",
+      "subject": "Limba Română",
+      "content": {
+        "theory": "Textul dialogat (dialogul) este o conversație între două sau mai multe persoane, prezentă în povești, piese de teatru și scripturi.\n\n    Caracteristicile dialogului:\n    - Există mai mulți vorbitori\n    - Fiecare replică (cuvântul spus) este pe o linie nouă\n    - Se folosesc ghilimele (\" \") pentru a marca replici directe\n    - Diacriticele teatrale precizează cum se spune (bubuit, șoptit, etc.)\n\n    Formatul corect al dialogului:\n    \"Salut!\", spuse Ion.\n    \"Cum mai ești?\", întrebă Maria.\n    \"Bine, mersi!\", răspunse Ion.\n\n    Alte forme de expresie:\n    1. Monologul: Un singur personaj vorbind\n    2. Descrierea: Prezentarea obiectelor și locurilor\n    3. Naratiunea: Povestirea evenimentelor\n    4. Reflecția: Gândurile și sentimentele personajelor\n    5. Poezia: Expresie ritmată și sonora",
+        "examples": [
+          "\"Unde mergi?\", întrebă mama. \"La prietenul meu\", răspunse copilul.",
+          "Monolog: \"Azi e o zi frumoasă. Voi ieși la plimbare. Poate voi întâlni pe cineva prietenos.\"",
+          "Dialog dintr-o piesă: PĂSTORUL: \"Cine ești?\" NECUNOSCUTUL: \"Sunt un călător.\"",
+          "Mișcare dramatică: \"Deschide ușa repede!\", strigă cu înfrigurare."
+        ],
+        "tips": [
+          "Fiecare replică dintr-un dialog trebuie pe linie nouă, cu ghilimele",
+          "După replica, pune virgulă, nu punct (dacă urmează verbe ca \"spuse\", \"întreba\")",
+          "Dialogul trebuie să fie natural - așa vorbesc oamenii în realitate",
+          "Variază verbele de rostire: spune, șoapte, strigă, mormăie, mârâie, etc."
+        ]
+      },
+      "question": {
+        "question": "Ce este un dialog?",
+        "options": [
+          {
+            "text": "O conversație între doi sau mai mulți personaje",
+            "isCorrect": true,
+            "explanation": "Corect! Dialogul este o formă de exprimare a convorbirii.",
+            "_id": "696f3c0d44edbe3928e92d35"
+          },
+          {
+            "text": "O narațiune lungă",
+            "isCorrect": false,
+            "explanation": "Incorect. Dialogul nu este narațiune.",
+            "_id": "696f3c0d44edbe3928e92d36"
+          },
+          {
+            "text": "O descriere",
+            "isCorrect": false,
+            "explanation": "Incorect. Dialogul nu este descriere.",
+            "_id": "696f3c0d44edbe3928e92d37"
+          },
+          {
+            "text": "Un vers",
+            "isCorrect": false,
+            "explanation": "Incorect. Dialogul poate fi în proză.",
+            "_id": "696f3c0d44edbe3928e92d38"
+          }
+        ]
+      },
+      "createdAt": "2026-01-19T09:03:14.904Z"
+    }
+  ]
+}

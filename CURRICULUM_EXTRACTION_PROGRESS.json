@@ -1,0 +1,410 @@
+{
+  "U1_L1": {
+    "unit": 1,
+    "lesson": 1,
+    "title": "Scrierea și citirea numerelor naturale",
+    "pages": "10-14",
+    "content_length": 8482,
+    "preview": "U1 Operații cu numere\nnaturale\nLecția 1 10 Scrierea și citirea numerelor naturale\nReprezentarea pe axa numerelor. Compararea și ordonarea numerelor naturale;\nLecția 2 15\naproximări, estimări\nLecția 3 20 Adunarea numerelor naturale, proprietăți\nLecția 4 26 Scăderea numerelor naturale\nLecția 5 30 Înmu"
+  },
+  "U1_L2": {
+    "unit": 1,
+    "lesson": 2,
+    "title": "Reprezentarea pe axa numerelor. Compararea și ordonarea",
+    "pages": "15-19",
+    "content_length": 11843,
+    "preview": "Scrierea și citirea numerelor naturale L1 13\nClasa milioanelor Clasa miilor Clasa unităților\nS Z U S Z U S Z U\n4 Câte numere cuprinse între 30 și 60 conțin:\na cifra 4; b două cifre identice; c cifrele 1 sau 8?\n5 a Determinați numerele de forma abc, știind că abc = 3 · 100 + 7 · 10 + 9.\nb Determinați"
+  },
+  "U1_L3": {
+    "unit": 1,
+    "lesson": 3,
+    "title": "Adunarea numerelor naturale, proprietăți",
+    "pages": "20-25",
+    "content_length": 14480,
+    "preview": "18 U1 Operații cu numere naturale\n4 Fie numărul 269 317. Plasați cifra 5 între două cifre ale numărului pentru a obține cel mai mare și, respectiv,\ncel mai mic număr posibil.\nRezolvare:\nPlasând cifra 5 între două cifre ale numărului 269 317, obținem numerele: 2 569 317, 2 659 317, 2 695 317,\n2 693 5"
+  },
+  "U1_L4": {
+    "unit": 1,
+    "lesson": 4,
+    "title": "Scăderea numerelor naturale",
+    "pages": "26-29",
+    "content_length": 9991,
+    "preview": "24 U1 Operații cu numere naturale\n5 a Suma a două numere naturale consecutive este 43. Determinați numerele.\nb Suma a trei numere naturale consecutive este 48. Determinați numerele.\nc Suma a două numere naturale pare consecutive este 26. Determinați numerele.\nd Suma a trei numere impare consecutive "
+  },
+  "U1_L5": {
+    "unit": 1,
+    "lesson": 5,
+    "title": "Înmulțirea numerelor naturale, proprietăți",
+    "pages": "30-35",
+    "content_length": 16876,
+    "preview": "28 U1 Operații cu numere naturale\n4 Horia și Radu au împreună 794 de lei. Radu și Clara au împreună 676 de lei. Cei trei au împreună 1 250 de lei.\nDeterminați ce sumă are fiecare.\nRezolvare:\n1 250 lei ‑ 794 lei = 456 de lei are Clara (din suma tuturor am scăzut cât au Horia și Radu)\n1 250 lei ‑ 676 "
+  },
+  "U1_L6": {
+    "unit": 1,
+    "lesson": 6,
+    "title": "Factor comun",
+    "pages": "36-37",
+    "content_length": 4502,
+    "preview": "34 U1 Operații cu numere naturale\n3 Folosind asociativitatea și comutativitatea înmulțirii, efectuați:\na 2 · 37 · 5; b 2 · 25 · 17 · 5 · 4; c 250 · 2 · 4 · 579 · 5.\n4 Efectuați:\na 104 · 52 ‑ 179; b 49 · 28 ‑ 31 · 14; c 567 · 3 + 45 · 11;\nd 2 107 ‑ 11 · 12 + 91 · 13; e 3 021 ‑ 113 · 19 + 74 · 86; f 6"
+  },
+  "U1_L7": {
+    "unit": 1,
+    "lesson": 7,
+    "title": "Împărțirea cu rest 0 a numerelor naturale",
+    "pages": "39-42",
+    "content_length": 11353,
+    "preview": "Factor comun L6 37\nProbleme propuse\n1 Efectuați, utilizând factorul comun:\na 3 · 45 + 3 · 15; b 20 · 48 + 20 · 2; c 28 · 521 ‑ 28 · 21;\nd 23 · 718 ‑ 162 · 23; e 15 · 38 + 15 · 162; f 702 · 65 + 35 · 702;\ng 2 413 · 1 001 ‑ 2 413; h 2 029 · 599 + 2 029; i 1 289 · 337 + 1 289 · 663.\n2 Efectuați, utiliz"
+  },
+  "U1_L8": {
+    "unit": 1,
+    "lesson": 8,
+    "title": "Împărțirea cu rest a numerelor naturale",
+    "pages": "43-45",
+    "content_length": 9583,
+    "preview": "Împărțirea cu rest 0 a numerelor naturale L7 41\n7.3. Legătura între împărțirea numerelor naturale\nși relațiile de egalitate/inegalitate\nÎn egalitățile care urmează, vom presupune că toate împărțirile se efectuează exact (cu rest zero). Fie a, b și c trei\nnumere naturale, cu c ≠ 0, astfel încât a și "
+  },
+  "U1_L9": {
+    "unit": 1,
+    "lesson": 9,
+    "title": "Puterea cu exponent natural a unui număr natural",
+    "pages": "46-49",
+    "content_length": 12052,
+    "preview": "44 U1 Operații cu numere naturale\nProbleme rezolvate: strategii și metode\n1 Determinați numerele naturale care împărțite la 5 dau câtul 4.\nRezolvare:\nDin teorema împărțirii cu rest avem a = 5 · 4 + r și r < 5. Numărul natural r poate lua\nvalorile 0, 1, 2, 3, sau 4, deci a poate lua valorile 20, 21, "
+  },
+  "U1_L10": {
+    "unit": 1,
+    "lesson": 10,
+    "title": "Reguli de calcul cu puteri",
+    "pages": "50-52",
+    "content_length": 8708,
+    "preview": "48 U1 Operații cu numere naturale\nExemple 1 Utilizând tabla înmulțirii, cele mai mici 11 pătrate ale unor · 0 1 2 3 4 5 6 7 8 9 10\nnumere naturale sunt: 0, 1, 4, 9, 16, 25, 36, 49, 64, 81 și 100. 0 0 0 0 0 0 0 0 0 0 0 0\n1 0 1 2 3 4 5 6 7 8 9 10\n2 Pătratele numerelor de la 11 la 20 sunt:\n2 0 2 4 6 8 "
+  },
+  "U1_L11": {
+    "unit": 1,
+    "lesson": 11,
+    "title": "Compararea puterilor",
+    "pages": "53-54",
+    "content_length": 5842,
+    "preview": "Reguli de calcul cu puteri L10 51\nObservații Folosind regulile de calcul cu puteri, se pot da următoarele criterii pentru a indica dacă o putere\npoate fi scrisă ca pătratul unui număr natural (altfel spus, dacă o putere este sau nu pătrat perfect):\n1 Orice număr natural scris ca o putere cu exponent"
+  },
+  "U1_L12": {
+    "unit": 1,
+    "lesson": 12,
+    "title": "Scrierea în baza 10. Scrierea în baza 2",
+    "pages": "55-57",
+    "content_length": 7656,
+    "preview": "Compararea puterilor L11 53\nLecția 11: Compararea puterilor\nL11\nSituație Horia și Ioana au de rezolvat un test de inteligență\nproblemă (matematică!). Se dau următoarele indicii:\n• cea mai mare putere a lui 2 care se scrie cu o singură\ncifră este 23 = 8;\n• c ea mai mică putere a lui 2 pentru scrierea"
+  },
+  "U1_L13": {
+    "unit": 1,
+    "lesson": 13,
+    "title": "Ordinea efectuării operațiilor; utilizarea parantezelor",
+    "pages": "58-60",
+    "content_length": 7280,
+    "preview": "56 U1 Operații cu numere naturale\nȘtiați că… Numărarea în sistemul binar, comparativ cu cel zecimal, se face astfel:\nZecimal 0 1 2 3 4 5 6 7 8 9\nBinar 0 1 10 11 100 101 110 111 1 000 1 001\nExemple 1 101 = 1 · 22 + 0 · 21 + 1 = 5 ;\n(2) (10)\n2 10 101 = 1 · 24 + 0 · 23 + 1 · 22 + 0 · 21 + 1 = 21 ;\n(2) "
+  },
+  "U2_L1": {
+    "unit": 2,
+    "lesson": 1,
+    "title": "Metoda reducerii la unitate",
+    "pages": "64-66",
+    "content_length": 3420,
+    "preview": "U2 Metode aritmetice\nde rezolvare\na problemelor\nLecția 1 64 Metoda reducerii la unitate\nLecția 2 67 Metoda comparației\nLecția 3 71 Metoda figurativă\nLecția 4 77 Metoda mersului invers\nLecția 5 82 Metoda falsei ipoteze\nRecapitulare\nși evaluare 85\nLecția 1 64 Metoda reducerii la unitate\nLecția 2 67 Me"
+  },
+  "U2_L2": {
+    "unit": 2,
+    "lesson": 2,
+    "title": "Metoda comparației",
+    "pages": "67-70",
+    "content_length": 13481,
+    "preview": "Metoda reducerii la unitate L1 65\n2 Dacă un elev ar lucra suplimentar câteva probleme pe zi, ar termina de rezolvat problemele dintr‑o culegere\nîn 25 de zile. În câte zile ar termina rezolvarea tuturor problemelor lucrând câte 5 probleme pe zi?\nCe observăm? Se poate rezolva problema?\nCe ar trebui sc"
+  },
+  "U2_L3": {
+    "unit": 2,
+    "lesson": 3,
+    "title": "Metoda figurativă",
+    "pages": "71-76",
+    "content_length": 14644,
+    "preview": "Metoda comparației L2 69\nProbleme rezolvate: strategii și metode\n1 Desenul schematic alăturat ne\nsugerează că primele două balanțe\nsunt în echilibru. Prima are pe tale‑\nrul din stânga două cuburi și o pira‑\nmidă, iar pe talerul din dreapta\n11 bile. A doua are pe talerul din\nstânga un cub, iar pe cel"
+  },
+  "U2_L4": {
+    "unit": 2,
+    "lesson": 4,
+    "title": "Metoda mersului invers",
+    "pages": "77-81",
+    "content_length": 14375,
+    "preview": "Metoda figurativă L3 75\nProbleme propuse\n1 D oi frați gemeni împreună cu părinții lor cântăresc 238 kg. Copiii au câte 40 kg, iar tatăl lor are cu 14 kg mai\nmult decât mama. Cât cântărește mama?\na 84 kg; b 76 kg; c 74 kg; d 72 kg.\n2 I ulia brodează pe un șervețel, în două zile, 24 de flori. În prima"
+  },
+  "U2_L5": {
+    "unit": 2,
+    "lesson": 5,
+    "title": "Metoda falsei ipoteze",
+    "pages": "82-84",
+    "content_length": 9804,
+    "preview": "80 U2 Metode aritmetice de rezolvare a problemelor\nRezolvare:\nDeoarece, miercuri, la cină, orice șarpe mănâncă o vulpe, deducem că singurul animal rămas este un şarpe.\nDupă prânz mai erau două animale: șarpele și vulpea, pe care șarpele a mâncat‑o seara.\nDupă micul dejun erau 3 animale: șarpele, vul"
+  },
+  "U3_L1": {
+    "unit": 3,
+    "lesson": 1,
+    "title": "Divizibilitatea numerelor naturale",
+    "pages": "88-91",
+    "content_length": 6285,
+    "preview": "U3 Divizibilitatea\nnumerelor naturale\nLecția 1 88 Divizibilitatea numerelor naturale\nLecția 2 92 Criterii de divizibilitate\nLecția 3 96 Numere prime. Numere compuse\nRecapitulare\nși evaluare 99\nLecția 1 88 Divizibilitatea numerelor naturale\nLecția 2 92 Criterii de divizibilitate\nLecția 3 96 Numere pr"
+  },
+  "U3_L2": {
+    "unit": 3,
+    "lesson": 2,
+    "title": "Criterii de divizibilitate",
+    "pages": "92-95",
+    "content_length": 12675,
+    "preview": "90 U3 Divizibilitatea numerelor naturale\nMultiplii lui 15 sunt: 15, 30, 45, 60, 75, 90, 105, 120,…\nMultiplii lui 18 sunt: 18, 36, 54, 72, 90, 108, 126,…\nCa urmare, cele două mașini se află din nou una lângă alta la start după 90 de secunde (cel mai mic dintre\nmultiplii comuni ai numerelor 15 și 18)."
+  },
+  "U3_L3": {
+    "unit": 3,
+    "lesson": 3,
+    "title": "Numere prime. Numere compuse",
+    "pages": "96-98",
+    "content_length": 8196,
+    "preview": "94 U3 Divizibilitatea numerelor naturale\nNumărul 10 36 40 135 300 978 2 400 22 500\ndivizibil cu 9 … … … ü … … … …\ndivizibil cu 10 …  … … … … ü …\n2 Horia, Ioana, Eva și Radu au ales, la întâmplare, câte un set de 5 bilețele, pe care sunt scrise numere de la 1 la 100.\n5\n20\n60\n24\n50\n18\n50 12\n78 8 1 44"
+  },
+  "U4_L1": {
+    "unit": 4,
+    "lesson": 1,
+    "title": "Fracții ordinare. Fracții echivalente. Procente",
+    "pages": "102-105",
+    "content_length": 5716,
+    "preview": "U4 Fracții ordinare\nLecția 1 102 Fracții ordinare. Fracții echivalente. Procente\nCompararea fracțiilor cu același numitor/numărător.\nLecția 2 106\nReprezentarea fracțiilor ordinare pe axa numerelor\nLecția 3 109 Introducerea și scoaterea întregilor dintr-o fracție\nCel mai mare divizor comun a două num"
+  },
+  "U4_L2": {
+    "unit": 4,
+    "lesson": 2,
+    "title": "Compararea fracțiilor cu același numitor/numărător",
+    "pages": "106-108",
+    "content_length": 5006,
+    "preview": "104 U4 Fracții ordinare\np\nDe reținut\nDacă p este un număr natural, fracția se notează p% și se citește p procente sau p la sută.\n100\nProcentul este o fracție cu numitorul 100.\nExemple 1 Zona albă din pătratul 10 × 10 colorat de cei trei copii conține 15 pătrățele, deci reprezintă 15%\ndin întregul pă"
+  },
+  "U4_L3": {
+    "unit": 4,
+    "lesson": 3,
+    "title": "Introducerea și scoaterea întregilor dintr-o fracție",
+    "pages": "109-110",
+    "content_length": 3839,
+    "preview": "Compararea fracțiilor cu același numitor/numărător L2 107\n2.3. Reprezentarea fracțiilor ordinare pe axa numerelor\nMate La clubul de navomodelism, Horia și Radu confecționează catarge pentru\npractică goeleta La Volla. Unde trebuie executate marcajele pentru decupaj pe o\nbucată de lemn de doi metri, ș"
+  },
+  "U4_L4": {
+    "unit": 4,
+    "lesson": 4,
+    "title": "CMMDC. Amplificarea și simplificarea fracțiilor",
+    "pages": "111-115",
+    "content_length": 10871,
+    "preview": "Introducerea și scoaterea întregilor dintr-o fracție L3 109\nL3 Lecţia 3: Introducerea și scoaterea întregilor dintr‑o fracție\n3.1. Introducerea întregilor în fracție\nMate Cantitatea de lapte prevăzută de rețetă pentru prepararea\n4 4 4\npractică prăjiturii „Fractino” este de 2 căni și trei sferturi. 4"
+  },
+  "U4_L5": {
+    "unit": 4,
+    "lesson": 5,
+    "title": "CMMMC. Aducerea fracțiilor la un numitor comun",
+    "pages": "116-118",
+    "content_length": 7409,
+    "preview": "114 U4 Fracții ordinare\nProbleme rezolvate: strategii și metode\nn+5\n1 Determinați numerele naturale n pentru care fracția este subunitară și ireductibilă.\n12\nRezolvare:\nn+5\nFracția este subunitară dacă n + 5 < 12, adică n ia una din valorile 0, 1, 2, 3, 4, 5 sau 6,\n12\nvalori pentru care verificăm da"
+  },
+  "U4_L6": {
+    "unit": 4,
+    "lesson": 6,
+    "title": "Adunarea și scăderea fracțiilor",
+    "pages": "119-122",
+    "content_length": 9038,
+    "preview": "Cel mai mic multiplu comun a două numere naturale L5 117\n5.2. Aducerea fracțiilor la un numitor comun\nMate Horia și Radu sunt la ora de activități\npractică practice. Observați imaginea alătu‑\nrată, apoi determinați care dintre cei 3\nAm vopsit\ndoi băieți a vopsit mai mult. 4\ndintr-o placă\nAnaliză: de"
+  },
+  "U4_L7": {
+    "unit": 4,
+    "lesson": 7,
+    "title": "Înmulțirea fracțiilor",
+    "pages": "123-125",
+    "content_length": 6792,
+    "preview": "Adunarea și scăderea fracțiilor L6 121\nProbleme rezolvate: strategii și metode\n3 11\n1 Pe toată suprafața cultivată a unei ferme, s‑au repartizat culturile astfel: grâu din suprafață, porumb\n14 56\n2\ndin suprafață, floarea‑soarelui , iar legume pe restul de suprafață.\n7\na Cât reprezintă suprafața cult"
+  },
+  "U4_L8": {
+    "unit": 4,
+    "lesson": 8,
+    "title": "Împărțirea fracțiilor ordinare",
+    "pages": "126-128",
+    "content_length": 5756,
+    "preview": "124 U4 Fracții ordinare\nDe reținut Produsul a două fracții ordinare este o fracție în care:\n• numărătorul este egal cu produsul numărătorilor celor două fracții date;\n• numitorul este egal cu produsul numitorilor celor două fracții date.\na c a⋅c\n⋅ = , pentru orice numere naturale a, b, c, d, unde b,"
+  },
+  "U4_L9": {
+    "unit": 4,
+    "lesson": 9,
+    "title": "Puterea cu exponent natural a unei fracții ordinare",
+    "pages": "129-131",
+    "content_length": 5732,
+    "preview": "Împărțirea fracțiilor ordinare L8 127\n4 3 4 9 4 9 4\nPrin înmulțirea acestei egalități cu fracția , obținem: n⋅ ⋅ = ⋅ , adică n= ⋅ .\n3 4 3 2 3 2 3\n\n=1\n9⋅4 36 6\nEfectuând calculele, obținem n= = = =6. Așadar, se pot realiza 6 eșarfe.\n2⋅3 6 1\nDe reținut Câtul a două fracții ordinare, dintre care a dou"
+  },
+  "U4_L10": {
+    "unit": 4,
+    "lesson": 10,
+    "title": "Fracții/procente dintr-un număr natural",
+    "pages": "132-135",
+    "content_length": 7486,
+    "preview": "130 U4 Fracții ordinare\n3 Puterea unei puteri\nPentru a ridica o putere la o altă putere, se păstrează baza și se înmulțesc exponenții:\namn am⋅n\n   =  .\n b \n\nb\n4 Puterea unui produs. Produsul a două puteri cu același exponent\nPentru a ridica un produs la o putere, se distribuie ex"
+  },
+  "U5_L1": {
+    "unit": 5,
+    "lesson": 1,
+    "title": "Fracții zecimale; scrierea; transformări",
+    "pages": "140-142",
+    "content_length": 5146,
+    "preview": "U5 Fracții zecimale\nFracții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub forma\nLecția 1 140 de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale\nnenule în fracție ordinară\nAproximări; compararea, ordonarea și reprezentarea pe axa numerelo"
+  },
+  "U5_L2": {
+    "unit": 5,
+    "lesson": 2,
+    "title": "Aproximări; comparare; ordonare; reprezentare pe axa",
+    "pages": "143-145",
+    "content_length": 7862,
+    "preview": "Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară L1 141\nLecţia 1: F racții zecimale; scrierea fracțiilor ordinare cu numitori puteri\nale lui 10 sub formă de fracții zecimale; transformarea unei fracții\nzecimale cu un număr finit de zecimale nenule în fracție ordinară\n1.2. Transfo"
+  },
+  "U5_L3": {
+    "unit": 5,
+    "lesson": 3,
+    "title": "Adunarea și scăderea fracțiilor zecimale",
+    "pages": "146-148",
+    "content_length": 6808,
+    "preview": "144 U5 Fracții zecimale\nExemple\nOrdinul la Cifra din Este cifra din Aproximare Numărul\nNumărul dat care se face dreapta cifrei dreapta mai prin lipsă/ obținut prin\nrotunjirea ordinului mică decât 5? adaos rotunjire\n13,5 unități 5 nu Adaos 14\n423,7 zeci 3 da Lipsă 420\n18 674,1 sute 7 nu Adaos 18 700\n"
+  },
+  "U5_L4": {
+    "unit": 5,
+    "lesson": 4,
+    "title": "Înmulțirea fracțiilor zecimale",
+    "pages": "149-151",
+    "content_length": 7322,
+    "preview": "Adunarea și scăderea fracțiilor zecimale L3 147\nExemple 1 12,7‑ 2 14,75‑ 3 0,4853‑ 4 43,256‑\n5,8 1,26 0,2178 21,8\n6,9 13,49 0,2675 21,456\nObservații 1 Dacă descăzutul are mai puține zecimale decât scăzătorul, atunci se adaugă zerouri la partea\nzecimală (la final) pentru a avea același număr de zecim"
+  },
+  "U5_L5": {
+    "unit": 5,
+    "lesson": 5,
+    "title": "Împărțirea numerelor; media aritmetică; transformări",
+    "pages": "152-156",
+    "content_length": 11448,
+    "preview": "150 U5 Fracții zecimale\nRegulă Pentru a înmulți două fracții zecimale cu un număr finit de zecimale nenule, se înmulțesc numerele\nne ținând seama de virgulă, ca și când ar fi naturale, iar la rezultat se despart prin virgulă, numărând,\nde la dreapta spre stânga, atâtea cifre câte zecimale au împreun"
+  },
+  "U5_L6": {
+    "unit": 5,
+    "lesson": 6,
+    "title": "Împărțirea fracțiilor zecimale; transformări periodice",
+    "pages": "157-159",
+    "content_length": 7722,
+    "preview": "Împărțirea a două numere naturale cu rezultat fracție zecimală L5 155\n9\n4 Dați exemple de numere naturale n, astfel încât fracția ordinară să se transforme în:\n4+n\na fracție zecimală finită; b fracție zecimală periodică simplă; c fracție zecimală periodică mixtă.\nRezolvare:\n9 9 9\na n = 46: =0,18; b "
+  },
+  "U5_L7": {
+    "unit": 5,
+    "lesson": 7,
+    "title": "Număr rațional pozitiv; ordinea operațiilor",
+    "pages": "160-162",
+    "content_length": 6698,
+    "preview": "158 U5 Fracții zecimale\nExemple 1 Pentru a împărți pe 3,21 la 0,5, întrucât împărțitorul are o singură zecimală, mărim de 10 ori\n(mutând virgula spre dreapta peste o cifră) și deîmpărțitul, și împărțitorul. Obținem:\n3,21 : 0,5 = 32,1 : 5 = 6,42.\n2 435,2 : 0,04 = 43 520 : 4 = 10 880 (am înmulțit deîm"
+  },
+  "U5_L8": {
+    "unit": 5,
+    "lesson": 8,
+    "title": "Metode aritmetice cu fracții și unități de măsură",
+    "pages": "163-167",
+    "content_length": 13306,
+    "preview": "Număr rațional pozitiv L7 161\n4  1\n2 ⋅14,3‑2,5⋅ =0,8⋅(14,3‑2,5⋅0,5)=0,8⋅(14,3‑1,25)=0,8⋅13,05=10,44.\n5  2\n3 [ 10 + 5 · (63,9 : 0,9 ‑ 48)] · 100 + 3 = [10 + 5 · (71 ‑ 48)] · 100 + 3 =\n= [10 + 5 · 23] · 100 + 3 = (10 + 115) · 100 + 3 = 125 · 100 + 3 = 12 500 + 3 = 12 503.\n4 { 17,9 + 2 · [11,6 · "
+  },
+  "U5_L9": {
+    "unit": 5,
+    "lesson": 9,
+    "title": "Probleme de organizare a datelor; grafice; statistică",
+    "pages": "168-172",
+    "content_length": 13647,
+    "preview": "166 U5 Fracții zecimale\nNe amintim\nMetoda falsei ipoteze se aplică în probleme în care se dau informații cumulate despre mărimi de tipuri diferite.\nPrimul pas în aplicarea metodei este de a presupune că mărimile din problemă sunt toate de același fel. Se efec‑\ntuează un calcul pentru a stabili dacă "
+  },
+  "U6_L1": {
+    "unit": 6,
+    "lesson": 1,
+    "title": "Punct, dreaptă, plan, semiplan, semidreaptă, segment",
+    "pages": "176-180",
+    "content_length": 8569,
+    "preview": "U6 Elemente\nde geometrie\nși unități de măsură\nLecția 1 176 Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă\nPozițiile relative ale unui punct față de o dreaptă. Puncte coliniare.\nLecția 2 181\nPozițiile relative a două drepte: drepte concurente, drepte paralele\nLecția 3 186 Lungimea un"
+  },
+  "U6_L2": {
+    "unit": 6,
+    "lesson": 2,
+    "title": "Pozițiile relative ale unui punct; colinaritate; drepte",
+    "pages": "181-185",
+    "content_length": 9362,
+    "preview": "Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă L1 179\n12 Asociați fiecare desen din coloana din stânga cu denumirea sa din coloana din dreapta:\n1 punct;\na\nb\n2 plan;\nc\nd\n3 segment de dreaptă;\ne\n4 dreaptă;\nf\ng 5 semidreaptă.\n13 Desenați:\na un punct A; b o dreaptă a;\nc un segment de dr"
+  },
+  "U6_L3": {
+    "unit": 6,
+    "lesson": 3,
+    "title": "Lungimea unui segment; distanță; congruență",
+    "pages": "186-190",
+    "content_length": 10528,
+    "preview": "184 U6 Elemente de geometrie și unități de măsură\n3 Observați figura 5 și stabiliți valoarea de adevăr a propozițiilor date. D\na A este punct interior dreptei BC; b D este punct exterior dreptei g;\ng A B C\nc C este punct interior dreptei AB; d A este punct exterior dreptei BC;\ne C este punct exterio"
+  },
+  "U6_L4": {
+    "unit": 6,
+    "lesson": 4,
+    "title": "Mijlocul unui segment; simetrie",
+    "pages": "191-196",
+    "content_length": 12426,
+    "preview": "Lungimea unui segment L3 189\n6 L ungimea segmentului AB este egală cu 4 cm, iar lungimea segmentului CD este egală cu 25% din 16 cm.\nArătați că d(A, B) = d(C, D).\n7 A nsamblul monumental Calea Eroilor1 din Târgu Jiu este alcătuit din trei lucrări: Coloana fără Sfârșit\n(sau Coloana Infinitului), Poar"
+  },
+  "U6_L5": {
+    "unit": 6,
+    "lesson": 5,
+    "title": "Unghi: definiție, notații, elemente",
+    "pages": "197-199",
+    "content_length": 6718,
+    "preview": "Mijlocul unui segment. Simetricul unui punct față de un punct L4 195\n8 D espre punctele coliniare E, F, G, H se știe că F este mijlocul segmentului GH, iar G este mijlocul\nsegmen tului EF.\na Dacă GF = 4 cm, să se determine lungimea segmentului EH\nb Dacă EH = 18 cm, să se determine lungimea segmentul"
+  },
+  "U6_L6": {
+    "unit": 6,
+    "lesson": 6,
+    "title": "Măsura unui unghi; congruență",
+    "pages": "200-203",
+    "content_length": 8812,
+    "preview": "198 U6 Elemente de geometrie și unități de măsură\nProbleme rezolvate: strategii și metode\n1 Priviți figura alăturată și completați oral enunțurile din tabel:\nUnghiul desenat se numește … E D\nVârful unghiului este …\nF\nLaturile unghiului sunt … I\nPunctele situate în interiorul unghiului sunt … L A\nX C"
+  },
+  "U6_L7": {
+    "unit": 6,
+    "lesson": 7,
+    "title": "Clasificarea unghiurilor; calcule",
+    "pages": "204-209",
+    "content_length": 13103,
+    "preview": "202 U6 Elemente de geometrie și unități de măsură\n2 Ținând cont că relația de congruență se referă la unghiuri, iar relația de egalitate se referă la măsurile acestor\nunghiuri, citiți următoarele propoziții, justificând, în fiecare caz, ceea ce s‑a aplicat:\na rA ≡ rB ⇒ rA = rB; b rA = rB ⇒ rA ≡ rB;\n"
+  },
+  "U6_L8": {
+    "unit": 6,
+    "lesson": 8,
+    "title": "Figuri congruente; axa de simetrie",
+    "pages": "210-214",
+    "content_length": 8182,
+    "preview": "208 U6 Elemente de geometrie și unități de măsură\nA\nA B D\nM\nO\nC D\nA B C B\nFigura 4 Figura 5 Figura 6\n20 În figura 5, ABC este unghi alungit, iar măsura unghiului CBD este egală cu 115°. Atunci măsura unghiului\nABD este egală cu:\na 180°; b 85°; c 75°; d 65°.\n21 În figura 6, măsura unghiului AOB este "
+  },
+  "U6_L9": {
+    "unit": 6,
+    "lesson": 9,
+    "title": "Unități de măsură pentru lungime; perimetru",
+    "pages": "215-218",
+    "content_length": 8070,
+    "preview": "Figuri congruente. Axa de simetrie L8 213\nProbleme propuse\n1 Desenați pe o foaie următoarele figuri de mai jos:\nDecupați‑le și, prin suprapunere, stabiliți perechile de figuri congruente.\n2 Luați o foaie de hârtie dreptunghiulară și notați lungimea cu AB.\nÎndoiți colțul hârtiei care conține punctul "
+  },
+  "U6_L10": {
+    "unit": 6,
+    "lesson": 10,
+    "title": "Unități de măsură pentru arie; pătrat/dreptunghi",
+    "pages": "219-223",
+    "content_length": 10749,
+    "preview": "Unități de măsură pentru lungime. Perimetrul L9 217\nProbleme propuse\n1 Comparați:\na 85 dam cu 85 dm; b 24 cm cu 240 mm; c 72 km cu 7 200 dam;\nd 6,8 km cu 601 dam; e 3,4 dm cu 333 mm; f 0,764 dam cu 7 630 mm.\n2 Stabiliți dacă următoarele afirmații sunt adevărate sau false:\na 78,9 dam = 0,789 hm; b 2 "
+  },
+  "U6_L11": {
+    "unit": 6,
+    "lesson": 11,
+    "title": "Unități de măsură pentru volum; cub/paralelipiped",
+    "pages": "224-227",
+    "content_length": 8562,
+    "preview": "222 U6 Elemente de geometrie și unități de măsură\n5 Transformați în unitatea de măsură indicată:\na 15,28 dm2 în cm2; b 8,2 dam2 în dm2; c 700 000 cm2 în dam2;\nd 147 000 m2 în km2; e 0,025 km2 în ari; f 10 000 000 cm2 în ha.\n6 Precizați ce unitate de măsură este adecvată pentru exprimarea ariei:\na un"
+  }
+}
