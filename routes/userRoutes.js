@@ -27,6 +27,11 @@ router.post('/register', async (req, res) => {
   try {
     const { username, email, password, firstName, lastName, gradeLevel } = req.body;
 
+    // Validate password strength
+    if (!password || password.length < 6) {
+      return res.status(400).json({ message: 'PASSWORD_TOO_SHORT', details: 'Password must be at least 6 characters long' });
+    }
+
     // Check if user already exists
     const existingUser = await User.findOne({ email });
     if (existingUser) {
@@ -293,5 +298,292 @@ router.put('/streak', authMiddleware, async (req, res) => {
     res.status(500).json({ message: 'Server error', error: error.message });
   }
 });
+
+// Save assessment results
+router.put('/assessment', authMiddleware, async (req, res) => {
+  try {
+    const { assessmentLevel, assessmentScore, assessmentCompleted } = req.body;
+
+    const user = await User.findById(req.user._id);
+
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+
+    // Update assessment fields
+    user.assessmentLevel = assessmentLevel || 'neevaluated';
+    user.assessmentScore = assessmentScore || 0;
+    user.assessmentCompleted = assessmentCompleted || false;
+    user.assessmentDate = new Date();
+
+    await user.save();
+
+    res.json({
+      message: 'Assessment saved successfully',
+      assessmentLevel: user.assessmentLevel,
+      assessmentScore: user.assessmentScore,
+      assessmentCompleted: user.assessmentCompleted
+    });
+  } catch (error) {
+    res.status(500).json({ message: 'Server error', error: error.message });
+  }
+});
+
+// Submit evaluation form during account creation
+router.post('/evaluate', authMiddleware, async (req, res) => {
+  try {
+    const { answers } = req.body; // answers: { matematica: count, limba: count }
+
+    if (!answers || typeof answers.matematica !== 'number' || typeof answers.limba !== 'number') {
+      return res.status(400).json({ message: 'Invalid evaluation data' });
+    }
+
+    const user = await User.findById(req.user._id);
+    if (!user) {
+      return res.status(404).json({ message: 'User not found' });
+    }
+
+    // Calculate scores
+    const totalCorrect = answers.matematica + answers.limba;
+    let nivelCunostinte = 'Incepator';
+
+    if (totalCorrect >= 7) {
+      nivelCunostinte = 'Avansat';
+    } else if (totalCorrect >= 4) {
+      nivelCunostinte = 'Mediu';
+    }
+
+    // Update user with evaluation results
+    user.evaluationScores = {
+      matematica: answers.matematica,
+      limba: answers.limba,
+      total: totalCorrect,
+      completedAt: new Date()
+    };
+    user.nivelCunostinte = nivelCunostinte;
+
+    await user.save();
+
+    res.json({
+      message: 'Evaluation completed successfully',
+      scores: user.evaluationScores,
+      nivelCunostinte: user.nivelCunostinte
+    });
+  } catch (error) {
+    res.status(500).json({ message: 'Server error', error: error.message });
+  }
+});
+
+// Get evaluation questions by grade level
+router.get('/evaluation-questions/:gradeLevel', async (req, res) => {
+  try {
+    const gradeLevel = parseInt(req.params.gradeLevel);
+
+    // Map grade level to class name
+    const gradeMap = {
+      5: 'Clasa a V a',
+      6: 'Clasa a VI a',
+      7: 'Clasa a VII a',
+      8: 'Clasa a VIII a'
+    };
+
+    const className = gradeMap[gradeLevel];
+
+    if (!className) {
+      return res.status(400).json({
+        message: 'Invalid grade level. Must be 5, 6, 7, or 8'
+      });
+    }
+
+    // Read curriculum file
+    const fs = require('fs');
+    const path = require('path');
+    const curriculumPath = path.join(__dirname, '../../curriculum_structure.json');
+
+    if (!fs.existsSync(curriculumPath)) {
+      // Return default placeholder questions if curriculum file doesn't exist
+      return res.json(getPlaceholderQuestions(gradeLevel));
+    }
+
+    const curriculum = JSON.parse(fs.readFileSync(curriculumPath, 'utf-8'));
+    const classData = curriculum[className];
+
+    if (!classData) {
+      return res.json(getPlaceholderQuestions(gradeLevel));
+    }
+
+    // Get questions from curriculum
+    const evaluationQuestions = extractEvaluationQuestions(classData, gradeLevel);
+    res.json(evaluationQuestions);
+  } catch (error) {
+    console.error('Error fetching evaluation questions:', error);
+    res.status(500).json({ message: 'Server error', error: error.message });
+  }
+});
+
+// Helper function to extract 4 math + 4 language questions
+function extractEvaluationQuestions(classData, gradeLevel) {
+  const result = {
+    matematica: [],
+    limba: []
+  };
+
+  try {
+    // Find Limba key (it could have different characters)
+    const limbaKey = Object.keys(classData).find(k => k.includes('Limba'));
+
+    // Get Limba questions
+    if (limbaKey && classData[limbaKey]) {
+      const limbaUnits = classData[limbaKey];
+      let limbaCount = 0;
+
+      for (const unit of limbaUnits) {
+        if (limbaCount >= 4) break;
+
+        for (const lesson of unit.lectii || []) {
+          if (limbaCount >= 4) break;
+
+          if (lesson.questions && lesson.questions.length > 0) {
+            const q = lesson.questions[0]; // Take first question from lesson
+            // Clean up options by removing letter prefixes (A. , B. , C. , D. )
+            const cleanedOptions = q.options.map(opt =>
+              opt.replace(/^[A-D]\.\s*/, '').trim()
+            );
+            result.limba.push({
+              id: `limba${limbaCount + 1}`,
+              subject: 'Limba si literatura romana',
+              question: q.questionText,
+              options: cleanedOptions,
+              correctAnswer: q.correctAnswerIndex
+            });
+            limbaCount++;
+          }
+        }
+      }
+    }
+
+    // Get Matematica questions
+    if (classData['Matematica']) {
+      const mathUnits = classData['Matematica'];
+      let mathCount = 0;
+
+      for (const unit of mathUnits) {
+        if (mathCount >= 4) break;
+
+        for (const lesson of unit.lectii || []) {
+          if (mathCount >= 4) break;
+
+          if (lesson.questions && lesson.questions.length > 0) {
+            const q = lesson.questions[0]; // Take first question from lesson
+            // Clean up options by removing letter prefixes (A. , B. , C. , D. )
+            const cleanedOptions = q.options.map(opt =>
+              opt.replace(/^[A-D]\.\s*/, '').trim()
+            );
+            result.matematica.push({
+              id: `math${mathCount + 1}`,
+              subject: 'Matematica',
+              question: q.questionText,
+              options: cleanedOptions,
+              correctAnswer: q.correctAnswerIndex
+            });
+            mathCount++;
+          }
+        }
+      }
+    }
+
+    // If we don't have enough questions, pad with placeholders
+    while (result.limba.length < 4) {
+      result.limba.push({
+        id: `limba${result.limba.length + 1}`,
+        subject: 'Limba si literatura romana',
+        question: `Clasa a ${gradeLevel}a - Întrebare Limba ${result.limba.length + 1}?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: result.limba.length % 4
+      });
+    }
+
+    while (result.matematica.length < 4) {
+      result.matematica.push({
+        id: `math${result.matematica.length + 1}`,
+        subject: 'Matematica',
+        question: `Clasa a ${gradeLevel}a - Întrebare Matematică ${result.matematica.length + 1}?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: result.matematica.length % 4
+      });
+    }
+
+    return result;
+  } catch (error) {
+    console.error('Error extracting questions:', error);
+    return getPlaceholderQuestions(gradeLevel);
+  }
+}
+
+// Placeholder questions fallback
+function getPlaceholderQuestions(gradeLevel) {
+  return {
+    matematica: [
+      {
+        id: 'math1',
+        subject: 'Matematica',
+        question: `Clasa a ${gradeLevel}a - Întrebare Matematică 1?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: 0
+      },
+      {
+        id: 'math2',
+        subject: 'Matematica',
+        question: `Clasa a ${gradeLevel}a - Întrebare Matematică 2?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: 1
+      },
+      {
+        id: 'math3',
+        subject: 'Matematica',
+        question: `Clasa a ${gradeLevel}a - Întrebare Matematică 3?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: 2
+      },
+      {
+        id: 'math4',
+        subject: 'Matematica',
+        question: `Clasa a ${gradeLevel}a - Întrebare Matematică 4?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: 3
+      }
+    ],
+    limba: [
+      {
+        id: 'limba1',
+        subject: 'Limba si literatura romana',
+        question: `Clasa a ${gradeLevel}a - Întrebare Limba 1?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: 0
+      },
+      {
+        id: 'limba2',
+        subject: 'Limba si literatura romana',
+        question: `Clasa a ${gradeLevel}a - Întrebare Limba 2?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: 1
+      },
+      {
+        id: 'limba3',
+        subject: 'Limba si literatura romana',
+        question: `Clasa a ${gradeLevel}a - Întrebare Limba 3?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: 2
+      },
+      {
+        id: 'limba4',
+        subject: 'Limba si literatura romana',
+        question: `Clasa a ${gradeLevel}a - Întrebare Limba 4?`,
+        options: ['A', 'B', 'C', 'D'],
+        correctAnswer: 3
+      }
+    ]
+  };
+}
 
 module.exports = router;
