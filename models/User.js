@@ -58,6 +58,28 @@ const UserSchema = new mongoose.Schema({
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Achievement'
   }],
+  nivelCunostinte: {
+    type: String,
+    enum: ['Incepator', 'Mediu', 'Avansat'],
+    default: 'Incepator'
+  },
+  evaluationScores: {
+    matematica: {
+      type: Number,
+      default: 0
+    },
+    limba: {
+      type: Number,
+      default: 0
+    },
+    total: {
+      type: Number,
+      default: 0
+    },
+    completedAt: {
+      type: Date
+    }
+  },
   preferences: {
     aiTeacherGender: {
       type: String,
