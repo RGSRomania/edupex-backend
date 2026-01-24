@@ -401,13 +401,10 @@ router.get('/evaluation-questions/:gradeLevel', async (req, res) => {
 
     // Try multiple paths to find curriculum file
     const possiblePaths = [
-      path.join(__dirname, 'curriculum_structure.json'),
       path.join(__dirname, '../../curriculum_structure.json'),
       path.join(__dirname, '../curriculum_structure.json'),
       path.join(process.cwd(), 'curriculum_structure.json'),
-      path.join(process.cwd(), 'backend', 'curriculum_structure.json'),
-      '/app/curriculum_structure.json',
-      '/app/backend/curriculum_structure.json'
+      '/app/curriculum_structure.json'
     ];
 
     let curriculum = null;
