@@ -395,25 +395,52 @@ router.get('/evaluation-questions/:gradeLevel', async (req, res) => {
       });
     }
 
-    // Read curriculum file
+    // Read curriculum file - try multiple possible paths
     const fs = require('fs');
     const path = require('path');
-    const curriculumPath = path.join(__dirname, '../../curriculum_structure.json');
 
-    if (!fs.existsSync(curriculumPath)) {
-      // Return default placeholder questions if curriculum file doesn't exist
+    // Try multiple paths to find curriculum file
+    const possiblePaths = [
+      path.join(__dirname, '../../curriculum_structure.json'),
+      path.join(__dirname, '../curriculum_structure.json'),
+      path.join(process.cwd(), 'curriculum_structure.json'),
+      '/app/curriculum_structure.json'
+    ];
+
+    let curriculum = null;
+    let foundPath = null;
+
+    for (const curriculumPath of possiblePaths) {
+      if (fs.existsSync(curriculumPath)) {
+        try {
+          curriculum = JSON.parse(fs.readFileSync(curriculumPath, 'utf-8'));
+          foundPath = curriculumPath;
+          console.log(`Found curriculum at: ${foundPath}`);
+          break;
+        } catch (parseErr) {
+          console.error(`Error parsing curriculum at ${curriculumPath}:`, parseErr);
+        }
+      }
+    }
+
+    if (!curriculum) {
+      console.warn('Curriculum file not found, returning placeholder questions');
       return res.json(getPlaceholderQuestions(gradeLevel));
     }
 
-    const curriculum = JSON.parse(fs.readFileSync(curriculumPath, 'utf-8'));
     const classData = curriculum[className];
 
     if (!classData) {
+      console.warn(`Class data not found for ${className}`);
       return res.json(getPlaceholderQuestions(gradeLevel));
     }
 
     // Get questions from curriculum
     const evaluationQuestions = extractEvaluationQuestions(classData, gradeLevel);
+    console.log(`Extracted evaluation questions for ${className}:`, {
+      matematicaCount: evaluationQuestions.matematica.length,
+      limbaCount: evaluationQuestions.limba.length
+    });
     res.json(evaluationQuestions);
   } catch (error) {
     console.error('Error fetching evaluation questions:', error);
@@ -431,6 +458,9 @@ function extractEvaluationQuestions(classData, gradeLevel) {
   try {
     // Find Limba key (it could have different characters)
     const limbaKey = Object.keys(classData).find(k => k.includes('Limba'));
+
+    console.log(`Available keys in classData: ${Object.keys(classData)}`);
+    console.log(`Found Limba key: ${limbaKey}`);
 
     // Get Limba questions
     if (limbaKey && classData[limbaKey]) {
@@ -457,6 +487,7 @@ function extractEvaluationQuestions(classData, gradeLevel) {
               correctAnswer: q.correctAnswerIndex
             });
             limbaCount++;
+            console.log(`Extracted Limba question ${limbaCount}: ${q.questionText ? q.questionText.substring(0, 50) : 'NO TEXT'}...`);
           }
         }
       }
@@ -487,10 +518,13 @@ function extractEvaluationQuestions(classData, gradeLevel) {
               correctAnswer: q.correctAnswerIndex
             });
             mathCount++;
+            console.log(`Extracted Math question ${mathCount}: ${q.questionText ? q.questionText.substring(0, 50) : 'NO TEXT'}...`);
           }
         }
       }
     }
+
+    console.log(`Total extracted - Math: ${result.matematica.length}, Limba: ${result.limba.length}`);
 
     // If we don't have enough questions, pad with placeholders
     while (result.limba.length < 4) {
