@@ -97,7 +97,7 @@ def is_definition(line):
 
 def is_example(line):
     """Check if line contains an example"""
-    return 'exemplu' in line.lower() or 'ex\.' in line.lower()
+    return 'exemplu' in line.lower() or r'ex\.' in line.lower()
 
 def is_note(line):
     """Check if line contains a note"""
@@ -160,24 +160,42 @@ def main():
     print("🔍 MATEMATICA MANUAL PARSER")
     print("=" * 80 + "\n")
 
-    input_file = "MATEMATICA_MANUAL_TEXT.txt"
+    # Try PDF extracted text first, then fallback to manual txt
+    input_files = [
+        "EXTRACTED_TEXT_FROM_PDF.txt",  # From PDF extraction
+        "MATEMATICA_MANUAL_TEXT.txt"     # From Word export
+    ]
 
-    print("📋 Looking for extracted manual text...")
-    print(f"   Expected file: {input_file}\n")
+    input_file = None
+    for candidate in input_files:
+        if os.path.exists(candidate):
+            input_file = candidate
+            break
+
+    if not input_file:
+        print("📋 Looking for extracted manual text...")
+        print(f"   Expected files: {' or '.join(input_files)}\n")
+        print("\n⚠️  NEXT STEPS:")
+        print("─" * 80)
+        print("Option 1: Use PDF-extracted text")
+        print("   Run: python3 extract_from_pdf.py")
+        print("")
+        print("Option 2: Export from Word")
+        print("   1. Open Manual MATE.doc in Microsoft Word")
+        print("   2. Go to File → Save As...")
+        print("   3. Change format to Plain Text (.txt)")
+        print("   4. Save as: MATEMATICA_MANUAL_TEXT.txt")
+        print("   5. Choose UTF-8 encoding")
+        print("─" * 80)
+        return
+
+    print(f"📋 Found extracted text: {input_file}")
+    print(f"   Size: {os.path.getsize(input_file) / 1024:.1f} KB\n")
 
     # Parse the manual
     lessons = parse_manual_text(input_file)
 
     if not lessons:
-        print("\n⚠️  NEXT STEPS:")
-        print("─" * 80)
-        print("1. Open Manual MATE.doc in Microsoft Word")
-        print("2. Go to File → Save As...")
-        print("3. Change format to Plain Text (.txt)")
-        print("4. Save as: MATEMATICA_MANUAL_TEXT.txt")
-        print("5. Choose UTF-8 encoding")
-        print("6. Run this script again")
-        print("─" * 80)
         return
 
     print(f"✅ Extracted {len(lessons)} lessons from manual\n")
