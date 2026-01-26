@@ -49,24 +49,74 @@
             ],
             "sections": [
               {
-                "order": 1,
-                "title": "Textul Literar: 'Prietenul meu' de Ioana Pârvu",
-                "content": "## Textul Literar: 'Prietenul meu' de Ioana Pârvu\n\n### Ce este un text literar?\nTextul literar este o creație artistică a unui autor care transmite idei, emoții și sentimente într-un limbaj expresiv și plin de imaginație. Spre deosebire de alte texte care doar informează (textele nonliterare), textul literar creează o lume imaginară care captivează cititorul și îl face să simtă profund."
+                "title": "Ce este un text literar?",
+                "content": "Textul literar este o creație artistică a unui autor care transmite idei, emoții și sentimente într-un limbaj expresiv și plin de imaginație.",
+                "order": 1
               },
               {
-                "order": 2,
+                "title": "Ce este un text literar?",
+                "content": "Spre deosebire de alte texte care doar informează (textele nonliterare), textul literar creează o lume imaginară care captivează cititorul și îl face să simtă profund.",
+                "order": 2
+              },
+              {
                 "title": "Povestea 'Prietenul meu'",
-                "content": "### Povestea 'Prietenul meu'\nPovestea lui Ioana Pârvu ne prezintă aventura unui copil pe nume Bogdan din clasa a V-a. Bogdan se pregătește pentru teze și se gândește cum să-și ilustreze compunerea pentru tema \"Prietenul meu cel mai bun\". Compunerea i-a ieșit prea scurtă și inițial se gândea doar să o recopie și s-o completeze cu cuvinte grele. Dar atunci când s-a gândit la \"prietenul meu cel mai bun\", i-a venit o idee genială: ce dacă ar aduce pe Joi - chiul chihuahua-ul lui, o creatuță micuță și delicată, cu doar 35 cm înălțime și puțin peste un kilogram - la școală, în sala de clasă, chiar în fața profesoarei?"
+                "content": "Povestea lui Ioana Pârvu ne prezintă aventura unui copil pe nume Bogdan din clasa a V-a. Bogdan se pregătește pentru teze și se gândește cum să-și ilustreze compunerea pentru tema \"Prietenul meu cel mai bun\".",
+                "order": 3
               },
               {
-                "order": 3,
-                "title": "Caracteristicile principale ale textului:",
-                "content": "### Caracteristicile principale ale textului:\n\n**1. Joi - Personajul animalului**\nJoi nu este doar orice catel. Este un chihuahua de culoare cafenie, extrem de mic și delicat, cu o coadă întinsă și ochii negri și rotunzi. Este \"o pasăre fără pene\", cum îl descrie autorul, atât de mic că par imposibil să existe. Dar această micime este exact ceea ce face povestea atât de tandră și pline de umor.\n\n**2. Reacția clasmatilor și a profesoarei**\nCând Bogdan intră în sala de clasă cu Joi, reacția este de șoc, apoi de uimire și, în final, de compasiune și tandrete. Toți se apropie pentru a vedea mica creatuță, și în acel moment, clasa a V-a întreagă realiza adevărul: Joi era cu adevărat cel mai bun prieten al lui Bogdan. Gestura de a-l aduce la școală nu era o pacaleală, ci o declarație sinceră de dragoste și prietenie.\n\n**3. Limbajul expresiv al autorului**\nIoana Pârvu folosește cuvinte pline de emoție și imagini evocative: \"o pasăre fără pene\", \"ochii negri și rotunzi\", \"o creatuță delicată\". Aceste expresii ne ajută să simțim emoția personajului și să înțelegem profunzimea legăturii sale cu catelul.\n\n**4. Mesajul profund al povestei**\nPe deasupra poveștii simple (un copil care aduce catelul la școală), există niveluri mai profunde de înțelegere:\n- **Sinceritatea și curajul**: Bogdan a avut curajul să fie diferit, să nu urmeze calea obișnuită de a rescrie compunerea cu cuvinte grele.\n- **Adevărata prietenie**: Prietenia cu Joi este bazată pe afecțiune sinceră, nu pe vorbă.\n- **Acceptarea celor diferiti**: Chiar dacă Joi este diferit (foarte mic), el este iubit și acceptat.\n- **Puterea gesturilor**: Un gest simplu, dar plin de sens, poate schimba perspectiva oamenilor."
+                "title": "Povestea 'Prietenul meu'",
+                "content": "Compunerea i-a ieșit prea scurtă și inițial se gândea doar să o recopie și s-o completeze cu cuvinte grele.",
+                "order": 4
               },
               {
-                "order": 4,
+                "title": "Povestea 'Prietenul meu'",
+                "content": "Dar atunci când s-a gândit la \"prietenul meu cel mai bun\", i-a venit o idee genială: ce dacă ar aduce pe Joi - chiul chihuahua-ul lui, o creatuță micuță și delicată, cu doar 35 cm înălțime și puțin peste un kilogram - la școală, în sala de clasă, chiar în fața profesoarei?",
+                "order": 5
+              },
+              {
+                "title": "1. Joi - Personajul animalului",
+                "content": "Joi nu este doar orice catel. Este un chihuahua de culoare cafenie, extrem de mic și delicat, cu o coadă întinsă și ochii negri și rotunzi. Este \"o pasăre fără pene\", cum îl descrie autorul, atât de mic că par imposibil să existe.",
+                "order": 6
+              },
+              {
+                "title": "1. Joi - Personajul animalului",
+                "content": "Dar această micime este exact ceea ce face povestea atât de tandră și pline de umor.",
+                "order": 7
+              },
+              {
+                "title": "2. Reacția clasmatilor și a profesoarei",
+                "content": "Când Bogdan intră în sala de clasă cu Joi, reacția este de șoc, apoi de uimire și, în final, de compasiune și tandrete. Toți se apropie pentru a vedea mica creatuță, și în acel moment, clasa a V-a întreagă realiza adevărul: Joi era cu adevărat cel mai bun prieten al lui Bogdan.",
+                "order": 8
+              },
+              {
+                "title": "2. Reacția clasmatilor și a profesoarei",
+                "content": "Gestura de a-l aduce la școală nu era o pacaleală, ci o declarație sinceră de dragoste și prietenie.",
+                "order": 9
+              },
+              {
+                "title": "3. Limbajul expresiv al autorului",
+                "content": "Ioana Pârvu folosește cuvinte pline de emoție și imagini evocative: \"o pasăre fără pene\", \"ochii negri și rotunzi\", \"o creatuță delicată\". Aceste expresii ne ajută să simțim emoția personajului și să înțelegem profunzimea legăturii sale cu catelul.",
+                "order": 10
+              },
+              {
+                "title": "4. Mesajul profund al povestei",
+                "content": "Pe deasupra poveștii simple (un copil care aduce catelul la școală), există niveluri mai profunde de înțelegere:\n- **Sinceritatea și curajul**: Bogdan a avut curajul să fie diferit, să nu urmeze calea obișnuită de a rescrie compunerea cu cuvinte grele.",
+                "order": 11
+              },
+              {
+                "title": "4. Mesajul profund al povestei",
+                "content": "- **Adevărata prietenie**: Prietenia cu Joi este bazată pe afecțiune sinceră, nu pe vorbă. - **Acceptarea celor diferiti**: Chiar dacă Joi este diferit (foarte mic), el este iubit și acceptat. - **Puterea gesturilor**: Un gest simplu, dar plin de sens, poate schimba perspectiva oamenilor.",
+                "order": 12
+              },
+              {
                 "title": "De ce este important să studiem acest text?",
-                "content": "### De ce este important să studiem acest text?\nTextul lui Ioana Pârvu ne învață că literatura nu este doar o colecție de cuvinte, ci un mod de a exprima ceea ce simțim cu profunzime. Ne arată cum autorii transformă mici momente din viața cotidiană în povești care ating inima cititorului. Prin înțelegerea modului în care funcționează un text literar, dezvoltăm capacitatea de a citi critic și de a aprecia frumusețea limbajului românesc."
+                "content": "Textul lui Ioana Pârvu ne învață că literatura nu este doar o colecție de cuvinte, ci un mod de a exprima ceea ce simțim cu profunzime. Ne arată cum autorii transformă mici momente din viața cotidiană în povești care ating inima cititorului.",
+                "order": 13
+              },
+              {
+                "title": "De ce este important să studiem acest text?",
+                "content": "Prin înțelegerea modului în care funcționează un text literar, dezvoltăm capacitatea de a citi critic și de a aprecia frumusețea limbajului românesc.",
+                "order": 14
               }
             ]
           },
@@ -114,39 +164,69 @@
             ],
             "sections": [
               {
-                "order": 1,
-                "title": "Trăsături ale Textului Literar - Aprofundare și Actualizare",
-                "content": "## Trăsături ale Textului Literar - Aprofundare și Actualizare\n\n### Ce îl face special pe un text literar?\nUn text literar nu este o simplă colecție de cuvinte. Este o formă de artă care transformă realitatea într-o experiență emoțională și intelectuală pentru cititor. Aceasta este exact ceea ce face Ioana Pârvu în \"Prietenul meu\"."
+                "title": "Ce îl face special pe un text literar?",
+                "content": "Un text literar nu este o simplă colecție de cuvinte. Este o formă de artă care transformă realitatea într-o experiență emoțională și intelectuală pentru cititor. Aceasta este exact ceea ce face Ioana Pârvu în \"Prietenul meu\".",
+                "order": 1
               },
               {
-                "order": 2,
                 "title": "Caracteristica 1: Lumea Imaginară",
-                "content": "### Caracteristica 1: Lumea Imaginară\nCu toate că povestea lui Ioana Pârvu se petrece în loc real (o sală de clasă, la școală), ea nu este o descriere exactă a realității. Este o **lume imaginară** - universul creat de autor în care evenimente cotidiene become pline de magie și profunzime. Bogdan și Joi sunt personaje reale în context scolar familiar, dar modul în care le sunt prezentate și importanța emoțională atribuită lor transformă totul în ceva cu totul nou."
+                "content": "Cu toate că povestea lui Ioana Pârvu se petrece în loc real (o sală de clasă, la școală), ea nu este o descriere exactă a realității. Este o **lume imaginară** - universul creat de autor în care evenimente cotidiene become pline de magie și profunzime.",
+                "order": 2
               },
               {
-                "order": 3,
+                "title": "Caracteristica 1: Lumea Imaginară",
+                "content": "Bogdan și Joi sunt personaje reale în context scolar familiar, dar modul în care le sunt prezentate și importanța emoțională atribuită lor transformă totul în ceva cu totul nou.",
+                "order": 3
+              },
+              {
                 "title": "Caracteristica 2: Limbajul Expresiv",
-                "content": "### Caracteristica 2: Limbajul Expresiv\nEuropa Pârvu nu folosește limbaj simplu și direct. Ea folosește expresii pline de artă:\n- \"O pasăre fără pene\" pentru a descrie mica creatuță\n- Imagini vizuale care fac cititorul să vadă scena ca și cum ar fi acolo\n- Cuvinte care transmit emoție în fiecare frază\n\nLimbajul expresiv este ceea ce dă putere unui text literar - capacitatea de a actiona asupra sentimentelor și imaginației cititorului."
+                "content": "Europa Pârvu nu folosește limbaj simplu și direct. Ea folosește expresii pline de artă:\n- \"O pasăre fără pene\" pentru a descrie mica creatuță\n- Imagini vizuale care fac cititorul să vadă scena ca și cum ar fi acolo\n- Cuvinte care transmit emoție în fiecare frază",
+                "order": 4
               },
               {
-                "order": 4,
+                "title": "Caracteristica 2: Limbajul Expresiv",
+                "content": "Limbajul expresiv este ceea ce dă putere unui text literar - capacitatea de a actiona asupra sentimentelor și imaginației cititorului.",
+                "order": 5
+              },
+              {
                 "title": "Caracteristica 3: Idei, Emoții și Sentimente",
-                "content": "### Caracteristica 3: Idei, Emoții și Sentimente\nTextul nu este despre o compunere pentru o temă școlară. Este despre:\n- **Emoție**: Dragostea lui Bogdan pentru Joi, teamă dinaintea profesoarei, bucuria de a fi creativ\n- **Idei**: Sinceritatea este mai importantă decât alcoolismul, adevărata prietenie se arată prin gesturi, curajul de a fi diferit\n- **Sentimente**: Tandrete, ușurare, acceptare, mândrie\n\nIoana Pârvu transmite aceste laturi interne ale personajelor prin descrieri si acțiuni, nu prin explicații directe."
+                "content": "Textul nu este despre o compunere pentru o temă școlară.",
+                "order": 6
               },
               {
-                "order": 5,
+                "title": "Caracteristica 3: Idei, Emoții și Sentimente",
+                "content": "Este despre:\n- **Emoție**: Dragostea lui Bogdan pentru Joi, teamă dinaintea profesoarei, bucuria de a fi creativ\n- **Idei**: Sinceritatea este mai importantă decât alcoolismul, adevărata prietenie se arată prin gesturi, curajul de a fi diferit\n- **Sentimente**: Tandrete, ușurare, acceptare, mândrie",
+                "order": 7
+              },
+              {
+                "title": "Caracteristica 3: Idei, Emoții și Sentimente",
+                "content": "Ioana Pârvu transmite aceste laturi interne ale personajelor prin descrieri si acțiuni, nu prin explicații directe.",
+                "order": 8
+              },
+              {
                 "title": "Cum se deosebeste de alte tipuri de texte",
-                "content": "### Cum se deosebeste de alte tipuri de texte\n\n**Text Literar vs. Text Nonliterar:**\n\n| Aspect | Text Literar | Text Nonliterar |\n|--------|--------------|------------------|\n| **Scop** | Emoție, artă, gândire | Informație, instructiuni |\n| **Limbaj** | Expresiv, creativ | Clar, precis |\n| **Abordare** | Subjectivă, personală | Obiectivă, neutră |\n| **Exemple** | Povești, poezii, dramă | Articole, instructiuni, rapoarte |"
+                "content": "| Aspect | Text Literar | Text Nonliterar |\n|--------|--------------|------------------|\n| **Scop** | Emoție, artă, gândire | Informație, instructiuni |\n| **Limbaj** | Expresiv, creativ | Clar, precis |\n| **Abordare** | Subjectivă, personală | Obiectivă, neutră |\n| **Exemple** | Povești, poezii, dramă | Articole, instructiuni, rapoarte |",
+                "order": 9
               },
               {
-                "order": 6,
                 "title": "Transformarea Realității în Artă",
-                "content": "### Transformarea Realității în Artă\nCe face Ioana Pârvu în textul ei este esențial pentru toți scriitorii: ia un moment cotidian (un copil care trebuie să scrie o compunere) și îl transformă în ceva cu profunzime emoțională. Ea adaugă:\n- **Suspans**: Va merge Bogdan cu Joi la școală sau nu?\n- **Umor**: Descrierea micului Joi și reacțiile clasmațelor\n- **Umanism**: Mesajul despre prietenie și sinceritate"
+                "content": "Ce face Ioana Pârvu în textul ei este esențial pentru toți scriitorii: ia un moment cotidian (un copil care trebuie să scrie o compunere) și îl transformă în ceva cu profunzime emoțională. Ea adaugă:\n- **Suspans**: Va merge Bogdan cu Joi la școală sau nu?",
+                "order": 10
               },
               {
-                "order": 7,
+                "title": "Transformarea Realității în Artă",
+                "content": "- **Umor**: Descrierea micului Joi și reacțiile clasmațelor\n- **Umanism**: Mesajul despre prietenie și sinceritate",
+                "order": 11
+              },
+              {
                 "title": "De ce este important să studiem aceste caracteristici?",
-                "content": "### De ce este important să studiem aceste caracteristici?\nIntelegând cum funcționează un text literar, învățăm să:\n1. **Apreciem** eforturile scriitorilor în a crea ceva special\n2. **Citim mai profund**, căutând sensuri ascunse și mesaje subiacente\n3. **Scriem mai bine**, înțelegând cum transforma limbajul și structura experiența cititorului\n4. **Exprimăm** propriile emoții și idei mai eficace\n\nLimbajul expresiv nu este o nimicire - este o putere care ne conectează unii cu alții la nivel uman profund."
+                "content": "Intelegând cum funcționează un text literar, învățăm să:\n1. **Apreciem** eforturile scriitorilor în a crea ceva special\n2. **Citim mai profund**, căutând sensuri ascunse și mesaje subiacente\n3. **Scriem mai bine**, înțelegând cum transforma limbajul și structura experiența cititorului\n4.",
+                "order": 12
+              },
+              {
+                "title": "De ce este important să studiem aceste caracteristici?",
+                "content": "Limbajul expresiv nu este o nimicire - este o putere care ne conectează unii cu alții la nivel uman profund.",
+                "order": 13
               }
             ]
           },
@@ -194,29 +274,94 @@
             ],
             "sections": [
               {
-                "order": 1,
-                "title": "Cuvânt-Cheie, Temă și Planul Simplu de Idei - Analiză Structurală",
-                "content": "## Cuvânt-Cheie, Temă și Planul Simplu de Idei - Analiză Structurală\n\n### Parte 1: Cuvântul-Cheie (Cuvintele Principale)\n\n**Ce este un cuvânt-cheie?**\nUn cuvânt-cheie este un termen central care concentrează esența textului și se repetă frecvent în text, ajutând cititorul să înțeleagă esența și mesajul principal al autorului. Nu sunt cuvinte dificile, ci cuvinte cu greutate emoțională și conceptuală.\n\n**Cuvintele-Cheie în \"Prietenul meu\":**\n\n1. **\"PRIETENIE\"** - Palavra cea mai importantă a textului\n   - Se repetă în titlu, în tema compunerii, în esența povestei\n   - Arată că povestea nu e doar despre ducerea unui catel la școală\n   - Este despre relația profundă dintre Bogdan și Joi\n\n2. **\"SINCERITATE\"** - Sinceritatea gestului lui Bogdan\n   - Nu încearcă să înșele cu cuvinte grele\n   - Cuvântul acționează cu adevăr\n   - Aduce dovadă prin fapte, nu prin vorbă\n\n3. **\"CURAJ\"** - Curajul de a fi diferit\n   - Bogdan are curaj să facă ceva neobișnuit\n   - Să pună în piață ceva intim și personal\n   - Să rişte judecata clasmațelor și profesoarei\n\n4. **\"ACCEPTARE\"** - Acceptarea de către ceilalți\n   - Clasa acceptă Joi și gestul lui Bogdan\n   - Profesoara acceptă, în loc să pedepsească\n   - Toți acceptă adevărul emoțional al lui Joi"
+                "title": "Parte 1: Cuvântul-Cheie (Cuvintele Principale)",
+                "content": "**Ce este un cuvânt-cheie?**\nUn cuvânt-cheie este un termen central care concentrează esența textului și se repetă frecvent în text, ajutând cititorul să înțeleagă esența și mesajul principal al autorului. Nu sunt cuvinte dificile, ci cuvinte cu greutate emoțională și conceptuală.",
+                "order": 1
               },
               {
-                "order": 2,
+                "title": "Parte 1: Cuvântul-Cheie (Cuvintele Principale)",
+                "content": "1. **\"PRIETENIE\"** - Palavra cea mai importantă a textului\n   - Se repetă în titlu, în tema compunerii, în esența povestei\n   - Arată că povestea nu e doar despre ducerea unui catel la școală\n   - Este despre relația profundă dintre Bogdan și Joi",
+                "order": 2
+              },
+              {
+                "title": "Parte 1: Cuvântul-Cheie (Cuvintele Principale)",
+                "content": "2. **\"SINCERITATE\"** - Sinceritatea gestului lui Bogdan\n   - Nu încearcă să înșele cu cuvinte grele\n   - Cuvântul acționează cu adevăr\n   - Aduce dovadă prin fapte, nu prin vorbă",
+                "order": 3
+              },
+              {
+                "title": "Parte 1: Cuvântul-Cheie (Cuvintele Principale)",
+                "content": "3. **\"CURAJ\"** - Curajul de a fi diferit\n   - Bogdan are curaj să facă ceva neobișnuit\n   - Să pună în piață ceva intim și personal\n   - Să rişte judecata clasmațelor și profesoarei",
+                "order": 4
+              },
+              {
+                "title": "Parte 1: Cuvântul-Cheie (Cuvintele Principale)",
+                "content": "4. **\"ACCEPTARE\"** - Acceptarea de către ceilalți\n   - Clasa acceptă Joi și gestul lui Bogdan\n   - Profesoara acceptă, în loc să pedepsească\n   - Toți acceptă adevărul emoțional al lui Joi",
+                "order": 5
+              },
+              {
                 "title": "Partea 2: Tema Textului",
-                "content": "### Partea 2: Tema Textului\n\n**Ce este tema?**\nTema unui text este ideea principală, gândurile centrale pe care se construiește întreaga poveste. O temă nu este plot (ceea ce se întâmplă), ci ce inseamnă ceea ce se întâmplă.\n\n**Tema Textului \"Prietenul meu\":**\n\n> **\"Adevărata prietenie și sinceritatea sunt mai puternice decât artificiilitate și apariții.\"**\n\nOu mai simplu: **\"Sinceritatea și curajul de a fi autentic transformă oamenii.\"**\n\nAceastă temă expliclică:\n- De ce Bogdan face ceea ce face\n- De ce reacționează clasa cu compasiune, nu cu batjocură\n- De ce povestea este importantă și semnificativă\n- Ce lecție învață cititorul"
+                "content": "**Ce este tema?**\nTema unui text este ideea principală, gândurile centrale pe care se construiește întreaga poveste. O temă nu este plot (ceea ce se întâmplă), ci ce inseamnă ceea ce se întâmplă.",
+                "order": 6
               },
               {
-                "order": 3,
+                "title": "Partea 2: Tema Textului",
+                "content": "> **\"Adevărata prietenie și sinceritatea sunt mai puternice decât artificiilitate și apariții.\"**",
+                "order": 7
+              },
+              {
+                "title": "Partea 2: Tema Textului",
+                "content": "Ou mai simplu: **\"Sinceritatea și curajul de a fi autentic transformă oamenii.\"**",
+                "order": 8
+              },
+              {
+                "title": "Partea 2: Tema Textului",
+                "content": "Această temă expliclică:\n- De ce Bogdan face ceea ce face\n- De ce reacționează clasa cu compasiune, nu cu batjocură\n- De ce povestea este importantă și semnificativă\n- Ce lecție învață cititorul",
+                "order": 9
+              },
+              {
                 "title": "Partea 3: Planul Simplu de Idei (Structura Povestei)",
-                "content": "### Partea 3: Planul Simplu de Idei (Structura Povestei)\n\nPlanul simplu de idei este organizarea logică a conținutului textului în etape sau secvențe majore. Aici sunt pașii poveștei:\n\n**Pasul 1: EXPUNERE - Introducerea situației inițiale**\n- Bogdan se pregătește pentru teze\n- Compunerea pe tema \"Prietenul meu\" i-a ieșit prea scurtă\n- Are ideea să o completeze cu cuvinte grele\n- Dar când se gândește la \"cel mai bun prieten\", se gândește la Joi\n\n**Pasul 2: CONFLICT / DILEMĂ - Problema care trebuie rezolvată**\n- Bogdan se confruntă cu alegerea: calea ușoară (rescris cu cuvinte grele) vs calea riscantă (aduce pe Joi la școală)\n- Ideea pare nebunească, dar simte că este adevărată\n- Trebuie să aibă curaj să o facă\n\n**Pasul 3: ACȚIUNE - Rezolvarea conflictului**\n- Bogdan ia decizia: aduce pe Joi la școală\n- Intră în sala de clasă cu Joi ascuns/vizibil\n- Profesora și clasa reacționează\n\n**Pasul 4: PUNCTUL CULMINANT - Momentul de maximă tensiune și înțelegere**\n- Clasa vede mica creatuță - Joi\n- Toți se apropie cu compasiune\n- Se realizează că Joi este cu adevărat prietenul lui Bogdan\n- Compunerea devient nu doar corectă, ci perfectă prin sinceritate\n\n**Pasul 5: ÎNCHEIERE - Rezoluția și lecția**\n- Bogdan a înțeles că sinceritatea și curajul sunt mai importante decât artificialitate\n- Clasa a învățat acceptarea și compasiunea\n- Profesoara recunoaște geniul gestului"
+                "content": "Planul simplu de idei este organizarea logică a conținutului textului în etape sau secvențe majore. Aici sunt pașii poveștei:",
+                "order": 10
               },
               {
-                "order": 4,
+                "title": "Partea 3: Planul Simplu de Idei (Structura Povestei)",
+                "content": "**Pasul 1: EXPUNERE - Introducerea situației inițiale**\n- Bogdan se pregătește pentru teze\n- Compunerea pe tema \"Prietenul meu\" i-a ieșit prea scurtă\n- Are ideea să o completeze cu cuvinte grele\n- Dar când se gândește la \"cel mai bun prieten\", se gândește la Joi",
+                "order": 11
+              },
+              {
+                "title": "Partea 3: Planul Simplu de Idei (Structura Povestei)",
+                "content": "**Pasul 2: CONFLICT / DILEMĂ - Problema care trebuie rezolvată**\n- Bogdan se confruntă cu alegerea: calea ușoară (rescris cu cuvinte grele) vs calea riscantă (aduce pe Joi la școală)\n- Ideea pare nebunească, dar simte că este adevărată\n- Trebuie să aibă curaj să o facă",
+                "order": 12
+              },
+              {
+                "title": "Partea 3: Planul Simplu de Idei (Structura Povestei)",
+                "content": "**Pasul 3: ACȚIUNE - Rezolvarea conflictului**\n- Bogdan ia decizia: aduce pe Joi la școală\n- Intră în sala de clasă cu Joi ascuns/vizibil\n- Profesora și clasa reacționează",
+                "order": 13
+              },
+              {
+                "title": "Partea 3: Planul Simplu de Idei (Structura Povestei)",
+                "content": "**Pasul 4: PUNCTUL CULMINANT - Momentul de maximă tensiune și înțelegere**\n- Clasa vede mica creatuță - Joi\n- Toți se apropie cu compasiune\n- Se realizează că Joi este cu adevărat prietenul lui Bogdan\n- Compunerea devient nu doar corectă, ci perfectă prin sinceritate",
+                "order": 14
+              },
+              {
+                "title": "Partea 3: Planul Simplu de Idei (Structura Povestei)",
+                "content": "**Pasul 5: ÎNCHEIERE - Rezoluția și lecția**\n- Bogdan a înțeles că sinceritatea și curajul sunt mai importante decât artificialitate\n- Clasa a învățat acceptarea și compasiunea\n- Profesoara recunoaște geniul gestului",
+                "order": 15
+              },
+              {
                 "title": "Integração: De la Structură la Înțelegere",
-                "content": "### Integração: De la Structură la Înțelegere\n\nCând punem împreună:\n- **Cuvintele-cheie** (PRIETENIE, SINCERITATE, CURAJ, ACCEPTARE) \n- **Tema** (Adevărata prietenie este mai puternică decât artificialitate)\n- **Planul de idei** (Expunere → Dilemă → Acțiune → Punctul culminant → Încheiere)\n\nObținem o înțelegere completă a textului și a intenției autorului."
+                "content": "Când punem împreună:\n- **Cuvintele-cheie** (PRIETENIE, SINCERITATE, CURAJ, ACCEPTARE) \n- **Tema** (Adevărata prietenie este mai puternică decât artificialitate)\n- **Planul de idei** (Expunere → Dilemă → Acțiune → Punctul culminant → Încheiere)",
+                "order": 16
               },
               {
-                "order": 5,
+                "title": "Integração: De la Structură la Înțelegere",
+                "content": "Obținem o înțelegere completă a textului și a intenției autorului.",
+                "order": 17
+              },
+              {
                 "title": "De ce este importanță această analiză?",
-                "content": "### De ce este importanță această analiză?\n1. **Pentru înțelegere**: Ne ajută să nu ratăm mesajul principal\n2. Pentru scris**: Când scriem propria poveste, putem folosi același model\n3. **Pentru discuție**: Ne dă vocabular și structură pentru a vorbi despre texte\n4. **Pentru cultură**: Arată cum funcționează arta de a povesti"
+                "content": "1. **Pentru înțelegere**: Ne ajută să nu ratăm mesajul principal\n2. Pentru scris**: Când scriem propria poveste, putem folosi același model\n3. **Pentru discuție**: Ne dă vocabular și structură pentru a vorbi despre texte\n4. **Pentru cultură**: Arată cum funcționează arta de a povesti",
+                "order": 18
               }
             ]
           },
@@ -261,6 +406,28 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie insista pe interpretarea multilinistra a unui text literar, adica asupra faptului ca orice \n            text literar poate avea mai multe intelesuri sau semnificatii.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "In 'Prietenul meu', pe langa povestea literala (un copil duce \n            catelul la scoala), exista si alte semnificatii: curajul de a fi diferit, forta prieteniei, importanta sinceritatii, \n            acceptarea celor diferiti.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata pe elevi sa citeasca intre randuri, sa gaseasca mesaje ascunse si sa inteleaga \n            ca literatura nu transmite doar informatii, ci si valori, principii morale si perspective asupra vietii.",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Analiza semnificatiilor \n            ajuta la dezvoltarea gandirii critice si a capacitatii de interpretare.",
+                "order": 4
+              }
             ]
           },
           {
@@ -303,6 +470,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie introduce diferenta dintre textul literar si textul nonliterar. In timp ce textul literar \n            transmite idei si emotii intr-un limbaj expresiv si creativ, textul nonliterar are scopul de a transmite informatii precise \n            si factuale.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Textele nonliterare includ: notitie biografice, descrieri stiintifice, instructiuni, articole de ziare, \n            articole scientifice. Diferenta majora este ca textul nonliterar nu apeleaza la imaginatie si creativitate, ci la claritate \n            si precizie.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia arata cum acelasi subiect poate fi tratat diferit intr-un text literar versus intr-un text nonliterar, \n            in functie de scopul autorului si de audienta vizata.",
+                "order": 3
               }
             ]
           },
@@ -347,6 +531,28 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta sectiune a Lectiei 6 introduce perspectiva larga asupra textelor literare prin prezentarea unor \n            fragmente din alti autori cu teme similare: prietenie, identitate, emotii.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Scopul este sa arate elevilor ca aceleasi teme \n            pot fi abordate de mai multi autori, fiecare cu stilul si perspectiva proprie.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Prin compararea diferitelor abordari, elevii \n            invata sa apreascieze diversitatea literara si sa inteleaga ca nu exista un singur mod de a spune o poveste.",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceasta sectiune \n            deschide orizonturi si incurajeaza gândirea independenta și aprecierea pentru varietatea modurilor in care literatura poate \n            exprima aceleasi emotii si idei.",
+                "order": 4
+              }
             ]
           },
           {
@@ -389,6 +595,28 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie aborda tema identitat personale si a rolului emotiilor in construirea si exprimarea acesteia. Se exploreaza cum fiecare persoana are caracteristici unice, pasiuni, temeri si dorinte care o definesc.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia incurajeaza \n            autoreflectie, ajutand elevii sa-si inteleaga mai bine propriile emotii si cum acestea influenteaza comportamentul si \n            relatiile cu ceilalti.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Prin analiza textelor literare, se arata cum autorii si-au exprimat identitatea si emotiile, \n            servind ca model pentru elevi. Se discuta cum identitatea se formeaza prin experienta, relatii, culture si alegeri personale.",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia promoveaza acceptarea diferentelor si respectul pentru unicitatea fiecarui individ.",
+                "order": 4
               }
             ]
           },
@@ -433,6 +661,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie invata elevii cum sa-si exprime emotiile intr-o maniera adecvata și constructiva, cu \n            constienta impactului comunicarii lor asupra celorlalti. Se discuta diferitele roluri pe care le putem avea in comunicare: \n            vorbitorul, ascultatorul, observatorul, mediator.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Fiecare rol inseamna responsabilitati diferite. Lectia insista pe \n            importanta ascultarii active, empatiei si a exprimarii assertive (spunerea adevarului fara a leza pe alti). Elevii invata \n            ca emotiile nu sunt intrinsec bune sau rele, dar cum le exprimam face diferenta.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Prin Role-play si simulari, elevii practica \n            diferitele moduri de a comunica cu respect si intelegere.",
+                "order": 3
+              }
             ]
           },
           {
@@ -475,6 +720,23 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie introduce noiuni de baza din gramatica limbii romane, centrata pe conceptul de propozitie. O propozitie este o unitate de comunicare care contine un subiect si un predicat si exprima o idee completa.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia prezinta \n            tipurile de propozitii in functie de punct de vedere semantic: propozitii enuntiative (care afirma sau neaga), exclamative \n            (care exprima emotie puternica), interogative (care pun o intrebare), optative (care exprima dorinta).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Fiecare tip are o \n            functie diferita in comunicare. Intalegerea acestor tipuri ajuta elevii sa scrie si sa comunice mai clar si mai efectiv.",
+                "order": 3
               }
             ]
           },
@@ -519,6 +781,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie insista pe importanta cuvintelor in comunicare si rolul dictionarului in gasirea semnificatiei \n            lor. Un cuvant este unitatea minima de limbaj care exprima o notiune.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Dictionarul este o sursa nepretuita pentru intelege \n            semnificatia, pronunciatia, etimologia si utilizarea corecta a cuvintelor. Lectia arata elevilor cum sa caute efectiv in \n            dictionar si cum sa inteleaga informatiile prezentate in intrari.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Se discuta si concepte cum ar fi: polisemia (un cuvant \n            cu mai multe sensuri), homonimia (cuvinte care suna la fel dar au sensuri diferite), sinonimia. Capacitatea de a folosi \n            dictionarul este esentiala pentru dezvoltarea vocabularului si pentru comunicarea precisa.",
+                "order": 3
+              }
             ]
           },
           {
@@ -561,6 +840,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie introduce conceptele de sinonimie si antonie in limba romana. Sinonimele sunt cuvinte \n            diferite care au sensuri asemanatoare sau identice (de exemplu: frumos-cuveni, bun-decent).",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Antonimele sunt cuvinte care \n            au sensuri opuse (de exemplu: frumos-urt, mare-mic, bun-rau). Intelelegerea sinonimelor si antonimelor ajuta elevii sa \n            isi diversifice vocabularul, sa evite repetatiile monotone in scris si sa exprime ideile mai precis.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia arata cum \n            sinonimele pot avea nuante diferite de ineles, chiar daca sensul general este similar. Capacitatea de a recunoaste si a \n            utiliza sinonimele si antonimele este esentiala pentru o comunicare eficace si pentru aprecierea subtiletatilor limbajului.",
+                "order": 3
               }
             ]
           },
@@ -605,6 +901,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie introduce conceptul de camp lexical (sau semantic), care este un grup de cuvinte legate \n            semantic (prin semnificatie). De exemplu, campul lexical al cuvintului 'casa' include: locuinta, apartament, etaj, cuina, \n            odaia, etc.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Un camp lexical este format din cuvinte care apartin aceleiasi categori sau care se refera la acelasi domeniu. Intelegerea campurilor lexicale ajuta elevii sa organizeze mai bine cunostintele, sa gaseasca cuvinte apropiate si sa \n            intelega mai profund intelesurile unor termeni.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia arata cum analiza campuri lexicale din texte literare poate ajuta \n            la intelegerea mai buna a temelor si a intentiior autorului.",
+                "order": 3
+              }
             ]
           },
           {
@@ -647,6 +960,28 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie se ocupa de fonetsmă - studiul sunetelor limbii romane.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Se prezinta diferitele tipuri de \n            sunete si caracteristicile lor: vocale (a, e, i, o, u) care sunt deschise si nu au obstacole, si consoane care se formeaza \n            prin obstaculizarea fluxului de aer in diverse puncte ale cavitati bucale.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia arata cum diferitele sunete se combina \n            pentru a forma cuvinte si cum aceleasi sunete pot avea semnificatii total diferite in contexte diferite. Se discuta si \n            aspeqte cum ar fi: intonatie, ritm si accentul tonicul.",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Intelegerea tipurilor de sunete este fundamentala pentru pronuntarea \n            corecta, pentru dictare si pentru aprecierea aspectelor sonorite ale limbajului.",
+                "order": 4
               }
             ]
           },
@@ -691,6 +1026,23 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie introduce conceptele de silaba și accent tonicul. O silaba este o unitate fonologică \n            care contine un sunet vocal si eventual sunete consonantice aferente. Cuvintele se compun din una sau mai multe silabe.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Accentul tonicul este intensitatea cu care se pronunta o silaba, iar in limba romana, fiecare cuvant polisibil are o \n            silaba tonica. De exemplu, in cuvantul 'masa', accentul cade pe 'ma'.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Accentul tonicul nu se scrie niciodata in limba \n            romana moderna, dar este important in pronuntare. Lectia arata cum silabele se combina pentru a forma cuvinte si cum \n            accentul afecteaza pronuntarea si intelelegerea unui cuvant.",
+                "order": 3
+              }
             ]
           },
           {
@@ -733,6 +1085,28 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie finala a Unitatii 1 invata elevii cum sa scrie efecativ, prezentand etapele procesului \n            de scriere.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Etapele includ: planificarea (stabilirea scopului, audientei si ideilor principale), elaborare (scrierea \n            textului), revisie (relecture si corectaturi), editare (corectura finala).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia se concentreaza pe relatarea unor \n            experiente personale, care este o forma de scriere accesibila si relevanta pentru elevi.",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Relatarea experiential permite \n            elevilor sa-si exprime sentimentele, sa reconstituie evenimentele cronologic si sa traia din nou emotiile acelui moment. Lectia incurajeaza elevii sa-si alege momentele marcante din viata lor si sa le transforme in texte coherente si expresive.",
+                "order": 4
               }
             ]
           }
@@ -783,6 +1157,28 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie prezinta textul narativ literar prin fragmente din \"Vizită...\" de Ioan Luca Caragiale, \n            un scriitor romanesc de seama care a marcat literatura prin creaturi memorabile si situatii comice.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Textul urmareste o vizita \n            intr-un mediu bourghez, revelandu-se prin detalii de comportament caracteristicele personajelor.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii sa \n            recunoasca elementele narative: personajele cu caracteristicile lor distincte, actiunea cu conflictul ei, decorul care \n            creeaza atmosfera.",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Prin analiza acestui text, se evidentiaza cum un scriitor poate transmite o intreaga imagine despre o \n            epoca si o clasa sociala prin intermediul unui moment cotidian transformat in arta literara.",
+                "order": 4
+              }
             ]
           },
           {
@@ -825,6 +1221,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie aprofundeaza trei componente esențiale ale unui text narativ: timpul, spatiul si actiunea. Timpul poate fi cronologic (care urmeaza ordinea evenimentelor) sau psihologic (cum percepe personajul trecerea timpului).",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Spatiul include nu doar locurile fizice, ci si atmosfera si semnificatia acestora. Actiunea este succesiunea \n            evenimentelor care avansează povestea si se dezvolta prin conflict.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia arata cum aceste trei elemente sunt \n            interconectate: actiunea se desfasoara intr-un spatiu anume si in anumite conditii temporale, iar personajele sunt \n            marcate de aceste circumstante. Intelegerea acestor elemente ajuta la o lectura mai profunda a textelor narative.",
+                "order": 3
               }
             ]
           },
@@ -869,6 +1282,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Planul dezvoltat de idei este o tehnica de analiză care merge dincolo de planul simplu.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Daca planul simplu \n            impartaseste textul in etape principale (inceput, mijloc, sfarsit), planul dezvoltat examineaza structura mai detaliat, \n            identificand toate secventele majore si minore, evenimentele cheie si progresul conflictului.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceasta tehnica ajuta cititorii \n            sa inteleaga arhitectura textului, cum se construieste tensiunea, cum se introduc personajele si cum se rezolva conflictul. Planul dezvoltat de idei faciliteaza o intelegere mai profunda a mesajului autorului si a tehnicalului de narare utilizate.",
+                "order": 3
+              }
             ]
           },
           {
@@ -911,6 +1341,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Personajele sunt entitatile vii ale unui text narativ, ele impart experientele, au conflicte si se dezvolta \n            pe parcursul povestii. Un personaj poate fi rond (complex, cu multe dimensiuni, care se schimba) sau plat (simplu, \n            previsibil).",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Personajul principal este protagonistul, iar antagonistul se opune acestuia. Lectia invata elevii sa analizeze \n            motivatiile personajelor, comportamentul lor, cum se interactioneaza unii cu altii si cum se dezvolta in timp.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Prin \n            intelegerea personajelor, cititorul poate accesa semnificatii mai profunde ale textului si poate dobandi empatie pentru \n            dorintele si temeile acestora.",
+                "order": 3
               }
             ]
           },
@@ -955,6 +1402,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Asemenea Unit 1, semnificatiile textului narativ sunt multiple si se pot deschide la mai interpretari. Un text \n            narativ nu transmite doar o poveste, ci si lecii, critici ale societatii, reflecții asupra naturii umane.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata \n            elevii sa caute mesajele ascunse, sa inteleaga ce vrea autorul sa comunice dincolo de actiune. Prin analiza simbolurilor, \n            a repetitiilor, a dialogului si a comportamentelor personajelor, se pot descoperi niveluri mai profunde de ineles.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Semnificatiile pot fi referite la moralitate, la critică sociala, la psihologie umana sau la conditia existentiala.",
+                "order": 3
+              }
             ]
           },
           {
@@ -997,6 +1461,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta sectiune a Unit 2 continua traditia introdusa in Unit 1: prezinta alte fragmente sau texte narative \n            cu teme similare sau diferite, aratand cum aceleasi idei sau situatii pot fi abordate diferit de alti autori.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Prin \n            compararea acestor texte, elevii invata sa aprecieze diversitatea perspectivelor si stilurilor literare. Se pot observa \n            diferite moduri de a construi conflictul, de a prezenta personajele si de a rezolva actiunea.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceasta deschide orizonturi \n            si incurajeaza gandirea independenta si critica.",
+                "order": 3
               }
             ]
           },
@@ -1041,6 +1522,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie abordeaza tema jocurilor din perspectiva culturala si istorica. Jocurile sunt activități \n            universale care exista in toate culturile, dar formele lor variaza de-a lungul timpului si intre grupurile culturale.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii sa intelege ca jocurile nu sunt doar divertisment, ci si expresii ale valorilor culturale, ale \n            conditiilor economice si ale evolututiei societatii.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Se compara jocurile traditionale cu cele moderne, revelandu-se cum \n            tehnologia si schimbarile sociale au transformat modul in care oamenii se joaca. Aceasta tema conecteaza literatura cu \n            alte domenii si cu experienta cotidiana a elevilor.",
+                "order": 3
+              }
             ]
           },
           {
@@ -1083,6 +1581,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Dialogul este un element important al textului narativ care arata cum comunica personajele. Lectia invata \n            elevii sa analizeaza replicile dialogului: ce arata ele despre personaje, cum avansează actiunea, cum se revela conflictul.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Un dialog reusit nu este simplu o conversatie obisnuita, ci este selectiv, revelator si plin de inteles. Elevii invata \n            sa identifice informatii implicite in dialog, tonul vocii personajelor, relatiile lor si motivatiile lor.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Dialogul poate \n            fi folosit pentru a caracteriza personajele, pentru a crea tensiune si pentru a avansa intriga.",
+                "order": 3
               }
             ]
           },
@@ -1127,6 +1642,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie abordeaza regulile conversatiei si ale comunicarii orale. In orice situatie sociala, exista \n            reguli implicite sau explicite despre cum se cuvine sa vorbesti.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceste reguli includ: a asculta cand altcineva vorbeste, \n            a nu-l intrerupe, a respecta randul fiecaruia sa vorbeasca, a fi atent la tonul vocii si la limbajul nonverbal. Regurile \n            de acces la cuvant variaza intre culturi si intre contexturi (familia, scoala, munca).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii sa fie constienti \n            de aceste reguli si sa le aplice in propriile conversatii, dezvoltand competente de comunicare pozitiva.",
+                "order": 3
+              }
             ]
           },
           {
@@ -1169,6 +1701,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie introduce o noua componenta gramaticala: verbul si predicatul verbal. Verbul este cuvantul \n            care exprima actiunea sau starea. Predicatul verbal este constituit din verb si de complement direct sau indirect care \n            completeaza sensul verbului.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, \"a citi\" este un verb, iar \"a citi o carte\" este predicatul verbal. Verbele pot \n            fi tranzitive (necesita complement direct) sau intranzitive (nu necesita complement direct).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum sa \n            identifice verbele si predicatele verbale in texte si cum sa le utilizeze corect in propriile scrieri.",
+                "order": 3
               }
             ]
           },
@@ -1213,6 +1762,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Verbele romane au diferite moduri si timpuri. Modul indicativ exprima realitatea, fapte obiective. Prezentul \n            este timpul verbului care exprima actiuni care se intampla in prezent, acum, sau actiuni obisneite.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, \"eu citesc\" \n            este prezentul indicativ al verbului \"a citi\". Conjugarea in prezent difera pentru fiecare persoana (eu, tu, el/ea, noi, voi, \n            ei/ele).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum sa conjugueze corect verbele in prezentul indicativ si cum sa le utilizeze in propozitiile \n            lor. Intelelegerea timpurilor verbale este esentiala pentru o comunicare clara si pentru scrierea corecta.",
+                "order": 3
+              }
             ]
           },
           {
@@ -1255,6 +1821,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Imperfectul este un timp verbal care exprima actiuni trecute care erau in curs de desfasurare sau care se repetau \n            regulat in trecut. De exemplu, \"eu citeam\" este imperfectul verbului \"a citi\", care sugereaza o actiune repetata sau continua \n            in trecut.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Imperfectul se deosebeste de perfectul compus (actiune incheita) prin faptul ca pune accentul pe durata sau repetitie. Lectia invata elevii sa distinga intre imperfect si alte timpuri trecute, si sa le utilizeze corect in propriile narari.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Intelelegerea imperfectului este importanta pentru a putea descrie peisajele si atmosferele din trecut.",
+                "order": 3
               }
             ]
           },
@@ -1299,6 +1882,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie introduce verbul auxiliar \"a avea\" si utilizarea sa in constructia timpurilor compuse. Participiul \n            este forma verbului care se utilizeaza cu auxiliarul pentru a forma timpuri compuse.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, \"am citit\" este perfectul \n            compus, format din auxiliarul \"am\" (prezent de la \"a avea\") si participiul \"citit\". Perfectul compus exprima actiuni trecute \n            complete, incheiate.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum sa formeze corect perfectul compus si cum sa il utilizeze in texte. Intelelegerea \n            participiilor si a timpurilor compuse este esentiala pentru o comunicare clara si pentru scrierea corecta.",
+                "order": 3
+              }
             ]
           },
           {
@@ -1341,6 +1941,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Perfectul simplu si mai-mult-ca-perfectul sunt timpuri verbale folosite pentru a exprima actiuni trecute cu \n            diferite grade de anterioritate. Perfectul simplu exprima o actiune trecuta incheita (de exemplu, \"am citit o carte ieri\").",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Mai-mult-ca-perfectul exprima o actiune care s-a intamplat inainte de alta actiune in trecut (de exemplu, \"dupa ce am citit \n            cartea, am inteles povestea\"). Aceste timpuri sunt mai frecvente in literatura decat in vorbirea cotidiana.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata \n            elevii cum sa le identifice in texte si cum sa le utilizeze in propriile narari.",
+                "order": 3
               }
             ]
           },
@@ -1385,6 +2002,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Viitorul este un timp verbal care exprima actiuni care vor avea loc in viitor. Exista doua forme de viitor: viitorul \n            simplu (voi citi) si viitorul apropiat (voi sa citesc). Verbele auxiliare \"a vrea\" si \"a fi\" sunt folosite pentru a forma aceste \n            timpuri.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, \"voi citi\" se formeaza din \"voi\" (viitorul de \"a fi\") si infinitivul \"citi\". \"Voi sa citesc\" se formeaza din \n            \"voi\" (de la \"a vrea\") si \"sa citesc\". Lectia invata elevii cum sa conjugueze corect viitorul si cum sa il utilizeze in proprii \n            texte.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Intelegerea timpurilor viitoare este esentiala pentru a exprima planuri, sperantele si intentia.",
+                "order": 3
+              }
             ]
           },
           {
@@ -1428,6 +2062,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Modul imperativ exprima comenzi, cereri, ordine. De exemplu, \"citeste cartea!\" este imperativul verbului \"a citi\". Imperativul se formeaza diferit pentru diferitele persoane (tu, noi, voi). Acesta se foloseste atunci cand vrem ca cineva sa faca \n            ceva.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Imperativul poate fi polite (cu \"va rog\") sau direct. Lectia invata elevii cum sa formeze imperativul si cum sa il utilizeze \n            corect. Intelelegerea modului imperativ este importanta pentru o comunicare clara si pentru a putea exprima dorinte si necesitati.",
+                "order": 2
+              }
             ]
           },
           {
@@ -1470,6 +2116,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie finala a Unit 2 sintetizeaza cunostintele despre textul narativ si introduces idea de ficțiune. Textul narativ fictional este creat de imaginația autorului, nu este o descriere a unor fapte reale.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Ficțiunea permite autorului \n            sa explore o multitudine de posibilitati, sa creeaze lumi alternative si sa transmita mesaje prin intermediul personajelor si \n            situatiilor imaginate.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lecția invata elevii cum sa aprecieze puterea ficțiunii si cum sa o utilizeze in propriile creații. Se discuta diferența dintre fiction si realitate, si cum ficțiunea poate transmite adevaruri mai profunde despre experiența umană.",
+                "order": 3
               }
             ]
           }
@@ -1520,6 +2183,28 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie prezinta textul descriptiv literar prin fragmente din \"O stradă cu sentimente\" de Ana Blandiana, \n            o poeta si prozatoare romana cunoscuta pentru sensibilitatea si profunzimea sa.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Textul descriptiv literar se concentreaza pe \n            prezentarea detaliat a unui loc, a unei persoane sau a unui obiect, dar nu intr-un mod obiectiv ci intr-un mod plin de emotie \n            si sens.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Ana Blandiana foloseste limbajul poetic pentru a transmite sentimentele si perceptiile sale despre strada, transformand \n            un simplu loc in ceva cu semnificatie profunda.",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum descrierile nu sunt doar informatii factuale, ci \n            expresii ale unei perspective personale si emotionale.",
+                "order": 4
+              }
             ]
           },
           {
@@ -1562,6 +2247,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Personificarea este o figura de stil in care se atribuie calitati umane unor obiecte sau fenomene naturale. De exemplu, \n            \"strada suspina\" atribuie strada capacitatea de a suspina, o actiune umana.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "In textul descriptiv, personificarea ajuta la crearea \n            unei conexiuni emotionale intre cititor si obiectul descris. Prin personificare, o strada devine nu doar o cale, ci o fiinta \n            cu sentimente si experiente.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum sa identifice si sa utilizeze personificarea in propriile descrieri, \n            demonstrand cum figurile de stil pot transforma modul in care percepe cititorii lumea.",
+                "order": 3
               }
             ]
           },
@@ -1606,6 +2308,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Similar cu unitatile anterioare, textul descriptiv poate avea multiple semnificatii. O descriere a unei strazi nu este doar \n            informatii geografice, ci poate fi o metafora pentru viata, pentru trecerea timpului, pentru amintiri.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii sa \n            caute sensurile profunde ale descriptiilor, sa inteleaga ce vrea autorul sa comunice dincolo de detaliile obiective.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "O strada \n            cu sentimente nu este doar o strada, ci o expresie a emotiilor autorului si o invitatie pentru cititor sa-si reflecteze propria \n            relatie cu locurile cunoscute.",
+                "order": 3
+              }
             ]
           },
           {
@@ -1648,6 +2367,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta sectiune a Unit 3 continua prezentarea unor texte descriptive de alti autori sau cu alte teme, aratand cum \n            descrierile pot varia in functie de subiect, stil si perspectiva autorului.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Prin compararea acestor texte, elevii invata ca \n            descrierea nu este un singur stil sau abordare, ci poate fi personalizata si creativa. Textele descriptive pot fi liniare si \n            simple, sau pot fi complexe si pline de figuri de stil.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie incurajeaza elevii sa experimenteze propriile moduri \n            de a descrie lumea care ii inconjoara.",
+                "order": 3
               }
             ]
           },
@@ -1692,6 +2428,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Textul descriptiv nonliterar este o descriere objectiva a unui subiect, concentrandu-se pe detalii factuale si \n            informatii practice.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "In acest caz, descrierea unui animal (persana) este facuta cu scopul de a transmite informatii despre \n            caracteristicile fizice si comportamentul acestuia.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Desi textul poate fi atractiv si bine scris, el nu apeleaza la figurile \n            de stil complexe sau la emotii profunde cum ar face un text literar. Lectia invata elevii sa distinga intre descrierea \n            litera si cea nonlitera, si cum fiecare are propriul scop si valoare.",
+                "order": 3
+              }
             ]
           },
           {
@@ -1734,6 +2487,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie abordeaza tema tradițiilor si a sărbătoriilor de iarnă din perspectiva culturala si sociala. Sărbătoriile \n            de iarnă sunt expresii ale valorilor culturale, ale creintelor și ale modului de viață al unei comunitati.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Prin studiul acestor \n            traditii, elevii invata sa aprecieze diversitatea culturala si sa inteleaga cum diferitele culturi celebreaza sezonul rece. Lectia conecteaza literatura cu sociologia si antropologia, aratand cum textele pot fi surse de informatie despre o cultura.",
+                "order": 2
               }
             ]
           },
@@ -1778,6 +2543,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Ascultarea activă este o abilitate de comunicare in care receptorul se concentreaza pe intelegerea completa a mesajului \n            transmis de vorbitor.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Nu este simpla receptie pasiva de informatii, ci o participare activa care include: urmarirea atentă, \n            punerea de intrebari de clarificare, parafrazarea cu propriile cuvinte si oferirea de feedback.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Ascultarea activa demonstreaza \n            respect si interes pentru celalalt, si este esentiala pentru comunicarea eficace in orice domeniu: familie, scoala, munca, \n            prietenie. Lectia invata elevii cum sa practica ascultarea activa in propriile conversatii.",
+                "order": 3
+              }
             ]
           },
           {
@@ -1820,6 +2602,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Substantivul este cuvantul care denumeste o persoana, un lucru, o notiune, o senzatie, etc. De exemplu: \"copil\", \"masa\", \n            \"frumusete\", \"durere\" sunt substantive.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Substantivele pot fi: comune (care denumesc obiecte din aceeasi categorie, cum ar fi \n            \"cas\", \"copac\") sau proprii (care denumesc obiecte specifice, cum ar fi \"Nicolae\", \"Bucuresti\").",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Substantivele au gen (masculin, \n            feminin, neutru), numar (singular, plural) si caz (nominativ, acuzativ, genitiv, dativ, vocativ, locativ). Lectia invata elevii \n            cum sa identifice substantivele in texte si cum sa le utilizeze corect in propriile fraze.",
+                "order": 3
               }
             ]
           },
@@ -1864,6 +2663,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Articolul este cuvantul care se pune inaintea substantivului pentru a indica genul, numarul si cazul acestuia.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "In limba \n            romana exista doua tipuri de articole: hotarâte (care indica un obiect cunoscut: \"cartea\", \"copilul\") si nehotarâte (care \n            indica un obiect necunoscut: \"o carte\", \"un copil\").",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Articolul hotarât se poate pune inainte de substantiv (\"cartea\") sau \n            dupa substantiv (\"casa noastră\"). Lectia invata elevii cum sa utilizeze corect articolele in diverse contexte.",
+                "order": 3
+              }
             ]
           },
           {
@@ -1906,6 +2722,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Substantivele pot fi combinate cu alte cuvinte pentru a crea expresii mai complexe. De exemplu: \"casa verde\", \"cartea \n            de povesti\", \"om cu inima buna\".",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Prepozitia este cuvantul care se pune inaintea unui substantiv sau a unui pronume pentru a \n            exprima relatiile spatiale, temporale, cauzale, etc. Prepozitiile comune sunt: in, pe, sub, deasupra, inaintea, dupa, cu, fara, \n            pentru, dintr-o, la, de, etc.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum sa utilizeze prepozitiile pentru a crea fraze mai expresive si corecte.",
+                "order": 3
               }
             ]
           },
@@ -1950,6 +2783,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Substantivul subiect este cel care realizeaza actiunea exprimata de predicat (verbul). De exemplu, in propozitia \n            \"Copilul citeste cartea\", \"copilul\" este subiectul. Predicatul (verbul) trebuie sa se acorde cu subiectul in numar si persoana.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu: \"Copilul citeste\" (subiect singular, verb singular), \"Copiii citesc\" (subiect plural, verb plural). Intelegerea \n            acordului este esentiala pentru o scriere corecta gramatical.",
+                "order": 2
+              }
             ]
           },
           {
@@ -1992,6 +2837,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie finala a Unit 3 invata elevii cum sa descrie un obiect in mod eficace. O descriere buna a unui obiect \n            include: forma, culoare, dimensiuni, material, utilizare, emotii asociate cu obiectul.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Descrierea poate fi facuta in mod obiectiv \n            (prezentand doar faptele) sau in mod subiectiv (incluzand emotii si impresii personale).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Elevii invata cum sa aleaga detaliile \n            relevante, cum sa utilizeze adjectivele potrivite si cum sa creeaze o imagine clara in mintea cititorului. Aceasta abilitate \n            este esentiala pentru scrierea creativa si pentru comunicarea clara in orice domeniu.",
+                "order": 3
               }
             ]
           }
@@ -2042,6 +2904,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta lectie prezinta un text narativ bazat pe mitul grec al lui Tezeu si Minotaurului, adaptat de Florin Bican. Mitul este o forma de narativ care exploreaza teme universale despre curaj, sacrificiu si lupta dintre bine si rau.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Prin povestea clasica a unui erou care se confrunta cu un monstru, se transmit lecii despre responsabilitate si eroism. Lectia invata elevii sa recunoasca elementele mitice intr-un text si cum miturile continua sa fie relevante pentru intelegerea valorilor umane.",
+                "order": 2
+              }
             ]
           },
           {
@@ -2084,6 +2958,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Elementele de timp, spațiu și acțiune sunt critice în naratiunea mitică. Mitul se desfășoară adesea într-un timp ''al începuturilor'' sau într-un trecut mitic. Spațiul mitologic este adesea fantastic, cu locuri imposibile în realitate. Acțiunea este epicale, implicând lupte cosmice și transformări.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum aceste elemente se combina pentru a crea o narațiune puternica cu impact emocional.",
+                "order": 2
               }
             ]
           },
@@ -2128,6 +3014,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "În miturile transmise prin literatură, personajele sunt adesea archetipi - reprezentanți ai unor principii universale. Eroul mitic este un personaj special, adesea cu abilități supraomenești sau o destinație special. Antagonistul mitologic este adesea o forță a răului sau o ființă monstruoasă.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum să analizeze archetipurile și cum miturile folosesc personaje simbolice pentru a transmite înțelepciune.",
+                "order": 2
+              }
             ]
           },
           {
@@ -2170,6 +3068,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Miturile au semnificații profunde care depășesc povestea literală. Lupta cu Minotaurul nu este doar o confruntare fizică, ci o reprezentare a luptei interne cu demonii interiori. Labirintul este o metaforă pentru confuzia și rătăcire.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Firul lui Ariadnei simbolizează speranța și ajutorul în momente de întuneric. Lectia invata elevii să descopere aceste niveluri de semnificație și cum literatura transmite înțelepciune prin simbolism.",
+                "order": 2
               }
             ]
           },
@@ -2214,6 +3124,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Comparația este o figură de stil care pune în relație două lucruri diferite folosind cuvinte de comparație cum ar fi ''ca'', ''precum'', ''asemeni''. De exemplu: ''Copilul era curajos ca un leu'' compară curajul copilului cu curajul leului.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Comparația ajută cititorul să înțeleagă mai bine o proprietate prin asociere cu ceva cunoscut. Lectia invata elevii cum să identifice și să creeze comparații în propriile scrieri.",
+                "order": 2
+              }
             ]
           },
           {
@@ -2256,6 +3178,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Banda desenată este un tip de text multimodal care combina imagini cu text. Cititul unei benzi desenate necesită intelegerea atât a componentei vizuale cât și a componentei textuale. Imaginile transmit informatii despre personaje, despre mediu și despre emoții.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Textul din baloane transmite dialogul și narațiunea. Lectia invata elevii cum să citească și să analizeze bandele desenate, și cum acestea pot comunica povești complexe printr-o combinație de medii.",
+                "order": 2
               }
             ]
           },
@@ -2300,6 +3234,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Textul explicativ este un text care explicare cum funcționează ceva sau cum se face ceva. De exemplu, o instrucție de asamblare a unui obiect sau o explicație despre cum funcționează sistemul solar. Scopul textului explicativ este claritate și exactitate.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum să scrie texte explicative clara și cum să le citeasca cu atenție pentru a înțelege procesele descrise.",
+                "order": 2
+              }
             ]
           },
           {
@@ -2342,6 +3288,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta secțiune continuă prezentarea perspectivelor variate asupra temei eroismului și a salvării lumii. Sunt prezentate alte texte, alte istorii, alte moduri de a conceptualiza sacrificiul și responsabilitatea.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Diversitatea perspectivelor arată că tema eroismului este universală și poate fi abordată din mai multe unghiuri. Lectia incurajează elevii să înțeleagă complexitatea temeio umaneo și că nu există un singur răspuns la întrebările profunde.",
+                "order": 2
               }
             ]
           },
@@ -2386,6 +3344,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Eroismul a fost valorificat în toate culturile și în toate perioadele istorice, dar modelele comportamentale eroice au evoluat. În antichitate, eroismul era adesea militar și spectaculos. În Evul Mediu, eroismul era legat de dovadă și onoare.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "În timpurile moderne, eroismul poate fi mai subtil - acte de curaj moral, de sacrificiu pentru binele comun. Lectia invata elevii să recunoască formele variate ale eroismului și cum valorile se schimbă în timp.",
+                "order": 2
+              }
             ]
           },
           {
@@ -2428,6 +3398,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Comunicarea nu este doar transmiterea de informații, ci o serie de acte de limbaj cu scopuri specifice. A întreba este o cerere de informație. A solicita este o cerere de acțiune. A felicita este exprimarea unei aprecieri și a bucuriei pentru ceva bun ce s-a întâmplat cu cineva.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceste acte de limbaj sunt esențiale în interacțiunile cotidiene și în construirea relațiilor. Lectia invata elevii cum să utilizeze aceste acte de limbaj în mod adecvat și eficient.",
+                "order": 2
               }
             ]
           },
@@ -2472,6 +3454,13 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Conținut pentru Clasa a V a - Limba și literatura română - Unit 4 - Lecția 11",
+                "order": 1
+              }
             ]
           },
           {
@@ -2514,6 +3503,13 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Conținut pentru Clasa a V a - Limba și literatura română - Unit 4 - Lecția 12",
+                "order": 1
               }
             ]
           },
@@ -2558,6 +3554,13 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Conținut pentru Clasa a V a - Limba și literatura română - Unit 4 - Lecția 13",
+                "order": 1
+              }
             ]
           },
           {
@@ -2601,6 +3604,13 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Conținut pentru Clasa a V a - Limba și literatura română - Unit 4 - Lecția 14",
+                "order": 1
+              }
             ]
           },
           {
@@ -2643,6 +3653,13 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Conținut pentru Clasa a V a - Limba și literatura română - Unit 4 - Lecția 15",
+                "order": 1
               }
             ]
           }
@@ -2693,6 +3710,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Basmul este un gen literar vechi care transmite înțelepciune, valori morale și vise. Basmul ''Zâna Munților'' cules de Petre Ispirescu (folclorist și scriitor român) este o poveste despre magie, frumusețe și transformare.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Basme transmit lecii prin intermediul unor personaje fantastic și situații imposibile. Lectia invata elevii cum să recunoasca elementele basmului și semnificația acestora: magicul, transformarea, binele și răul.",
+                "order": 2
+              }
             ]
           },
           {
@@ -2735,6 +3764,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "În basm, acțiunea este adesea complexă, cu mai multe întorsături și transformări. Timpul unui basm este adesea nedefinit - ''a fost odată'' - plasând povestea într-o dimensiune atemporală. Spațiul este fantastic - castele în nori, păduri magice, regate subacvatice.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Acestea creează un sens de minune și posibilitate infinită. Lectia invata elevii cum aceste elemente basmice creează o atmosferă propice pentru transformări și lecii morale.",
+                "order": 2
               }
             ]
           },
@@ -2779,6 +3820,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Personajele basmelor sunt adesea tipuri - printesele frumoase, caii magici, vrâjitoarele răzbunătoare, fericiții care se dovedesc a fi înțelepți. Acestea sunt simboluri ale unor principii morale.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Transformarea personajelor este centrală în basm - copilul care se maturizează, entitatea răuă care se redimă. Lectia invata elevii cum să analizeze simbolismul personajelor și cum evoluția lor transmite lecii.",
+                "order": 2
+              }
             ]
           },
           {
@@ -2821,6 +3874,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Basme au semnificații mitice și psihologice profunde. Lupta cu dracul este lupta cu răul, atât în exterior cât și în interior. Comorile sunt obiectivele pe care le urmărim. Încercările sunt testele prin care trebuie să trecem pentru a ne dezvolta.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum basmele codifică înțelepciunea omenească și cum povestile acestora pot oferi ghidare pentru propriile vieți.",
+                "order": 2
               }
             ]
           },
@@ -2865,6 +3930,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta secțiune prezintă alte basme și alte interpretări ale acelorași teme - transformare, magie, redemție. Prin compararea basmelor din diferite culturi și diferite perioade, elevii învață că anumite arhetipuri și teme sunt universale.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Orice cultură are propriile sale basm care transmit valorile și înțelepciunea sa. Lectia invata elevii să aprecieze universalitatea basmelor și diversitatea lor culturală.",
+                "order": 2
+              }
             ]
           },
           {
@@ -2907,6 +3984,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Basme sunt expresii ale diversității culturale și lingvistice. Fiecare limbă și fiecare cultură are propriile sale basme care reflectă specificul acesteia. Studierea basmelor din diferite culturi ne deschide la înțelegerea modurilor variate în care oamenii dau sens lumii și transmit valori.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii respect pentru diversitate și curiozitate față de alte culturi.",
+                "order": 2
               }
             ]
           },
@@ -2951,6 +4040,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Când spunem o poveste, nu doar cuvintele contează. Tonul vocii, ritmul, pauze, gesturi, expresia facială - toate acestea sunt elemente paraverbale și nonverbale care îmbogățesc narațiunea. În prezentarea unei basm, aceste elemente pot crea suspans, pot transmite emoția și pot captiva audiența.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum să utilizeze aceste instrumente pentru a prezenta basmele intr-un mod atractiv și mai captivant.",
+                "order": 2
+              }
             ]
           },
           {
@@ -2993,6 +4094,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "A promite este a se angaja să faci ceva în viitor. A afirma este a exprima cu certitudine o idee sau o informație. În prezentarea orală a unei povești, aceste acte sunt importante. Un personaj care promite ceva și apoi nu ține promisiunea devine nedemn de încredere.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Afirmațiile personajelor ne ajută să înțelegem convingerile și valorile lor. Lectia invata elevii cum aceste acte de limbaj modelează o poveste și relațiile dintre personaje.",
+                "order": 2
               }
             ]
           },
@@ -3037,6 +4150,13 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Conținut pentru Clasa a V a - Limba și literatura română - Unit 5 - Lecția 9",
+                "order": 1
+              }
             ]
           },
           {
@@ -3080,6 +4200,13 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Conținut pentru Clasa a V a - Limba și literatura română - Unit 5 - Lecția 10",
+                "order": 1
+              }
             ]
           },
           {
@@ -3122,6 +4249,13 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Conținut pentru Clasa a V a - Limba și literatura română - Unit 5 - Lecția 11",
+                "order": 1
               }
             ]
           }
@@ -3172,6 +4306,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Jurnalul călatorie este un text narativ nonliterar care documentează o călătorie reală, cu observații despre locuri, întâmplări și emoții. Spre deosebire de literatura fictivă, jurnalul se bazează pe fapte și experiență directă.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Dar jurnalul nu este doar o listă de fapte - este o perspectivă personală asupra experienței. Lectia invata elevii cum să citeasca și să scrie jurnale de călătorie, și cum acestea sunt documente valoroase ale experienței umane.",
+                "order": 2
+              }
             ]
           },
           {
@@ -3214,6 +4360,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Textul narativ nonliterar se deosebeste de cel literar prin accent pe fapte și pe claritate. Nu apeleaza la figuri de stil complexe, ci la descrieri directe și informații factuale. Obiectivitatea este importantă, deși perspectiva personală a autorului este și ea prezentă.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Textele narative nonliterare includ: jurnale de călătorie, mărturii, rapoarte de explorare. Lectia invata elevii cum să scrie și să citeasca aceste texte cu discernământ.",
+                "order": 2
               }
             ]
           },
@@ -3258,6 +4416,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Un jurnal de călătorie nu transmite doar informații geografice. Reflectă cum o persoană percepe lumea, care sunt valorile sale, cum se schimbă perspectiva sa pe măsură ce călătorește. O călătorie poate fi o metaforă pentru transformare personală și descoperire de sine.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii cum să citeasca între rânduri și cum să deducă semnificații mai profunde din jurnalele de călătorie.",
+                "order": 2
+              }
             ]
           },
           {
@@ -3300,6 +4470,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aceasta secțiune prezintă alte jurnale de călătorie, alte perspectiv, alte moduri de a experimenta și a înregistra o călătorie. De la journalurile exploratorilor antici la blogurile de călătorie moderne, modurile de a comunica o călătorie s-au evoluat.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Dar esența rămâne - a partaja o perspectivă personală asupra descoperirilor. Lectia incurajeza elevii să-și imagineze propriile călătorii și cum ar dori să le documenteze.",
+                "order": 2
               }
             ]
           },
@@ -3344,6 +4526,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Cărțile de învățătură sunt cărți care au scopul de a transmite cunoaștere și de a educa. De la primele cărți tipărite în limba română la manualele moderne, s-a schimbat formatul, stylul, iar conținuturile s-au adaptat. Dar scopul rămâne - a face cunoașterea accesibilă și utilă.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Lectia invata elevii să aprecieze moștenirea literaturii românești și cum cărțile continuă să evolueze.",
+                "order": 2
+              }
             ]
           },
           {
@@ -3386,6 +4580,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Literatura românească, inclusiv cărțile de învățătură, are un rol important în construirea și menținerea identității naționale. Prin citirea unor cărți care vorbesc despre valorile, istoria și cultura țării, oamenii dezvoltă o conexiune cu comunitatea lor.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Identitatea națională nu este ceva fix, ci se evoluează și se reinterpretează de fiecare generație. Lectia invata elevii cum literatura contribuie la formarea identității personale și colective.",
+                "order": 2
               }
             ]
           },
@@ -3430,6 +4636,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "A explica este a clarifica un concept sau o situație pentru ca cineva să înțeleagă. A recomanda este a sugera ceva pe care o considerăm bun. A afirma este a exprima cu certitudine. Aceste acte de limbaj sunt importante în comunicarea despre cărți și despre călătorii.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Când recomandez o carte, fac mai mult decât să spun că mi-a plăcut - transmit de ce o consider valoroasă. Lectia invata elevii cum să utilizeze aceste acte eficient și cu responsabilitate.",
+                "order": 2
+              }
             ]
           },
           {
@@ -3473,6 +4691,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Ideile pot fi structurate în diverse moduri - cronologic, cauzal, ierarhic, comparativ. Cererea este o structură textulă în care solicităm ceva. De exemplu, o cerere de informație, o cerere de permisiune, o cerere de ajutor.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Înțelegerea acestor tipare ajută elevii să citeasca și să scrie mai eficient. Lectia invata elevii cum să recunoasca și să utilizeze diferitele tipare de structurare a ideilor.",
+                "order": 2
+              }
             ]
           },
           {
@@ -3515,6 +4745,13 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Conținut pentru Clasa a V a - Limba și literatura română - Unit 6 - Lecția 9",
+                "order": 1
               }
             ]
           }
@@ -3567,6 +4804,23 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Numerele naturale sunt utilizate pentru a număra și pentru a ordona obiecte. Scrierea numerelor naturale \n            se face utilizând zece cifre: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. În sistemul de numerație zecimal (baza 10), poziția \n            unei cifre determină valoarea acesteia.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, în numărul 3245, cifra 3 reprezintă 3 mii, 2 reprezintă 2 sute, \n            4 reprezintă 4 zeci, iar 5 reprezintă 5 unități. Citirea numerelor naturale se face respectând poziția cifrelor și \n            grupurile de câte trei cifre (mii, milioane, miliarde).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceasta este fundamentală pentru înțelegerea calculelor \n            matematice ulterioare.",
+                "order": 3
+              }
             ]
           },
           {
@@ -3609,6 +4863,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Axa numerelor este o dreaptă pe care sunt marcate puncte corespunzătoare numerelor naturale. Reprezentarea \n            pe axa numerelor ajută la vizualizarea ordinii numerelor. Orice două numere naturale pot fi comparate: un număr este mai \n            mic, egal sau mai mare decât altul.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Ordonarea numerelor naturale în ordine crescătoare sau descrescătoare este importantă \n            în rezolvarea problemelor. Aproximarea unui număr înseamnă a-l înlocui cu un alt număr apropiat (de obicei rotunjit). Estimarea înseamnă a evalua o valoare aproximativă fără calcul exact.",
+                "order": 2
               }
             ]
           },
@@ -3653,6 +4919,18 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Adunarea este operația care reunește două sau mai multe cantități. În adunare, numerele care se adună se numesc \n            termeni, iar rezultatul se numește sumă. De exemplu, în 5 + 3 = 8, 5 și 3 sunt termeni, iar 8 este suma.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Adunarea are \n            proprietăți importante: comutativitate (a + b = b + a), asociativitate ((a + b) + c = a + (b + c)), și element neutru \n            (a + 0 = a). Aceste proprietăți facilitează calculele și sunt fundamentale pentru algebră. Adunarea este inversă scăderii.",
+                "order": 2
+              }
             ]
           },
           {
@@ -3695,6 +4973,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Scăderea este operația inversă adunării. În scădere, primul număr se numește descăzut, al doilea se numește scăzător, \n            iar rezultatul se numește rest sau diferență. De exemplu, în 10 - 3 = 7, 10 este descăzutul, 3 este scăzătorul, iar 7 este \n            diferența.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Scăderea nu are proprietatea comutativității: 10 - 3 ≠ 3 - 10. Scăderea este posibilă în numerele naturale doar \n            dacă descăzutul este mai mare sau egal cu scăzătorul.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Pentru a verifica corectitudinea unei scăderi, adunăm diferența cu scăzătorul \n            și trebuie să obținem descăzutul.",
+                "order": 3
               }
             ]
           },
@@ -3739,6 +5034,23 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Înmulțirea este o operație care repetă adunarea. De exemplu, 3 × 4 înseamnă 4 + 4 + 4 = 12. Numerele care se înmulțesc \n            se numesc factori, iar rezultatul se numește produs.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Înmulțirea are proprietăți importante: comutativitate (a × b = b × a), \n            asociativitate ((a × b) × c = a × (b × c)), distributivitate (a × (b + c) = a × b + a × c), și element neutru (a × 1 = a). Înmulțirea cu 0 dă întotdeauna 0.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceste proprietăți facilitează calculele și sunt fundamentale pentru matematică. Înmulțirea \n            este inversă împărțirii.",
+                "order": 3
+              }
             ]
           },
           {
@@ -3781,6 +5093,18 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Factorul comun este o metodă de simplificare a expresiilor matematice. Dacă o expresie conține termeni care au un factor \n            comun, putem scoate acel factor în afara unei paranteze. De exemplu, 5 × 3 + 5 × 7 = 5 × (3 + 7) = 5 × 10 = 50.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceasta este \n            aplicarea proprietății distributive a înmulțirii. Scoaterea factorului comun facilitează calculele și este importantă în algebră. Aceasta se numește și factorizare. Prin scoaterea factorului comun, expresiile complexe devin mai simple și mai ușor de calculat.",
+                "order": 2
               }
             ]
           },
@@ -3825,6 +5149,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Împărțirea exactă (cu rest 0) este operația inversă înmulțirii. În împărțire, primul număr se numește deîmpărțit, al doilea \n            se numește împărțitor, iar rezultatul se numește cât. De exemplu, în 12 ÷ 3 = 4, 12 este deîmpărțitul, 3 este împărțitorul, iar 4 \n            este câtul.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Împărțirea cu rest 0 se petrece doar dacă deîmpărțitul este divizibil cu împărțitorul, adică restul este 0. Împărțirea \n            nu este comutativă și nici asociativă. Pentru a verifica corectitudinea împărțirii, înmulțim câtul cu împărțitorul și trebuie să \n            obținem deîmpărțitul.",
+                "order": 2
+              }
             ]
           },
           {
@@ -3867,6 +5203,18 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Împărțirea cu rest este o extensie a împărțirii exacte. Când un număr nu este divizibil cu altul, rezultatul are un rest. Formula este: deîmpărțit = împărțitor × cât + rest, unde restul este întotdeauna mai mic decât împărțitorul.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, în 17 ÷ 5, \n            câtul este 3 și restul este 2, deoarece 17 = 5 × 3 + 2. Restul trebuie să satisfacă condiția 0 ≤ rest < împărțitor. Împărțirea cu rest \n            este utilă în situații practice și în teoria numerelor. Verificarea se face prin formula menționată.",
+                "order": 2
               }
             ]
           },
@@ -3911,6 +5259,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Puterea unui număr este o notație pentru a exprima înmulțirea repetată. Dacă a este baza și n este exponentul, atunci \n            a^n = a × a × ... × a (de n ori). De exemplu, 2^3 = 2 × 2 × 2 = 8. Pătratul unui număr este cazul special când exponentul este 2: \n            a^2 = a × a.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, 5^2 = 5 × 5 = 25. Cubul unui număr este când exponentul este 3: a^3 = a × a × a. Puterea cu exponent 0 este \n            întotdeauna 1 (a^0 = 1), iar puterea cu exponent 1 este chiar baza (a^1 = a). Puterile sunt utilizate frecvent în matematică și știință.",
+                "order": 2
+              }
             ]
           },
           {
@@ -3953,6 +5313,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Regulile de calcul cu puteri facilitează simplificarea expresiilor cu exponenți.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Principalele reguli sunt: înmulțirea de puteri \n            cu aceeași bază (a^m × a^n = a^(m+n)), împărțirea de puteri cu aceeași bază (a^m ÷ a^n = a^(m-n)), puterea unei puteri ((a^m)^n = a^(m×n)), \n            puterea unui produs ((a × b)^n = a^n × b^n), și puterea unui cât ((a ÷ b)^n = a^n ÷ b^n).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceste reguli sunt esențiale pentru calculele \n            cu exponenți și pentru algebră. Trebuie memorate și practicate pentru a putea fi aplicate corect în diverse situații.",
+                "order": 3
               }
             ]
           },
@@ -3997,6 +5374,23 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Compararea puterilor înseamnă a determina care dintre două puteri este mai mare, mai mică sau egală.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Pentru a compara puteri, \n            putem: 1) calcula valorile și compara rezultatele, 2) reduce la aceeași bază și compara exponenții, 3) reduce la același exponent și compara \n            bazele. De exemplu, 2^3 și 3^2: 2^3 = 8 și 3^2 = 9, deci 2^3 < 3^2.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Dacă bazele sunt egale și mai mari decât 1, atunci puterea cu exponent \n            mai mare este mai mare. Dacă exponenții sunt egali și pozitivi, atunci puterea cu baza mai mare este mai mare. Competența în compararea \n            puterilor este importantă în rezolvarea inegalităților.",
+                "order": 3
+              }
             ]
           },
           {
@@ -4040,6 +5434,18 @@
                 "correctAnswerIndex": 0,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Sistemul de numerație zecimal (baza 10) este cel pe care îl folosim zilnic. Orice număr în baza 10 poate fi scris ca o sumă de \n            puteri ale lui 10. De exemplu, 3245 = 3×10^3 + 2×10^2 + 4×10^1 + 5×10^0. Baza 2 (sistem binar) este utilizată în informatică.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "În baza 2, \n            se folosesc doar cifrele 0 și 1. De exemplu, 1011 în baza 2 este egal cu 1×2^3 + 0×2^2 + 1×2^1 + 1×2^0 = 8 + 0 + 2 + 1 = 11 în baza 10. Conversia între baze necesită înțelegerea valorilor poziționale ale cifrelor.",
+                "order": 2
+              }
             ]
           },
           {
@@ -4082,6 +5488,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Ordinea efectuării operațiilor (PEMDAS/BODMAS) stabilește care operații să se efectueze mai întâi: 1) Parantezele (rotunde, \n            pătrate, acolade), 2) Exponenți/Puteri, 3) Înmulțire și Împărțire (de la stânga la dreapta), 4) Adunare și Scădere (de la stânga la dreapta).",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, în 2 + 3 × 4, se efectuează mai întâi 3 × 4 = 12, apoi 2 + 12 = 14. Parantezele se folosesc pentru a schimba ordinea. De exemplu, \n            (2 + 3) × 4 = 5 × 4 = 20. Parantezele pătrate și acolade se utilizează pentru gruparea operațiilor complexe.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Respectarea acestei ordini este \n            esențială pentru obținerea rezultatelor corecte.",
+                "order": 3
               }
             ]
           }
@@ -4132,6 +5555,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Metoda reducerii la unitate este o metodă de rezolvare a problemelor în care se cunosc mai multe unități și se dorește \n            să se afle valoarea unei singure unități, apoi a unui număr dat de unități.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, dacă 5 cărți costă 50 de lei, metoda reducerii \n            la unitate presupune: 1) aflarea preţului unei cărți (50 ÷ 5 = 10 lei), 2) aflarea preţului pentru numărul dorit de cărți (10 × 8 = 80 \n            lei pentru 8 cărți).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Această metodă este utilă pentru probleme de proporționalitate directă. Pasii sunt: 1) calculează valoarea unei \n            unități, 2) calculează valoarea pentru numărul de unități dorit. Este una dintre cele mai frecvent utilizate metode aritmetice.",
+                "order": 3
+              }
             ]
           },
           {
@@ -4174,6 +5614,28 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Metoda comparației este o metodă de rezolvare a sistemelor de ecuații în care se compară două situații pentru a elimina una \n            dintre necunoscute.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu: dacă 3 creioane și 2 pixuri costă 11 lei, iar 3 creioane și 4 pixuri costă 17 lei, prin scăderea primei \n            ecuații din a doua, obținem 2 pixuri = 6 lei.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Pasii sunt: 1) scriem datele pentru două situații, 2) selectăm una dintre necunoscute și \n            o facem egală prin amplificare, 3) scădem o ecuație din cealaltă pentru a elimina acea necunoscută, 4) calculăm valoarea necunoscutei \n            rămase, 5) înlocuim pentru a afla și cealaltă necunoscută.",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Această metodă este eficientă pentru probleme cu două necunoscute.",
+                "order": 4
               }
             ]
           },
@@ -4218,6 +5680,28 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Metoda figurativă este o metodă de rezolvare a problemelor în care se folosesc figuri (segmente, desene) pentru a representa \n            datele problemei.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, dacă într-o clasă sunt fete și băieți, și știm că sunt 5 mai mulți băieți decât fete, putem desena segmente \n            pentru a reprezenta fiecare grup și a afla numerele.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Pasii sunt: 1) desenezi segmente egale pentru a reprezenta parți egale, 2) adaugi \n            segmente suplimentare pentru diferență, 3) calculezi valoarea unui segment, 4) afli valorile pentru fiecare grup.",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Această metodă este \n            vizuală și ajută la înțelegerea mai bună a problemei, mai ales pentru copiii mai mici.",
+                "order": 4
+              }
             ]
           },
           {
@@ -4261,6 +5745,23 @@
                 "correctAnswerIndex": 0,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Metoda mersului invers este o metodă de rezolvare a problemelor în care se cunosce rezultatul final și trebuie să se afle \n            valoarea inițială. Se numește ''mersul invers'' deoarece operațiile se efectuează în ordine inversă, cu operatori inverși.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu: \n            dacă după ce am cheltuit 50 de lei și apoi am primit 20 de lei, îmi rămân 100 de lei, cât am avut inițial? Mersul invers: 100 - 20 + \n            50 = 130 lei.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Pasii sunt: 1) identifici rezultatul final, 2) identifici operațiile în ordine, 3) efectuezi operațiile inverse în ordine \n            inversă. Această metodă este foarte utilă pentru probleme în care nu cunoaștem valoarea inițială.",
+                "order": 3
+              }
             ]
           },
           {
@@ -4303,6 +5804,23 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Metoda falsei ipoteze este o metodă de rezolvare a problemelor în care se presupune (ipoteza) o valoare pentru o necunoscută, \n            se calculează consequențele acestei ipoteze, și dacă nu se potrivesc cu datele reale, se corespunde. De exemplu: problemă cu găini și \n            iepuri.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Presupunem că toate sunt găini (care au 2 picioare). Calculăm total picioare. Dacă nu se potrivește cu realitatea, calculăm \n            diferența și o corespundem.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Pasii sunt: 1) faci o ipoteză asupra unei necunoscute, 2) calculezi consequențele, 3) compari cu realitatea, \n            4) corespunzi ipoteza pe bază de diferență. Aceasta este o metodă prin încercare și eroare, dar sistematică și eficientă.",
+                "order": 3
               }
             ]
           }
@@ -4353,6 +5871,28 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Divizibilitatea este relația dintre două numere naturale unde unul se divide exact de altul. Un număr a se divide cu \n            numărul b dacă există un număr c așa încât a = b × c. Se spune că a este divizibil cu b, sau b divide a, notat b|a.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, 12 \n            se divide cu 3 deoarece 12 = 3 × 4.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Proprietăți importante: orice număr se divide cu 1 și cu el însuși; 0 se divide cu orice număr; \n            dacă a se divide cu b și b se divide cu c, atunci a se divide cu c (tranzitivitate); dacă a se divide cu b și a se divide cu c, \n            atunci a se divide cu (b + c).",
+                "order": 3
+              },
+              {
+                "title": "Conținut",
+                "content": "Divisibilitatea este fundamentală pentru teoria numerelor.",
+                "order": 4
+              }
             ]
           },
           {
@@ -4396,6 +5936,23 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Criteriile de divizibilitate sunt reguli care permit determinarea rapidă dacă un număr se divide cu altul, fără a efectua \n            împărțirea. Criterii importante: 1) Divisibilitate cu 2: ultimul digit este par (0, 2, 4, 6, 8).",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "2) Divisibilitate cu 3: suma cifrelor \n            este divizibilă cu 3. 3) Divisibilitate cu 5: ultimul digit este 0 sau 5. 4) Divisibilitate cu 10: ultimul digit este 0. 5) Divisibilitate \n            cu 4: ultimele două cifre formează un număr divizibil cu 4.",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "6) Divisibilitate cu 9: suma cifrelor este divizibilă cu 9. Aceste criterii \n            economisesc timp și sunt esențiale în teoria numerelor.",
+                "order": 3
+              }
             ]
           },
           {
@@ -4438,6 +5995,23 @@
                 ],
                 "correctAnswerIndex": 3,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Numerele prime sunt numerele naturale mai mari decât 1 care au exact doi divizori: 1 și el însuși. De exemplu, 2, 3, 5, 7, \n            11, 13 sunt prime. Numerele compuse sunt numerele naturale mai mari decât 1 care au mai mult de doi divizori. De exemplu, 4, 6, 8, 9, 10 \n            sunt compuse.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Numărul 1 nu este nici prim, nici compus, prin definiție. Două numere sunt coprime (relativ prime) dacă cmmdc-ul lor este \n            1. Importanța numerelor prime: orice număr compus poate fi descompus unic în produs de numere prime (teorema fundamentală a aritmeticii).",
+                "order": 2
+              },
+              {
+                "title": "Conținut",
+                "content": "Numerele prime sunt ''blocuri de construcție'' ale tuturor numerelor naturale.",
+                "order": 3
               }
             ]
           }
@@ -4488,6 +6062,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Fracția ordinară este o parte din întreg, reprezentată ca a/b, unde a este numărătorul și b este numitorul. Fracțiile echivalente sunt fracții care reprezintă aceeași valoare, de exemplu 1/2 = 2/4 = 3/6.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Pentru a obține fracții echivalente, înmulțim sau împărțim atât numărătorul cât și numitorul cu același număr. Procentul este o fracție cu numitorul 100, de exemplu 25% = 25/100 = 1/4. Fracțiile sunt utilizate frecvent pentru a exprima părți din întreg și rapoarte.",
+                "order": 2
+              }
             ]
           },
           {
@@ -4530,6 +6116,18 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Pentru a compara fracții cu același numitor, se compară numărătorii: fracția cu numărător mai mare este mai mare. De exemplu, 3/5 > 2/5. Pentru a compara fracții cu același numărător, se compară numitorii: fracția cu numitor mai mic este mai mare. De exemplu, 3/4 > 3/5.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Reprezentarea pe axa numerelor ajută la vizualizarea ordinii fracțiilor. Pe axa numerelor, 0 este la stânga, iar 1 este la dreapta. Fracții între 0 și 1 sunt fracții proprii.",
+                "order": 2
               }
             ]
           },
@@ -4574,6 +6172,18 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "O fracție improprie (numărător > numitor) poate fi transformată într-un număr mixt: o parte întreagă și o fracție proprie. De exemplu, 7/3 = 2 1/3 (2 întregi și 1/3). Pentru a introduce întregi: 7 ÷ 3 = 2 rest 1, deci 7/3 = 2 1/3. Pentru a scoate întregi: 2 1/3 = (2×3 + 1)/3 = 7/3.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Numerele mixte sunt utile pentru reprezentarea cantităților care depășesc un întreg.",
+                "order": 2
+              }
             ]
           },
           {
@@ -4616,6 +6226,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Cel mai mare divizor comun (cmmdc) a două numere este cel mai mare număr care le divide pe amândouă. De exemplu, cmmdc(12, 18) = 6. Amplificarea fracției înseamnă a înmulți atât numărătorul cât și numitorul cu același număr.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Simplificarea fracției înseamnă a împărți atât numărătorul cât și numitorul cu același număr. O fracție ireductibilă este o fracție care nu mai poate fi simplificată, adică cmmdc-ul numărătorului și numitorului este 1. De exemplu, 3/5 este ireductibilă.",
+                "order": 2
               }
             ]
           },
@@ -4660,6 +6282,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Cel mai mic multiplu comun (cmmmc) a două numere este cel mai mic număr care se divide cu ambele. De exemplu, cmmmc(4, 6) = 12. Aducerea fracțiilor la un numitor comun înseamnă a găsi un numitor comun pentru două fracții, de obicei cmmmc-ul numitorilor.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, 1/4 și 1/6: cmmmc(4, 6) = 12, deci 1/4 = 3/12 și 1/6 = 2/12. Aceasta este necesară pentru a aduna sau scădea fracții cu numitori diferiți.",
+                "order": 2
+              }
             ]
           },
           {
@@ -4702,6 +6336,18 @@
                 ],
                 "correctAnswerIndex": 0,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Pentru a aduna sau scădea fracții cu același numitor, se adună sau se scad numărătorii și se păstrează numitorul. De exemplu, 2/5 + 1/5 = 3/5. Pentru fracții cu numitori diferiți, se aduc mai întâi la numitor comun, apoi se efectuează operația.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, 1/4 + 1/6: cmmmc(4, 6) = 12, deci 3/12 + 2/12 = 5/12. Rezultatul trebuie să fie o fracție ireductibilă.",
+                "order": 2
               }
             ]
           },
@@ -4746,6 +6392,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Pentru a înmulți două fracții, se înmulțesc numărătorii între ei și numitorii între ei: (a/b) × (c/d) = (a×c)/(b×d). De exemplu, (2/3) × (3/4) = 6/12 = 1/2. Simplificarea se poate face înainte de înmulțire (simplificare ''pe diagonală''). De exemplu, (2/3) × (3/4) = (2×3)/(3×4) = 2/4 = 1/2.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Înmulțirea fracțiilor este mai simplă decât adunarea pentru că nu necesită numitor comun.",
+                "order": 2
+              }
             ]
           },
           {
@@ -4788,6 +6446,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Pentru a împărți două fracții, se înmulțește prima fracție cu inversa (reciproca) celei de-a doua: (a/b) ÷ (c/d) = (a/b) × (d/c) = (a×d)/(b×c). De exemplu, (2/3) ÷ (1/4) = (2/3) × (4/1) = 8/3. Inversa unei fracții a/b este b/a. De exemplu, inversa lui 2/3 este 3/2.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Împărțirea fracțiilor se reduce la înmulțire după înlocuirea cu inversa.",
+                "order": 2
               }
             ]
           },
@@ -4832,6 +6502,13 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Puterea unei fracții cu exponent natural n se calculează prin înmulțirea fracției cu ea însăși de n ori: (a/b)^n = (a^n)/(b^n). De exemplu, (2/3)^2 = (2^2)/(3^2) = 4/9. Pentru (a/b)^0 = 1 (pentru orice a/b ≠ 0), și (a/b)^1 = a/b. Regulile pentru exponenți la numere naturale se aplică și la fracții.",
+                "order": 1
+              }
             ]
           },
           {
@@ -4874,6 +6551,18 @@
                 ],
                 "correctAnswerIndex": 0,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "A afla o fracție dintr-un număr înseamnă a înmulți fracția cu acel număr: (a/b) × n. De exemplu, 1/2 din 10 = (1/2) × 10 = 5. A afla o fracție dintr-o fracție înseamnă a înmulți fracțiile: (a/b) × (c/d). De exemplu, 1/2 din 3/4 = (1/2) × (3/4) = 3/8.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Procente funcționează similar: p% din n = (p/100) × n. De exemplu, 25% din 100 = (25/100) × 100 = 25. Aceste abilități sunt esențiale pentru probleme practice.",
+                "order": 2
               }
             ]
           }
@@ -4924,6 +6613,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Fracțiile zecimale sunt fracții cu numitorul o putere a lui 10 (10, 100, 1000, etc.). Se scriu folosind virgulă: 0,5 = 5/10, 0,25 = 25/100. Fiecare poziție după virgulă reprezentează o putere negativă a lui 10: prima poziție = zecimi (1/10), a doua = sutimi (1/100), a treia = miimi (1/1000).",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, 3,25 = 3 + 2/10 + 5/100. Conversia fracțiilor ordinare în zecimale se face prin împărțire.",
+                "order": 2
+              }
             ]
           },
           {
@@ -4966,6 +6667,18 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Aproximarea unei fracții zecimale se face rotunjind la o anumită poziție: rotunjire la zecimi (o poziție), la sutimi (două poziții), etc. De exemplu, 3,257 rotunjit la sutimi este 3,26. Compararea se face din stânga: mai întâi se compară părțile întregi, apoi zecimile, sutimile, etc.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, 3,2 < 3,25 < 3,3. Reprezentarea pe axa numerelor ajută la vizualizare.",
+                "order": 2
               }
             ]
           },
@@ -5010,6 +6723,13 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Adunarea și scăderea fracțiilor zecimale se face alinând punctul zecimal: numerele se aliniază vertical, iar operația se efectuează normal. De exemplu, 2,5 + 1,23 = 3,73. Se poate gândi și ca adunare de fracții: 2,5 = 2 5/10, 1,23 = 1 23/100, deci 2,5 + 1,23 = 2,50 + 1,23 = 3,73.",
+                "order": 1
+              }
             ]
           },
           {
@@ -5052,6 +6772,18 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Înmulțirea fracțiilor zecimale se face ca înmulțire de numere întregi, apoi se plasează virgulă la poziția corespunzătoare. Regula: numărul de zecimale din rezultat = suma numărului de zecimale din factori.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, 2,5 × 1,3: se calculează 25 × 13 = 325, și din moment ce avem 1 + 1 = 2 zecimale, rezultatul este 3,25.",
+                "order": 2
               }
             ]
           },
@@ -5096,6 +6828,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Când se împarte un număr natural la altul și rezultatul nu este întreg, se obține o fracție zecimală. De exemplu, 5 ÷ 2 = 2,5. Pentru a calcula, se continuă împărțirea după virgulă: 5 ÷ 2 = 2 rest 1, 10 ÷ 2 = 5, deci 5 ÷ 2 = 2,5.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Media aritmetică a numerelor se calculează ca suma lor împărțită la cantitate: (a + b) ÷ 2 = media.",
+                "order": 2
+              }
             ]
           },
           {
@@ -5138,6 +6882,18 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Împărțirea fracțiilor zecimale se poate face prin transformarea împărțitorului în număr întreg (deplasând virgula și multiplicând ambele numere cu puteri ale lui 10), apoi efectuând împărțirea. De exemplu, 6,25 ÷ 2,5 = 62,5 ÷ 25 = 2,5.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Regula: se deplasează virgula în ambele numere cu același număr de poziții, astfel încât împărțitorul să devină întreg.",
+                "order": 2
               }
             ]
           },
@@ -5182,6 +6938,18 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Numărul rațional pozitiv este orice număr care poate fi exprimat ca o fracție p/q unde p și q sunt numere naturale și q ≠ 0. Aceasta include fracții ordinare, fracții zecimale și numere întregi.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Ordinea operațiilor cu numere raționale este aceeași ca și cu numere naturale: 1) Paranteze, 2) Exponenți, 3) Înmulțire și Împărțire, 4) Adunare și Scădere.",
+                "order": 2
+              }
             ]
           },
           {
@@ -5225,6 +6993,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Metodele aritmetice (reducerea la unitate, comparația, figurativă, mersul invers, falsa ipoteză) se pot aplica și la probleme cu fracții și numere zecimale. De exemplu, metoda reducerii la unitate: dacă 5 kg de mere (fracționate) costă 10,5 lei, 1 kg costă 10,5 ÷ 5 = 2,1 lei.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Metodele rămân aceleași, doar că lucrăm cu numere raționale în loc de numere naturale.",
+                "order": 2
+              }
             ]
           },
           {
@@ -5267,6 +7047,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Organizarea datelor presupune colectarea și aranjarea informației pentru a o putea analiza. Frecvența este numărul de ori pe care apare o valoare. Graficele cu linii sunt folosite pentru a arăta evoluția datelor în timp.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Media unui set de date este suma tuturor valorilor împărțită la numărul de valori. De exemplu, media setului {2, 3, 4} = (2+3+4)/3 = 9/3 = 3. Acestea sunt baze ale statisticii.",
+                "order": 2
               }
             ]
           }
@@ -5317,6 +7109,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Geometria se bazează pe concepte fundamentale: Punctul este cea mai mică unitate, fără dimensiuni. Dreapta este o linie infinită în ambele direcții. Planul este o suprafață infinită bidimensională. Semiplanul este o jumătate de plan delimitată de o dreaptă.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Semidreapta este o jumătate de dreaptă care are o origine dar se întinde infinit. Segmentul de dreaptă este porțiunea dintre două puncte. Aceste concepte sunt fundamentale în geometrie.",
+                "order": 2
+              }
             ]
           },
           {
@@ -5359,6 +7163,18 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Un punct poate fi pe dreapta (incident) sau în afara dreptei (nu incident). Punctele coliniare sunt puncte care se află pe aceeași dreaptă. Trei sau mai multe puncte pot fi coliniare (pe aceeași dreaptă) sau necoliniare.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Două drepte pot fi: 1) Concurente - au un punct în comun, 2) Paralele - nu au niciun punct în comun și nu se întâlnesc niciodată, 3) Confundate - sunt aceeași dreaptă. Aceste relații sunt importante în geometrie.",
+                "order": 2
               }
             ]
           },
@@ -5403,6 +7219,18 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Lungimea unui segment este distanța dintre capetele sale, măsurată în unități (cm, m, etc.). Distanța dintre două puncte este lungimea segmentului care le unește. Segmentele congruente sunt segmentele care au aceeași lungime.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "De exemplu, dacă AB = 5 cm și CD = 5 cm, atunci AB ≡ CD (AB este congruent cu CD). Congruența este echivalentă cu egalitatea pentru segmente.",
+                "order": 2
+              }
             ]
           },
           {
@@ -5445,6 +7273,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Mijlocul unui segment este punctul care împarte segmentul în două segmente congruente. De exemplu, dacă AB = 8 cm și M este mijlocul lui AB, atunci AM = MB = 4 cm.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Simetricul unui punct A față de un punct M este punctul A' care se află pe dreapta AM, la aceeași distanță de M ca și A, dar pe cealaltă parte. De exemplu, dacă AM = 3 cm, atunci MA' = 3 cm, și A, M, A' sunt coliniare.",
+                "order": 2
               }
             ]
           },
@@ -5489,6 +7329,18 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Unghiul este format din două semidrepte cu aceeași origine (vârf). Se notează cu ∠ABC sau ∠B, unde B este vârful. Elementele unui unghi sunt: vârful și laturile (semidreptele). Interiorul unghiului este regiunea dintre laturile unghiului. Exteriorul unghiului este restul planului.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Unghiurile nule (0°), ascuțite (<90°), drepte (90°), obtuze (>90°, <180°), plate (180°) sunt clasificări după mărime.",
+                "order": 2
+              }
             ]
           },
           {
@@ -5531,6 +7383,18 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Măsura unui unghi se exprimă în grade (°). Un unghi complet (360°), unghi drept (90°), unghi plat (180°). Raportorul este instrumentul folosit pentru a măsura și construi unghiuri. Unghiurile congruente sunt unghiurile cu aceeași măsură. De exemplu, ∠ABC ≡ ∠DEF dacă ambele au 45°.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Măsurarea cu raportorul: se aliniază centrul raportorului cu vârful unghiului, iar una dintre laturile unghiului cu baza raportorului.",
+                "order": 2
               }
             ]
           },
@@ -5575,6 +7439,18 @@
                 "correctAnswerIndex": 0,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Clasificarea unghiurilor după mărime: Unghi nul (0°), Unghi ascuțit (0° < măsura < 90°), Unghi drept (90°), Unghi obtuz (90° < măsura < 180°), Unghi plat (180°), Unghi reflex (180° < măsura < 360°), Unghi complet (360°). Unghiurile complementare au suma 90°. Unghiurile suplimentare au suma 180°.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Calcule cu unghiuri: adunare, scădere, înmulțire cu scalari. De exemplu, 30° + 45° = 75°, 90° - 30° = 60°.",
+                "order": 2
+              }
             ]
           },
           {
@@ -5617,6 +7493,18 @@
                 ],
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Unitățile de măsură fundamentale: Lungime: mm, cm, m, km. Arie: mm², cm², m², km², hectar. Volum: mm³, cm³, m³, litru. Capacitate: ml, l. Masă: mg, g, kg, t. Timp: s, min, h, zile, luni, ani. Unități monetare: bani, lei (RON), euro, dolari, etc.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Conversiile între unități: 1 m = 100 cm, 1 km = 1000 m, 1 kg = 1000 g, 1 h = 60 min, etc.",
+                "order": 2
               }
             ]
           },
@@ -5661,6 +7549,18 @@
                 "correctAnswerIndex": 1,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Perimetrul este suma lungimilor laturilor unei figuri. De exemplu, perimetrul pătratului cu latura a este 4a. Aria este măsura suprafeței unei figuri. De exemplu, aria pătratului cu latura a este a². Pentru cerc: Lungimea cercului (circumferința) = 2πr, unde r este raza. Aria discului = πr².",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Aceste formule sunt esențiale pentru calculele geometrice.",
+                "order": 2
+              }
             ]
           },
           {
@@ -5704,6 +7604,18 @@
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
               }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Unități de măsură pentru arie: mm², cm², m², km², hectar. Aria unei figuri este suprafața pe care \n                        o ocupă. Pentru pătrat: A = a², unde a este latura. Pentru dreptunghi: A = lungime × lățime. Pentru triunghi: A = (bază × \n                        înălțime) / 2.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Pentru cerc: A = πr². Conversia între unități: 1 m² = 10000 cm², 1 hectar = 10000 m². Aplicarea formulelor \n                        la probleme practice.",
+                "order": 2
+              }
             ]
           },
           {
@@ -5746,6 +7658,18 @@
                 ],
                 "correctAnswerIndex": 2,
                 "nivelDificultate": 3
+              }
+            ],
+            "sections": [
+              {
+                "title": "Conținut",
+                "content": "Unități de măsură pentru volum: mm³, cm³, m³, litru. Volumul unui obiect tridimensional este \n                        cantitatea de spațiu pe care o ocupă. Pentru cub: V = a³, unde a este muchia. Pentru paralelipipedul dreptunghic: V = \n                        lungime × lățime × înălțime.",
+                "order": 1
+              },
+              {
+                "title": "Conținut",
+                "content": "Pentru cilindru: V = πr²h. Pentru sferă: V = (4/3)πr³. Conversia între unități: 1 m³ = 1000 l, \n                        1 l = 1000 cm³. Volumul și capacitatea sunt strâns legate.",
+                "order": 2
               }
             ]
           }
