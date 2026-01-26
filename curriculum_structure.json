@@ -4766,7 +4766,7 @@
           {
             "number": "1",
             "name": "Scrierea și citirea numerelor naturale",
-            "summary": "Numerele naturale sunt utilizate pentru a număra și pentru a ordona obiecte. Scrierea numerelor naturale \n            se face utilizând zece cifre: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. În sistemul de numerație zecimal (baza 10), poziția \n            unei cifre determină valoarea acesteia. De exemplu, în numărul 3245, cifra 3 reprezintă 3 mii, 2 reprezintă 2 sute, \n            4 reprezintă 4 zeci, iar 5 reprezintă 5 unități. Citirea numerelor naturale se face respectând poziția cifrelor și \n            grupurile de câte trei cifre (mii, milioane, miliarde). Aceasta este fundamentală pentru înțelegerea calculelor \n            matematice ulterioare.",
+            "summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n",
             "questions": [
               {
                 "questionNumber": 1,
@@ -5336,7 +5336,7 @@
           {
             "number": "11",
             "name": "Compararea puterilor",
-            "summary": "Compararea puterilor înseamnă a determina care dintre două puteri este mai mare, mai mică sau egală. Pentru a compara puteri, \n            putem: 1) calcula valorile și compara rezultatele, 2) reduce la aceeași bază și compara exponenții, 3) reduce la același exponent și compara \n            bazele. De exemplu, 2^3 și 3^2: 2^3 = 8 și 3^2 = 9, deci 2^3 < 3^2. Dacă bazele sunt egale și mai mari decât 1, atunci puterea cu exponent \n            mai mare este mai mare. Dacă exponenții sunt egali și pozitivi, atunci puterea cu baza mai mare este mai mare. Competența în compararea \n            puterilor este importantă în rezolvarea inegalităților.",
+            "summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n",
             "questions": [
               {
                 "questionNumber": 1,
@@ -5396,7 +5396,7 @@
           {
             "number": "12",
             "name": "Scrierea în baza 10. Scrierea în baza 2",
-            "summary": "Sistemul de numerație zecimal (baza 10) este cel pe care îl folosim zilnic. Orice număr în baza 10 poate fi scris ca o sumă de \n            puteri ale lui 10. De exemplu, 3245 = 3×10^3 + 2×10^2 + 4×10^1 + 5×10^0. Baza 2 (sistem binar) este utilizată în informatică. În baza 2, \n            se folosesc doar cifrele 0 și 1. De exemplu, 1011 în baza 2 este egal cu 1×2^3 + 0×2^2 + 1×2^1 + 1×2^0 = 8 + 0 + 2 + 1 = 11 în baza 10. \n            Conversia între baze necesită înțelegerea valorilor poziționale ale cifrelor.",
+            "summary": "## Definiții\n- • Orice număr natural se poate scrie ca o sumă de produse în care un factor este o putere a lui 10 (de\n- • 1 23 = 20 + 3 = 2 · 101 + 3 · 100\n\n## Formule și Reguli\n- • 1 23 = 20 + 3 = 2 · 101 + 3 · 100\n- • 2 1 203  = 1 000  + 200  + 3 = 1 · 103 + 2 · 102 + 0 · 101 + 3 · 100\n- • 3 23 = 16 + 4 + 2 + 1 = 1 · 24 + 0 · 23 + 1 · 22 + 1 · 2 + 1 · 20 = 10 111\n\n",
             "questions": [
               {
                 "questionNumber": 1,
@@ -5451,7 +5451,7 @@
           {
             "number": "13",
             "name": "Ordinea efectuării operațiilor; utilizarea parantezelor: rotunde, pătrate și acolade",
-            "summary": "Ordinea efectuării operațiilor (PEMDAS/BODMAS) stabilește care operații să se efectueze mai întâi: 1) Parantezele (rotunde, \n            pătrate, acolade), 2) Exponenți/Puteri, 3) Înmulțire și Împărțire (de la stânga la dreapta), 4) Adunare și Scădere (de la stânga la dreapta). \n            De exemplu, în 2 + 3 × 4, se efectuează mai întâi 3 × 4 = 12, apoi 2 + 12 = 14. Parantezele se folosesc pentru a schimba ordinea. De exemplu, \n            (2 + 3) × 4 = 5 × 4 = 20. Parantezele pătrate și acolade se utilizează pentru gruparea operațiilor complexe. Respectarea acestei ordini este \n            esențială pentru obținerea rezultatelor corecte.",
+            "summary": "## Definiții\n- • •  or dinul 1 este ordinul unităților (prima cifră din dreapta);\n- • •  or dinul 2 este ordinul zecilor (a doua cifră din dreapta);\n\n## Formule și Reguli\n- • o sută  = 10 zeci  = 100 de unități o mie\n- • = 10 sute\n- • = 100 de zeci\n\n## Exemple\n- • Exemple:\n- • Exemple:\n",
             "questions": [
               {
                 "questionNumber": 1,
@@ -5517,7 +5517,7 @@
           {
             "number": "1",
             "name": "Metoda reducerii la unitate",
-            "summary": "Metoda reducerii la unitate este o metodă de rezolvare a problemelor în care se cunosc mai multe unități și se dorește \n            să se afle valoarea unei singure unități, apoi a unui număr dat de unități. De exemplu, dacă 5 cărți costă 50 de lei, metoda reducerii \n            la unitate presupune: 1) aflarea preţului unei cărți (50 ÷ 5 = 10 lei), 2) aflarea preţului pentru numărul dorit de cărți (10 × 8 = 80 \n            lei pentru 8 cărți). Această metodă este utilă pentru probleme de proporționalitate directă. Pasii sunt: 1) calculează valoarea unei \n            unități, 2) calculează valoarea pentru numărul de unități dorit. Este una dintre cele mai frecvent utilizate metode aritmetice.",
+            "summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n",
             "questions": [
               {
                 "questionNumber": 1,
@@ -5833,7 +5833,7 @@
           {
             "number": "1",
             "name": "Divizibilitatea numerelor naturale",
-            "summary": "Divizibilitatea este relația dintre două numere naturale unde unul se divide exact de altul. Un număr a se divide cu \n            numărul b dacă există un număr c așa încât a = b × c. Se spune că a este divizibil cu b, sau b divide a, notat b|a. De exemplu, 12 \n            se divide cu 3 deoarece 12 = 3 × 4. Proprietăți importante: orice număr se divide cu 1 și cu el însuși; 0 se divide cu orice număr; \n            dacă a se divide cu b și b se divide cu c, atunci a se divide cu c (tranzitivitate); dacă a se divide cu b și a se divide cu c, \n            atunci a se divide cu (b + c). Divisibilitatea este fundamentală pentru teoria numerelor.",
+            "summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n",
             "questions": [
               {
                 "questionNumber": 1,
@@ -6024,7 +6024,7 @@
           {
             "number": "1",
             "name": "Fracții ordinare. Fracții echivalente. Procente",
-            "summary": "Fracția ordinară este o parte din întreg, reprezentată ca a/b, unde a este numărătorul și b este numitorul. Fracțiile echivalente sunt fracții care reprezintă aceeași valoare, de exemplu 1/2 = 2/4 = 3/6. Pentru a obține fracții echivalente, înmulțim sau împărțim atât numărătorul cât și numitorul cu același număr. Procentul este o fracție cu numitorul 100, de exemplu 25% = 25/100 = 1/4. Fracțiile sunt utilizate frecvent pentru a exprima părți din întreg și rapoarte.",
+            "summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n",
             "questions": [
               {
                 "questionNumber": 1,
@@ -6575,7 +6575,7 @@
           {
             "number": "1",
             "name": "Fracții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub forma de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale",
-            "summary": "Fracțiile zecimale sunt fracții cu numitorul o putere a lui 10 (10, 100, 1000, etc.). Se scriu folosind virgulă: 0,5 = 5/10, 0,25 = 25/100. Fiecare poziție după virgulă reprezentează o putere negativă a lui 10: prima poziție = zecimi (1/10), a doua = sutimi (1/100), a treia = miimi (1/1000). De exemplu, 3,25 = 3 + 2/10 + 5/100. Conversia fracțiilor ordinare în zecimale se face prin împărțire.",
+            "summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n",
             "questions": [
               {
                 "questionNumber": 1,
@@ -7071,7 +7071,7 @@
           {
             "number": "1",
             "name": "Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
-            "summary": "Geometria se bazează pe concepte fundamentale: Punctul este cea mai mică unitate, fără dimensiuni. Dreapta este o linie infinită în ambele direcții. Planul este o suprafață infinită bidimensională. Semiplanul este o jumătate de plan delimitată de o dreaptă. Semidreapta este o jumătate de dreaptă care are o origine dar se întinde infinit. Segmentul de dreaptă este porțiunea dintre două puncte. Aceste concepte sunt fundamentale în geometrie.",
+            "summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n",
             "questions": [
               {
                 "questionNumber": 1,
@@ -7621,7 +7621,7 @@
           {
             "number": "11",
             "name": "Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic",
-            "summary": "Unități de măsură pentru volum: mm³, cm³, m³, litru. Volumul unui obiect tridimensional este \n                        cantitatea de spațiu pe care o ocupă. Pentru cub: V = a³, unde a este muchia. Pentru paralelipipedul dreptunghic: V = \n                        lungime × lățime × înălțime. Pentru cilindru: V = πr²h. Pentru sferă: V = (4/3)πr³. Conversia între unități: 1 m³ = 1000 l, \n                        1 l = 1000 cm³. Volumul și capacitatea sunt strâns legate.",
+            "summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n",
             "questions": [
               {
                 "questionNumber": 1,
