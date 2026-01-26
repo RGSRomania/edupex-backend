@@ -10,7 +10,7 @@ import re
 def split_summary_into_sections(summary):
     """
     Split a lesson summary into logical sections based on headings and content structure.
-    Each section becomes a separate "page" in the learning flow.
+    Creates SMALL, digestible sections (~200-300 chars each).
 
     Returns a list of section dictionaries with 'order', 'title', and 'content'
     """
@@ -19,8 +19,6 @@ def split_summary_into_sections(summary):
 
     sections = []
     lines = summary.split('\n')
-    current_section = None
-    buffer = []
 
     i = 0
     while i < len(lines):
@@ -28,66 +26,104 @@ def split_summary_into_sections(summary):
 
         # Check for main heading (##)
         if line.strip().startswith('## '):
-            # Save previous section if exists
-            if current_section and buffer:
-                current_section['content'] = '\n'.join(buffer).strip()
-                sections.append(current_section)
+            # Main heading becomes a section
+            title = line.replace('## ', '').strip()
+            buffer = [line]
+
+            # Collect content until next major heading
+            i += 1
+            while i < len(lines):
+                next_line = lines[i]
+
+                # Stop at next main heading
+                if next_line.strip().startswith('## '):
+                    break
+
+                buffer.append(next_line)
+                i += 1
+
+            # Now split this content into smaller subsections
+            content = '\n'.join(buffer).strip()
+            subsections = split_by_subheadings(content, title)
+            sections.extend(subsections)
+            continue
+
+        i += 1
+
+    # Renumber all sections
+    for idx, section in enumerate(sections):
+        section['order'] = idx + 1
+
+    return sections if sections else []
+
+
+def split_by_subheadings(content, main_title):
+    """
+    Split content by subheadings (###) and numbered items.
+    Creates smaller sections for each concept.
+    """
+    sections = []
+    lines = content.split('\n')
+    current_subsection = None
+    buffer = []
+
+    for line in lines:
+        # Sub-heading (###)
+        if line.strip().startswith('### '):
+            # Save previous subsection
+            if current_subsection and buffer:
+                subsection_content = '\n'.join(buffer).strip()
+                if len(subsection_content) > 50:
+                    current_subsection['content'] = subsection_content
+                    sections.append(current_subsection)
                 buffer = []
 
-            # Create new section
-            title = line.replace('## ', '').strip()
-            current_section = {
-                'order': len(sections) + 1,
+            # Create new subsection
+            title = line.replace('### ', '').strip()
+            current_subsection = {
                 'title': title,
                 'content': ''
             }
             buffer.append(line)
 
-        # Check for sub-heading (###)
-        elif line.strip().startswith('### '):
-            # If this is a major subsection and we have a lot of content, we might split here
-            if buffer and len('\n'.join(buffer)) > 300:
-                # Save current section
-                if current_section:
-                    current_section['content'] = '\n'.join(buffer).strip()
-                    sections.append(current_section)
-                    buffer = []
+        # Numbered items like "**1. Item**" - create separate sections
+        elif line.strip() and line.strip().startswith('**') and '. ' in line[:20]:
+            # If buffer has content, save it first
+            if buffer and current_subsection:
+                subsection_content = '\n'.join(buffer).strip()
+                if len(subsection_content) > 50:
+                    current_subsection['content'] = subsection_content
+                    sections.append(current_subsection)
+                buffer = []
 
-                # Create new section from the subsection heading
-                subtitle = line.replace('### ', '').strip()
-                current_section = {
-                    'order': len(sections) + 1,
-                    'title': subtitle,
-                    'content': ''
-                }
-
-            if current_section:
-                buffer.append(line)
+            # Start new section for this numbered item
+            title = line.replace('**', '').replace('**', '').strip()
+            current_subsection = {
+                'title': title,
+                'content': ''
+            }
+            buffer.append(line)
 
         else:
-            if current_section or buffer:
+            if current_subsection or buffer:
                 buffer.append(line)
 
-        i += 1
+    # Save last section
+    if current_subsection and buffer:
+        subsection_content = '\n'.join(buffer).strip()
+        if len(subsection_content) > 50:
+            current_subsection['content'] = subsection_content
+            sections.append(current_subsection)
 
-    # Save the last section
-    if current_section and buffer:
-        current_section['content'] = '\n'.join(buffer).strip()
-        sections.append(current_section)
+    # If no subsections were created, create one from main content
+    if not sections:
+        sections.append({
+            'title': main_title,
+            'content': content.strip()
+        })
 
-    # Clean up empty sections and ensure all have content
-    cleaned_sections = []
-    for section in sections:
-        content = section['content'].strip()
-        if content and len(content) > 50:  # Only keep substantial sections
-            section['content'] = content
-            cleaned_sections.append(section)
+    return sections
 
-    # Renumber sections
-    for i, section in enumerate(cleaned_sections):
-        section['order'] = i + 1
-
-    return cleaned_sections if cleaned_sections else []
 
 
 def process_curriculum(curriculum_data):
