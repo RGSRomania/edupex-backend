@@ -1,0 +1,264 @@
+================================================================================
+MATEMATICA LESSON INTEGRATION REPORT
+================================================================================
+
+Total matched lessons: 51
+
+✅ Chapter 1, Lesson 1
+   Curriculum: Scrierea și citirea numerelor naturale
+   Extracted: Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p
+   Page: 178
+
+✅ Chapter 1, Lesson 10
+   Curriculum: Reguli de calcul cu puteri
+   Extracted: Lecția 10  219 Unități de măsură pentru arie. Aplicații: aria pătratul
+   Page: 178
+
+✅ Chapter 1, Lesson 11
+   Curriculum: Compararea puterilor
+   Extracted: Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p
+   Page: 178
+
+✅ Chapter 1, Lesson 12
+   Curriculum: Scrierea în baza 10. Scrierea în baza 2
+   Extracted: Lecția 12:   Scrier ea în baza 10. Scrierea în baza 2L12
+   Page: 58
+
+✅ Chapter 1, Lesson 13
+   Curriculum: Ordinea efectuării operațiilor; utilizarea parantezelor: rotunde, pătrate și acolade
+   Extracted: Lecția 13  58 Ordinea efectuării operațiilor; utilizarea parantezelor:
+   Page: 12
+
+✅ Chapter 1, Lesson 2
+   Curriculum: Reprezentarea pe axa numerelor. Compararea și ordonarea numerelor naturale; aproximări, estimări
+   Extracted: Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc
+   Page: 178
+
+✅ Chapter 1, Lesson 3
+   Curriculum: Adunarea numerelor naturale, proprietăți
+   Extracted: Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm
+   Page: 178
+
+✅ Chapter 1, Lesson 4
+   Curriculum: Scăderea numerelor naturale
+   Extracted: Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un
+   Page: 178
+
+✅ Chapter 1, Lesson 5
+   Curriculum: Înmulțirea numerelor naturale, proprietăți
+   Extracted: Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung
+   Page: 178
+
+✅ Chapter 1, Lesson 6
+   Curriculum: Factor comun
+   Extracted: Lecția 6  200 Măsura unui unghi. Unghiuri congruente (măsurarea și con
+   Page: 178
+
+✅ Chapter 1, Lesson 7
+   Curriculum: Împărțirea cu rest 0 a numerelor naturale
+   Extracted: Lecția 7  204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri
+   Page: 178
+
+✅ Chapter 1, Lesson 8
+   Curriculum: Împărțirea cu rest a numerelor naturale
+   Extracted: Lecția 8  210 Figuri congruente. Axa de simetrie
+   Page: 178
+
+✅ Chapter 1, Lesson 9
+   Curriculum: Puterea cu exponent natural a unui număr natural. Pătratul unui număr natural
+   Extracted: Lecția 9  215 Unități de măsură pentru lungime. Perimetrul
+   Page: 178
+
+✅ Chapter 2, Lesson 1
+   Curriculum: Metoda reducerii la unitate
+   Extracted: Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p
+   Page: 178
+
+✅ Chapter 2, Lesson 2
+   Curriculum: Metoda comparației
+   Extracted: Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc
+   Page: 178
+
+✅ Chapter 2, Lesson 3
+   Curriculum: Metoda figurativă
+   Extracted: Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm
+   Page: 178
+
+✅ Chapter 2, Lesson 4
+   Curriculum: Metoda mersului invers
+   Extracted: Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un
+   Page: 178
+
+✅ Chapter 2, Lesson 5
+   Curriculum: Metoda falsei ipoteze
+   Extracted: Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung
+   Page: 178
+
+✅ Chapter 3, Lesson 1
+   Curriculum: Divizibilitatea numerelor naturale
+   Extracted: Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p
+   Page: 178
+
+✅ Chapter 3, Lesson 2
+   Curriculum: Criterii de divizibilitate
+   Extracted: Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc
+   Page: 178
+
+✅ Chapter 3, Lesson 3
+   Curriculum: Numere prime. Numere compuse
+   Extracted: Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm
+   Page: 178
+
+✅ Chapter 4, Lesson 1
+   Curriculum: Fracții ordinare. Fracții echivalente. Procente
+   Extracted: Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p
+   Page: 178
+
+✅ Chapter 4, Lesson 10
+   Curriculum: Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară
+   Extracted: Lecția 10  219 Unități de măsură pentru arie. Aplicații: aria pătratul
+   Page: 178
+
+✅ Chapter 4, Lesson 2
+   Curriculum: Compararea fracțiilor cu același numitor/numărător. Reprezentarea fracțiilor ordinare pe axa numerelor
+   Extracted: Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc
+   Page: 178
+
+✅ Chapter 4, Lesson 3
+   Curriculum: Introducerea și scoaterea întregilor dintr-o fracție
+   Extracted: Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm
+   Page: 178
+
+✅ Chapter 4, Lesson 4
+   Curriculum: Cel mai mare divizor comun a două numere naturale. Amplificarea și simplificarea fracțiilor. Fracții ireductibile
+   Extracted: Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un
+   Page: 178
+
+✅ Chapter 4, Lesson 5
+   Curriculum: Cel mai mic multiplu comun a două numere naturale. Aducerea fracțiilor la un numitor comun
+   Extracted: Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung
+   Page: 178
+
+✅ Chapter 4, Lesson 6
+   Curriculum: Adunarea și scăderea fracțiilor
+   Extracted: Lecția 6  200 Măsura unui unghi. Unghiuri congruente (măsurarea și con
+   Page: 178
+
+✅ Chapter 4, Lesson 7
+   Curriculum: Înmulțirea fracțiilor
+   Extracted: Lecția 7  204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri
+   Page: 178
+
+✅ Chapter 4, Lesson 8
+   Curriculum: Împărțirea fracțiilor ordinare
+   Extracted: Lecția 8  210 Figuri congruente. Axa de simetrie
+   Page: 178
+
+✅ Chapter 4, Lesson 9
+   Curriculum: Puterea cu exponent natural a unei fracții ordinare
+   Extracted: Lecția 9  215 Unități de măsură pentru lungime. Perimetrul
+   Page: 178
+
+✅ Chapter 5, Lesson 1
+   Curriculum: Fracții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub forma de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale
+   Extracted: Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p
+   Page: 178
+
+✅ Chapter 5, Lesson 2
+   Curriculum: Aproximări; compararea, ordonarea și reprezentarea pe axa numerelor a unor fracții zecimale cu un număr finit de zecimale nenule
+   Extracted: Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc
+   Page: 178
+
+✅ Chapter 5, Lesson 3
+   Curriculum: Adunarea și scăderea fracțiilor zecimale cu un număr finit de zecimale nenule
+   Extracted: Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm
+   Page: 178
+
+✅ Chapter 5, Lesson 4
+   Curriculum: Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule
+   Extracted: Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un
+   Page: 178
+
+✅ Chapter 5, Lesson 5
+   Curriculum: Împărțirea a două numere naturale cu rezultat fracție zecimală; aplicație: media aritmetică a două sau mai multe numere naturale;
+   Extracted: Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung
+   Page: 178
+
+✅ Chapter 5, Lesson 6
+   Curriculum: Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul; împărțirea a două fracții zecimale cu un număr finit de zecimale nenule.
+   Extracted: Lecția 6  200 Măsura unui unghi. Unghiuri congruente (măsurarea și con
+   Page: 178
+
+✅ Chapter 5, Lesson 7
+   Curriculum: Număr rațional pozitiv; ordinea efectuării operațiilor cu numere raționale pozitive
+   Extracted: Lecția 7  204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri
+   Page: 178
+
+✅ Chapter 5, Lesson 8
+   Curriculum: Metode aritmetice pentru rezolvarea problemelor cu fracții în care intervin și unități de măsură pentru lungime, arie, volum, capacitate, masă, timp și unități monetare
+   Extracted: Lecția 8  210 Figuri congruente. Axa de simetrie
+   Page: 178
+
+✅ Chapter 5, Lesson 9
+   Curriculum: Probleme de organizare a datelor. Frecvență. Grafice cu linii. Media unui set de date statistice
+   Extracted: Lecția 9  215 Unități de măsură pentru lungime. Perimetrul
+   Page: 178
+
+✅ Chapter 6, Lesson 1
+   Curriculum: Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă
+   Extracted: Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p
+   Page: 178
+
+✅ Chapter 6, Lesson 10
+   Curriculum: Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului
+   Extracted: Lecția 10  219 Unități de măsură pentru arie. Aplicații: aria pătratul
+   Page: 178
+
+✅ Chapter 6, Lesson 11
+   Curriculum: Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic
+   Extracted: Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p
+   Page: 178
+
+✅ Chapter 6, Lesson 2
+   Curriculum: Pozițiile relative ale unui punct față de o dreaptă. Puncte coliniare. Pozițiile relative a două drepte: drepte concurente, drepte paralele
+   Extracted: Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc
+   Page: 178
+
+✅ Chapter 6, Lesson 3
+   Curriculum: Lungimea unui segment. Distanța dintre două puncte. Segmente congruente
+   Extracted: Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm
+   Page: 178
+
+✅ Chapter 6, Lesson 4
+   Curriculum: Mijlocul unui segment. Simetricul unui punct față de un punct
+   Extracted: Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un
+   Page: 178
+
+✅ Chapter 6, Lesson 5
+   Curriculum: Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi
+   Extracted: Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung
+   Page: 178
+
+✅ Chapter 6, Lesson 6
+   Curriculum: Măsura unui unghi. Unghiuri congruente (măsurarea și construcția cu raportorul)
+   Extracted: Lecția 6  200 Măsura unui unghi. Unghiuri congruente (măsurarea și con
+   Page: 178
+
+✅ Chapter 6, Lesson 7
+   Curriculum: Clasificarea unghiurilor. Calcule cu măsuri de unghiuri
+   Extracted: Lecția 7  204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri
+   Page: 178
+
+✅ Chapter 6, Lesson 8
+   Curriculum: Figuri congruente. Axa de simetrie
+   Extracted: Lecția 8  210 Figuri congruente. Axa de simetrie
+   Page: 178
+
+✅ Chapter 6, Lesson 9
+   Curriculum: Unități de măsură pentru lungime. Perimetrul
+   Extracted: Lecția 9  215 Unități de măsură pentru lungime. Perimetrul
+   Page: 178
+
+================================================================================
+Integration ready for 51 lessons
+================================================================================

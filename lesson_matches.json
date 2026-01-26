@@ -1,0 +1,410 @@
+{
+  "1_1": {
+    "chapter": "1",
+    "lesson": "1",
+    "curriculum_name": "Scrierea și citirea numerelor naturale",
+    "page": 178,
+    "title": "Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p",
+    "enriched_summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n"
+  },
+  "1_2": {
+    "chapter": "1",
+    "lesson": "2",
+    "curriculum_name": "Reprezentarea pe axa numerelor. Compararea și ordonarea numerelor naturale; aproximări, estimări",
+    "page": 178,
+    "title": "Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc",
+    "enriched_summary": ""
+  },
+  "1_3": {
+    "chapter": "1",
+    "lesson": "3",
+    "curriculum_name": "Adunarea numerelor naturale, proprietăți",
+    "page": 178,
+    "title": "Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm",
+    "enriched_summary": ""
+  },
+  "1_4": {
+    "chapter": "1",
+    "lesson": "4",
+    "curriculum_name": "Scăderea numerelor naturale",
+    "page": 178,
+    "title": "Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un",
+    "enriched_summary": ""
+  },
+  "1_5": {
+    "chapter": "1",
+    "lesson": "5",
+    "curriculum_name": "Înmulțirea numerelor naturale, proprietăți",
+    "page": 178,
+    "title": "Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung",
+    "enriched_summary": ""
+  },
+  "1_6": {
+    "chapter": "1",
+    "lesson": "6",
+    "curriculum_name": "Factor comun",
+    "page": 178,
+    "title": "Lecția 6  200 Măsura unui unghi. Unghiuri congruente (măsurarea și con",
+    "enriched_summary": ""
+  },
+  "1_7": {
+    "chapter": "1",
+    "lesson": "7",
+    "curriculum_name": "Împărțirea cu rest 0 a numerelor naturale",
+    "page": 178,
+    "title": "Lecția 7  204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+    "enriched_summary": ""
+  },
+  "1_8": {
+    "chapter": "1",
+    "lesson": "8",
+    "curriculum_name": "Împărțirea cu rest a numerelor naturale",
+    "page": 178,
+    "title": "Lecția 8  210 Figuri congruente. Axa de simetrie",
+    "enriched_summary": ""
+  },
+  "1_9": {
+    "chapter": "1",
+    "lesson": "9",
+    "curriculum_name": "Puterea cu exponent natural a unui număr natural. Pătratul unui număr natural",
+    "page": 178,
+    "title": "Lecția 9  215 Unități de măsură pentru lungime. Perimetrul",
+    "enriched_summary": ""
+  },
+  "1_10": {
+    "chapter": "1",
+    "lesson": "10",
+    "curriculum_name": "Reguli de calcul cu puteri",
+    "page": 178,
+    "title": "Lecția 10  219 Unități de măsură pentru arie. Aplicații: aria pătratul",
+    "enriched_summary": ""
+  },
+  "1_11": {
+    "chapter": "1",
+    "lesson": "11",
+    "curriculum_name": "Compararea puterilor",
+    "page": 178,
+    "title": "Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p",
+    "enriched_summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n"
+  },
+  "1_12": {
+    "chapter": "1",
+    "lesson": "12",
+    "curriculum_name": "Scrierea în baza 10. Scrierea în baza 2",
+    "page": 58,
+    "title": "Lecția 12:   Scrier ea în baza 10. Scrierea în baza 2L12",
+    "enriched_summary": "## Definiții\n- • Orice număr natural se poate scrie ca o sumă de produse în care un factor este o putere a lui 10 (de\n- • 1 23 = 20 + 3 = 2 · 101 + 3 · 100\n\n## Formule și Reguli\n- • 1 23 = 20 + 3 = 2 · 101 + 3 · 100\n- • 2 1 203  = 1 000  + 200  + 3 = 1 · 103 + 2 · 102 + 0 · 101 + 3 · 100\n- • 3 23 = 16 + 4 + 2 + 1 = 1 · 24 + 0 · 23 + 1 · 22 + 1 · 2 + 1 · 20 = 10 111\n\n"
+  },
+  "1_13": {
+    "chapter": "1",
+    "lesson": "13",
+    "curriculum_name": "Ordinea efectuării operațiilor; utilizarea parantezelor: rotunde, pătrate și acolade",
+    "page": 12,
+    "title": "Lecția 13  58 Ordinea efectuării operațiilor; utilizarea parantezelor:",
+    "enriched_summary": "## Definiții\n- • •  or dinul 1 este ordinul unităților (prima cifră din dreapta);\n- • •  or dinul 2 este ordinul zecilor (a doua cifră din dreapta);\n\n## Formule și Reguli\n- • o sută  = 10 zeci  = 100 de unități o mie\n- • = 10 sute\n- • = 100 de zeci\n\n## Exemple\n- • Exemple:\n- • Exemple:\n"
+  },
+  "2_1": {
+    "chapter": "2",
+    "lesson": "1",
+    "curriculum_name": "Metoda reducerii la unitate",
+    "page": 178,
+    "title": "Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p",
+    "enriched_summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n"
+  },
+  "2_2": {
+    "chapter": "2",
+    "lesson": "2",
+    "curriculum_name": "Metoda comparației",
+    "page": 178,
+    "title": "Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc",
+    "enriched_summary": ""
+  },
+  "2_3": {
+    "chapter": "2",
+    "lesson": "3",
+    "curriculum_name": "Metoda figurativă",
+    "page": 178,
+    "title": "Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm",
+    "enriched_summary": ""
+  },
+  "2_4": {
+    "chapter": "2",
+    "lesson": "4",
+    "curriculum_name": "Metoda mersului invers",
+    "page": 178,
+    "title": "Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un",
+    "enriched_summary": ""
+  },
+  "2_5": {
+    "chapter": "2",
+    "lesson": "5",
+    "curriculum_name": "Metoda falsei ipoteze",
+    "page": 178,
+    "title": "Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung",
+    "enriched_summary": ""
+  },
+  "3_1": {
+    "chapter": "3",
+    "lesson": "1",
+    "curriculum_name": "Divizibilitatea numerelor naturale",
+    "page": 178,
+    "title": "Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p",
+    "enriched_summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n"
+  },
+  "3_2": {
+    "chapter": "3",
+    "lesson": "2",
+    "curriculum_name": "Criterii de divizibilitate",
+    "page": 178,
+    "title": "Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc",
+    "enriched_summary": ""
+  },
+  "3_3": {
+    "chapter": "3",
+    "lesson": "3",
+    "curriculum_name": "Numere prime. Numere compuse",
+    "page": 178,
+    "title": "Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm",
+    "enriched_summary": ""
+  },
+  "4_1": {
+    "chapter": "4",
+    "lesson": "1",
+    "curriculum_name": "Fracții ordinare. Fracții echivalente. Procente",
+    "page": 178,
+    "title": "Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p",
+    "enriched_summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n"
+  },
+  "4_2": {
+    "chapter": "4",
+    "lesson": "2",
+    "curriculum_name": "Compararea fracțiilor cu același numitor/numărător. Reprezentarea fracțiilor ordinare pe axa numerelor",
+    "page": 178,
+    "title": "Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc",
+    "enriched_summary": ""
+  },
+  "4_3": {
+    "chapter": "4",
+    "lesson": "3",
+    "curriculum_name": "Introducerea și scoaterea întregilor dintr-o fracție",
+    "page": 178,
+    "title": "Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm",
+    "enriched_summary": ""
+  },
+  "4_4": {
+    "chapter": "4",
+    "lesson": "4",
+    "curriculum_name": "Cel mai mare divizor comun a două numere naturale. Amplificarea și simplificarea fracțiilor. Fracții ireductibile",
+    "page": 178,
+    "title": "Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un",
+    "enriched_summary": ""
+  },
+  "4_5": {
+    "chapter": "4",
+    "lesson": "5",
+    "curriculum_name": "Cel mai mic multiplu comun a două numere naturale. Aducerea fracțiilor la un numitor comun",
+    "page": 178,
+    "title": "Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung",
+    "enriched_summary": ""
+  },
+  "4_6": {
+    "chapter": "4",
+    "lesson": "6",
+    "curriculum_name": "Adunarea și scăderea fracțiilor",
+    "page": 178,
+    "title": "Lecția 6  200 Măsura unui unghi. Unghiuri congruente (măsurarea și con",
+    "enriched_summary": ""
+  },
+  "4_7": {
+    "chapter": "4",
+    "lesson": "7",
+    "curriculum_name": "Înmulțirea fracțiilor",
+    "page": 178,
+    "title": "Lecția 7  204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+    "enriched_summary": ""
+  },
+  "4_8": {
+    "chapter": "4",
+    "lesson": "8",
+    "curriculum_name": "Împărțirea fracțiilor ordinare",
+    "page": 178,
+    "title": "Lecția 8  210 Figuri congruente. Axa de simetrie",
+    "enriched_summary": ""
+  },
+  "4_9": {
+    "chapter": "4",
+    "lesson": "9",
+    "curriculum_name": "Puterea cu exponent natural a unei fracții ordinare",
+    "page": 178,
+    "title": "Lecția 9  215 Unități de măsură pentru lungime. Perimetrul",
+    "enriched_summary": ""
+  },
+  "4_10": {
+    "chapter": "4",
+    "lesson": "10",
+    "curriculum_name": "Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară",
+    "page": 178,
+    "title": "Lecția 10  219 Unități de măsură pentru arie. Aplicații: aria pătratul",
+    "enriched_summary": ""
+  },
+  "5_1": {
+    "chapter": "5",
+    "lesson": "1",
+    "curriculum_name": "Fracții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale lui 10 sub forma de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale",
+    "page": 178,
+    "title": "Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p",
+    "enriched_summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n"
+  },
+  "5_2": {
+    "chapter": "5",
+    "lesson": "2",
+    "curriculum_name": "Aproximări; compararea, ordonarea și reprezentarea pe axa numerelor a unor fracții zecimale cu un număr finit de zecimale nenule",
+    "page": 178,
+    "title": "Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc",
+    "enriched_summary": ""
+  },
+  "5_3": {
+    "chapter": "5",
+    "lesson": "3",
+    "curriculum_name": "Adunarea și scăderea fracțiilor zecimale cu un număr finit de zecimale nenule",
+    "page": 178,
+    "title": "Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm",
+    "enriched_summary": ""
+  },
+  "5_4": {
+    "chapter": "5",
+    "lesson": "4",
+    "curriculum_name": "Înmulțirea fracțiilor zecimale cu un număr finit de zecimale nenule",
+    "page": 178,
+    "title": "Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un",
+    "enriched_summary": ""
+  },
+  "5_5": {
+    "chapter": "5",
+    "lesson": "5",
+    "curriculum_name": "Împărțirea a două numere naturale cu rezultat fracție zecimală; aplicație: media aritmetică a două sau mai multe numere naturale;",
+    "page": 178,
+    "title": "Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung",
+    "enriched_summary": ""
+  },
+  "5_6": {
+    "chapter": "5",
+    "lesson": "6",
+    "curriculum_name": "Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul; împărțirea a două fracții zecimale cu un număr finit de zecimale nenule.",
+    "page": 178,
+    "title": "Lecția 6  200 Măsura unui unghi. Unghiuri congruente (măsurarea și con",
+    "enriched_summary": ""
+  },
+  "5_7": {
+    "chapter": "5",
+    "lesson": "7",
+    "curriculum_name": "Număr rațional pozitiv; ordinea efectuării operațiilor cu numere raționale pozitive",
+    "page": 178,
+    "title": "Lecția 7  204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+    "enriched_summary": ""
+  },
+  "5_8": {
+    "chapter": "5",
+    "lesson": "8",
+    "curriculum_name": "Metode aritmetice pentru rezolvarea problemelor cu fracții în care intervin și unități de măsură pentru lungime, arie, volum, capacitate, masă, timp și unități monetare",
+    "page": 178,
+    "title": "Lecția 8  210 Figuri congruente. Axa de simetrie",
+    "enriched_summary": ""
+  },
+  "5_9": {
+    "chapter": "5",
+    "lesson": "9",
+    "curriculum_name": "Probleme de organizare a datelor. Frecvență. Grafice cu linii. Media unui set de date statistice",
+    "page": 178,
+    "title": "Lecția 9  215 Unități de măsură pentru lungime. Perimetrul",
+    "enriched_summary": ""
+  },
+  "6_1": {
+    "chapter": "6",
+    "lesson": "1",
+    "curriculum_name": "Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
+    "page": 178,
+    "title": "Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p",
+    "enriched_summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n"
+  },
+  "6_2": {
+    "chapter": "6",
+    "lesson": "2",
+    "curriculum_name": "Pozițiile relative ale unui punct față de o dreaptă. Puncte coliniare. Pozițiile relative a două drepte: drepte concurente, drepte paralele",
+    "page": 178,
+    "title": "Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc",
+    "enriched_summary": ""
+  },
+  "6_3": {
+    "chapter": "6",
+    "lesson": "3",
+    "curriculum_name": "Lungimea unui segment. Distanța dintre două puncte. Segmente congruente",
+    "page": 178,
+    "title": "Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm",
+    "enriched_summary": ""
+  },
+  "6_4": {
+    "chapter": "6",
+    "lesson": "4",
+    "curriculum_name": "Mijlocul unui segment. Simetricul unui punct față de un punct",
+    "page": 178,
+    "title": "Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un",
+    "enriched_summary": ""
+  },
+  "6_5": {
+    "chapter": "6",
+    "lesson": "5",
+    "curriculum_name": "Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi",
+    "page": 178,
+    "title": "Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung",
+    "enriched_summary": ""
+  },
+  "6_6": {
+    "chapter": "6",
+    "lesson": "6",
+    "curriculum_name": "Măsura unui unghi. Unghiuri congruente (măsurarea și construcția cu raportorul)",
+    "page": 178,
+    "title": "Lecția 6  200 Măsura unui unghi. Unghiuri congruente (măsurarea și con",
+    "enriched_summary": ""
+  },
+  "6_7": {
+    "chapter": "6",
+    "lesson": "7",
+    "curriculum_name": "Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+    "page": 178,
+    "title": "Lecția 7  204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+    "enriched_summary": ""
+  },
+  "6_8": {
+    "chapter": "6",
+    "lesson": "8",
+    "curriculum_name": "Figuri congruente. Axa de simetrie",
+    "page": 178,
+    "title": "Lecția 8  210 Figuri congruente. Axa de simetrie",
+    "enriched_summary": ""
+  },
+  "6_9": {
+    "chapter": "6",
+    "lesson": "9",
+    "curriculum_name": "Unități de măsură pentru lungime. Perimetrul",
+    "page": 178,
+    "title": "Lecția 9  215 Unități de măsură pentru lungime. Perimetrul",
+    "enriched_summary": ""
+  },
+  "6_10": {
+    "chapter": "6",
+    "lesson": "10",
+    "curriculum_name": "Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului",
+    "page": 178,
+    "title": "Lecția 10  219 Unități de măsură pentru arie. Aplicații: aria pătratul",
+    "enriched_summary": ""
+  },
+  "6_11": {
+    "chapter": "6",
+    "lesson": "11",
+    "curriculum_name": "Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic",
+    "page": 178,
+    "title": "Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p",
+    "enriched_summary": "## Definiții\n- • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu\n- • toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct\n\n## Formule și Reguli\n- • A  B Punctele A și B coincid. A = B\n- • M   N Punctele M și N sunt distincte. M ≠ NDe reținut\n- • a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.\n\n## Exemple\n- • 11 P riviți figura 9 și dați câte trei exemple de:\n- • 0 1 2 3 4 5ExempleDe reținut\n"
+  }
+}
