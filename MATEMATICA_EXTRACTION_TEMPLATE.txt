@@ -1,0 +1,146 @@
+═══════════════════════════════════════════════════════════════════════════════
+                        MATEMATICA MANUAL EXTRACTION
+                    Start filling this file with lessons from Manual MATE.doc
+═══════════════════════════════════════════════════════════════════════════════
+
+Follow the format below for each of the 51 lessons.
+
+═══════════════════════════════════════════════════════════════════════════════
+LESSON TITLE: [COPY EXACT TITLE FROM MANUAL]
+CHAPTER: 1 - Operații cu numere
+LESSON NUMBER: 1
+═══════════════════════════════════════════════════════════════════════════════
+
+DEFINITION/INTRODUCTION:
+[What is this lesson about? What will students learn? Copy from manual]
+
+
+MAIN CONCEPTS:
+[List all key concepts, rules, properties, formulas shown in the manual]
+- Concept 1
+- Concept 2
+- Concept 3
+
+
+STEP-BY-STEP EXPLANATION:
+[How do we do this? Include all steps shown in manual]
+1.
+2.
+3.
+
+
+EXAMPLES:
+[Include all examples from the manual, with solutions]
+
+Exemplu 1:
+[Problem statement]
+[Solution/Answer]
+
+Exemplu 2:
+[Problem statement]
+[Solution/Answer]
+
+Exemplu 3:
+[Problem statement]
+[Solution/Answer]
+
+
+GRAPHICS/DIAGRAMS:
+[Describe any tables, charts, number lines, diagrams shown in manual]
+- [Description of table/chart 1]
+- [Description of figure/diagram 1]
+- [Description of number line 1]
+
+
+NOTES/IMPORTANT TIPS:
+[Include all tips, reminders, common mistakes from the manual]
+- Tip 1
+- Tip 2
+- Common mistake
+- Important reminder
+
+
+PRACTICE/ADDITIONAL:
+[Any practice problems or additional content from the manual]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+LESSON TITLE:
+CHAPTER: 1 - Operații cu numere
+LESSON NUMBER: 2
+═══════════════════════════════════════════════════════════════════════════════
+
+DEFINITION/INTRODUCTION:
+
+
+MAIN CONCEPTS:
+
+
+STEP-BY-STEP EXPLANATION:
+
+
+EXAMPLES:
+
+
+GRAPHICS/DIAGRAMS:
+
+
+NOTES/IMPORTANT TIPS:
+
+
+PRACTICE/ADDITIONAL:
+
+
+═══════════════════════════════════════════════════════════════════════════════
+LESSON TITLE:
+CHAPTER: 1 - Operații cu numere
+LESSON NUMBER: 3
+═══════════════════════════════════════════════════════════════════════════════
+
+DEFINITION/INTRODUCTION:
+
+
+MAIN CONCEPTS:
+
+
+STEP-BY-STEP EXPLANATION:
+
+
+EXAMPLES:
+
+
+GRAPHICS/DIAGRAMS:
+
+
+NOTES/IMPORTANT TIPS:
+
+
+PRACTICE/ADDITIONAL:
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+[CONTINUE THIS PATTERN FOR ALL 51 LESSONS]
+
+Chapter 1: Operații cu numere (13 lessons)
+Chapter 2: Metode aritmetice (5 lessons)
+Chapter 3: Divizibilitatea (3 lessons)
+Chapter 4: Fracții ordinare (10 lessons)
+Chapter 5: Fracții zecimale (9 lessons)
+Chapter 6: Elemente de geometrie și unități de măsură (11 lessons)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+INSTRUCTIONS:
+1. Copy this file to a location where you can edit it
+2. For each lesson in Manual MATE.doc:
+   a. Copy the lesson title exactly as it appears
+   b. Extract all content using the template above
+   c. Include all examples with solutions
+   d. Describe all graphics/tables/diagrams
+   e. List all important notes and tips
+3. Save as: MATEMATICA_LESSONS_EXTRACTED.txt
+4. Share with the assistant when complete
+
+═══════════════════════════════════════════════════════════════════════════════
+
