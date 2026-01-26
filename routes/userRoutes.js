@@ -94,9 +94,37 @@ router.post('/login', async (req, res) => {
       return res.status(401).json({ message: 'Credențiale invalide' });
     }
 
-    // Update last active
+    // Update last active - ensure preferences exist before saving
     user.lastActive = Date.now();
-    await user.save();
+
+    // Ensure all required fields have values
+    if (!user.preferences) {
+      user.preferences = {
+        aiTeacherGender: 'female',
+        notificationsEnabled: true,
+        dailyGoal: 50
+      };
+    }
+    if (!user.evaluationScores) {
+      user.evaluationScores = {
+        matematica: 0,
+        limba: 0,
+        total: 0
+      };
+    }
+    if (!user.streak) {
+      user.streak = 0;
+    }
+    if (!user.hearts) {
+      user.hearts = 5;
+    }
+
+    try {
+      await user.save();
+    } catch (saveError) {
+      console.error('Error saving user on login:', saveError);
+      // Continue anyway - don't fail login just because of save error
+    }
 
     // Generate JWT token
     const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: '7d' });
@@ -107,18 +135,19 @@ router.post('/login', async (req, res) => {
       user: {
         id: user._id,
         username: user.username,
-        firstName: user.firstName,
-        lastName: user.lastName,
+        firstName: user.firstName || '',
+        lastName: user.lastName || '',
         email: user.email,
         gradeLevel: user.gradeLevel,
-        xpPoints: user.xpPoints,
-        level: user.level,
-        streak: user.streak,
-        hearts: user.hearts
+        xpPoints: user.xpPoints || 0,
+        level: user.level || 1,
+        streak: user.streak || 0,
+        hearts: user.hearts || 5
       }
     });
   } catch (error) {
-    res.status(500).json({ message: 'Error updating preferences', error: error.message });
+    console.error('Login error details:', error);
+    res.status(500).json({ message: 'Error durante autentificare', error: error.message });
   }
 });
 
