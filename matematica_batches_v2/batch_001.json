@@ -1,0 +1,259 @@
+{
+  "batch_number": 1,
+  "item_count": 20,
+  "items": [
+    {
+      "title": "Lecția 3 96 Numere prime. Numere compuse",
+      "line_number": 146,
+      "content_lines": 3,
+      "content": [
+        "Recapitulare",
+        "și evaluare 99",
+        "U4 Fracții ordinare"
+      ],
+      "content_preview": "Recapitulare și evaluare 99 U4 Fracții ordinare",
+      "metadata": {
+        "word_count": 7,
+        "char_count": 45
+      }
+    },
+    {
+      "title": "Lecția 1 102 Fracții ordinare. Fracții echivalente. Procente",
+      "line_number": 157,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 2 106Compararea fracțiilor cu același numitor/numărător.",
+      "line_number": 163,
+      "content_lines": 1,
+      "content": [
+        "Reprezentarea fracțiilor ordinare pe axa numerelor"
+      ],
+      "content_preview": "Reprezentarea fracțiilor ordinare pe axa numerelor",
+      "metadata": {
+        "word_count": 6,
+        "char_count": 50
+      }
+    },
+    {
+      "title": "Lecția 3 109 Introducerea și scoaterea întregilor dintr-o fracție",
+      "line_number": 172,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 4 111Cel mai mare divizor comun a două numere naturale.",
+      "line_number": 178,
+      "content_lines": 1,
+      "content": [
+        "Amplificarea și simplificarea fracțiilor. Fracții ireductibile"
+      ],
+      "content_preview": "Amplificarea și simplificarea fracțiilor. Fracții ireductibile",
+      "metadata": {
+        "word_count": 6,
+        "char_count": 62
+      }
+    },
+    {
+      "title": "Lecția 5 116Cel mai mic multiplu comun a două numere naturale.",
+      "line_number": 187,
+      "content_lines": 1,
+      "content": [
+        "Aducerea fracțiilor la un numitor comun"
+      ],
+      "content_preview": "Aducerea fracțiilor la un numitor comun",
+      "metadata": {
+        "word_count": 6,
+        "char_count": 39
+      }
+    },
+    {
+      "title": "Lecția 6 119 Adunarea și scăderea fracțiilor",
+      "line_number": 196,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 7 123 Înmulțirea fracțiilor",
+      "line_number": 202,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 8 126 Împărțirea fracțiilor ordinare",
+      "line_number": 208,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 9 129 Puterea cu exponent natural a unei fracții ordinare",
+      "line_number": 214,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 10 132 Fracții/procente dintr-un număr natural sau dintr-o frac",
+      "line_number": 220,
+      "content_lines": 3,
+      "content": [
+        "Recapitulare",
+        "și evaluare 136",
+        "U5 Fracții zecimale"
+      ],
+      "content_preview": "Recapitulare și evaluare 136 U5 Fracții zecimale",
+      "metadata": {
+        "word_count": 7,
+        "char_count": 46
+      }
+    },
+    {
+      "title": "Lecția 1 140Fracții zecimale; scrierea fracțiilor ordinare cu numitori",
+      "line_number": 231,
+      "content_lines": 2,
+      "content": [
+        "de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale",
+        "nenule în fracție ordinară"
+      ],
+      "content_preview": "de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale nenule în fracție ordinară",
+      "metadata": {
+        "word_count": 17,
+        "char_count": 112
+      }
+    },
+    {
+      "title": "Lecția 2 143Aproximări; compararea, ordonarea și reprezentarea pe axa",
+      "line_number": 241,
+      "content_lines": 1,
+      "content": [
+        "a unor fracții zecimale cu un număr finit de zecimale nenule"
+      ],
+      "content_preview": "a unor fracții zecimale cu un număr finit de zecimale nenule",
+      "metadata": {
+        "word_count": 11,
+        "char_count": 60
+      }
+    },
+    {
+      "title": "Lecția 3 146 Adunarea și scăderea fracțiilor zecimale cu un număr fini",
+      "line_number": 250,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 4 149 Înmulțirea fracțiilor zecimale cu un număr finit de zecim",
+      "line_number": 256,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 5 152Împărțirea a două numere naturale cu rezultat fracție zeci",
+      "line_number": 262,
+      "content_lines": 3,
+      "content": [
+        "FORMULAS/RULES:",
+        "• transformarea unei fracții ordinare într-o fracție zecimală; periodicitate",
+        "aplicație: media aritmetică a două sau mai multe numere naturale;"
+      ],
+      "content_preview": "FORMULAS/RULES: • transformarea unei fracții ordinare într-o fracție zecimală; periodicitate aplicație: media aritmetică a două sau mai multe numere n...",
+      "metadata": {
+        "word_count": 20,
+        "char_count": 156
+      }
+    },
+    {
+      "title": "Lecția 6 157Împărțirea unei fracții zecimale cu un număr finit de zeci",
+      "line_number": 274,
+      "content_lines": 2,
+      "content": [
+        "natural nenul; împărțirea a două fracții zecimale cu un număr finit de zecimale nenule.",
+        "Transformarea unei fracții zecimale periodice în fracție ordinară"
+      ],
+      "content_preview": "natural nenul; împărțirea a două fracții zecimale cu un număr finit de zecimale nenule. Transformarea unei fracții zecimale periodice în fracție ordin...",
+      "metadata": {
+        "word_count": 22,
+        "char_count": 152
+      }
+    },
+    {
+      "title": "Lecția 7 160 Număr rațional pozitiv; ordinea efectuării operațiilor cu",
+      "line_number": 284,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 8 163Metode aritmetice pentru rezolvarea problemelor cu fracții",
+      "line_number": 290,
+      "content_lines": 1,
+      "content": [
+        "de măsură pentru lungime, arie, volum, capacitate, masă, timp și unități monetare"
+      ],
+      "content_preview": "de măsură pentru lungime, arie, volum, capacitate, masă, timp și unități monetare",
+      "metadata": {
+        "word_count": 12,
+        "char_count": 81
+      }
+    },
+    {
+      "title": "Lecția 9 168Probleme de organizare a datelor. Frecvență. Grafice cu li",
+      "line_number": 299,
+      "content_lines": 4,
+      "content": [
+        "de date statistice",
+        "Recapitulare",
+        "și evaluare 173",
+        "U6 Elemente de geometrie și unități de măsură"
+      ],
+      "content_preview": "de date statistice Recapitulare și evaluare 173 U6 Elemente de geometrie și unități de măsură",
+      "metadata": {
+        "word_count": 15,
+        "char_count": 90
+      }
+    }
+  ]
+}

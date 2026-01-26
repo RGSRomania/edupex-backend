@@ -1,0 +1,239 @@
+{
+  "batch_number": 3,
+  "item_count": 20,
+  "items": [
+    {
+      "title": "Lecția 1  10 Scrierea și citirea numerelor naturale",
+      "line_number": 572,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 2  15Reprezentarea pe axa numerelor. Compararea și ordonarea nu",
+      "line_number": 578,
+      "content_lines": 1,
+      "content": [
+        "aproximări, estimări"
+      ],
+      "content_preview": "aproximări, estimări",
+      "metadata": {
+        "word_count": 2,
+        "char_count": 20
+      }
+    },
+    {
+      "title": "Lecția 3  20 Adunarea numerelor naturale, proprietăți",
+      "line_number": 587,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 4  26 Scăderea numerelor naturale",
+      "line_number": 593,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 5  30 Înmulțirea numerelor naturale, proprietăți",
+      "line_number": 599,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 6  36 Factor comun",
+      "line_number": 605,
+      "content_lines": 2,
+      "content": [
+        "Recapitulare  și evaluare",
+        "38"
+      ],
+      "content_preview": "Recapitulare  și evaluare 38",
+      "metadata": {
+        "word_count": 4,
+        "char_count": 27
+      }
+    },
+    {
+      "title": "Lecția 7  39 Împărțirea cu rest 0 a numerelor naturale",
+      "line_number": 615,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 8  43 Împărțirea cu rest a numerelor naturale",
+      "line_number": 621,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 9  46 Puterea cu exponent natural a unui număr natural. Pătratu",
+      "line_number": 627,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 10  50 Reguli de calcul cu puteri",
+      "line_number": 633,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 11  53 Compararea puterilor",
+      "line_number": 639,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 12  55 Scrierea în baza 10. Scrierea în baza 2",
+      "line_number": 645,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 13  58 Ordinea efectuării operațiilor; utilizarea parantezelor:",
+      "line_number": 651,
+      "content_lines": 2,
+      "content": [
+        "Recapitulare  și evaluare",
+        "61"
+      ],
+      "content_preview": "Recapitulare  și evaluare 61",
+      "metadata": {
+        "word_count": 4,
+        "char_count": 27
+      }
+    },
+    {
+      "title": "Lecția 1  10 Scrierea și citirea numerelor naturale",
+      "line_number": 661,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 2  15Reprezentarea pe axa numerelor. Compararea și ordonarea nu",
+      "line_number": 667,
+      "content_lines": 1,
+      "content": [
+        "aproximări, estimări"
+      ],
+      "content_preview": "aproximări, estimări",
+      "metadata": {
+        "word_count": 2,
+        "char_count": 20
+      }
+    },
+    {
+      "title": "Lecția 3  20 Adunarea numerelor naturale, proprietăți",
+      "line_number": 676,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 4  26 Scăderea numerelor naturale",
+      "line_number": 682,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 5  30 Înmulțirea numerelor naturale, proprietăți",
+      "line_number": 688,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 6  36 Factor comun",
+      "line_number": 694,
+      "content_lines": 2,
+      "content": [
+        "Recapitulare  și evaluare",
+        "38"
+      ],
+      "content_preview": "Recapitulare  și evaluare 38",
+      "metadata": {
+        "word_count": 4,
+        "char_count": 27
+      }
+    },
+    {
+      "title": "Lecția 7  39 Împărțirea cu rest 0 a numerelor naturale",
+      "line_number": 704,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    }
+  ]
+}

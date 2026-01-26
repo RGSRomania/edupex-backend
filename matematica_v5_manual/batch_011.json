@@ -1,0 +1,258 @@
+{
+  "batch_number": 11,
+  "section_count": 15,
+  "sections": [
+    {
+      "page": 166,
+      "type": "pdf_page",
+      "text": "164 U5 Fracții zecimale\nb Transcriem datele problemei:\n2,5 m stofă . . . . . . . . . . . . . . . . . . . . . . . . 4,2 m pânză . . . . . . . . . . . . . . . . . . . . . . . . 227,80 lei\n5 m stofă . . . . . . . . . . . . . . . . . . . . . . . . 6,4 m pânză . . . . . . . . . . . . . . . . . . . . . . . . 412,60 lei\nAducem la același termen de comparație pentru a elimina materialul de stofă.\nÎnmulțind cu 2 datele care intervin în prima situație, obținem:\n5 m stofă . . . . . . . . . . . . . . . . . . . . . . . . . . 8,4 m pânză . . . . . . . . . . . . . . . . . . . . . . . . 455,60 lei\n5 m stofă . . . . . . . . . . . . . . . . . . . . . . . . . . 6,4 m pânză . . . . . . . . . . . . . . . . . . . . . . . . 412,60 lei\nDiferența de preț egală cu 455,60 lei ‑ 412,60 lei = 43 lei se datorează lungimii pânzei cumpă‑\nrate în plus, egală cu 8,4 m ‑ 6,4 m = 2 m. Atunci un metru de pânză costă 43 lei : 2 = 21,50 lei.\n2,5 m de stofă costă 227,80 lei ‑ 21,50 lei · 4,2 = 227,80 lei ‑ 90,30 lei = 137,50 lei și atunci 1 m\nde stofă costă 137,50 lei : 2,5 = 55 lei.\nVerificare: 2 ,5 m de stofă și 4,2 m de pânză costă 55 lei · 2,5 + 21,50 lei · 4,2 = 137,50 lei +\n+ 90,30 lei = 227,80 lei.\n5 m de stofă și 6,4 m de stofă costă 55 lei · 5 + 21,50 lei · 6,4 = 275 lei + 137,60 lei =\n= 412,60 lei.\nNe amintim\nMetoda figurativă presupune reprezentarea datelor prin desene (de regulă, segmente de dreaptă), respectându‑se\nregulile dintre aceste date. Metoda figurativă se aplică, de regulă, pentru:\n• determinarea a două mărimi atunci când se cunosc suma și diferența, suma și câtul sau diferența și câtul lor;\n• determinarea unei fracții dintr‑un întreg sau a unui întreg când se cunoaște o anumită fracție din el.\nExemplu În tabăra de orientare turistică, traseul pentru prima ex cursie\neste stabilit astfel: din tabără se pleacă până la cascadă, urmează\nlacul cu nuferi și apoi se ajunge la punctul de campare. Distanța\n5\nde la tabără până la cascadă este egală cu din lungimea\n11\n2\nt raseului, iar distanța de la cascadă și lacul cu nuferi este din\n11\nlungimea traseului.\na Este posibil ca distanța dintre cascadă și lacul cu nuferi să fie\nmai mare decât distanța dintre lac și punctul de campare?\nJustifică răspunsul dat.\nb Ce lungime are traseul, știind că distanța dintre lac și punctul de campare este de 5,6 km?\nRezolvare:\n5 2 4\na Distanța dintre lac și punctul de campare reprezintă 1‑ ‑ = din lungimea traseului.\n11 11 11\n2 4\nDeoarece < , deducem că nu este posibil.\n11 11\n5 2\nb Deoarece și sunt două fracții din același întreg, lungimea traseului, reprezentăm lungimea\n11 11\ntra seului cu un segment împărțit în 11 părți egale:\np p p p p p p p p p p\n5 2\ndin traseu din traseu 5,6 km\n11 11\nDeducem că 5,6 km reprezintă 4 părți din lungimea traseului.\nAtunci o parte reprezintă 5,6 km : 4 = 1,4 km, iar lungimea traseului este de 1,4 km · 11 = 15,4 km.\nVerificare: 1,4 km · 5 + 1,4 km · 2 + 5,6 km = 7 km + 2,8 km + 5,6 km = 15,4 km.",
+      "text_length": 2933,
+      "tables_count": 2,
+      "has_images": true,
+      "lessons": []
+    },
+    {
+      "page": 167,
+      "type": "pdf_page",
+      "text": "Metode aritmetice pentru rezolvarea problemelor cu fracții L8 165\nNe amintim\nMetoda mersului invers se utilizează în problemele în care datele depind unele de altele succesiv, ultima fiind\ncunoscută. Ordinea rezolvării este inversă celei în care se succed datele problemei. Operațiile aritmetice folosite\npentru rezolvarea unei probleme prin metoda mersului invers sunt, de regulă, operațiile inverse celor care exprimă\ndependențele între mărimi indicate de problemă.\nExemplu 1 2 1\nDintr‑o sumă de bani, Horia a cheltuit pentru un stilou, din rest pentru un CD și din noul rest\n8 7 3\npentru o carte. Câți lei a avut în total dacă i‑au rămas 40 de lei?\na Este posibil ca, după ce a cumpărat un stilou și un CD, să‑i fi rămas 120 de lei? Justificați răspun‑\nsul dat.\nb Câți lei a avut în total, dacă, după ce a cumpărat cartea, i‑au rămas 40 de lei?\nRezolvare:\n1\na În acest caz, cartea ar fi costat 120 lei⋅ =40 lei și i‑ar fi rămas 120 lei ‑ 40 lei = 80 lei, ceea ce\n3\ncontrazice faptul că i‑au rămas 40 de lei. Deci nu este posibil.\nb Pasul I. Descompunem problema dată în probleme mai simple:\n1 7\np: a cheltuit din suma de bani pentru un stilou ⇒ i‑a rămas un prim rest egal cu din suma\n1 8 8\nde bani;\n2 5\np: a cheltuit din primul rest pentru un CD ⇒ i‑a rămas un al doilea rest egal cu din primul\n2 7 7\nrest;\n1 2\np: a cheltuit din al doilea restpentru o carte ⇒ i‑au rămas din al doilea rest, adică 40 de lei.\n3 3 3\nPasul al II‑lea. Aplicăm metoda mersului invers, rezolvând aceste probleme în ordine inversă față\nde apariția lor în text.\n2\nFolosind metoda figurativă, rezolvăm problema p : Cei 40 de lei reprezintă din al doilea rest.\n3 3\nAl doilea rest:\n40 lei\nO parte reprezintă 40 lei : 2 = 20 lei și atunci al doilea rest este egal cu 20 lei · 3 = 60 lei\n2 3\nsau: Al doilea rest este egal cu 40 lei: =40 lei⋅ =60 lei.\n3 2\n5\nRezolvăm problema p: Cei 60 de lei reprezintă din primul rest.\n2 7\nPrimul rest:\nCD 60 lei\nO parte reprezintă 60 lei : 5 = 12 lei și atunci primul rest este egal cu 12 lei · 7 = 84 lei\n5 7\nsau: Primul rest este egal cu 60 lei: =60 lei⋅ =84 lei.\n7 5\n7\nRezolvăm problema p: Cei 84 de lei reprezintă din suma de bani.\n1 8\nSuma de bani:\n84 lei\nO parte reprezintă 84 lei : 7 = 12 lei și atunci suma de bani este egală cu 12 lei · 8 = 96 lei\n7 8\nsau: Suma de bani este egală cu 84 lei: =84 lei⋅ =96 lei.\n8 7\nVerificare:\n 1 2 1\n96 lei‑96 lei⋅ +84 lei⋅ +60 lei⋅ =96 lei‑(12 lei+24 lei+20 lei)=96 lei‑56 lei=40 lei.\n 8 7 3",
+      "text_length": 2449,
+      "tables_count": 2,
+      "has_images": false,
+      "lessons": []
+    },
+    {
+      "page": 168,
+      "type": "pdf_page",
+      "text": "166 U5 Fracții zecimale\nNe amintim\nMetoda falsei ipoteze se aplică în probleme în care se dau informații cumulate despre mărimi de tipuri diferite.\nPrimul pas în aplicarea metodei este de a presupune că mărimile din problemă sunt toate de același fel. Se efec‑\ntuează un calcul pentru a stabili dacă presupunerea făcută este adevărată sau falsă.\nDacă rezultatul calculului coincide cu cel din enunțul problemei, atunci problema este rezolvată, iar în caz contrar,\ndeducem că presupunerea făcută este falsă și de aceea există mărimi și de celălalt fel.\nPentru aflarea uneia dintre mărimi, se stabilește diferența dintre rezultatul obținut și cel din enunț și aceasta se\nîmparte la diferența produsă de înlocuirea unei mărimi de primul fel cu alta de cel de al doilea fel.\nExemple În 12 vase, unele cu capacitatea de 1,5 litri, iar altele cu capacitatea de 3,5 litri,\nsunt 34 de litri de apă. Câte vase de fiecare fel sunt?\nRezolvare:\nPresupunem că toate vasele au capacitatea de 1,5 litri. Atunci, în cele 12 vase am\navea 1,5 l · 12 = 18 l.\nObținem o diferență de 34 l ‑ 18 l = 16 l, deci sunt și vase cu capacit atea de 3,5 litri.\nCei 16 litri în minus provin din faptul că am înlocuit vase de 3,5 l cu vase de 1,5 l.\nDeoarece diferența de capacitate dintre vase este egală cu 3,5 l ‑ 1,5 l = 2 l, la\nfiecare înlocuire am pierdut câte 2 litri.\nDiferența de 16 l se compensează printr‑un număr de înlocuiri egal cu 16 : 2 = 8 și atunci sunt\n8 vase a 3,5 litri și, respec tiv 4 vase a 1,5 litri fiecare.\nVerificare: 3,5 l · 8 + 1,5 l · 4 = 28 l + 6 l = 34 l\nProbleme propuse\n1 P odeaua unei bucătării poate fi acoperită cu 25 de pătrate cu latura de 1 m. Gresia necesară pentru a aco‑\nperi 40% din suprafață costă 279,50 lei. Cât costă toată gresia necesară?\n2 U n caiet costă 1,80 lei, iar o carte 6 lei. Un colet în valoare de 51 de lei conține același tip de caiete și cărți,\nal căror număr total este 12.\na Este posibil ca în colet să fie 9 cărți? Justificați răspunsul dat.\nb Câte cărți și câte caiete sunt în colet?\n3 A nalizând figura alăturată, calculați producția de orz și de grâu, știind\ncă producția de porumb a fost de 3 600 de tone.\n4 U n cub este format din 8 cuburi cu muchia de 1 dm și cântărește 400 g.\nUn alt cub, din același material, format din 27 de cuburi cu muchia\n60% 10% 30%\nde 1 dm cântărește:\na 2 kg; b 3 200 g; c 1,350 kg; d 1,600 kg. grâu orz porumb\n5 D acă o minge este lăsată să cadă (fără să fie aruncată), ea sare la o înălţime de două ori mai mică decât înăl‑\nţimea de la care i s‑a dat drumul. După ce i s‑a dat drumul de la o anumită înălțime, mingea a sărit de 3 ori,\nultima oară ridicându‑se la 80 cm. De la ce înălțime i s‑a dat drumul?\n6 I ndicele de masă corporală al unei persoane se\nMasa Încadrarea\ncalculează împărțind masa corporală, exprimată în IMC\nideală greutății\nkilograme, la pătratul înălțimii exprimate în metri.\na Calculați‑vă indicele de masă corporală (IMC) sub 18,5 Subponderal\nși studiați tabelul:\nîntre 18,51 și 24,99 Normal\nb Radu are înălțimea de 1,50 m. El a calculat că, între 42 kg\nși 56 kg\ndacă ar cântări cu 1 kg mai mult, ar avea indicele între 25,00 și 29,99 Supraponderal\nde masă corporală egal cu 20. Ce indice de masă\nîntre 30,00 și 39,99 Obez\ncorporală are Radu?",
+      "text_length": 3233,
+      "tables_count": 3,
+      "has_images": true,
+      "lessons": []
+    },
+    {
+      "page": 169,
+      "type": "pdf_page",
+      "text": "Metode aritmetice pentru rezolvarea problemelor cu fracții L8 167\n7 I oana a cumpărat 3,5 kg de mere și 2 kg de roșii, plătind, în total, 24 de lei. Radu a cumpărat 7 kg de mere\nși 1,5 kg de roșii, plătind, în total 35,50 lei. Cât costă 1 kg de roșii, respectiv 1 kg de mere?\n8 U n test conține 20 de întrebări. Pentru fiecare răspuns corect se acordă 5 puncte, pentru fiecare răspuns\ngreșit se scad 1,5 puncte și nu se acordă puncte din oficiu.\na Este posibil ca Teo, după ce a parcurs integral testul și a răspuns la toate întrebările, să obțină 95 de\npuncte? Justificați răspunsul dat.\nb Edi a răspuns la toate întrebările testului și a obținut 87 de puncte. Determinați numărul răspunsurilor corecte.\n9 Î ntr‑o cutie formată din două cuburi cu muchia de 1 m încape marfă în valoare de 4 500,50 lei. Afirmația:\n„Într‑o cutie imaginară formată din 2 000 de cuburi cu muchia de 1 m încape același tip de marfă, în valoare\nde 9 001 000 lei.” este:\na adevărată; b falsă.\n10 „Sunt un leu de bronz. Ochii și gura mea sunt fântâni. Dintr‑un bazin, într‑o zi, ochiul drept umple o treime,\nochiul stâng o șesime, iar gura jumătate.”\nDacă leul „deschide” simultan ochii și gura, în cât timp va umple bazinul?\n(Problemă din Grecia Antică)\n11 Patru robinete și 5 pompe umplu un bazin cu capacitatea de 102,6 hl într‑o oră. Printr‑o pompă curge tot\natâta apă cât prin trei robinete. În cât timp ar umple bazinul cele 5 pompe?\n3  3   1\n12 Determină numărul rațional x din egalitatea:  +x‑ ⋅2,5:6,(3)= .\n8  10  8\nIndicație: Vezi metoda mersului invers, de la Unitatea II (Exerciții cu o necunoscută).\n2\n13 Niște maimuțe se distrează: din ele se cațără prin copaci, iar 60% din rest fac tumbe.\n7\na Este posibil să fie 15 maimuțe? Justificați răspunsul dat.\nb Știind că restul de 4 maimuțe se distrau aplaudându‑le pe celelalte, află câte maimuțe erau în total.\n14 Dintr‑un bidon cu lapte s‑a consumat în prima zi 40% din capacitate. A doua zi s‑a folosit 0,(6) din cantita‑\ntea rămasă și încă un litru. În bidon au rămas 11 litri de lapte. Ce cantitate de lapte se afla inițial în bidon?\n15 Perimetrul unei grădini dreptunghiulare este de 384 m. Dacă adăugăm 25 m la două treimi din lățime,\nobținem cu 1 m mai puțin decât 50% din lungime. Determinați lungimea grădinii.\nAUTO La problemele 1 și 2, încercuiește litera corespunzătoare răspunsului corect. Un singur răspuns este corect.\nevaluare\n1 Pentru 7,5 metri de mușama s‑au plătit 45 de lei. Atunci pentru 11,25 metri de mușama s‑au\nplătit:\nA 6 lei; B 66,50 lei; C 67,50 lei; D 87,50 lei.\n2 Construcția Marelui Zid Chinezesc a început în timpul dinastiei Ming și măsura 8 851,8 km.\nLungimea inițială este cu 373,328 km mai mare decât 40% din lungimea totală a construcțiilor\nactuale. Lungimea celui mai lung zid de pe Terra este egală cu:\nA 16 956,84 km; B 17 703,6 km; C 21 196,18 km; D 26 555,4 km.\nLa problema 3, scrie rezolvările complete.\n3 Din traseul montan planificat spre o cascadă, Horia a parcurs, în prima etapă, o treime,\niar în a doua etapă a parcurs 40% din rest și a constatat că mai are 3,3 km până la cascadă.\na Este posibil ca în a doua etapă să fi parcurs 3,5 km? Justifică răspunsul dat.\nb Află lungimea traseului montan.\nGrila de evaluare: Subiectul 1 Subiectul 2 Subiectul 3 Oficiu Total\n2p 2p a 2p b 3p 1p 10p\nTimp de lucru: 30 de minute",
+      "text_length": 3313,
+      "tables_count": 3,
+      "has_images": false,
+      "lessons": []
+    },
+    {
+      "page": 170,
+      "type": "pdf_page",
+      "text": "168 U5 Fracții zecimale\nLecţia 9: Probleme de organizare a datelor. Frecvență. Grafice\nL9\ncu bare. Grafice cu linii. Media unui set de date statistice\n9.1. Organizarea și colectarea datelor statistice. Frecvență\nMate Ioana și Eva vor să știe care este sportul preferat al elevilor de clasa\npractică a V‑a din școala lor.\nPentru a colecta informațiile, ele realizează un sondaj.\nMai întâi, ele trec într‑o listă informațiile pe care vor să le culeagă:\na sporturi de echipă:\n• fotbal • handbal • baschet\nb sporturi individuale:\n• tenis • înot • șah\nApoi, formulează întrebările în vederea realizării sondajului, precum și\nindicațiile de completare:\nSondaj\nSPORTURI FAVORITE\nGrup‑țintă: elevii claselor a V‑a\nLa fiecare dintre cele două întrebări, alege o singură variantă de răspuns.\n1 Care dintre următoarele sporturi de echipă practicate în școala noastră\neste sportul tău preferat:\nfotbal handbal baschet\n2 Ce sport individual practici sau ți‑ar plăcea să practici:\ntenis înot șah alt sport\nCe observăm?\nSondajul făcut studiază o anumită caracteristică a elevilor\nSportul preferat\nde clasa a V‑a; în cazul de față, sportul preferat. Valorile\npe care le poate lua această caracteristică sunt: fotbal, a V‑a A răspunsuri frecvența\nhandbal sau baschet.\nfotbal ///// ///// //// 14\nPentru a înregistra și a organiza datele colectate, se utili‑\nzează un tabel al frecvențelor. Informațiile colectate după handbal //// 4\nanaliza răspunsurilor date de elevii clasei a V‑a A la prima\nîntrebare sunt înscrise în tabelul alăturat. baschet ///// // 7\nDintre cei 25 de elevi ai clasei a V‑a A, 14 elevi au răspuns Legendă: / = 1 ///// = 5\ncă fotbalul este sportul lor preferat. Numărul natural 14\nreprezintă frecvența absolută cu care apare acest răspuns.\n14\nRaportându‑ne la întreaga clasă, fotbalul este preferat de dintre elevi sau, în scriere procen‑\n25\n14\ntuală, de 56% dintre elevi. Fracția sau procentul 56% reprezintă frecvența relativă.\n25\nÎn tabelul frecvențelor se pot trece atât frecvența abso‑\nSportul preferat — clasa a V‑a A\nlută, cât și frecvența relativă.\nfotbal 14 56%\nÎn exemplul dat, cei 4 elevi care preferă handbalul repre‑\nzintă 16% din cei 25 de elevi ai clasei a V‑a A, iar cei handbal 4 16%\n7 elevi care îndrăgesc mai mult baschetul reprezintă 28%\nbaschet 7 28%\ndin elevii clasei.",
+      "text_length": 2294,
+      "tables_count": 4,
+      "has_images": true,
+      "lessons": []
+    },
+    {
+      "page": 171,
+      "type": "pdf_page",
+      "text": "Probleme de organizare a datelor L9 169\n9.2. Grafice cu bare. Grafice cu linii\nMate La finalul unei săptămâni, se contorizează numărul 35\npractică de cărți cerute la sala de lectură a bibliotecii școlii, 30\ncu accent pe 4 domenii principale: literatură, matema‑ 25\ntică, științe și tehnică.\n20\nDatele colectate sunt prelucrate și reprezentate într‑un\n15\ngrafic cu bare verticale, ca în imaginea alăturată.\n10\nCe observăm?\n5\nAnaliza și interpretarea datelor se efectuează mai ușor\n0\nutilizând graficul în locul unui tabel de frecvență, deoa‑ ur ă at rece graficul permite compararea rapidă a datelor. er lit\nAnalizând graficul, se observă că:\n• d enumirile domeniilor sunt scrise de‑a lungul unei\nlinii orizontale, iar valorile pe care le ia numărul de\ncărți cerute sunt scrise de‑a lungul unei linii verticale;\ncele două linii se numesc axe;\n• cele mai cerute cărți sunt cele de matematică (30);\n• au fost cerute 15 cărți de tehnică;\n• 5 cărți dintre cele cerute aparțin altui domeniu decât\ncele patru domenii principale.\nExemplu\nițrăc\ned\nrămun\nă e ă u\nm\nat e m ati c știi nț t e h ni c\nalt\nd o m e ni\ncărți împrumutate\nliteratură 20\nmatematică 30\nștiințe 10\ntehnică 15\nalt domeniu 5\nLa magazinul de muzică se reprezintă printr‑un gra‑ 30\nfic cu linii evoluția zilnică a vânzărilor ultimului album 25\nal câștigătorilor concursului Eurovision.\n20\nExaminând graficul, constatăm că:\n15\n• luni s‑au vândut cele mai puține albume (5);\n10\n• c ele mai mari vânzări s‑au înregistrat în ziua de\n5\nvineri — 25 de albume.\n0\nÎn total s‑au vândut:\n5 + 15 + 20 +15 + 25 = 80 de albume.\nFolosind graficul cu linii, putem alcătui și tabelul\nfrecvențelor.\nZiua\nluni marți miercuri joi vineri TOTAL\nAlbume vândute\nnumăr 5 15 20 15 25 80\nprocent 6,25% 18,75% 25% 18,75% 31,25% 100%\netudnâv\nemubla\ninul ițram irucreim ioj ireniv\nObservații Graficele cu bare se folosesc de obicei atunci când se studiază și se compară date despre obiecte de\ntipuri diferite. Se pot folosi fie bare verticale, fie bare orizontale, în formă de dreptunghi. Una dintre\ndimensiunile dreptunghiului este aceeași pentru toate barele, iar cealaltă variază în raport cu\nvaloarea numerică a frecvenței (absolute sau relative).\nGraficele cu linii se folosesc în principal atunci când se studiază și se compară date despre același\nobiect sau proces de‑a lungul unei anumite perioade. Un grafic cu linii folosește o grilă în care\ndatele sunt expuse cu ajutorul unor puncte, care se unesc apoi prin segmente ce indică tendința\nde creștere sau descreștere a valorilor.\nÎn realizarea unui grafic cu bare sau a unui grafic cu linii, pentru fiecare axă pe care sunt scrise seturi\nde date numerice se stabilește o unitate de măsură convenabilă. În exemplul de mai sus, numărul\nde cărți împrumutate variază între 5 și 30, deci o unitate potrivită pentru axa corespunzătoare este 5.",
+      "text_length": 2824,
+      "tables_count": 8,
+      "has_images": false,
+      "lessons": []
+    },
+    {
+      "page": 172,
+      "type": "pdf_page",
+      "text": "170 U5 Fracții zecimale\n9.3. Media unui set de date statistice\nMate În graficul alăturat este reprezentat numărul 400\npractică vizitatorilor unui muzeu într‑o săptămână. 350\n300\nAm obținut următorul set de date, corespun‑ 300 270 270\n250\nzător numărului de vizitatori, pe zile: 100, 150, 250\n200\n200, 270, 250, 300, 270. 200\n150\nAcestea sunt date statistice numerice.\n150\nMedia aritmetică a numărului de vizitatori în 100\n100\nacea săptămână este egală cu:\n50\n100+150+200+270+250+300+270\n=220. 0\n7 L Ma Mi J V S D\nVom spune că 220 este media setului de date statistice analizat.\nCe observăm?\nDe multe ori, atunci când în studiul unui proces sau fenomen se colectează multe date, este de pre‑\nferat să caracterizăm întregul set de date printr‑o singură valoare, reprezentativă.\nDe reținut Media unui set de date statistice este media aritmetică a tuturor valorilor din setul de date considerat.\nx +x +...+x\nMedia unui set de n date care iau valorile x, x, …, x este egală cu 1 2 n .\n1 2 n n\nDacă într‑un set de date valorile acestora apar de mai multe ori, atunci media setului de date se poate\ncalcula ca fiind câtul dintre două sume: suma produselor dintre valorile datelor și frecvențele aces‑\ntora și suma frecvențelor.\nExemplu În tabelul următor sunt reprezentate notele obținute la testul de matematică de elevii clasei a V‑a.\nNota 5 6 7 8 9 10\nNumăr elevi 2 3 5 6 5 4\nMedia acestui set de date este\n2⋅5+3⋅6+5⋅7+6⋅8+5⋅9+4⋅10 196\n= =7,84.\n2+3+5+6+5+4 25\nPutem spune că media clasei este 7,84.\nProbleme propuse\n1 I oana și Eva au completat studiul lor privind sportul preferat. Rezultatele sunt trecute în tabelul de mai jos,\ndar unele date s‑au șters.\nSportul preferat\nSondaj clasa a V‑a A clasa a V‑a B clasa a V‑a C TOTAL\nrăspunsuri frecvența răspunsuri frecvența răspunsuri frecvența\nfotbal //// //// //// … //// /// 8 //// //// 9 …\nhandbal //// … //// / … //// //// // … …\nbaschet //// // … //// //// / 11 … … 27\ntotal A 25 total B … total C 30 80\nLegendă: / = 1 //// = 5",
+      "text_length": 1978,
+      "tables_count": 6,
+      "has_images": false,
+      "lessons": []
+    },
+    {
+      "page": 173,
+      "type": "pdf_page",
+      "text": "Probleme de organizare a datelor L9 171\na Copiați tabelul pe caiet și completați datele lipsă.\nb Indicați care este sportul cel mai îndrăgit de către elevii școlii.\nc Determinați frecvența relativă a elevilor din școală al căror sport preferat este handbalul.\nd Determinați ce procent dintre elevii clasei a V‑a C au ca sport favorit baschetul.\n2 Î n graficul cu bare alăturat sunt prezentate puncta jele acordate\nAndrei\nde 6 elevi, membrii juriului la un concurs de pictură:\nȘtefan\nUtilizând graficul cu bare, completați spațiile punctate din tabe‑\nMădălina\nlul de mai jos:\nMihnea\nNume Mihnea … Dana … Andrei Ștefan Dana\nCătălin\nPunctaj … 6 … 8 … …\n0 2 4 6 8 10 12\n3 Notele obținute de elevii unei clase la un test sunt reprezentate în tabelul de mai jos:\nNota 3 4 5 6 8 9 10\nNumăr elevi 2 4 6 5 4 3 2\nUtilizând tabelul, completați graficul cu bare de mai jos:\n6\n5\n4\n3\n2\n1\n0\nnota 3 nota 4 nota 5 nota 6 nota 7 nota 8 nota 9 nota 10\n4 Î ntr‑o școală gimnazială sunt 300 de elevi, iar repartiția 35%\nprocentuală a elevilor pe clase este reprezentată\n30%\nîn diagrama alăturată.\n25%\na Estimați care dintre clasele a VI‑a și a VIII‑a are mai\n20%\npuțini elevi.\n15%\nb Precizați numărul elevilor din clasa a VII‑a din\n10%\nșcoală.\nc Decideți dacă numărul elevilor de clasa a VI‑a este 5%\nmai mare sau mai mic decât 70% din numărul elevi‑ 0%\na V‑a a VI‑a a VII‑a a VIII‑a\nlor din clasa a VII‑a din școală.\n5 Î n diagrama alăturată este reprezentat numărul de 60\nintrări de autoturisme dintr‑o parcare. 50\na Indicați ziua săptămânii în care a intrat în parcare 40\ncea de‑a 110‑a mașină.\n30\nb Aproximați, prin rotunjire la cel mai apropiat număr\n20\nnatural, câte mașini au intrat în parcare, în medie,\n10\npe zi.\n0\nL Ma Mi J V S D\n6 L a o lucrare, elevii unei clase au obținut următoarele\nrezultate:\nNota 10 9 8 6 5 4\nNumăr elevi 3 4 2 8 4 1",
+      "text_length": 1829,
+      "tables_count": 7,
+      "has_images": false,
+      "lessons": []
+    },
+    {
+      "page": 174,
+      "type": "pdf_page",
+      "text": "172 U5 Fracții zecimale\na Estimați, pe baza rezultatelor cel mai des obținute, media clasei.\nb Comparați valoarea estimării cu media setului de date prezentat de tabel.\nc Alcătuiți o diagramă cu bare care să prezinte rezultatele elevilor la test.\n7 Î n diagrama alăturată sunt reprezentate vânzările de 60\nbilete pe o săptămână ale unui cinematograf 3D. De luni\n50\npână vineri prețul unui bilet este de 15 lei, iar sâmbătă\n40\nși duminică prețul este de 20 de lei.\n30\na Determinați numărul total al biletelor vândute.\n20\nb Calculați ce procent din numărul total de bilete vân‑\n10\ndute reprezintă biletele vândute marți.\nc Determinați probabilitatea ca alegând la întâmplare 0\nL Ma Mi J V S D\nun bilet acesta să fi fost vândut joi.\nd Determinați suma încasată din vânzarea biletelor.\ne Calculați valoarea medie a biletelor vândute într‑o zi.\nActivitate Realizați un sondaj la nivelul școlii despre genul\npe grupe de muzică preferat al elevilor de clasa a V‑a.\nSondajul va cuprinde minimum trei întrebări, iar\nculegerea datelor se va face separat, pe fete și\nbăieți.\nRealizați tabelele de frecvență și interpretați\ndatele după ce le‑ați reprezentat într‑un tabel cu\nbare.\nDiscutați în clasă rezultatele obținute.\nAUTO În diagrama de mai jos sunt reprezentate notele obținute de elevii unei clase la un test.\nevaluare\nnota 10\nnota 9\nnota 8\nnota 7\nnota 6\nnota 5\nnota 4\nnota 3\n0 2 4 6 8\nLa problemele 1 și 2, încercuiește litera corespunzătoare răspunsului corect. Un singur răspuns este corect.\n1 Determină numărul elevilor din clasă.\nA 23; B 24; C 25; D 26.\n2 Determină numărul elevilor care au obținut la test cel puțin nota 7.\nA 7; B 9; C 12; D 16.\nLa problema 3, scrie rezolvările complete.\n3 a Calculează media obținută la test de elevii clasei.\nb Află ce procent din numărul elevilor clasei au obținut note mai mari sau egale cu 5.\nGrila de evaluare: Subiectul 1 Subiectul 2 Subiectul 3 Oficiu Total\n2p 2p a 2p b 3p 1p 10p\nTimp de lucru: 30 de minute",
+      "text_length": 1951,
+      "tables_count": 6,
+      "has_images": true,
+      "lessons": []
+    },
+    {
+      "page": 175,
+      "type": "pdf_page",
+      "text": "Recapitulare și evaluare 173\nFracții zecimale\n75+n\n1 Numărul natural n din egalitatea 25 =50 este: 2 Numărul n din egalitatea 5,6‑ n⋅24+1 =4,2 este\n5\na 1 175 b 1 200 c 75 d 1 125\negal cu:\na 1 b 0,25 c 0,5 d 1,4\n3 Dacă 6 cărți costă 76,50 lei, atunci 5 cărți de 4 Dacă 4 robinete umplu un bazin în 5 ore, atunci\nacelași fel costă: 6 robinete de același tip umplu bazinul în:\na 12,75 lei b 50 lei a 3 ore și 20 min b 7 ore și 30 min\nc 63,75 lei d 68,25 lei c 4 ore și 45 min d 3 ore și 33 min\n5 Trei jucării ursuleț și 4 jucării veveriță costă 6 Trei covrigi și 4 pâini cântăresc 2,267 kg, iar 4 covrigi\n258,30 euro. Șapte jucării ursuleț și 8 jucării veveriță și 4 pâini cântăresc 2,372 kg. O pâine cântărește:\ncostă 549,10 de euro. O jucărie ursuleț costă: a 0,105 kg b 0,500 kg\na 32,50 euro b 40,20 euro c 0,488 kg d 0,600 kg\nc 100,50 euro d 84,75 euro\n7 Un număr este de 2,5 ori mai mare decât celălalt. 8 În 8 sticle avem 9 litri de apă. Unele sticle au capaci‑\nDeterminați cele două numere, știind că suma lor tatea de 1,5 litri, iar altele de 0,5 litri. Numărul\neste 63. vaselor de 0,5 litri este egal cu:\na 27 și 39 b 45 și 18 a 3 b 4 c 5 d 6\nc 36 și 27 d 42 și 21\n9 L a proba de aruncare a suliței, un sportiv a efec‑ 10 Din cei zece membri ai echipei de baschet a școlii,\ntuat patru aruncări, în lungime de 72 m, 78,5 m, trei copii au 1,64 m înălțime, 4 copii au 1,67 m,\n74,8 m și 81,1 m. Care este lungimea medie a unei iar restul au 1,66 m, 1,74 m și 1,70 m. Care este\naruncări? înălțimea medie a echipei?\na 75,2 m b 75,6 m a 1,65 m b 1,66 m\nc 76,5 m d 76,6 m c 1,67 m d 1,69 m\n11 În tabelul de mai jos este reprezentată prezența 3\n12 O gospodină a cheltuit la raionul de carne din\nelevilor unei clase de 30 de elevi la cursuri, pe par‑ 7\ncursul unei săptămâni. Care este numărul total al suma pe care o avea, iar la raionul de fructe și legume\nelevilor absenți în săptămâna reprezentată? a cheltuit 40% din rest. Știind că inițial a avut 350 de\nlei, determinați ce rest i‑a rămas.\nLLuunnii MMaarrțții MMiieerrccuurrii JJooii VViinneerrii\na 150 lei b 90 lei\nc 120 lei d 200 lei\n2277 3300 2288 2299 2266\na 3 b 10 c 9 d 12\n3\n13 Perimetrul unei grădini dreptunghiulare este egal cu 516 m. Lățimea grădinii reprezintă din lungimea grădinii.\n5\nDeterminați lungimea și lățimea grădinii.\n3\n14 O gospodină a cheltuit la piață din suma pe care o avea, iar la carmangerie a cheltuit 40% din rest și i‑au rămas\n7\n120 de lei. Ce sumă a avut inițial?\nFișa de observare sistematică\n Am fost preocupat să aflu lucruri noi despre metodele de rezolvare a problemelor.\n Participarea mea la orele de matematică a fost apreciată de colegi și de profesor.\nîntotdeauna\nfrecvent\nocazional\nrar\nniciodată",
+      "text_length": 2691,
+      "tables_count": 2,
+      "has_images": false,
+      "lessons": []
+    },
+    {
+      "page": 176,
+      "type": "pdf_page",
+      "text": "U6 Elemente\nde geometrie\nși unități de măsură\nLecția 1 176 Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă\nPozițiile relative ale unui punct față de o dreaptă. Puncte coliniare.\nLecția 2 181\nPozițiile relative a două drepte: drepte concurente, drepte paralele\nLecția 3 186 Lungimea unui segment. Distanța dintre două puncte. Segmente congruente\nLecția 4 191 Mijlocul unui segment. Simetricul unui punct față de un punct\nLecția 5 197 Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi\nLecția 6 200 Măsura unui unghi. Unghiuri congruente (măsurarea și construcția cu raportorul)\nLecția 7 204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri\nLecția 8 210 Figuri congruente. Axa de simetrie\nLecția 9 215 Unități de măsură pentru lungime. Perimetrul\nLecția 10 219 Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului\nLecția 11 224 Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic\nRecapitulare\nși evaluare 228",
+      "text_length": 1012,
+      "tables_count": 1,
+      "has_images": true,
+      "lessons": [
+        {
+          "number": 1,
+          "title": "176 Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
+          "location": 176
+        },
+        {
+          "number": 2,
+          "title": "181",
+          "location": 176
+        },
+        {
+          "number": 3,
+          "title": "186 Lungimea unui segment. Distanța dintre două puncte. Segmente congruente",
+          "location": 176
+        },
+        {
+          "number": 4,
+          "title": "191 Mijlocul unui segment. Simetricul unui punct față de un punct",
+          "location": 176
+        },
+        {
+          "number": 5,
+          "title": "197 Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi",
+          "location": 176
+        },
+        {
+          "number": 6,
+          "title": "200 Măsura unui unghi. Unghiuri congruente (măsurarea și construcția cu raportorul)",
+          "location": 176
+        },
+        {
+          "number": 7,
+          "title": "204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+          "location": 176
+        },
+        {
+          "number": 8,
+          "title": "210 Figuri congruente. Axa de simetrie",
+          "location": 176
+        },
+        {
+          "number": 9,
+          "title": "215 Unități de măsură pentru lungime. Perimetrul",
+          "location": 176
+        },
+        {
+          "number": 10,
+          "title": "219 Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului",
+          "location": 176
+        },
+        {
+          "number": 11,
+          "title": "224 Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic",
+          "location": 176
+        }
+      ]
+    },
+    {
+      "page": 177,
+      "type": "pdf_page",
+      "text": "Lecția 1 176 Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă\nPozițiile relative ale unui punct față de o dreaptă. Puncte coliniare.\nLecția 2 181\nPozițiile relative a două drepte: drepte concurente, drepte paralele\nLecția 3 186 Lungimea unui segment. Distanța dintre două puncte. Segmente congruente\nLecția 4 191 Mijlocul unui segment. Simetricul unui punct față de un punct\nLecția 5 197 Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi\nLecția 6 200 Măsura unui unghi. Unghiuri congruente (măsurarea și construcția cu raportorul)\nLecția 7 204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri\nLecția 8 210 Figuri congruente. Axa de simetrie\nLecția 9 215 Unități de măsură pentru lungime. Perimetrul\nLecția 10 219 Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului\nLecția 11 224 Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic\nRecapitulare\nși evaluare 228",
+      "text_length": 966,
+      "tables_count": 0,
+      "has_images": true,
+      "lessons": [
+        {
+          "number": 1,
+          "title": "176 Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
+          "location": 177
+        },
+        {
+          "number": 2,
+          "title": "181",
+          "location": 177
+        },
+        {
+          "number": 3,
+          "title": "186 Lungimea unui segment. Distanța dintre două puncte. Segmente congruente",
+          "location": 177
+        },
+        {
+          "number": 4,
+          "title": "191 Mijlocul unui segment. Simetricul unui punct față de un punct",
+          "location": 177
+        },
+        {
+          "number": 5,
+          "title": "197 Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi",
+          "location": 177
+        },
+        {
+          "number": 6,
+          "title": "200 Măsura unui unghi. Unghiuri congruente (măsurarea și construcția cu raportorul)",
+          "location": 177
+        },
+        {
+          "number": 7,
+          "title": "204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+          "location": 177
+        },
+        {
+          "number": 8,
+          "title": "210 Figuri congruente. Axa de simetrie",
+          "location": 177
+        },
+        {
+          "number": 9,
+          "title": "215 Unități de măsură pentru lungime. Perimetrul",
+          "location": 177
+        },
+        {
+          "number": 10,
+          "title": "219 Unități de măsură pentru arie. Aplicații: aria pătratului/dreptunghiului",
+          "location": 177
+        },
+        {
+          "number": 11,
+          "title": "224 Unități de măsură pentru volum. Volumul cubului și al paralelipipedului dreptunghic",
+          "location": 177
+        }
+      ]
+    },
+    {
+      "page": 178,
+      "type": "pdf_page",
+      "text": "176 U6 Elemente de geometrie și unități de măsură\nLecţia 1: Punct, dreaptă, plan, semiplan, semidreaptă,\nL1\nsegment de dreaptă\n1.1. Punctul\nPrivește imaginea alăturată cu pontonul de la Mamaia.\nSuprafața Mării Negre este liniștită. Cei doi oameni care fac baie, lângă\nțărm, respectiv, oamenii care circulă pe ponton, par niște puncte.\nÎn depărtare vedem linia orizontului.\nÎn larg, lângă ponton, sunt mai multe\nambarcațiuni.\nObținem următorul desen schematic:\nDe reținut Descriere. Punctul poate fi considerat urma vârfului unui\nDesenăm Citim Notăm\ncreion, bine ascuțit, lăsată pe foaia de hârtie, atunci când\no atinge. Un punct se reprezintă printr‑o bulină sau prin A punctul A A\ndouă liniuțe care se intersectează. Fiecare punct se indi‑\nB punctul B B\nvidualizează prin poziția sa.\nNotație. Se notează cu una din literele mari ale alfabetului: A, B, C, ….\nA nu se confunda punctul ca desen cu noțiunea de punct. Punctul, ca figură geometrică, nu este\nnici mai mare, nici mai mic: nu are dimensiuni, în timp ce desenul lui are dimensiuni.\nPozițiile relative a două puncte\nDouă puncte pot fi situate în același\nDesenăm Citim Notăm\nloc și atunci spunem că sunt puncte\nidentice sau confundate (coincid) A B Punctele A și B coincid. A = B\nsau pot fi situate în locuri diferite și\natunci spunem că sunt puncte dis‑ M N Punctele M și N sunt distincte. M ≠ N\ntincte (diferite).\n1.2. Dreapta\nDe reținut Descriere. Putem sugera imaginea unei porțiuni dintr‑o dreaptă printr‑un fir de ață foarte subțire,\nbine întins. De asemenea, linia orizontului pare o porțiune dintr‑o dreaptă.\nPentru a reprezenta în desen o\nDesenăm Citim Notăm\ndreaptă utilizăm rigla. Să ne imagi‑\nnăm că am putea deplasa rigla de‑a d dreapta d d\nlungul liniei desenate, astfel încât\nsă putem continua mereu linia înce‑ A B dreapta AB sau BA AB sau BA\npută. Linia nesfârșită, astfel obținută,\neste o dreaptă. Ea este nemărginită și este formată din puncte.\nDreapta se notează cu o literă mică sau cu două litere mari ale alfabetului latin, prin care am notat\ndouă puncte distincte de pe dreaptă.\n1.3. Semidreapta\nMate În Pitești există un indicator rutier care ne arată direcția spre București. BUCUREȘTI\npractică\nP B\nPutem reprezenta astfel:\nCe observăm?\nDeplasându‑ne de la Pitești spre București, punctul de plecare (originea) este P, care ne arată că\npornim din Pitești, iar punctul B ne arată sensul deplasării (spre București).",
+      "text_length": 2397,
+      "tables_count": 7,
+      "has_images": true,
+      "lessons": []
+    },
+    {
+      "page": 179,
+      "type": "pdf_page",
+      "text": "Punct, dreaptă, plan, semiplan, semidreaptă, segment de dreaptă L1 177\nDe reținut Descriere. Semidreapta este mulțimea punctelor unei drepte situate de aceeași parte a unui punct\nfixat pe acea dreaptă (numit originea semidreptei).\nÎn figura alăturată punctul P delimitează două P\nsemidrepte distincte, una colorată, iar cealaltă\nnecolorată. Pentru a reprezenta în desen o semidreaptă utilizăm rigla.\nLa fel ca și dreapta, semidreapta se notează cu două litere mari ale alfabetului, corespunză‑\ntoare a două puncte. Primul punct este originea semidreptei, iar cel de ‑al doilea este un punct\noarecare al semidreptei și indică sen‑\nsul acesteia.\nDesenăm Citim Notăm\nÎn desenul alăturat, punctul C este\noriginea, iar punctul D indică sensul C D\nsemidreapta CD CD\nsemidreptei CD.\nMate Desenați o dreaptă AB, iar dedesubt, desenați semidreapta AB și semidreapta BA.\npractică\nRezolvare:\nA B\nDreapta AB:\nA B\nSemidreapta AB:\nA B\nSemidreapta BA:\n1.4. Segmentul de dreaptă\nDe reținut Descriere. Fixând două puncte diferite pe o dreaptă, porțiunea de dreaptă cuprinsă între cele două\npuncte poartă numele de segment de dreaptă.\nReprezentare. Pentru a reprezenta\nDesenăm Citim Notăm\nîn desen un seg ment de dreaptă uti‑\nlizăm rigla gradată. E F\nsegmentul EF sau FE EF sau FE\nNotație. Se notează cu două litere\nmari ale alfabetului.\nObservație. Punctele E și F se numesc extremitățile sau capetele segmentului de dreaptă, EF.\n1.5. Planul\nDe reținut Descriere. Imaginea unei porțiuni dintr‑un plan este sugerată prin suprafața liniștită a apei dintr‑un\nvas sau prin suprafața liniștită a unei mări.\nDesenăm Citim Notăm\nReprezentare. Se reprezintă sub forma unui paral el ogram.\nNotație. Se notează cu o literă din alfabetul grecesc: planul a a\na\na (alfa), b (beta), π (pi), … .\n1.6. Semiplanul\nDe reținut Descriere. Semiplanul este mulțimea tuturor punctelor unui plan b\naflate de aceeași parte a unei drepte situată în acel plan.\nd\nReprezentare. În figura alăturată, dreapta d, numită frontieră,\na delimitat în planul a două semiplane distincte.\nπ\nNotație. Semiplanul colorat este notat cu b, iar cel necolorat cu π. a",
+      "text_length": 2105,
+      "tables_count": 9,
+      "has_images": true,
+      "lessons": []
+    },
+    {
+      "page": 180,
+      "type": "pdf_page",
+      "text": "178 U6 Elemente de geometrie și unități de măsură\nProbleme propuse\n1 P riviți figura 1 și completați oral fiecare spațiu punctat pentru a obține\nC\no propoziție adevărată:\nA\na A și B sunt puncte . . . . . . . . . . . . . . . . . . . și notăm A…B.\nB\nb A și C sunt puncte . . . . . . . . . . . . . . . . . . . și notăm A…C.\n2 Î n figura 2 sunt reprezentate punctele A, B, C și D. Dintre următoarele Figura 1\nafirmații cea adevărată este:\na B ≠ C ≠ D; b A ≠ B ≠ C; c A ≠ B = C; d A ≠ B ≠ D.\nD\n3 Afirmația că în figura 1, A ≠ C ≠ B este: a adevărată; b falsă. A B\nC\n4 D esenați punctele A, B, C care îndeplinesc următoarele condiții: A ≠ B\nși B = C. Figura 2\n5 Fie A, B, C, trei puncte, astfel încât A ≠ B ≠ C. Ce poziție are A față de C?\n6 Stabiliți dacă propozițiile următoare sunt adevărate sau false:\nA B C D E F\nFigura 3 Figura 4 Figura 5\na Desenul din figura 3 reprezintă segmentul de dreaptă AB.\nb Desenul din figura 4 reprezintă dreapta DC.\nc Desenul din figura 5 reprezintă semidreapta FE.\n7 C ompletați spațiile punctate pentru a obține propoziții adevărate:\na Pentrul segmentul din figura 3, punctele A și B se numesc . . . . . . . . . .\nA\n. . . . . . . . . segmentului.\nb Pentrul semidreapta din figura 5, punctul E indică . . . . . . . . . . . . . . . .,\niar punctul F indică . . . . . . . . . . . . . . . . . . .\n8 Câte segmente sunt în triunghiul din figura 6? Enumerați‑le! B C\nFigura 6\n9 R adu a realizat următoarele figuri geometrice: în figura 7 a dese‑\nnat, pe aceeași dreaptă, patru puncte distincte; în figura 8 a desenat\ndreapta CD; în figura 9 a desenat semidreapta EF.\nM A M A C D F E\nFigura 7 Figura 8 Figura 9\nDin neatenție, a făcut câteva erori. Ce erori a făcut Radu?\n10 Priviți figura alăturată și completați oral fiecare spațiu punctat pentru a obține o propoziție adevărată:\nA\nT E\nM\na MA reprezintă … ; b AT reprezintă …; c TE reprezintă … .\n11 În figura alăturată, pe segmentul AD s‑au notat A B C D\npunctele distincte B și C.\na Scrieți toate segmentele determinate de\ncele patru puncte.\nb Indicați segmentele ce conțin toate punctele situate între B și C.",
+      "text_length": 2084,
+      "tables_count": 9,
+      "has_images": false,
+      "lessons": []
+    }
+  ],
+  "summary": {
+    "total_chars": 34059,
+    "total_lessons": 22,
+    "location_range": "166-180"
+  }
+}

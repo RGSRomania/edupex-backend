@@ -1,0 +1,341 @@
+{
+  "batch_number": 2,
+  "item_count": 20,
+  "items": [
+    {
+      "title": "Lecția 1 176 Punct, dreaptă, plan, semiplan, semidreaptă, segment de d",
+      "line_number": 311,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 2 181Pozițiile relative ale unui punct față de o dreaptă. Punct",
+      "line_number": 317,
+      "content_lines": 1,
+      "content": [
+        "Pozițiile relative a două drepte: drepte concurente, drepte paralele"
+      ],
+      "content_preview": "Pozițiile relative a două drepte: drepte concurente, drepte paralele",
+      "metadata": {
+        "word_count": 9,
+        "char_count": 68
+      }
+    },
+    {
+      "title": "Lecția 3 186 Lungimea unui segment. Distanța dintre două puncte. Segme",
+      "line_number": 326,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 4 191 Mijlocul unui segment. Simetricul unui punct față de un p",
+      "line_number": 332,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 5 197 Unghi: definiție, notații, elemente. Interiorul unui ungh",
+      "line_number": 338,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 6 200 Măsura unui unghi. Unghiuri congruente (măsurarea și cons",
+      "line_number": 344,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 7 204 Clasificarea unghiurilor. Calcule cu măsuri de unghiuri",
+      "line_number": 350,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 8 210 Figuri congruente. Axa de simetrie",
+      "line_number": 356,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 9 215 Unități de măsură pentru lungime. Perimetrul",
+      "line_number": 362,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 10 219 Unități de măsură pentru arie. Aplicații: aria pătratulu",
+      "line_number": 368,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 11 224 Unități de măsură pentru volum. Volumul cubului și al pa",
+      "line_number": 374,
+      "content_lines": 18,
+      "content": [
+        "DEFINITIONS:",
+        "• Produsul numărului natural a ≥ 2 cu numărul natural b este un număr natural p obținut prin adunarea",
+        "• Produsul numărului natural a ≥ 2 cu numărul natural b este un număr natural p obținut prin adunarea",
+        "FORMULAS/RULES:",
+        "• Într-o cutie de bomboane de ciocolată se află 24 de bomboane.",
+        "• 6 termeni24 24 24 24 24 24 144 de bomboane+++++=   .",
+        "• Analiză:În rezolvarea problemei propuse, am avut de efectuat o adunare cu 6 ter meni, fiecare termen",
+        "• termeniap ab b b b= ⋅ = + +…+    .",
+        "• Prin convenție, 1 · a = a și 0 · a = 0, pentru orice număr natural a.",
+        "EXAMPLES:",
+        "• Mate practicăExemplu",
+        "• practicăExemplu",
+        "• Mate practicăExemple",
+        "Recapitulare",
+        "și evaluare 228",
+        "5",
+        "U1 Operații cu numere naturale 30",
+        "Lecţia 5:  Înmulțirea numerelor naturale, proprietățiL5"
+      ],
+      "content_preview": "DEFINITIONS: • Produsul numărului natural a ≥ 2 cu numărul natural b este un număr natural p obținut prin adunarea • Produsul numărului natural a ≥ 2 ...",
+      "metadata": {
+        "word_count": 142,
+        "char_count": 761
+      }
+    },
+    {
+      "title": "324. Așadar, 3 11244= .414=4",
+      "line_number": 403,
+      "content_lines": 13,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 414=4",
+        "• b, unde n, a, b sunt numere naturale, b ≠ 0, n ≠ 0,",
+        "• a nb anbb⋅+= .",
+        "• 11 2 131222⋅+= =5 3 8 5 29388 8⋅+= =",
+        "• 7 dintr-un platou. Cu un pachet de 18 brioșe se pot completa 18",
+        "EXAMPLES:",
+        "• Mate practicăExempleU6 Elemente de geometrie și unități de măsură 224",
+        "4",
+        "3",
+        "4",
+        "2",
+        "21"
+      ],
+      "content_preview": "FORMULAS/RULES: • 414=4 • b, unde n, a, b sunt numere naturale, b ≠ 0, n ≠ 0, • a nb anbb⋅+= . • 11 2 131222⋅+= =5 3 8 5 29388 8⋅+= = • 7 dintr-un pla...",
+      "metadata": {
+        "word_count": 65,
+        "char_count": 280
+      }
+    },
+    {
+      "title": "Unitatea principală de măsură pentru volumul corpurilor este",
+      "line_number": 426,
+      "content_lines": 16,
+      "content": [
+        "FORMULAS/RULES:",
+        "• •  Unitățile de măsură mici se transformă în unități mari prin împărțire cu (103)n, unde n este numă",
+        "• Din imagine, observăm că aranjamentul are forma unui paralelipiped cu L = 4 cuburi, l = 4 cuburi și",
+        "• 1 cm, atunci dimensiunile cutiei ar trebui să fie: l = L = 4 cm, iar h = 5 cm.",
+        "• Având în vedere că un cub are muchia de 1 cm, spunem că volumul său este egal cu 1 cm · 1 cm · 1 cm",
+        "EXAMPLES:",
+        "• Exemple",
+        "NOTES:",
+        "• metrul cub, notat m3.",
+        "• • decametrul cub (notat dam3); • decimetrul cub (notat dm3);",
+        "• • hectometrul cub (notat hm3); • centimetrul cub (notat cm3);",
+        "1 m3 reprezintă volumul unui cub cu muchia de 1 m.",
+        "1 Cubul mov are muchiile egale cu 1 cm.",
+        "El are volumul 1 cm3.",
+        "2 Cubul portocaliu are muchiile de 1 m.",
+        "El are volumul 1 m3.1 m"
+      ],
+      "content_preview": "FORMULAS/RULES: • •  Unitățile de măsură mici se transformă în unități mari prin împărțire cu (103)n, unde n este numă • Din imagine, observăm că aran...",
+      "metadata": {
+        "word_count": 158,
+        "char_count": 743
+      }
+    },
+    {
+      "title": "Unitatea principală de măsură pentru volumul corpurilor este",
+      "line_number": 453,
+      "content_lines": 19,
+      "content": [
+        "DEFINITIONS:",
+        "• De reținutCum este organizat manualul",
+        "FORMULAS/RULES:",
+        "• •  Unitățile de măsură mici se transformă în unități mari prin împărțire cu (103)n, unde n este numă",
+        "• a 15 + 43 - 27;       b 413 - 395 + 11;            c 642 + 423 - 999;",
+        "• d 725 - 696 + 37;      e 2 138 - 809 + 57;           f 521 - 99 + 17 - 47.",
+        "• d (34)9 : (96)3;        e (112011 · 41005) : [(222)5]201;         f 223 : 221 : 2 + 332 : 331 · 3.",
+        "• a (7 503 : 61 + 877) : 500 + 53 · 11;       b 207 · 9 - (192 + 32) : 74 + 2 296 : 41;",
+        "EXAMPLES:",
+        "• Exemple",
+        "NOTES:",
+        "• metrul cub, notat m3.",
+        "• • decametrul cub (notat dam3); • decimetrul cub (notat dm3);",
+        "• • hectometrul cub (notat hm3); • centimetrul cub (notat cm3);",
+        "1 m3 reprezintă volumul unui cub cu muchia de 1 m.",
+        "1 Cubul mov are muchiile egale cu 1 cm.",
+        "El are volumul 1 cm3.",
+        "2 Cubul portocaliu are muchiile de 1 m.",
+        "El are volumul 1 m3.1 m"
+      ],
+      "content_preview": "DEFINITIONS: • De reținutCum este organizat manualul FORMULAS/RULES: • •  Unitățile de măsură mici se transformă în unități mari prin împărțire cu (10...",
+      "metadata": {
+        "word_count": 190,
+        "char_count": 846
+      }
+    },
+    {
+      "title": "UNITATEA 1",
+      "line_number": 484,
+      "content_lines": 5,
+      "content": [
+        "Operații cu numere",
+        "naturale10 L1:  Scriere a și citirea numerelor naturale",
+        "15 L2:  R eprezentarea pe axa numerelor. Compararea și ordonarea numerelor naturale;",
+        "aproximări, estimări",
+        "20 L3:  A dunarea numerelor naturale, proprietăți"
+      ],
+      "content_preview": "Operații cu numere naturale10 L1:  Scriere a și citirea numerelor naturale 15 L2:  R eprezentarea pe axa numerelor. Compararea și ordonarea numerelor ...",
+      "metadata": {
+        "word_count": 32,
+        "char_count": 226
+      }
+    },
+    {
+      "title": "UNITATEA 2",
+      "line_number": 497,
+      "content_lines": 5,
+      "content": [
+        "Metode aritmetice de rezolvare",
+        "a problemelor64 L1:  Meto da reducerii la unitate",
+        "67 L2:  Metoda comparației",
+        "71 L3:  Metoda figurativă",
+        "77 L4:  Meto da mersului invers"
+      ],
+      "content_preview": "Metode aritmetice de rezolvare a problemelor64 L1:  Meto da reducerii la unitate 67 L2:  Metoda comparației 71 L3:  Metoda figurativă 77 L4:  Meto da ...",
+      "metadata": {
+        "word_count": 26,
+        "char_count": 161
+      }
+    },
+    {
+      "title": "UNITATEA 3",
+      "line_number": 510,
+      "content_lines": 5,
+      "content": [
+        "Divizibilitatea",
+        "numerelor naturale88 L1:  Divizibilita tea numerelor naturale",
+        "92 L2:  C riterii de divizibilitate",
+        "96 L3:  Numere prime . Numere compuse",
+        "99 R ecapitulare și evaluare"
+      ],
+      "content_preview": "Divizibilitatea numerelor naturale88 L1:  Divizibilita tea numerelor naturale 92 L2:  C riterii de divizibilitate 96 L3:  Numere prime . Numere compus...",
+      "metadata": {
+        "word_count": 26,
+        "char_count": 176
+      }
+    },
+    {
+      "title": "UNITATEA 4",
+      "line_number": 523,
+      "content_lines": 8,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 109  L3:  Intro ducerea și scoaterea întregilor dintr-o fracție",
+        "• 132  L10:   F racții/procente dintr - un număr natural sau dintr -o fracție ordinară",
+        "Fracții ordinare102  L1:  F racții ordinare. Fracții echivalente. Procente",
+        "106  L2:  C ompararea fracțiilor cu același numitor/numărător. Reprezentarea fracțiilor",
+        "ordinare pe axa numerelor",
+        "111  L4:  C el mai mare divizor comun a două numere naturale. Amplificarea și simplificarea",
+        "fracțiilor. Fracții ireductibile"
+      ],
+      "content_preview": "FORMULAS/RULES: • 109  L3:  Intro ducerea și scoaterea întregilor dintr-o fracție • 132  L10:   F racții/procente dintr - un număr natural sau dintr -...",
+      "metadata": {
+        "word_count": 67,
+        "char_count": 475
+      }
+    },
+    {
+      "title": "UNITATEA 5",
+      "line_number": 540,
+      "content_lines": 7,
+      "content": [
+        "FORMULAS/RULES:",
+        "• unei fracții ordinare într -o fracție z ecimală; periodicitate",
+        "Fracții zecimale140  L1:  F racții zecimale; scrierea fracțiilor ordinare cu numitori puteri ale  lu",
+        "formă de fracții zecimale; transformarea unei fracții zecimale cu un număr finit",
+        "de zecimale nenule în fracție ordinară",
+        "143  L2:  A proximări; compararea, ordonarea și reprezentarea pe axa numerelor a unor",
+        "fracții zecimale cu un număr finit de zecimale"
+      ],
+      "content_preview": "FORMULAS/RULES: • unei fracții ordinare într -o fracție z ecimală; periodicitate Fracții zecimale140  L1:  F racții zecimale; scrierea fracțiilor ordi...",
+      "metadata": {
+        "word_count": 64,
+        "char_count": 428
+      }
+    },
+    {
+      "title": "UNITATEA 6",
+      "line_number": 556,
+      "content_lines": 7,
+      "content": [
+        "DEFINITIONS:",
+        "• 197  L5:  Unghi: definiție , notații, elemente. Interiorul unui unghi, exteriorul unui unghi",
+        "Elemente de geometrie",
+        "și unități de măsură176  L1:  Punct , dreaptă, plan, semiplan, semidreaptă, segment de dreaptă",
+        "181  L2:  P ozițiile relative ale unui punct față de o dreaptă. Puncte coliniare. Pozițiile relative",
+        "a două drepte: drepte identice, drepte concurente, drepte paralele",
+        "186  L3:  L ungimea unui segment. Distanța dintre două puncte. Segmente congruente"
+      ],
+      "content_preview": "DEFINITIONS: • 197  L5:  Unghi: definiție , notații, elemente. Interiorul unui unghi, exteriorul unui unghi Elemente de geometrie și unități de măsură...",
+      "metadata": {
+        "word_count": 69,
+        "char_count": 469
+      }
+    }
+  ]
+}

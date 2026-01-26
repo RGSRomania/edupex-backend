@@ -1,0 +1,330 @@
+{
+  "batch_number": 6,
+  "item_count": 20,
+  "items": [
+    {
+      "title": "Lecția 6",
+      "line_number": 1323,
+      "content_lines": 1,
+      "content": [
+        "119 Adunarea și scăderea fracțiilor"
+      ],
+      "content_preview": "119 Adunarea și scăderea fracțiilor",
+      "metadata": {
+        "word_count": 5,
+        "char_count": 35
+      }
+    },
+    {
+      "title": "Lecția 7  123 Înmulțirea fracțiilor",
+      "line_number": 1332,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 8  126 Împărțirea fracțiilor ordinare",
+      "line_number": 1338,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 9  129 Puterea cu exponent natural a unei fracții ordinare",
+      "line_number": 1344,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 10  132 Fracții/procente dintr-un număr natural sau dintr-o fra",
+      "line_number": 1350,
+      "content_lines": 2,
+      "content": [
+        "Recapitulare  și evaluare",
+        "136"
+      ],
+      "content_preview": "Recapitulare  și evaluare 136",
+      "metadata": {
+        "word_count": 4,
+        "char_count": 28
+      }
+    },
+    {
+      "title": "Lecția 1  102 Fracții ordinare. Fracții echivalente. Procente",
+      "line_number": 1360,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 2  106Compararea fracțiilor cu același numitor/numărător.",
+      "line_number": 1366,
+      "content_lines": 1,
+      "content": [
+        "Reprezentarea fracțiilor ordinare pe axa numerelor"
+      ],
+      "content_preview": "Reprezentarea fracțiilor ordinare pe axa numerelor",
+      "metadata": {
+        "word_count": 6,
+        "char_count": 50
+      }
+    },
+    {
+      "title": "Lecția 3  109 Introducerea și scoaterea întregilor dintr-o fracție",
+      "line_number": 1375,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 4  111Cel mai mare divizor comun a două numere naturale.  Ampli",
+      "line_number": 1381,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 5",
+      "line_number": 1387,
+      "content_lines": 1,
+      "content": [
+        "116Cel mai mic multiplu comun a două numere naturale.  Aducerea fracțiilor la un numitor comun"
+      ],
+      "content_preview": "116Cel mai mic multiplu comun a două numere naturale.  Aducerea fracțiilor la un numitor comun",
+      "metadata": {
+        "word_count": 15,
+        "char_count": 94
+      }
+    },
+    {
+      "title": "Lecția 6",
+      "line_number": 1396,
+      "content_lines": 1,
+      "content": [
+        "119 Adunarea și scăderea fracțiilor"
+      ],
+      "content_preview": "119 Adunarea și scăderea fracțiilor",
+      "metadata": {
+        "word_count": 5,
+        "char_count": 35
+      }
+    },
+    {
+      "title": "Lecția 7  123 Înmulțirea fracțiilor",
+      "line_number": 1405,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 8  126 Împărțirea fracțiilor ordinare",
+      "line_number": 1411,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 9  129 Puterea cu exponent natural a unei fracții ordinare",
+      "line_number": 1417,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 10  132 Fracții/procente dintr-un număr natural sau dintr-o fra",
+      "line_number": 1423,
+      "content_lines": 20,
+      "content": [
+        "DEFINITIONS:",
+        "• Dacă p este un număr natural, fracția 100p se notează p% și se citește p procente sau p la sută.",
+        "• Procentul este o fracție cu numitorul 100.",
+        "FORMULAS/RULES:",
+        "• O fracție se reprezintă printr‑o pereche de numere naturale, a și b, cu b  ≠ 0, scrisă sub forma a",
+        "• Am putea scrie =14",
+        "• specială:  1 · 12 = 3 · 4.",
+        "• d sunt echivalente dacă a  · d = b · c. Se notează =ac",
+        "• 21 sunt echivalente, deoarece 2  · 21 = 7 · 6. Scriem =26",
+        "EXAMPLES:",
+        "• Mate practicăExemple",
+        "• Exemple",
+        "• Exemple",
+        "NOTES:",
+        "• cente sau douăzeci și cinci la sută. Păstrând notația, cele 40 de pătrățele galbene reprezintă 40",
+        "Recapitulare  și evaluare",
+        "136",
+        "U4 Fracții ordinare 102",
+        "1.1. F racții ordinareLecţia 1:   F racții ordinare. Fracții echivalente. ProcenteL1",
+        "În Săptămâna legumelor și fructelor donate , elevii cla ‑"
+      ],
+      "content_preview": "DEFINITIONS: • Dacă p este un număr natural, fracția 100p se notează p% și se citește p procente sau p la sută. • Procentul este o fracție cu numitoru...",
+      "metadata": {
+        "word_count": 150,
+        "char_count": 778
+      }
+    },
+    {
+      "title": "50. Ioana a alergat mai puțin decât Horia,",
+      "line_number": 1455,
+      "content_lines": 17,
+      "content": [
+        "DEFINITIONS:",
+        "• Ne amintim că axa numerelor este o dreaptă pe care se fixează:",
+        "FORMULAS/RULES:",
+        "• 50 50< . Horia a parcurs o distanță mai mare decât Radu, deci 30 24",
+        "• 50 50> .",
+        "• Regula 1.  dacă a < b, atunci ab",
+        "• nn<      Regula 2.  dacă ab",
+        "• nn<, atunci a  < b",
+        "EXAMPLES:",
+        "• 5Mate practicăExemple",
+        "• 16 9/g31  16 > 9Exemple",
+        "• Exemple2.3.  R eprezentarea fracțiilor ordinare pe axa numerelor",
+        "deci 20 30",
+        "0 m24 m 50 m 20 m",
+        "30 mMate",
+        "practică",
+        "Dintre două fracții care au același numitor, este mai mare fracția cu numărătorul mai mare."
+      ],
+      "content_preview": "DEFINITIONS: • Ne amintim că axa numerelor este o dreaptă pe care se fixează: FORMULAS/RULES: • 50 50< . Horia a parcurs o distanță mai mare decât Rad...",
+      "metadata": {
+        "word_count": 103,
+        "char_count": 510
+      }
+    },
+    {
+      "title": "Pentru a reprezenta o fracție pe axa numerelor , împărțim unitatea de",
+      "line_number": 1483,
+      "content_lines": 2,
+      "content": [
+        "câte arată numitorul și considerăm, începând din origine, atâtea părți câte arată numărătorul.",
+        "Pentru a reprezenta pe axa numerelor fracția 3"
+      ],
+      "content_preview": "câte arată numitorul și considerăm, începând din origine, atâtea părți câte arată numărătorul. Pentru a reprezenta pe axa numerelor fracția 3",
+      "metadata": {
+        "word_count": 21,
+        "char_count": 140
+      }
+    },
+    {
+      "title": "4, împărțim unitatea de măsură în 4 părți egale",
+      "line_number": 1493,
+      "content_lines": 21,
+      "content": [
+        "DEFINITIONS:",
+        "• Numărul de sendvișuri de pe fiecare platou este un divizor comun  al numerelor",
+        "• 2 Dacă p este un număr prim și a este un număr natural oarecare, atunci:",
+        "• Numărul natural prin care se efectuează simplificarea este un divizor comun, diferit de 1, al numă ‑",
+        "FORMULAS/RULES:",
+        "• 55n+<.",
+        "• n + 1 < 3, adică n poate fi 0 sau 1.",
+        "• 23n+, unde n este număr natural, știind că 13 13",
+        "• 2 3 10n>+.",
+        "• 2n + 3 < 10, adică n poate fi 0, 1, 2 sau 3. Fracțiile căutate sunt 13",
+        "EXAMPLES:",
+        "• Mate practicăExemple",
+        "• ExempleL4",
+        "• Analizând exemplele de mai sus, se constată că au loc următoarele proprietăți, general valabile:",
+        "• Exemplu:",
+        "• Exemple",
+        "și luăm, începând din origine, trei astfel de părți. Pe aceeași axă, putem reprezenta mai multe frac",
+        "cu numitorul 4:",
+        "u",
+        "1",
+        "4O 1"
+      ],
+      "content_preview": "DEFINITIONS: • Numărul de sendvișuri de pe fiecare platou este un divizor comun  al numerelor • 2 Dacă p este un număr prim și a este un număr natural...",
+      "metadata": {
+        "word_count": 148,
+        "char_count": 743
+      }
+    },
+    {
+      "title": "72. Determinați fracția.",
+      "line_number": 1525,
+      "content_lines": 11,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 72 36= , (330 10",
+        "• 72 24=  și (630 5",
+        "• 72 12= . Așadar, fracția din enunț poate fi 5",
+        "• 20n+ este subunitară și ireductibilă;      b fracția 18",
+        "• 3n+ este supraunitară și reductibilă.",
+        "Rezolvare:",
+        "Întrucât operația inversă amplificării este simplificarea, vom determina prin ce numere se poate sim",
+        "fica fracția 30",
+        "72 și care sunt fracțiile ce se pot obține. Divizorii comuni ai numerelor 30 și 72 sunt 2, 3 și 6,",
+        "deci  au loc simplificările: (230 15"
+      ],
+      "content_preview": "FORMULAS/RULES: • 72 36= , (330 10 • 72 24=  și (630 5 • 72 12= . Așadar, fracția din enunț poate fi 5 • 20n+ este subunitară și ireductibilă;      b ...",
+      "metadata": {
+        "word_count": 84,
+        "char_count": 454
+      }
+    },
+    {
+      "title": "36. Ce fracție a scris Horia?",
+      "line_number": 1545,
+      "content_lines": 16,
+      "content": [
+        "FORMULAS/RULES:",
+        "• a Dacă a = 1, atunci determină valorile lui b, astfel încât fracția să se poată simplifica.",
+        "• b Dacă b = 4, atunci det ermină a, știind că cel mai mare divizor comun al termenilor fracției este",
+        "• Se notează m  = [a, b] sau m  = c.m.m.m.c.  (a, b).",
+        "• 33, 6, 9, 12, 15, 18,…[3, 5] = 1544, 8, 12, 16, 20, 24, 28, 32, 36, …[4, 9] = 36",
+        "• 66, 12, 18, 24,…[6, 18] = 1812 12, 24, 36, 48, 60, 72, 84, 96, …[12, 28] = 84",
+        "EXAMPLES:",
+        "• a V erificați, prin câte trei exemple, valabilitatea afirmațiilor:",
+        "• Analizând exemplele de mai sus, se constată că au loc următoarele proprietăți, valabile în caz",
+        "• Exemplu:",
+        "• Exemple",
+        "1 Două numere naturale se numesc prime între ele  (sau relativ prime ) dacă cel mai mare divizor",
+        "comun al lor este 1.",
+        "(i) Oric e două numere naturale consecutive sunt prime între ele.",
+        "(ii) Oric e două numere naturale impare consecutive sunt prime între ele.",
+        "b D ezbateți și argumentați, cu colegii sau împreună cu profesorul, dacă afirmațiile precedente"
+      ],
+      "content_preview": "FORMULAS/RULES: • a Dacă a = 1, atunci determină valorile lui b, astfel încât fracția să se poată simplifica. • b Dacă b = 4, atunci det ermină a, ști...",
+      "metadata": {
+        "word_count": 186,
+        "char_count": 964
+      }
+    }
+  ]
+}

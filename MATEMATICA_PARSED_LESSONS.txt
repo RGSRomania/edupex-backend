@@ -1,0 +1,243 @@
+================================================================================
+MATEMATICA - EXTRACTED LESSONS
+================================================================================
+
+
+================================================================================
+LESSON 1: :  Fiind  3 rânduri, fiecare a câte  6 cercuri, pe tablă sunt
+================================================================================
+
+EXAMPLES:
+  Mate practicăExemplu
+
+FORMULAS/RULES:
+  3 · 6 = 18 cercuri.
+  6 · 3 = 18 cercuri.
+  --- PAGE 33 ---
+  Am obținut același rezultat în două moduri:  6  ·  3  = 3 · 6.
+  În general, a  · b = b · a, pentru oric e numere naturale a și b.
+
+ADDITIONAL CONTENT:
+  Ioana :  Fiind  6 coloane, fiecare a câte  3 cercuri, în total sunt
+  De reținut
+  RegulăSituație
+  problemă
+  L5 Înmulțirea numerelor naturale, proprietăți 31
+  Ce observăm?
+  Produsul a două numere naturale este același, indiferent de ordinea în care apar cei doi termeni.
+  Această proprietate a înmulțirii se numește comutativitate.
+  O miniatură a unei mașini de curse costă 10  lei. Un set cuprinde 4 mașinuțe. Ce sumă trebuie să cheltuim pentru a cumpăra 5 seturi?Horia
+
+
+================================================================================
+LESSON 2: :  Mai întâi, aflăm câte mașinuțe sunt în 5 seturi:  5 · 4  = 20 de mașinuțe.
+================================================================================
+
+DEFINITION:
+  3 F olosiți internetul sau biblioteca pentru a defini alte două tipuri de numere:
+
+EXAMPLES:
+  Exemplu:  P rodusul  3  ·  4  ·  5  es te par, deoarece factorul 4 este par.
+  Exemplu:  P rodusul  1  ·  3  ·  5  ·  7  ·  …  ·  123  es te impar, deoarece toți factorii sunt impari.
+  fiecărui factor.Exemplu:
+  Exemplu5  Dacă unul dintr e factorii unui produs este 0, atunci produsul este 0:
+  Deoarece 15  · 4 = 60 și 15  · 5 = 75, observăm că dacă acea carte ar fi avut, de exemplu, 65 de
+
+FORMULAS/RULES:
+  Pentru a cumpăra 5 seturi, vom cheltui:  20 ·  10  = 200 lei.
+  Ioana :  Mai întâi, aflăm cât costă un set:  4 · 10  = 40 lei.
+  Pentru a cumpăra 5 seturi, vom cheltui:  5 · 40  = 200 lei.
+  (5 · 4) · 10 = 5 · (4 · 10).
+  · b) · c = a · (b ·	c), pentru oric e numere naturale a, b și c.
+
+NOTES:
+  Notăm cu a și b cei doi factori. Dacă numărul natural a este cuprins între 8 și 15, atunci 9  ≤ a ≤ 14; la f el, dacă
+  Observație.  Înmul țind termen cu termen inegalitățile 8  < a < 15 și 16  < b < 23, se ob ține relația
+  Atenție!  Nu oric e număr natural care are ultima cifră 0,  1,  4,  5,  6 sau 9 es te pătratul unui număr
+  Rezolvare:Pentru a simplifica scrierea, notăm cu u(n) ultima cifră a numărului natural n.Deoarece restul împărțirii lui 203 la 4 este 3, rezultă că:
+  Rezolvare:Ca la problema anterioară, notăm cu u(n) ultima cifră a numărului natural n.Deoarece restul împărțirii lui 42 la 4 este 2, au loc relațiile: u(2
+
+ADDITIONAL CONTENT:
+  Ce observăm?
+  Am obținut același rezultat în două moduri:
+  Când înmulțim trei numere naturale, se obține același rezultat fie că produsul primelor două numere se înmulțește cu al treilea, fie că primul număr se înmulțește cu produsul ultimelor două. Această proprietate a înmulțirii se numește asociativitate.În general, (a
+  În fiecare etapă a campionatului național de handbal se joacă 8 meciuri.
+  În septembrie sunt pro  g ramate
+  3  etape, iar în octombrie sunt programate 4  etape. Câte
+  meciuri se joacă în campio  nat în
+  septembrie și octombrie?
+  Ce observăm?
+  Horia și Radu au obținut același rezultat în două moduri:
+
+
+================================================================================
+LESSON 3: :  Fiecar e brioșă umple 1
+================================================================================
+
+EXAMPLES:
+  Exemplu:
+
+FORMULAS/RULES:
+  Deoarece 18  : 7 = 2, rest 4, fracția 18
+  --- PAGE 112 ---
+  dacă a  : b = c, rest r, atunci arcbb= .
+  dacă a  : b = c, rest 0, atunci =acb.
+  1 23 7288= , deoarece 23  : 8 = 2, rest 7;       2 41 1855= , deoarece 41  : 5 = 8, rest 1;
+
+ADDITIONAL CONTENT:
+  7 dintr ‑ un platou. Cu un pachet de 18 brioșe se pot completa 18
+  7 platouri.
+  Horia :  Împăr țind pe 18 la 7 obținem câtul 2 și restul 4. Ca urmare, dintr ‑ un pachet putem umple
+  complet două platouri, deci avem doi întregi, iar pe al treilea platou se mai pot pune încă patru brioșe, adică
+  4
+  7 dintr ‑ un platou. Răspunsul este 427.
+  Ce observăm?
+  7 poate fi reprezentată sub forma numărului mixt 427.
+  În general, deoarece o fracție supraunitară reprezintă o cantitate mai mare decât un întreg, putem pune
+  în evidență numărul de întregi conținuți în fracție exprimând fracția dată sub forma unui număr mixt.De reținutMate practică
+
+
+================================================================================
+LESSON 4: :  Până acum a parcurs trei sectoare din cele
+================================================================================
+
+FORMULAS/RULES:
+  Ioana :  Ai putea spune și astfel: întrucât  5 · 40 = 200
+  și 3 · 40 = 120, până acum a parcurs 120 km
+  5 40 5 200⋅= =⋅.
+  b nb⋅=⋅.
+  Prin amplificare se obține o fracție echivalentă cu cea dată, deoarece a  · (n · b) = b · (n · a).
+
+NOTES:
+  , n ≠ 0, notăm:
+
+ADDITIONAL CONTENT:
+  cinci ale traseului, adică 3
+  5 din drumul total.
+  din cei 200 km ai traseului, adică 120
+  200 din
+  traseul total.
+  Ce observăm?
+  Fracția 120
+  200 este echivalentă cu fracția 3
+  5 (ambele reprezintă aceeași porțiune a traseului) și poate
+  fi obținută din aceasta înmulțind atât numărătorul cât și numitorul cu numărul natural 40. Spunem
+
+
+================================================================================
+LESSON 5: :  Mai simplu, albumul a costat două treimi din suma pe care o aveai.
+================================================================================
+
+FORMULAS/RULES:
+  --- PAGE 115 ---
+  30 30 : 10 3= = .
+
+ADDITIONAL CONTENT:
+  Ce observăm?
+  Suma cheltuită reprezintă 20
+  30, cât și 2
+  3 din suma totală (cele
+  două fracții sunt echivalente).
+  4.3.  Simplif icarea fracțiilor. Fracții ireductibileDe reținutMate practică
+  Mate practicăExemple
+  L4 Cel mai mare divizor comun a două numere naturale 113
+  ObservațiiFracția 2
+  3 se obține prin împărțirea numărătorului și a numitorului fracției 20
+
+
+================================================================================
+LESSON 6: :da ad
+================================================================================
+
+EXAMPLES:
+  Exemplu:  Cel mai mar e divizor comun al numerelor 50 și 75 este 25, deci (2550 50:25 2
+  Exemplu:
+  Exemplu:
+  Exemplu:  (101 (131 212 143 12 11 23
+  Exemplu
+
+FORMULAS/RULES:
+  b bd= .
+  18 18:2 9= = ;       2 (742 42:7 6
+  49 49:7 7= = ;       3 (999 99:9 11
+  909 909:9 101= = ;
+  36 36: 3 12= = ;      5 (424 24 : 4 6
+
+ADDITIONAL CONTENT:
+  1 (210 10:2 5
+  4 (324 24 : 3 8
+  O fracție care nu se poate simplifica prin niciun număr natural se numește fracție ireductibilă.
+  O fracție se numește reductibilă dacă se poate simplifica.
+  O fracție este ireductibilă dacă cel mai mare divizor comun al numărătorului și numitorului fracției
+  este egal cu 1.
+  Fracțiile 1
+  2, 4
+  7, 9
+  22, 24
+
+
+================================================================================
+LESSON 7: :a c ad
+================================================================================
+
+FORMULAS/RULES:
+  bd bc= ⋅ , unde b , c, d ≠ 0.
+  1 5 7 5 11 55:6 11 6 7 42= ⋅= ;            2 (5 710 5 10 7 10 7 2:21 7 21 5 21 5 3⋅⋅= ⋅= =⋅;
+  3 (216 7 2 7 72: 27 16 16 8⋅= ⋅= = ;          4 (174 34 34 1 34 26 : 17 : 175 5 5 17 5 17 5= =⋅= =⋅.
+  2 este:  2) 9)4 1 22 1 44 9 3529 2 9 2 18 18 18‑= ‑ = ‑ = .
+  3 și 11127 este:  9) 2 11 2 38 18 38 5613 27 3 27 27 27 27+ =+=+= .
+
+ADDITIONAL CONTENT:
+  Probleme rezolvate: strategii și metode
+  1 Ce fr acție se obține prin împărțirea diferenței fracțiilor 429 și 1
+  2 la suma fracțiilor 2
+  3 și 11127?
+  Rezolvare:
+  Diferența fracțiilor 429 și 1
+  Suma fracțiilor 2
+  21827⋅3
+  5685 3 15
+  2 Într‑ un sac sunt 283 kilograme de boabe de cafea. Câte pungi de câte 2
+
+
+================================================================================
+LESSON 8: :m n mnaa a
+================================================================================
+
+DEFINITION:
+  Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi
+  Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui unghi, exteriorul unui unghi
+  Definiție.  Două dr epte care au toate punctele comune se numesc drepte identice (confundate,
+
+EXAMPLES:
+  Exemplu:
+  zecimală, de exemplu 2,5. Horia continuă, scriind o fracție zecimală cu cel puţin 1 mai mare decât
+  a Ioanei, de exemplu 4,3. Pe rând, începând cu Ioana, fiecare copil scrie câte o fracţie zecimală cuprinsă între ultimele două fracţii zecimale scrise: de exemplu, Ioana poate scrie fracţia 3,4 (cuprinsă 2,5 și 4,3), Horia scrie 3,9 (cuprinsă între 3,4 și 4,3), apoi Ioana trebuie să scrie o fracție
+  rea 11,23  ‑ 9,7 = 1,53. Așadar, un exemplu de fracții care îndeplinesc condiția dată este 1,53 și 9,7.
+  un exemplu de numere naturale între care este cuprins produsul celor doi factori.
+
+FORMULAS/RULES:
+  bb b‑=  (unde m ≥ n).De reținut
+  --- PAGE 132 ---
+  bb⋅ =  .
+  bd b d  ⋅= ⋅    .
+  b d bd  ⋅= ⋅    .
+
+NOTES:
+  Observație
+  Observație.  Dintr e două fracții zecimale cu un număr finit de zecimale nenule reprezentate pe axa
+  notă de 10 lei?
+  tit cu o bancnotă de 50 de lei. Estimați, fără a efectua scăderea, restul primit de Horia:
+  unui set format din câte un produs din cele 5 prezentate dacă plătește cu o bancnotă de 100 de lei.Produs Preț
+
+ADDITIONAL CONTENT:
+  U4 Fracții ordinare 130
+  3 Put erea unei puteri
+  Pentru a ridica o putere la o altă putere, se păstrează baza și se înmulțesc exponenții:
+  nm mnaa
+  4 Put erea unui produs. Produsul a două puteri cu același exponent
+  Pentru a ridica un produs la o putere, se distribuie exponentul fiecărui factor al produsului:
+  n nnac a c
+  Pentru a înmulți două puteri cu același exponent, se înmulțesc bazele și se păstrează exponentul:
+  nn na c ac
+  5 Put erea unui cât. Câtul a două puteri cu același exponent

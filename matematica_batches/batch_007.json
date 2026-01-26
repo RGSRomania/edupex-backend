@@ -1,0 +1,178 @@
+{
+  "batch_number": 7,
+  "lesson_count": 15,
+  "lessons": [
+    {
+      "title": "Lecția 5  82 Metoda falsei ipoteze",
+      "definitions": [
+        "Această metodă este utilă, în special, prin faptul că se aplică la multe probleme întâlnite în pract"
+      ],
+      "examples": [],
+      "formulas": [
+        "• 24 lei : 8 = 3 lei",
+        "• 3 lei · 5 = 15 lei",
+        "• 3 ore  · 6 = 18 ore"
+      ],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • 24 lei : 8 = 3 lei • 3 lei · 5 = 15 lei • 1 kg"
+    },
+    {
+      "title": "Lecția 3:   Met oda figurativăL3",
+      "definitions": [
+        "• Observație.  Cheia rezolvării problemelor de acest tip este sesizarea faptului că diferența de vârst",
+        "Metoda figurativă sau grafică este cea mai sugestivă metodă prin care o situație reală se poate tran"
+      ],
+      "examples": [],
+      "formulas": [
+        "• 27p +19numărul românilor",
+        "• 27 – 19 = 8",
+        "• 8 : 2 = 43  Câți s trăini s‑au înscris?",
+        "• 4 · 1 = 4",
+        "• 4 · 1 + 19 = 23"
+      ],
+      "notes": [
+        "• Observație.  Cheia rezolvării problemelor de acest tip este sesizarea faptului că diferența de vârst"
+      ],
+      "summary": "FORMULAS/RULES: • 27p +19numărul românilor • 27 – 19 = 8 • 8 : 2 = 43  Câți s trăini s‑au înscris"
+    },
+    {
+      "title": "Lecția 4:   Met oda mersului inversL4",
+      "definitions": [
+        "DEFINITIONS:",
+        "• Este o împărțire cu împărțitorul 20  ·  (22  ‑ x) + 871 necunoscut. Îl aflăm împăr țind deîmpărțitul",
+        "• Este o adunare cu primul termen 20  ·  (22  ‑ x). Aplicăm regula de aflare a unui termen necunoscut",
+        "• Este o înmulțire cu al doilea factor egal cu 22  ‑ x. Îl aflăm împărțind produsul la primul factor"
+      ],
+      "examples": [
+        "EXAMPLES: • 4.1.  Ex erciții sau probleme cu o singură necunoscută",
+        "• = 215 : 214 = 2, obținându‑se exercițiul rezolvat anterior, cu metoda mersului invers.Exemplu • o pauză. Alex a calculat că, după ce parcurg trei sferturi din restul traseu ‑"
+      ],
+      "formulas": [
+        "• 2022  : [20 · (22 ‑ x) + 871] = 24 2 1 3",
+        "• 2022  : [20 · (22 ‑ x) + 871] = 24",
+        "• = 215 : 214 = 2, obținându‑se exercițiul rezolvat anterior, cu metoda mersului invers.Exemplu"
+      ],
+      "notes": [
+        "• Observație.  Exis tă și exerciții la care mai întâi efectuăm operațiile posibile, după care aplicăm"
+      ],
+      "summary": "DEFINITIONS: • Este o împărțire cu împărțitorul 20  ·  (22  ‑ x) + 871 necunoscut"
+    },
+    {
+      "title": "practicăLecția 5:   Met oda falsei ipotezeL5",
+      "definitions": [
+        "• l · 10 = 30 l. Rezultă că ipoteza este falsă,",
+        "stabilește cu cât sau, mai rar, de câte ori este nepotrivită ipoteza făcută. Această nepotrivire din"
+      ],
+      "examples": [],
+      "formulas": [
+        "• l · 10 = 30 l. Rezultă că ipoteza este falsă,"
+      ],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • l · 10 = 30 l"
+    },
+    {
+      "title": "Lecția 1  88 Divizibilitatea numerelor naturale",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 2  92 Criterii de divizibilitate",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 3  96 Numere prime. Numere compuse",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "Recapitulare și evaluare  99"
+    },
+    {
+      "title": "Lecția 1  88 Divizibilitatea numerelor naturale",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 2  92 Criterii de divizibilitate",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 3  96 Numere prime. Numere compuse",
+      "definitions": [
+        "DEFINITIONS:",
+        "• De reținut Numărul natural d este un divizor comun a două sau mai multe numere naturale a1, a2,…, an",
+        "• Numărul de DVD‑uri se împarte exact atât la 8, cât și la 12, adică este atât multiplu al lui 8, cât",
+        "• Exemple:  1 68 este divizibil cu 4, deoarece 68  : 4 = 17, rest 0 (68 se împarte exact la 4).",
+        "• Pentru a verifica divizibilitatea unor numere cu 2, 5 sau 10, nu este neapărat nevoie să efectuăm îm"
+      ],
+      "examples": [
+        "EXAMPLES: • Exemple1.1. Diviz or. MultipluLecţia 1:   Divizibilita tea numerelor naturaleL1"
+      ],
+      "formulas": [
+        "• rece  120  = 4 · 30. La fel, poți face 5 ronduri cu câte",
+        "• că 120  = 5 · 24 = 6 · 20.",
+        "• naturale și astfel:  120  = 8 · 15 = 10 · 12.",
+        "• a = b · c.",
+        "• numărul natural 2, astfel încât 14  = 7 · 2."
+      ],
+      "notes": [
+        "• Analizați cu atenție explicațiile de mai jos."
+      ],
+      "summary": "DEFINITIONS: • Numărul de planșe trebuie să se cuprindă exact atât în numărul de fotografii, cât și în numărul de d • De reținut Numărul natural d este un divizor comun a două sau mai multe numere naturale a1, a2,…, an • Numărul de DVD‑uri se împarte exact atât la 8, cât și la 12, adică este atât mu"
+    },
+    {
+      "title": "Lecția 1  102 Fracții ordinare. Fracții echivalente. Procente",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 2  106Compararea fracțiilor cu același numitor/numărător.",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "Reprezentarea fracțiilor ordinare pe axa numerelor"
+    },
+    {
+      "title": "Lecția 3  109 Introducerea și scoaterea întregilor dintr-o fracție",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 4  111Cel mai mare divizor comun a două numere naturale.  Ampli",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 5",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "116Cel mai mic multiplu comun a două numere naturale"
+    }
+  ]
+}

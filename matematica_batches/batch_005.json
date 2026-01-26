@@ -1,0 +1,181 @@
+{
+  "batch_number": 5,
+  "lesson_count": 15,
+  "lessons": [
+    {
+      "title": "Lecția 3  20 Adunarea numerelor naturale, proprietăți",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 4  26 Scăderea numerelor naturale",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 5  30 Înmulțirea numerelor naturale, proprietăți",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 6  36 Factor comun",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "Recapitulare  și evaluare 38"
+    },
+    {
+      "title": "Lecția 7  39 Împărțirea cu rest 0 a numerelor naturale",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 8  43 Împărțirea cu rest a numerelor naturale",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 9  46 Puterea cu exponent natural a unui număr natural. Pătratu",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 10  50 Reguli de calcul cu puteri",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 11  53 Compararea puterilor",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 12  55 Scrierea în baza 10. Scrierea în baza 2",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 13  58 Ordinea efectuării operațiilor; utilizarea parantezelor:",
+      "definitions": [
+        "DEFINITIONS:",
+        "• •  or dinul 1 este ordinul unităților (prima cifră din dreapta);",
+        "• •  or dinul 2 este ordinul zecilor (a doua cifră din dreapta);",
+        "• •  or dinul 3 este ordinul sutelor (a treia cifră din dreapta);",
+        "• se numește răsturnatul numărului n. De exemplu, răsturnatul lui 12 este 21, iar răsturnatul lui 12"
+      ],
+      "examples": [
+        "EXAMPLES: • Exemple:",
+        "• sute șaisprezece.Exemplu • se numește răsturnatul numărului n. De exemplu, răsturnatul lui 12 este 21, iar răsturnatul lui 12"
+      ],
+      "formulas": [
+        "• o sută  = 10 zeci  = 100 de unități o mie",
+        "• = 10 sute",
+        "• = 100 de zeci",
+        "• = 1 000 de unități"
+      ],
+      "notes": [],
+      "summary": "DEFINITIONS: • •  or dinul 1 este ordinul unităților (prima cifră din dreapta); • •  or dinul 2 este ordinul zecilor (a doua cifră din dreapta); • •  or dinul 3 este ordinul sutelor (a treia cifră din dreapta); FORMULAS/RULES: • o sută  = 10 zeci  = 100 de unități o mie • = 10 sute • = 100 de zeci •"
+    },
+    {
+      "title": "ExempleLecția 2:   R eprezentarea pe axa numerelor. Compararea și ordo",
+      "definitions": [
+        "• Răspuns:   16 < 25, deci Horia este mai aproape de FINIȘ.",
+        "• 25 > 16, deci Ioana este mai aproape de START.",
+        "14, termometrul indică 28 de grade. Este mai cald la ora 14 decât dimineața?"
+      ],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • Răspuns:  Es te mai cald, deoarece pe scara termometrului 28  > 22"
+    },
+    {
+      "title": "unitatea de măsură originea",
+      "definitions": [
+        "• este 4, mai mare decât a treia cifră a lui A, care este 3. În acest caz, A  < B."
+      ],
+      "examples": [
+        "EXAMPLES: • Exemplu"
+      ],
+      "formulas": [],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • 3  Alegeți cifrele a și b astfel încât numărul A  = 353a17 să fie mai mare decât numărul B  = 3b4739 • Dacă b  > 5, atunci A < B, indiferent de alegerea lui a"
+    },
+    {
+      "title": "În colecția sa, Horia are 5 cărți poștale cu",
+      "definitions": [
+        "DEFINITIONS:",
+        "• 8  Dacă a este un număr par și b este un număr impar, precizați care dintre următoarele afirmații su",
+        "• a a + b + 11 este un număr par;          b a + b + 12 este un număr par;",
+        "• c a + 4 + b + 9 este un număr impar;         d 50 + a + b + 36 este un număr impar.",
+        "• + b se numește suma neefectuată, iar s este suma efectuată.",
+        "• 27 + 31 = 58 27 + 31 este suma neefectuată"
+      ],
+      "examples": [
+        "EXAMPLES: • Mate practicăExempluSituație",
+        "• Adunarea reprezintă, de fapt, o numărare succesivă. De exemplu, pentru a‑l aduna pe 5 cu 3 vom număr • Din acest exemplu deducem că 5  + 3 = 8 și 3  + 5 = 8, deci 5  + 3 = 3 + 5.",
+        "• Sumele de tipul celei din exemplul anterior se numesc sume Gauss, după NOTES:"
+      ],
+      "formulas": [
+        "• Răspuns:  5 + 3 = 8 cărți poștale",
+        "• a + b = s",
+        "• + b se numește suma neefectuată, iar s este suma efectuată.",
+        "• 27 + 31 = 58 27 + 31 este suma neefectuată",
+        "• +1+1 +1+1+1"
+      ],
+      "notes": [],
+      "summary": "DEFINITIONS: • 8  Dacă a este un număr par și b este un număr impar, precizați care dintre următoarele afirmații su • a a + b + 11 este un număr par;          b a + b + 12 este un număr par; • c a + 4 + b + 9 este un număr impar;         d 50 + a + b + 36 este un număr impar"
+    },
+    {
+      "title": "În colecția sa, Horia are 27 de bancnote din diferite",
+      "definitions": [
+        "DEFINITIONS:",
+        "• Scăderea este operația inversă adunării. În general, dacă a  + b = s, atunci  asb",
+        "• tea că a  = b + d se numește diferența numerelor a și b."
+      ],
+      "examples": [
+        "EXAMPLES: • Exemplul 1: Exemplul 2:",
+        "• crescător. De exemplu, pentru a scădea din 9 pe 6, vom număra, în sens descrescător, 6 numere pornin • ExempleExemplu"
+      ],
+      "formulas": [
+        "• 40 ‑ 27 = 13 bancnote îi sunt necesare lui Horia",
+        "• tea că a  = b + d se numește diferența numerelor a și b.",
+        "• Se notează: d  = a ‑ b.",
+        "• 534 ‑ 319 = 215 534  ‑ 319  es te diferența neefectuată"
+      ],
+      "notes": [
+        "• 40 ‑ 27 = 13 bancnote îi sunt necesare lui Horia",
+        "• Se notează: d  = a ‑ b.",
+        "țări de pe glob. El dorește să completeze un clasor întreg, prevăzut cu 40 de spații pentru bancnote"
+      ],
+      "summary": "DEFINITIONS: • Scăderea este operația inversă adunării"
+    }
+  ]
+}

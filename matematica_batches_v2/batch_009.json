@@ -1,0 +1,454 @@
+{
+  "batch_number": 9,
+  "item_count": 20,
+  "items": [
+    {
+      "title": "Lecția 11  224 Unități de măsură pentru volum. Volumul cubului și al p",
+      "line_number": 2016,
+      "content_lines": 22,
+      "content": [
+        "DEFINITIONS:",
+        "• pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu",
+        "• toare  a două puncte. Primul punct este originea semidreptei, iar cel de  ‑al doilea es te un punct",
+        "• Definiție.  Două dr epte care au toate punctele comune se numesc drepte identice (confundate,",
+        "FORMULAS/RULES:",
+        "• A  B Punctele A și B coincid. A = B",
+        "• M   N Punctele M și N sunt distincte. M ≠ NDe reținut",
+        "• a B ≠ C ≠ D;    b A ≠ B ≠ C;    c A ≠ B = C;    d A ≠ B ≠ D.",
+        "• 3 Afirmația că în fig ura 1, A ≠ C ≠ B este:   a adevărată;    b falsă.",
+        "• 4  Desenați punctele A, B, C care îndeplinesc următoarele condiții: A ≠ B",
+        "EXAMPLES:",
+        "• 11 P riviți figura 9 și dați câte trei exemple de:",
+        "• 0 1 2 3 4 5ExempleDe reținut",
+        "NOTES:",
+        "• Notație.  Se not ează cu una din literele mari ale alfabetului: A, B, C, ….",
+        "• tincte (diferite).Desenăm Citim Notăm",
+        "• Desenăm Citim Notăm",
+        "Recapitulare",
+        "și evaluare  228",
+        "U6 Elemente de geometrie și unități de măsură 176",
+        "De reținutLecţia 1:   Punct, dr eaptă, plan, semiplan, semidreaptă,",
+        "segment de dreaptăL1"
+      ],
+      "content_preview": "DEFINITIONS: • pută. Linia nesfârșită, astfel obținută, este o dreaptă . Ea este nemărginită și este formată din pu • toare  a două puncte. Primul pun...",
+      "metadata": {
+        "word_count": 207,
+        "char_count": 1025
+      }
+    },
+    {
+      "title": "vine de la faptul că minutul  este unitatea de 60 de ori",
+      "line_number": 2050,
+      "content_lines": 4,
+      "content": [
+        "DEFINITIONS:",
+        "• Definiție.  Măsura unui unghi  este numărul care ne",
+        "FORMULAS/RULES:",
+        "• mai mică decât gradul: 1°  = 60'."
+      ],
+      "content_preview": "DEFINITIONS: • Definiție.  Măsura unui unghi  este numărul care ne FORMULAS/RULES: • mai mică decât gradul: 1°  = 60'.",
+      "metadata": {
+        "word_count": 19,
+        "char_count": 115
+      }
+    },
+    {
+      "title": "arată de câte ori se cuprinde unitatea de măsură în interiorul acelui",
+      "line_number": 2062,
+      "content_lines": 23,
+      "content": [
+        "DEFINITIONS:",
+        "• L6 Unghi: definiție, notații, elemente 201",
+        "• Definiție.  Două unghiuri car e au aceeași măsură se numesc unghiuri congruente.",
+        "• a Unghiul A este congruent cu unghiul B. Aplicând definiția unghiurilor congruente, rezultă că măsur",
+        "FORMULAS/RULES:",
+        "• Pasul 4:  Măsur a unghiului este egală cu 70° și scriem că rABC  = 70°.OAC",
+        "• 1: Măsur ăm unghiul dat, rABC, și obținem că rABC  = 50° (figura 1).",
+        "• Pasul 5: rDEF  = rABC  = 50°, deci rDEF  ≡ rABC.",
+        "• a rA ≡ rB ⇒ rA  = rB;               b rA = rB ⇒ rA  ≡ rB;",
+        "• rC ≡ rE ⇒ rD  ≡ rE ⇒ rD  = rE;          d rC = rD",
+        "EXAMPLES:",
+        "• ExempleDe reținut",
+        "• cExempleMate",
+        "• Exemple",
+        "NOTES:",
+        "• de regulă, în formă de semicerc și au gradații circulare de la 0 la 180, notate pe margine. Pe bara",
+        "• Desenăm Citim Notăm",
+        "• 6 a F ără a măsura  unghiurile de mai jos, estimați măsura fiecăruia și notați‑o.",
+        "Instrumentul gradat cu care măsurăm deschiderea din ‑",
+        "tre laturile unghiului este raportorul. Raportoarele sunt,",
+        "semicercul raportorului. De aceea, îl vom numi centrul",
+        "semicercului.o",
+        "Măsurarea unui unghi dat, ABCPasul"
+      ],
+      "content_preview": "DEFINITIONS: • L6 Unghi: definiție, notații, elemente 201 • Definiție.  Două unghiuri car e au aceeași măsură se numesc unghiuri congruente. • a Unghi...",
+      "metadata": {
+        "word_count": 193,
+        "char_count": 1036
+      }
+    },
+    {
+      "title": "Aria unei figuri geometrice este o măsură a întinderii figurii geometr",
+      "line_number": 2097,
+      "content_lines": 18,
+      "content": [
+        "FORMULAS/RULES:",
+        "• • arul: 1 ar  = 1 dam2;",
+        "• • hectarul: 1 ha  = 1 hm2.",
+        "• 1 3,4  km2 = 3,4 · 100  hm2 = 340  hm2 = 340  · 100  dam2 = 34 000  dam2;",
+        "• 2 125  cm2 = (125  : 100)  dm2 = 12,5  dm2 = (12,5  : 100)  m2 = 0,125  m2;",
+        "• 3 0,78  ha  = 0,78  hm2 = 0,78  · 100  dam2 = 78 ari.",
+        "EXAMPLES:",
+        "• 1 mm2ExempleMate",
+        "• Aria unui dreptunghi cu lungimea L și lățimea l este egală cu L  · l.ExempleObservații",
+        "NOTES:",
+        "• măsură pentru aria suprafețelor este metrul pătrat, notat m2. Un m2 reprezintă aria suprafeței",
+        "• • decametrul pătr at, notat dam2",
+        "• • hect ometrul pătrat, notat hm2",
+        "unui pătrat cu latura de 1  m  (1  c m2 reprezintă aria suprafeței unui pătrat cu latura de 1  c m e",
+        "Pentru ușurința exprimării, în loc de aria suprafeței pătratului, vom utiliza aria pătratului.",
+        "1 În cazul I oanei, aria pătratului cu latura de 3 cm este egală cu 9 cm2.",
+        "2 Det erminați ariile următoarelor figuri geometrice:",
+        "1 mm2"
+      ],
+      "content_preview": "FORMULAS/RULES: • • arul: 1 ar  = 1 dam2; • • hectarul: 1 ha  = 1 hm2. • 1 3,4  km2 = 3,4 · 100  hm2 = 340  hm2 = 340  · 100  dam2 = 34 000  dam2; • 2...",
+      "metadata": {
+        "word_count": 184,
+        "char_count": 886
+      }
+    },
+    {
+      "title": "5 T ransformați în unitatea de măsură indicată:",
+      "line_number": 2126,
+      "content_lines": 12,
+      "content": [
+        "DEFINITIONS:",
+        "• 17  Eva le povestește prietenilor: În fața casei bunicilor este o grădină. Acum două luni, în primăv",
+        "FORMULAS/RULES:",
+        "• Dacă AB = 10 m, EF = 50 m și FG = 30 m, atunci",
+        "• = 4 cuburi, l = 4 cuburi și h = 5 cuburi. Dacă muchia unui cub este de",
+        "• 1 cm, atunci dimensiunile cutiei ar trebui să fie: l  = L = 4 cm, iar h = 5 cm.",
+        "• 1 cm · 1 cm · 1 cm = 1 cm3 (citim un centimetru cub).",
+        "a 15,28  dm2 în cm2;      b 8,2  dam2 în dm2;     c 700  000  cm2 în dam2;",
+        "d 147  000  m2 în km2;     e 0,025  km2 în ari;      f 10  000  000  cm2 în ha.",
+        "6 P recizați ce unitate de măsură este adecvată pentru exprimarea ariei:",
+        "a unei coli de hârtie;       b podelei unui dormit or;    c unei țări.",
+        "7  Utilizând o riglă gr adată și, alegând o unitate de măsură adecvată, determinați ariile figurilor"
+      ],
+      "content_preview": "DEFINITIONS: • 17  Eva le povestește prietenilor: În fața casei bunicilor este o grădină. Acum două luni, în primăv FORMULAS/RULES: • Dacă AB = 10 m, ...",
+      "metadata": {
+        "word_count": 167,
+        "char_count": 780
+      }
+    },
+    {
+      "title": "Unitatea principală de măsură pentru volumul corpurilor este",
+      "line_number": 2148,
+      "content_lines": 22,
+      "content": [
+        "DEFINITIONS:",
+        "• 6  L ungimea muchiei unui cub este egală cu p metri, unde p  este un număr natural, par, care are ex",
+        "• Cubul lui Rubik  este un joc‑problemă  inventat în anul 1974 de către sculp ‑",
+        "• Pentru majoritatea dintre voi, acesta este o adevărată provocare. Accesează internetul pentru a afla",
+        "FORMULAS/RULES:",
+        "• problemă1 2,5 dam3 = 2,5 · 103 m3 = 2 500 m3;       2 0,8 hm3 = 0,8 · (103)2 m3 = 800  000 m3;",
+        "• 3 0,6 km3 = 0,6 · (103) 3 m 3 = 600  000  000 m3;   4 4 mm3 = [4 : (103 )2] dm3 = 0,000004 dm3;",
+        "• 5 85 m3 = (85: 103) dam3 = 0,085 dam3;      6 1,6 dm3 = (1,6  : 103) m3 = 0,0016 m3.",
+        "• unitate de 1  cm3 și observăm că 2  cm · 2 cm · 2 cm = 8 cm3.",
+        "• Al doilea este format din 27 de cuburi unitate de 1  cm3 și observăm că 3  cm · 3 cm · 3 cm = 27 cm3",
+        "EXAMPLES:",
+        "• Exemple",
+        "• 1 dm1 dmExempluExemple",
+        "NOTES:",
+        "• metrul cub, notat m3.",
+        "• • decametrul cub (notat dam3); • decimetrul cub (notat dm3);",
+        "• • hect ometrul cub (notat hm3); • c entimetrul cub (notat cm3);",
+        "1 m3 reprezintă volumul unui cub cu muchia de 1  m.",
+        "1 Cubul mo v are muchiile egale cu 1  cm.",
+        "El are volumul 1  cm3.",
+        "2 Cubul por tocaliu are muchiile de 1  m.",
+        "El are volumul 1  m3.1 m"
+      ],
+      "content_preview": "DEFINITIONS: • 6  L ungimea muchiei unui cub este egală cu p metri, unde p  este un număr natural, par, care are ex • Cubul lui Rubik  este un joc‑pro...",
+      "metadata": {
+        "word_count": 253,
+        "char_count": 1131
+      }
+    },
+    {
+      "title": "5.  P recizați care dintre enunțurile de mai jos este",
+      "line_number": 2182,
+      "content_lines": 13,
+      "content": [
+        "DEFINITIONS:",
+        "• sunt simetrice față de E.10  Unghiul COD are măsura egală cu 110°, iar L este un",
+        "FORMULAS/RULES:",
+        "• 12,7 hm  = 1,27 km",
+        "• 0,98 dam3 = 980 m3",
+        "• 5 ha  = 5 000 m2",
+        "• 8°10' · 5 + 19°10'a 22°24'",
+        "• niare, în această ordine, astfel încât DR = PT = 3 cm ,",
+        "adevărat (A) și care este fals (F):",
+        "Aria unui pătrat cu latura de 26 m este egală",
+        "cu 6,76 ari6.  Asociați fiecărui calcul din coloana A răspunsul corect",
+        "din coloana B:",
+        "A B"
+      ],
+      "content_preview": "DEFINITIONS: • sunt simetrice față de E.10  Unghiul COD are măsura egală cu 110°, iar L este un FORMULAS/RULES: • 12,7 hm  = 1,27 km • 0,98 dam3 = 980...",
+      "metadata": {
+        "word_count": 92,
+        "char_count": 419
+      }
+    },
+    {
+      "title": "Unitatea  1. Oper ații cu numere naturale",
+      "line_number": 2205,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția  1. Scrier ea și citirea numerelor naturale",
+      "line_number": 2211,
+      "content_lines": 10,
+      "content": [
+        "FORMULAS/RULES:",
+        "• trei. 3 a 27; b 358  000; c 5 008; d 9 705; e 2 837  002; f 7 003  605. 4 a 12 numere; b 3 numere; c",
+        "• c a = 5, b = 3, c = 7, d = 4. 6 a 852 cifr e; b 240 pagini. 8 a 28, 34, 40; b 43, 54, 65; c 54, 162,",
+        "• naturale 105, 204, 303, 402, 501, 600; dacă b = 1, atunci a + c = 4 și ob ținem numerele 410, 311, 2",
+        "• numerele 121 și 220; dacă b  ≥ 3, atunci egalitatea nu poate avea loc; c 42. 12 192 de numere. 13 b",
+        "EXAMPLES:",
+        "• exemplu: 123, 321, 1  213; b 532, 424, 2  350, 154. 10 a 2 numere; b 6 numere. 11 a 12, 21, 30; b da",
+        "1 a op t sute patruzeci și trei de mii douăzeci și șapte; b cinci sut e de mii doi; c cinci mii șap",
+        "zeci și unu de mii cinci; f patru sut e trei mii șaizeci și șapte; g o sută douăz eci de mii patru;",
+        "Autoevaluare.  1 C. 2 C. 3 a 45; b 45."
+      ],
+      "content_preview": "FORMULAS/RULES: • trei. 3 a 27; b 358  000; c 5 008; d 9 705; e 2 837  002; f 7 003  605. 4 a 12 numere; b 3 numere; c • c a = 5, b = 3, c = 7, d = 4....",
+      "metadata": {
+        "word_count": 197,
+        "char_count": 769
+      }
+    },
+    {
+      "title": "Lecția  2.  R eprezentarea pe axa numerelor. Compararea și ordonarea n",
+      "line_number": 2231,
+      "content_lines": 11,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 2 A(6), B(5), C(10), D(7). 3 4 321  > 2 314  > 2 143  > 1 342  > 1 234. 4 Da . Ioana a folosit ca un",
+        "• 21, 23, 25, 27, 29, 31, 33, 35, 37. 6 a 23 456  < 23 546; b 236  780  < 236  800; c 123  456  > 23 4",
+        "EXAMPLES:",
+        "• d 120  354. 10 a 6 puncte; b 7 puncte. 11 a de exemplu: 13  029, 13  037, 13  040, 13  043; b de exe",
+        "• exemplu: 13  972; 13  979; 13  981; 13  982. 12 a 6 578  234; b 85 374. 13 a de e xemplu: 23  464; 2",
+        "• exemplu: 23  429; 23  431; 23  436; 23  439; 23  441; 23  446; c 23 475; 23  476; 23  477; 23  478;",
+        "aproximări, rotunjiri, estimări",
+        "matică, iar Eva a folosit ca unitate de măsură două pătrățele. 5 a 0, 1, 2, 3,4, 5, 6, 7, 8, 9, 10,",
+        "b 892  530; 892  600; 893  000; 900  000; c prin lipsă: 587  320, 587  300; 587  000; 500  000; prin",
+        "d 89 280; 89  300; 89  000; 100  000. 8 2 400; 3  100; 1  100; 98  100; 64  000; 13  800; 56  300; 5"
+      ],
+      "content_preview": "FORMULAS/RULES: • 2 A(6), B(5), C(10), D(7). 3 4 321  > 2 314  > 2 143  > 1 342  > 1 234. 4 Da . Ioana a folosit ca un • 21, 23, 25, 27, 29, 31, 33, 3...",
+      "metadata": {
+        "word_count": 207,
+        "char_count": 863
+      }
+    },
+    {
+      "title": "449. Numărul lor este 100. 15 (13, 19); (13, 20); (13, 21); (14, 19);",
+      "line_number": 2252,
+      "content_lines": 5,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 18 b > d > a > c > e. 19 a ab4, ab6. b a15, a17, a19, a21, a23, a25, a27. 20 a Numer ele de la 1 la",
+        "• Autoevaluare.  1 C. 2 C. 3 a 400  ‑ 200  ‑ 1 = 199; b 106, 207, 117, 308, 218, 128, 409, 319, 229, 1",
+        "21); (17, 19); (17, 20); (17, 21); (18, 19); (18, 20); (18, 21); (19, 19); (19, 20); (19, 21). 16 30",
+        "32, 33, 34, 35, 36, 37, 38, 39, 43, 53, 63, 73, 83, 93. Cifra 3 se folosește de 20 de ori. b  301."
+      ],
+      "content_preview": "FORMULAS/RULES: • 18 b > d > a > c > e. 19 a ab4, ab6. b a15, a17, a19, a21, a23, a25, a27. 20 a Numer ele de la 1 la • Autoevaluare.  1 C. 2 C. 3 a 4...",
+      "metadata": {
+        "word_count": 103,
+        "char_count": 416
+      }
+    },
+    {
+      "title": "Lecția  3. Adunar ea numerelor naturale, proprietăți",
+      "line_number": 2266,
+      "content_lines": 10,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 1 a 588; b 361; c 7 653; d 6 116; e 5 035; f 873; g 4 136; h 220  925; i 63 689; j 5 704; k 99 354;",
+        "• + (45 + 55) + (17 + 83) + 100  = 500; b 800; c 487. 3 a (24 + 76) + (68 + 32) = 200; b 456; c 1 100;",
+        "• 5 a a + a + 1 = 43, numer ele sunt 21 și 22; b 15, 16, 17; c 12, 14; d 17, 19, 21. 6 a 702  + 11 · a",
+        "• 7 a a4b8; b ab6d; c abcdef. 8 a A; b F; c F; d A. 9 a n = 8, numer ele sunt: 20, 22, 24, 26, 28, 30;",
+        "• 41, 43, 45, 47. 10  c corect; d inc orect/corect este 46; e corect. 11 a 187  + 27 = 213; b 5 837  +",
+        "este 25 de lei, iar suma maximă este 37 de lei. b 10  caiete: șapte caiete de 3  lei, două caiet e d",
+        "pot avea fiecare câte trei sau mai multe cifre (nu sunt simultan mai mari decât 100), deoarece suma",
+        "avea cel mult două cifre, răsturnatele lor ar avea tot cel mult două cifre, iar suma lor ar fi mai m",
+        "ar fi distincte două câte două. Atunci, suma lor ar fi cel puțin egală cu suma celor mai mici 40 de"
+      ],
+      "content_preview": "FORMULAS/RULES: • 1 a 588; b 361; c 7 653; d 6 116; e 5 035; f 873; g 4 136; h 220  925; i 63 689; j 5 704; k 99 354; • + (45 + 55) + (17 + 83) + 100 ...",
+      "metadata": {
+        "word_count": 240,
+        "char_count": 922
+      }
+    },
+    {
+      "title": "Lecția  4. Scăder ea numerelor naturale",
+      "line_number": 2285,
+      "content_lines": 8,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 8 437; 580; 985. 9 a y = 5; b x = 4; c y + z = 7.10 a a ‑ c = 347; b a ‑ b = 9; c c = 27. 11 a 80 60",
+        "• d = 5, sunt 9 numere.",
+        "1 a 1 215; b 3 732; c 989; d 568; e 17 723; f 22 937; g 14 210; h 4 944. 2 a 8 888; b 885; c 9 765;",
+        "4 a 536; b 2 149; c 218; d 749; e 13 497; f 957; g 630; h 987; i 5 041. 5 a 232; b 1 264; c 11 860;",
+        "Autoevaluare.  1 B. 2 c. 3 a 23; b 29.",
+        "230",
+        "Soluții"
+      ],
+      "content_preview": "FORMULAS/RULES: • 8 437; 580; 985. 9 a y = 5; b x = 4; c y + z = 7.10 a a ‑ c = 347; b a ‑ b = 9; c c = 27. 11 a 80 60 • d = 5, sunt 9 numere. 1 a 1 2...",
+      "metadata": {
+        "word_count": 123,
+        "char_count": 386
+      }
+    },
+    {
+      "title": "Lecția  5. Înmul țirea numerelor naturale",
+      "line_number": 2302,
+      "content_lines": 10,
+      "content": [
+        "DEFINITIONS:",
+        "• Produsul a două numere naturale consecutive este un număr par, iar 2  017 este un număr impar. Deci,",
+        "FORMULAS/RULES:",
+        "• 1 a 420; b 875; c 5 760; d 4 860; e 26 112; f 63 135. 2 a 3 553; b 2 600; c 19 040; d 2 730; e 15 54",
+        "• b 17 000; c 5 790  000. 4 a 5 229; b 938; c 2 196; d 3 158; e 7 238; f 1 920. 5 a 3 465; b 2 727; c",
+        "• b p = 5 880. 7 139 km. 8 83 lei. 9 10 ≤ a ≤ 16, 12  ≤ b ≤ 21, ob ținem 120  ≤ a · b ≤ 336, c ea mai",
+        "• mare este 336. 10 20. 11 (x, y) = (2, 16), (5, 1), (6, 0), (3, 6). 12 Numer ele sunt 18 și 23. 13 a",
+        "• 99 010, 1  113  212; e 6 742, 8  972, 1  011  110; f 576, 27  648, 15  925  248. 14 13 zerouri. 15 b",
+        "2 234,  2 324,  2 614. 22 Ul tima cifră a produsului a 2 numere naturale consecutive se obține din p",
+        "Autoevaluare.  1 D. 2 B. 3 a 60; b 756."
+      ],
+      "content_preview": "DEFINITIONS: • Produsul a două numere naturale consecutive este un număr par, iar 2  017 este un număr impar. Deci, FORMULAS/RULES: • 1 a 420; b 875; ...",
+      "metadata": {
+        "word_count": 208,
+        "char_count": 775
+      }
+    },
+    {
+      "title": "Lecția  6. F actor comun",
+      "line_number": 2322,
+      "content_lines": 5,
+      "content": [
+        "FORMULAS/RULES:",
+        "• b 15; c 102; d 1 302. 4 a 100; b 114; c 700; d 2 021. 5 a x = 2; b x = 100; c x = 13; d x = 2 028. 6",
+        "• ab = 68.",
+        "• Autoevaluare.  1 D. 2 C. 3 a a + b + c = 8; b a = 1, b = 2, c = 5.",
+        "1 a 160; b 1 000; c 14 000; d 12 788; e 3 000; f 70 200; g 2 413 000; h 1 217 400; i 1 289 000. 2 a"
+      ],
+      "content_preview": "FORMULAS/RULES: • b 15; c 102; d 1 302. 4 a 100; b 114; c 700; d 2 021. 5 a x = 2; b x = 100; c x = 13; d x = 2 028. 6 • ab = 68. • Autoevaluare.  1 D...",
+      "metadata": {
+        "word_count": 99,
+        "char_count": 294
+      }
+    },
+    {
+      "title": "Lecția  7. Împăr țirea cu rest 0 a numerelor naturale",
+      "line_number": 2336,
+      "content_lines": 5,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 1 a 156; b 86; c 61; d 54; e 20; f 28; g 89; h 4 606; i 420; j 58. 2 a 24, proba: 24  · 65 = 1 560;",
+        "• proba: 47  160  : 655  = 72; b 57; c 264; d 89; e 304; f 36; g 67; h 27. 4 45 kg. 5 82 lei. 6 23 lei",
+        "f A. 9 32; 10 Câtul este 11, restul este 0.",
+        "Autoevaluare.  1 C. 2 D. 3 a DA; b 270."
+      ],
+      "content_preview": "FORMULAS/RULES: • 1 a 156; b 86; c 61; d 54; e 20; f 28; g 89; h 4 606; i 420; j 58. 2 a 24, proba: 24  · 65 = 1 560; • proba: 47  160  : 655  = 72; b...",
+      "metadata": {
+        "word_count": 86,
+        "char_count": 300
+      }
+    },
+    {
+      "title": "Lecția  8. Împăr țirea cu rest a numerelor naturale",
+      "line_number": 2350,
+      "content_lines": 8,
+      "content": [
+        "FORMULAS/RULES:",
+        "• rest 48. 2 a A; b A; c F; d F. 3 a a : 32 = 36 r est 28, a = 1 180; b 1 428. 4 a a = 6 · 13 + r , r",
+        "• a = 12 c + 1, b = 31c + 2, ob ținem 44 c = 132, c = 3, a = 37, b = 95. 6 a ‑ b = 72, a + b = 362, a",
+        "• a = 14c, de unde a  = 0, 14, 28, 42, 56, 70, 84, 98, 112, 126, 140, 154, 168; b numer ele sunt: 0, 1",
+        "• r < 2 009, r = 10c, 10c = 2 000, c = 200, ob ținem x = 2 019 c = 403  800. 8 b Cel mai mic număr es",
+        "• 971 = 3 7 · 2 6  + 9 , sunt 26  ‑ 3 + 1  =24 numere, suma lor este egală cu 13  0 92. 9 a x = 6c + 3",
+        "1 a 20 r est 5; b 33 r est 4; c 62 r est 8; d 93 r est 1; e 154 r est 4; f 73 r est 11; g 129 r est",
+        "Autoevaluare.  1 D. 2 C. 3 a 108 ; b 997 ."
+      ],
+      "content_preview": "FORMULAS/RULES: • rest 48. 2 a A; b A; c F; d F. 3 a a : 32 = 36 r est 28, a = 1 180; b 1 428. 4 a a = 6 · 13 + r , r • a = 12 c + 1, b = 31c + 2, ob ...",
+      "metadata": {
+        "word_count": 220,
+        "char_count": 663
+      }
+    },
+    {
+      "title": "Lecția  9. Put erea cu exponent natural a unui număr natural. Pătratul",
+      "line_number": 2367,
+      "content_lines": 6,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 1 a = 7, b = 9, c = 114, d = 3, e = 37, f = 31, g = 18. 2 a = 10, b = 625, c = 24, d = 1 024, e = 9",
+        "• b 126; c 217; d 47; e 63; f 87; g 0; h 1; i 1 000; j 400; k 49; l 4. 5 a 20 + 21 + 22 + 23 + 24; b 1",
+        "• b 3 ; c 5 ; d 6 ; e 1 ; f 8 ; g 1 ; h 4 . 7 0 . 8 a 62 < 3 9 < 72; b 2 62 < 7 00  < 2 72; c 1 22 < 1",
+        "• deci el nu poate fi pătratul niciunui număr natural; b u(2403 + 2402) = 2, deci numărul dat nu poat",
+        "• sunt: x = 0, y = 8 sau x = 8, y = 0. b Soluțiile sunt: x = 0, y = 5, z = 6 sau x = 0, y = 6, z = 5 s"
+      ],
+      "content_preview": "FORMULAS/RULES: • 1 a = 7, b = 9, c = 114, d = 3, e = 37, f = 31, g = 18. 2 a = 10, b = 625, c = 24, d = 1 024, e = 9 • b 126; c 217; d 47; e 63; f 87...",
+      "metadata": {
+        "word_count": 184,
+        "char_count": 523
+      }
+    },
+    {
+      "title": "Lecția  10. R eguli de calcul cu puteri",
+      "line_number": 2380,
+      "content_lines": 10,
+      "content": [
+        "FORMULAS/RULES:",
+        "• (25, 5).11.  b 52 = 32 + 42, 5200 = 52 · 5198 = (32 + 42) · 5198 = (3 · 599)2 + (4 · 599)2.12. a n =",
+        "• = (31004 · 7)2.",
+        "EXAMPLES:",
+        "• d (537)2; e (275)2; f (514)2; g 202; h (29 · 33)2; i (5 · 39)2. 9 A; F; A; N; F . Exemplu:  (9 + 16)",
+        "1 a 745; b 1633; c 311; d 523; e 2357; f 5153. 2 a 270; b 753; c 37; d 539; e 725; f 1425. 3 a 328;",
+        "d 104; e 16512; f 8430. 5 a 424; b 2545; c 217; d 336; e 321; f 258. 6 a 567; b 337; c 257. 7 a 276",
+        "231",
+        "Soluții",
+        "Autoevaluare.  1 A. 2 D. 3 a 8; b 243."
+      ],
+      "content_preview": "FORMULAS/RULES: • (25, 5).11.  b 52 = 32 + 42, 5200 = 52 · 5198 = (32 + 42) · 5198 = (3 · 599)2 + (4 · 599)2.12. a n = • = (31004 · 7)2. EXAMPLES: • d...",
+      "metadata": {
+        "word_count": 136,
+        "char_count": 491
+      }
+    },
+    {
+      "title": "Lecția  11. Compar area puterilor",
+      "line_number": 2400,
+      "content_lines": 7,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 1 a 2528; b 261234; c 2 0115; d 393100; e 125126; f 11144. 2 a 1527; b 24123; c 2 0104; d 987123; e",
+        "• b = 7); ( a21 > b21; a = 5, b = 3); (4a > 2b; a = 4, b = 6). 6 a ab > 97, ab = 98, 99; b ab < 13, ab",
+        "• 7 a 2518 < 540 < 12515; b 395 < 951 < 2748; c 327 < 812 < 278.",
+        "EXAMPLES:",
+        "• d 12534 < 2575; e 36224 > 6363; f 27303 < 9502. 4 a 322 > 233; b 433 < 344; c 1122 > 2211; d 239 < 3",
+        "Autoevaluare.  1 D. 2 C. 3 a 13; b 10, 11, 12."
+      ],
+      "content_preview": "FORMULAS/RULES: • 1 a 2528; b 261234; c 2 0115; d 393100; e 125126; f 11144. 2 a 1527; b 24123; c 2 0104; d 987123; e • b = 7); ( a21 > b21; a = 5, b ...",
+      "metadata": {
+        "word_count": 127,
+        "char_count": 439
+      }
+    }
+  ]
+}

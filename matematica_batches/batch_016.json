@@ -1,0 +1,101 @@
+{
+  "batch_number": 16,
+  "lesson_count": 8,
+  "lessons": [
+    {
+      "title": "Lecția  5.  Unghi: def iniție, notații, elemente. Interiorul unui ungh",
+      "definitions": [
+        "DEFINITIONS:",
+        "• iar vârful este O; c  OB și OC, iar vârful este O; d  rAOC , iar vârful este O; e  OB, respectiv, AO",
+        "1 d rEVA . 2 Primele două sunt adevărate, iar ultimele sunt false. A patra este falsă, deoarece latu",
+        "fiind semidrepte, sunt infinite și nu pot fi măsurate. 3 rMIT  sau rTIM ; vârful este I, iar laturil"
+      ],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "DEFINITIONS: • iar vârful este O; c  OB și OC, iar vârful este O; d  rAOC , iar vârful este O; e  OB, respectiv, AO 1 d rEVA"
+    },
+    {
+      "title": "Lecția  6.  Măsur a unui unghi. Unghiuri congruente",
+      "definitions": [
+        "DEFINITIONS:",
+        "• 9 a măsura unghiului A este egală cu măsura unghiului B și scriem: rA = rB. b rA = rB. Aplicând defi",
+        "al unghiului ABC nu este poziționat în O. În figura 6, vârful B al unghiului ABC nu este poziționat"
+      ],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "DEFINITIONS: • 9 a măsura unghiului A este egală cu măsura unghiului B și scriem: rA = rB"
+    },
+    {
+      "title": "Lecția  7.  Clasif icarea unghiurilor. Calcule cu măsuri de unghiuri",
+      "definitions": [
+        "DEFINITIONS:",
+        "• = 140°  + 40° = 180° ⇒ rCOT este unghi alungit ⇒ C, O, T sunt coliniare. 26 a rCBD  = 75%  · 60° = 4",
+        "• = rABC  + rCBD  = 45° + 45° = 90° ⇒ rABD este unghi drept ⇒ BA ⊥ BD. 27 a rBIA ≡ rBIS ⇒ rBIA = rBIS",
+        "• Autoevaluare.  1 A. 2 D. 3 a rPAO  = 30°; rVAO  = rVAP  + rPAO  = 60° + 30° = 90° ⇒ rVAO  este unghi",
+        "• 20 d 65°. 21 Măsura unghiului BOM este egală 40°  ‑ 20°= 20°. Din rAOM  = rBOM ⇒ rAOM  ≡ rBOM. 22 rA"
+      ],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "DEFINITIONS: • = 140°  + 40° = 180° ⇒ rCOT este unghi alungit ⇒ C, O, T sunt coliniare"
+    },
+    {
+      "title": "Lecția  8.  Fig uri congruente. Axa de simetrie",
+      "definitions": [
+        "DEFINITIONS:",
+        "• mijlocul segmentului DT . 12 a rDOL  = 70°. Din 0°  < rDOL  < 90° ⇒ rDOL este unghi ascuțit. b rCOL",
+        "• ⇒ rCOL este unghi alungit ⇒ C, O, L sunt coliniare. c  rCOT  = rDOL  = 70° ⇒ rCOT  ≡ rDOL.",
+        "2 a ΔACP  ≡ ΔDCP. b ΔEBP s‑a suprapus peste ΔEFP și atunci ΔEBP  ≡ ΔEFP. c Sunt congruente. 4 a M es",
+        "OM este axa unghiului AOB și rAOM  ≡ rBOM. b T este mijlocul segmentului AO și AT ≡ TO; BT este axa"
+      ],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "DEFINITIONS: • mijlocul segmentului DT"
+    },
+    {
+      "title": "Lecția  9. Unită ți de măsură pentru lungime. Aplicație: perimetre",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • 1 a 85 dam  > 85 dm; b 24 cm = 240  mm; c 72 km = 7 200  dam; d 6,8 km > 601  dam; e 3,4 dm > 333  m • și 166,5  dam; perimetrele care lipsesc 17,2  m și 98  cm"
+    },
+    {
+      "title": "Lecția  10.  Unită ți de măsură pentru arie. Aplicații: Aria pătratulu",
+      "definitions": [
+        "• f 3,5 m2 > 3,49  dm2. 9 Supr afața curții este de 987  m2, iar suprafața unei plăci este de 0,25  m2",
+        "b Este cuprinsă între 1  750  m2 ‑ 315  m2 · 3 și 1  750  m2 ‑ 314  m2 · 3, adică între 805  m2 și 8"
+      ],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • 3 P = 22 cm, A = 30 cm2"
+    },
+    {
+      "title": "Lecția  11.  Unită ți de măsură pentru volum. Volumul cubului și al pa",
+      "definitions": [
+        "lungime. Perimetrul unei fețe este 60  cm, iar aria 225  cm2. b 3 375  cm3. 10 a 150  cm2; b 70 cm."
+      ],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • b 67,103  cm3; c 653  965  dam3; d 820,166  hm3"
+    },
+    {
+      "title": "15. Zăpada căzută f ormează un paralelipiped dreptunghic cu volumul de",
+      "definitions": [
+        "DEFINITIONS:",
+        "• rCOL  = rCOD  + rDOL  = 110°  + 70° = 180° ⇒ rCOL  este unghi alungit ⇒ C, O, L sunt coliniare. b rC",
+        "• Autoevaluare.  1 D. 2 C. 3 a V = 300  m3. b V olumul unei cărămizi este de 300  m3 : 0,003  m3 = 100",
+        "Alternativ, lungimea containerului este egală cu lungimea a 40 de cărămizi, lățimea containerului eg"
+      ],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "DEFINITIONS: • rCOL  = rCOD  + rDOL  = 110°  + 70° = 180° ⇒ rCOL  este unghi alungit ⇒ C, O, L sunt coliniare"
+    }
+  ]
+}

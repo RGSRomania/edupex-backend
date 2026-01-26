@@ -1,0 +1,439 @@
+{
+  "batch_number": 4,
+  "item_count": 20,
+  "items": [
+    {
+      "title": "Lecția 8  43 Împărțirea cu rest a numerelor naturale",
+      "line_number": 710,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 9  46 Puterea cu exponent natural a unui număr natural. Pătratu",
+      "line_number": 716,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 10  50 Reguli de calcul cu puteri",
+      "line_number": 722,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 11  53 Compararea puterilor",
+      "line_number": 728,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 12  55 Scrierea în baza 10. Scrierea în baza 2",
+      "line_number": 734,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 13  58 Ordinea efectuării operațiilor; utilizarea parantezelor:",
+      "line_number": 740,
+      "content_lines": 21,
+      "content": [
+        "DEFINITIONS:",
+        "• •  or dinul 1 este ordinul unităților (prima cifră din dreapta);",
+        "• •  or dinul 2 este ordinul zecilor (a doua cifră din dreapta);",
+        "• •  or dinul 3 este ordinul sutelor (a treia cifră din dreapta);",
+        "FORMULAS/RULES:",
+        "• o sută  = 10 zeci  = 100 de unități o mie",
+        "• = 10 sute",
+        "• = 100 de zeci",
+        "• = 1 000 de unități",
+        "• 1 37 = 3 · 10 + 7;            ab = 10 · a + b.",
+        "EXAMPLES:",
+        "• Exemple:",
+        "• Exemple:",
+        "• Exemple:",
+        "• sute șaisprezece.Exemplu",
+        "• se numește răsturnatul numărului n. De exemplu, răsturnatul lui 12 este 21, iar răsturnatul lui 12",
+        "Recapitulare  și evaluare",
+        "61",
+        "U1 Operații cu numere naturale 10",
+        "Lecţia 1:   Scrier ea și citirea numerelor naturaleL1",
+        "În vizită la Muzeul de Istorie, ghidul le prezintă elevilor mai multe manuscrise ce conțin scrieri v"
+      ],
+      "content_preview": "DEFINITIONS: • •  or dinul 1 este ordinul unităților (prima cifră din dreapta); • •  or dinul 2 este ordinul zecilor (a doua cifră din dreapta); • •  ...",
+      "metadata": {
+        "word_count": 145,
+        "char_count": 737
+      }
+    },
+    {
+      "title": "ExempleLecția 2:   R eprezentarea pe axa numerelor. Compararea și ordo",
+      "line_number": 772,
+      "content_lines": 9,
+      "content": [
+        "FORMULAS/RULES:",
+        "• Răspuns:  Es te mai cald, deoarece pe scara termometrului 28  > 22.",
+        "• Răspuns:   16 < 25, deci Horia este mai aproape de FINIȘ.",
+        "• 25 > 16, deci Ioana este mai aproape de START.",
+        "numerelor naturale; aproximări, estimăriL2",
+        "2.1.  R eprezentarea pe axa numerelor",
+        "1  Dimineața , Ioana observă că termometrul indică 22 de grade. La întoarcerea de la școală, la ora",
+        "14, termometrul indică 28 de grade. Este mai cald la ora 14 decât dimineața?",
+        "2  H oria și Ioana se antrenează pe o pistă de 50 de metri. După plecarea din punctul  O, marcat pe"
+      ],
+      "content_preview": "FORMULAS/RULES: • Răspuns:  Es te mai cald, deoarece pe scara termometrului 28  > 22. • Răspuns:   16 < 25, deci Horia este mai aproape de FINIȘ. • 25...",
+      "metadata": {
+        "word_count": 100,
+        "char_count": 544
+      }
+    },
+    {
+      "title": "unitatea de măsură originea",
+      "line_number": 790,
+      "content_lines": 14,
+      "content": [
+        "FORMULAS/RULES:",
+        "• 3  Alegeți cifrele a și b astfel încât numărul A  = 353a17 să fie mai mare decât numărul B  = 3b4739",
+        "• Dacă b  > 5, atunci A < B, indiferent de alegerea lui a.",
+        "• Dacă b = 5, atunci B = 354  739. P rimele două cifre ale numerelor A și B sunt egale. A treia cifră",
+        "• este 4, mai mare decât a treia cifră a lui A, care este 3. În acest caz, A  < B.",
+        "• Dacă b ≤ 4, atunci A > B, indiferent de valorile pe care le ia cifra a. Cifra b poate lua 5 valori (",
+        "EXAMPLES:",
+        "• Exemplu",
+        "• Exemple",
+        "O  A  B  C  D  E",
+        "0  1  2  3  4  5",
+        "Pe axa numerelor de mai sus sunt reprezentate punctele O(0), A(1), B(2), C(3), D(4) și E(5).Citim: „",
+        "2.2.  C ompararea și ordonarea numerelor naturaleDe reținutSituație",
+        "problemă"
+      ],
+      "content_preview": "FORMULAS/RULES: • 3  Alegeți cifrele a și b astfel încât numărul A  = 353a17 să fie mai mare decât numărul B  = 3b4739 • Dacă b  > 5, atunci A < B, in...",
+      "metadata": {
+        "word_count": 150,
+        "char_count": 694
+      }
+    },
+    {
+      "title": "În colecția sa, Horia are 5 cărți poștale cu",
+      "line_number": 814,
+      "content_lines": 23,
+      "content": [
+        "DEFINITIONS:",
+        "• 8  Dacă a este un număr par și b este un număr impar, precizați care dintre următoarele afirmații su",
+        "• a a + b + 11 este un număr par;          b a + b + 12 este un număr par;",
+        "• c a + 4 + b + 9 este un număr impar;         d 50 + a + b + 36 este un număr impar.",
+        "FORMULAS/RULES:",
+        "• Răspuns:  5 + 3 = 8 cărți poștale",
+        "• a + b = s",
+        "• + b se numește suma neefectuată, iar s este suma efectuată.",
+        "• 27 + 31 = 58 27 + 31 este suma neefectuată",
+        "• +1+1 +1+1+1",
+        "EXAMPLES:",
+        "• Mate practicăExempluSituație",
+        "• Adunarea reprezintă, de fapt, o numărare succesivă. De exemplu, pentru a‑l aduna pe 5 cu 3 vom număr",
+        "• Din acest exemplu deducem că 5  + 3 = 8 și 3  + 5 = 8, deci 5  + 3 = 3 + 5.",
+        "• 1 + 2 + … + 100  = 100  · 101  : 2 = 10 100  : 2 = 5 050.Exemple",
+        "• Sumele de tipul celei din exemplul anterior se numesc sume Gauss, după",
+        "NOTES:",
+        "• numele marelui matematician german Karl Friedrich Gauss, despre care se spune că, în clasele primare",
+        "obiective turistice din România. Ioana,",
+        "colega lui, îi face cadou încă 3.Câte cărți poștale are acum Horia?",
+        "3.1.  N oțiuni introductive",
+        "Prin adunarea numerelor naturale a și b se obține un număr natural s, numit suma  nume  relor  a și",
+        "Numerele a și b se numesc termenii adunării, iar rezultatul adunării poartă numele de sumă.Scrierea"
+      ],
+      "content_preview": "DEFINITIONS: • 8  Dacă a este un număr par și b este un număr impar, precizați care dintre următoarele afirmații su • a a + b + 11 este un număr par; ...",
+      "metadata": {
+        "word_count": 265,
+        "char_count": 1247
+      }
+    },
+    {
+      "title": "În colecția sa, Horia are 27 de bancnote din diferite",
+      "line_number": 849,
+      "content_lines": 17,
+      "content": [
+        "DEFINITIONS:",
+        "• Scăderea este operația inversă adunării. În general, dacă a  + b = s, atunci  asb",
+        "FORMULAS/RULES:",
+        "• 40 ‑ 27 = 13 bancnote îi sunt necesare lui Horia",
+        "• tea că a  = b + d se numește diferența numerelor a și b.",
+        "• Se notează: d  = a ‑ b.",
+        "• 534 ‑ 319 = 215 534  ‑ 319  es te diferența neefectuată",
+        "• 654‑ unități: 4 ‑ 3 = 1 5461‑ unități: 1 + 10 ‑ 9 = 2",
+        "EXAMPLES:",
+        "• Exemplul 1: Exemplul 2:",
+        "• crescător. De exemplu, pentru a scădea din 9 pe 6, vom număra, în sens descrescător, 6 numere pornin",
+        "• ExempleExemplu",
+        "țări de pe glob. El dorește să completeze un clasor întreg, prevăzut cu 40 de spații pentru bancnote",
+        "Analiză:",
+        "Pentru a rezolva problema, ar trebui să aflăm un număr care adunat cu 27 dă 40. Un astfel de număr e",
+        "Fie a și b  două numere naturale, cu a ≥ b. Numărul natural d cu proprieta ‑",
+        "Operația prin care din numerele naturale a și b se obține diferența lor, a ‑ b,"
+      ],
+      "content_preview": "DEFINITIONS: • Scăderea este operația inversă adunării. În general, dacă a  + b = s, atunci  asb FORMULAS/RULES: • 40 ‑ 27 = 13 bancnote îi sunt neces...",
+      "metadata": {
+        "word_count": 183,
+        "char_count": 870
+      }
+    },
+    {
+      "title": "6. Suma a două numer e este 98, iar diferența lor este 82. Determinați",
+      "line_number": 877,
+      "content_lines": 23,
+      "content": [
+        "DEFINITIONS:",
+        "• 2  A nalizați următoarele modalități de a efectua scăderea atunci când scăzătorul este o sumă sau",
+        "• Produsul numărului natural a  ≥ 2 cu numărul natural b este un număr natural p  obținut prin adunare",
+        "• Produsul a două sau mai multe numere naturale impare este un număr impar.",
+        "FORMULAS/RULES:",
+        "• a Știind  că x + 2y = 24 și x + y = 19, determinați y.",
+        "• b Știind că 3 x + 2y = 18 și 2 x + 2y = 14, determinați x.",
+        "• c Știind că x + 2y + z = 17 și x + y = 10, determinați y + z.",
+        "• a Dacă a ‑ b = 215 și b ‑ c = 132, determinați a ‑ c.",
+        "• b Dacă a ‑ c = 138 și b ‑ c = 129, calculați a ‑ b.",
+        "EXAMPLES:",
+        "• rate și verificați, prin exemple proprii, valabilitatea afirmațiilor scrise în dreapta.",
+        "• Exemple:   67 ‑ 39 = (67 + 1) ‑ (39 + 1) = 68 ‑ 40 = 28",
+        "• Exemple:   131  ‑ 83 = (131  ‑ 3) ‑ (83 ‑ 3) = 128  ‑ 80 = 48",
+        "• Mate practicăExemplu",
+        "• Exemplu:  P rodusul  3  ·  4  ·  5  es te par, deoarece factorul 4 este par.",
+        "NOTES:",
+        "• Notăm cu a și b cei doi factori. Dacă numărul natural a este cuprins între 8 și 15, atunci 9  ≤ a ≤",
+        "7  Un aut ocar parcurge 349 de kilometri în prima zi, cu 52 de kilometri mai puțin în a doua zi, iar",
+        "treia zi, parcurge cu 276 de kilometri mai puțin decât în primele două zile la un loc. Ce lungime ar",
+        "parcurs de autocar în cele trei zile la un loc?",
+        "8  Suma a tr ei numere naturale este 2  002. Dacă din fiecar e se scade același număr, atunci se obț",
+        "175, 318, 723. Care sunt numerele inițiale?"
+      ],
+      "content_preview": "DEFINITIONS: • 2  A nalizați următoarele modalități de a efectua scăderea atunci când scăzătorul este o sumă sau • Produsul numărului natural a  ≥ 2 c...",
+      "metadata": {
+        "word_count": 321,
+        "char_count": 1405
+      }
+    },
+    {
+      "title": "Lecția 7:   Împăr țirea cu rest 0 a numerelor naturaleL7",
+      "line_number": 912,
+      "content_lines": 20,
+      "content": [
+        "DEFINITIONS:",
+        "• Împărțirea (exactă) este operația inversă înmulțirii. A afla câtul împărțirii lui a la b înseamnă a",
+        "• Să ne amintim cum se efectuează împărțirea când împărțitorul are o singură cifră (este un",
+        "FORMULAS/RULES:",
+        "• Rezolvare 1:  Horia cit ește în prima zi 15 pagini și mai are 60  ‑ 15 = 45  de pagini",
+        "• de citit. A doua zi citește încă 15 pagini și rămâne cu 45  –  15  = 30  de pagini de",
+        "• citit. A treia zi citește încă 15 pagini și rămâne cu 30  ‑ 15 = 15 pagini de citit.",
+        "• În a patra zi citește ultimele 15 pagini și îi rămân 15  ‑ 15 = 0 pagini, adică t er‑",
+        "• Observăm că 60  ‑ 15 ‑ 15 ‑ 15 ‑ 15 = 0 sau că 15 se cuprinde  de 4 ori în 60.",
+        "EXAMPLES:",
+        "• Deoarece 15  · 4 = 60 și 15  · 5 = 75, observăm că dacă acea carte ar fi avut, de exemplu, 65 de",
+        "• Exemplu",
+        "• număr natural mai mic decât 10). Spre exemplu, dacă deîmpărțitul are trei cifre, atunci se împart la",
+        "• exemplu, împărțitorul are două cifre, iar numărul format de primele două cifre este mai mic decât îm",
+        "• ObservațiiExemplu",
+        "7.1.  N oțiuni introductive",
+        "Pentru cercul de lectură, Horia are de citit o carte de 60 de pagini. Poate termina",
+        "cartea citind câte 15 pagini pe zi? Câte zile îi sunt necesare?",
+        "mină cartea. Așadar, îi sunt necesare patru zile.",
+        "Spunem că 60 dă câtul 4 la împărțirea cu 15.Rezolvare 2:"
+      ],
+      "content_preview": "DEFINITIONS: • Împărțirea (exactă) este operația inversă înmulțirii. A afla câtul împărțirii lui a la b înseamnă a • Să ne amintim cum se efectuează î...",
+      "metadata": {
+        "word_count": 259,
+        "char_count": 1264
+      }
+    },
+    {
+      "title": "ExempleLecția 8:   Împăr țirea cu rest a numerelor naturaleL8",
+      "line_number": 943,
+      "content_lines": 24,
+      "content": [
+        "DEFINITIONS:",
+        "• Mai general, considerând un număr de a  obiecte (unde a  este un număr natural), eliminăm succesiv c",
+        "• b obiecte, unde b  este un număr natural diferit de 0. Când operația de eliminare a obiectelor din c",
+        "FORMULAS/RULES:",
+        "• După ce servește primul coleg, mai sunt în cutie 19 \t‑\t5\t=\t14 bomboane.",
+        "• După ce servește al doilea coleg mai are în cutie 14  ‑ 5\t=\t9 bomboane.",
+        "• După ce servește al treilea coleg mai sunt în cutie 9 \t‑\t5\t=\t4 bomboane.",
+        "• A rămas un număr insuficient de bomboane pentru un alt copil (4 \t< 5), deci I oana are",
+        "• Are loc egalitatea: 19  = 3 · 5 + 4 și 4  < 5.",
+        "EXAMPLES:",
+        "• Exemple",
+        "• puterile au aceeași ultimă cifră. De exemplu, împărțind pe 1  2 34 la 4 obținem restul 2, deci număr",
+        "• Exemplu:   •  9 es te puterea a doua a lui 3, deoarece cu 9 pătrate de latură 1 se poate forma",
+        "• 13 pătrate de latură 1 nu putem forma un pătrat.Mate practicăExempleInvestigație",
+        "• Într‑ adevăr, analizând exemplele date mai sus, prin ridicarea la pătrat a numerelor 0,  1,  2,  3,",
+        "NOTES:",
+        "• Atenție!  Nu oric e număr natural care are ultima cifră 0,  1,  4,  5,  6 sau 9 es te pătratul unui",
+        "• Rezolvare:Pentru a simplifica scrierea, notăm cu u(n) ultima cifră a numărului natural n.Deoarece re",
+        "• Rezolvare:Ca la problema anterioară, notăm cu u(n) ultima cifră a numărului natural n.Deoarece restu",
+        "Ioana are o cutie cu 19 bomboane. Ea împarte colegilor din echipa ei câte 5 bomboane.",
+        "Câți copii sunt în echipa Ioanei? Câte bomboane îi rămân Ioanei?",
+        "Rezolvare:",
+        "3 colegi în echipă, iar ei îi rămân 4 bomboane.",
+        "Ce observăm?"
+      ],
+      "content_preview": "DEFINITIONS: • Mai general, considerând un număr de a  obiecte (unde a  este un număr natural), eliminăm succesiv c • b obiecte, unde b  este un număr...",
+      "metadata": {
+        "word_count": 292,
+        "char_count": 1515
+      }
+    },
+    {
+      "title": "Lecția 11:   Compar area puterilorL11",
+      "line_number": 979,
+      "content_lines": 17,
+      "content": [
+        "FORMULAS/RULES:",
+        "• cifră este 23 = 8;",
+        "• folosesc patru cifre este  210 = 1 024.",
+        "• cutive ale lui 10. Primul indiciu sugerează scrierea 230 = (23)10 = 810.",
+        "• Deoarece 8  < 10, atunci",
+        "• de 10 ori de 10 ori8 8 8 10 10 10⋅ ⋅…⋅ < ⋅ ⋅…⋅   , adică 810 < 1010.",
+        "EXAMPLES:",
+        "• Exemple:    a 24 < 25 deoarece 4  < 5;  b 25 < 27 deoarece 5  < 7;  c 311 > 37 deoarece 11  > 7.",
+        "• Exemple:    a 24 < 34 deoarece 2  < 3;  b 34 < 54 deoarece 3  < 5;  c 1011 > 911 deoarece 10  > 9.",
+        "• Exemple",
+        "NOTES:",
+        "• ObservațieSituație",
+        "Horia și Ioana au de rezolvat un test de inteligență",
+        "(matematică!). Se dau următoarele indicii:",
+        "•  c ea mai mare putere a lui 2 care se scrie cu o singură",
+        "•  c ea mai mică putere a lui 2 pentru scrierea căreia se",
+        "Câte cifre sunt necesare pentru scrierea numărului 230?"
+      ],
+      "content_preview": "FORMULAS/RULES: • cifră este 23 = 8; • folosesc patru cifre este  210 = 1 024. • cutive ale lui 10. Primul indiciu sugerează scrierea 230 = (23)10 = 8...",
+      "metadata": {
+        "word_count": 168,
+        "char_count": 764
+      }
+    },
+    {
+      "title": "Lecția 12:   Scrier ea în baza 10. Scrierea în baza 2L12",
+      "line_number": 1007,
+      "content_lines": 14,
+      "content": [
+        "DEFINITIONS:",
+        "• Orice număr natural se poate scrie ca o sumă de produse în care un factor este o putere a lui 10 (de",
+        "FORMULAS/RULES:",
+        "• 1 23 = 20 + 3 = 2 · 101 + 3 · 100",
+        "• 2 1 203  = 1 000  + 200  + 3 = 1 · 103 + 2 · 102 + 0 · 101 + 3 · 100",
+        "• 3 23 = 16 + 4 + 2 + 1 = 1 · 24 + 0 · 23 + 1 · 22 + 1 · 2 + 1 · 20 = 10 111",
+        "• 4 123  = 64 + 32 + 16 + 8 + 2 + 1 = 1 · 26 + 1 · 25 + 1 · 24 + 1 · 23 + 0 · 22 + 1 · 2 + 1 · 20 = 1",
+        "NOTES:",
+        "• Urmăriți cu atenție următoarele scrieri:",
+        "12.1.  N oțiuni introductive",
+        "Ce observăm?",
+        "Scrierile 1 și 2 utilizează cifre de la 0 la 9 și puteri ale lui 10. Ele se numesc scrieri în baza 1",
+        "Scrierile 3 și 4 utilizează cifrele 0 și 1 și puteri ale lui 2. Ele se numesc scrieri în baza 2.",
+        "împărțire, ridicare la putere constituie sistemul de numerație zecimal . Numărul natural 10 se numeș"
+      ],
+      "content_preview": "DEFINITIONS: • Orice număr natural se poate scrie ca o sumă de produse în care un factor este o putere a lui 10 (de FORMULAS/RULES: • 1 23 = 20 + 3 = ...",
+      "metadata": {
+        "word_count": 218,
+        "char_count": 795
+      }
+    },
+    {
+      "title": "natural mod de stocare a informațiilor în domeniul informaticii . Un b",
+      "line_number": 1032,
+      "content_lines": 20,
+      "content": [
+        "DEFINITIONS:",
+        "• a cantității de informație.Valoarea unui bit este ori 0, ori 1. Unități mai mari pentru stocarea inf",
+        "• operații de ordinul al doilea, iar ridicarea la putere este operație de ordinul al treilea.",
+        "FORMULAS/RULES:",
+        "• 1 octet (byte) = 8 biți",
+        "• 1 kilooctet (ko) = 210 octeți",
+        "• 1 megaoctet (Mo) = 210 ko = 220 octeți",
+        "• 1 gigaoctet (Go) = 210 Mo = 230 octeți",
+        "• 1 teraoctet (To) = 210 Go = 240 octeți",
+        "EXAMPLES:",
+        "• De exemplu, pentru scrierea unui cuvânt în word  se utilizează, în funcție de tipul calculatorului,",
+        "• Mate practicăExemple",
+        "• Exemple:    a 112(3) = 1 · 32 + 1 · 3 + 2 = 14(10);",
+        "• Știați că…Exemple",
+        "• Exemple",
+        "16/32/64 biți.",
+        "De reținut",
+        "12.2.  Sis temul de numerație zecimal",
+        "De reținut",
+        "U1 Operații cu numere naturale 56"
+      ],
+      "content_preview": "DEFINITIONS: • a cantității de informație.Valoarea unui bit este ori 0, ori 1. Unități mai mari pentru stocarea inf • operații de ordinul al doilea, i...",
+      "metadata": {
+        "word_count": 139,
+        "char_count": 715
+      }
+    },
+    {
+      "title": "Lecția 1  64 Metoda reducerii la unitate",
+      "line_number": 1063,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 2  67 Metoda comparației",
+      "line_number": 1069,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 3  71 Metoda figurativă",
+      "line_number": 1075,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    },
+    {
+      "title": "Lecția 4  77 Metoda mersului invers",
+      "line_number": 1081,
+      "content_lines": 0,
+      "content": [],
+      "content_preview": "",
+      "metadata": {
+        "word_count": 0,
+        "char_count": 0
+      }
+    }
+  ]
+}

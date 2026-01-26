@@ -1,0 +1,155 @@
+{
+  "batch_number": 10,
+  "lesson_count": 15,
+  "lessons": [
+    {
+      "title": "Lecția 1  140Fracții zecimale; scrierea fracțiilor ordinare cu numitor",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "de fracții zecimale; transformarea unei fracții zecimale cu un număr finit de zecimale nenule în fra"
+    },
+    {
+      "title": "Lecția 2",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "143Aproximări; compararea, ordonarea și reprezentarea pe axa numerelor a unor fracții zecimale cu un"
+    },
+    {
+      "title": "Lecția 3",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "146 Adunarea și scăderea fracțiilor zecimale cu un număr finit de zecimale nenule"
+    },
+    {
+      "title": "Lecția 4  149 Înmulțirea fracțiilor zecimale cu un număr finit de zeci",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • Lecția 5  152Împărțirea a două numere naturale cu rezultat fracție zecimală; aplicație: media aritme"
+    },
+    {
+      "title": "Lecția 6",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "157Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul;"
+    },
+    {
+      "title": "Lecția 7",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "160 Număr rațional pozitiv; ordinea efectuării operațiilor cu numere raționale pozitive Lecția 8  163Metode aritmetice pentru rezolvarea problemelor cu fracții în care intervin și unități"
+    },
+    {
+      "title": "Lecția 9",
+      "definitions": [
+        "DEFINITIONS:",
+        "• numerele cu care operăm. Rotunjirea este o aproximare prin lipsă sau prin adaos, care se face astfel",
+        "• 3578 357835,78 10 10 357,8100 10⋅= ⋅= = . Observăm că virgula s‑a mutat spre dreapta, peste o cifră.",
+        "• La împărțirea cu 10 a lui 5, de fapt, am mutat virgula de la dreapta spre stânga peste o cifră (5  ="
+      ],
+      "examples": [
+        "EXAMPLES: • Exemple"
+      ],
+      "formulas": [
+        "• 1 32532,510= ;    2 787,810= ;     3 90,09100= ;    4 370,37100= ;",
+        "• 10 100 1 000 10 000= = = , adică",
+        "• 55n= , de unde obținem n  = 123.ExempleRegulă"
+      ],
+      "notes": [
+        "• Observație.  Dintr e două fracții zecimale cu un număr finit de zecimale nenule reprezentate pe axa",
+        "• notă de 10 lei?",
+        "• tit cu o bancnotă de 50 de lei. Estimați, fără a efectua scăderea, restul primit de Horia:"
+      ],
+      "summary": "DEFINITIONS: • numerele cu care operăm"
+    },
+    {
+      "title": "față de cealaltă, iar mărimea cerută se află trecând printr ‑o etapă i",
+      "definitions": [],
+      "examples": [
+        "EXAMPLES: • Exemple",
+        "• Exemplu 2,5 metri de stofă și 4,2 metri de pânză costă 227,80  lei. • În tabăra de orientare turistică, traseul pentru prima ex  cursie",
+        "• Exemplu • ExempluNe amintim"
+      ],
+      "formulas": [],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • 5 din 35 de pătrate înseamnă 235 145⋅=  pătrate, iar 3,500 kg reprezintă 3  500 g"
+    },
+    {
+      "title": "Indicație:  V ezi metoda mersului invers, de la Unitatea II (Exerciții",
+      "definitions": [],
+      "examples": [
+        "EXAMPLES: • În exemplul dat, cei 4 elevi care preferă handbalul repre ‑",
+        "• ExempluMate • de date numerice se stabilește o unitate de măsură convenabilă. În exemplul de mai sus, numărul de c",
+        "• Legendă: /  = 1 //// = 5ExempluDe reținut NOTES:"
+      ],
+      "formulas": [
+        "• Legendă:  / = 1 ///// = 5",
+        "• 5 + 15 + 20 +15 + 25 = 80 de albume.",
+        "• 100 150 200 270 250 300 2702207++++++= .",
+        "• n+ ++.",
+        "• Legendă: /  = 1 //// = 5ExempluDe reținut"
+      ],
+      "notes": [],
+      "summary": "FORMULAS/RULES: • Legendă:  / = 1 ///// = 5 • 5 + 15 + 20 +15 + 25 = 80 de albume"
+    },
+    {
+      "title": "Lecția 1  176 Punct, dreaptă, plan, semiplan, semidreaptă, segment de",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 2  181Pozițiile relative ale unui punct față de o dreaptă. Punc",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "Pozițiile relative a două drepte: drepte concurente, drepte paralele"
+    },
+    {
+      "title": "Lecția 3  186 Lungimea unui segment. Distanța dintre două puncte. Segm",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 4  191 Mijlocul unui segment. Simetricul unui punct față de un",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 5  197 Unghi: definiție, notații, elemente. Interiorul unui ung",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 6  200 Măsura unui unghi. Unghiuri congruente (măsurarea și con",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    }
+  ]
+}

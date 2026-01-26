@@ -1,0 +1,191 @@
+{
+  "batch_number": 6,
+  "lesson_count": 15,
+  "lessons": [
+    {
+      "title": "6. Suma a două numer e este 98, iar diferența lor este 82. Determinați",
+      "definitions": [
+        "DEFINITIONS:",
+        "• 2  A nalizați următoarele modalități de a efectua scăderea atunci când scăzătorul este o sumă sau",
+        "• Produsul numărului natural a  ≥ 2 cu numărul natural b este un număr natural p  obținut prin adunare",
+        "• Produsul a două sau mai multe numere naturale impare este un număr impar.",
+        "• Exemplu:  P rodusul  3  ·  4  ·  5  es te par, deoarece factorul 4 este par.",
+        "• Notăm cu a și b cei doi factori. Dacă numărul natural a este cuprins între 8 și 15, atunci 9  ≤ a ≤",
+        "8  Suma a tr ei numere naturale este 2  002. Dacă din fiecar e se scade același număr, atunci se obț"
+      ],
+      "examples": [
+        "EXAMPLES: • rate și verificați, prin exemple proprii, valabilitatea afirmațiilor scrise în dreapta.",
+        "• Mate practicăExemplu • Exemplu:  P rodusul  3  ·  4  ·  5  es te par, deoarece factorul 4 este par."
+      ],
+      "formulas": [],
+      "notes": [
+        "• Notăm cu a și b cei doi factori. Dacă numărul natural a este cuprins între 8 și 15, atunci 9  ≤ a ≤"
+      ],
+      "summary": "DEFINITIONS: • 2  A nalizați următoarele modalități de a efectua scăderea atunci când scăzătorul este o sumă sau • Produsul numărului natural a  ≥ 2 cu numărul natural b este un număr natural p  obținut prin adunare • Produsul a două sau mai multe numere naturale impare este un număr impar"
+    },
+    {
+      "title": "Lecția 7:   Împăr țirea cu rest 0 a numerelor naturaleL7",
+      "definitions": [
+        "DEFINITIONS:",
+        "• Împărțirea (exactă) este operația inversă înmulțirii. A afla câtul împărțirii lui a la b înseamnă a",
+        "• Să ne amintim cum se efectuează împărțirea când împărțitorul are o singură cifră (este un",
+        "• exemplu, împărțitorul are două cifre, iar numărul format de primele două cifre este mai mic decât îm"
+      ],
+      "examples": [
+        "EXAMPLES: • Deoarece 15  · 4 = 60 și 15  · 5 = 75, observăm că dacă acea carte ar fi avut, de exemplu, 65 de",
+        "• Exemplu • număr natural mai mic decât 10). Spre exemplu, dacă deîmpărțitul are trei cifre, atunci se împart la",
+        "• exemplu, împărțitorul are două cifre, iar numărul format de primele două cifre este mai mic decât îm • ObservațiiExemplu"
+      ],
+      "formulas": [],
+      "notes": [],
+      "summary": "DEFINITIONS: • Împărțirea (exactă) este operația inversă înmulțirii"
+    },
+    {
+      "title": "ExempleLecția 8:   Împăr țirea cu rest a numerelor naturaleL8",
+      "definitions": [
+        "DEFINITIONS:",
+        "• Mai general, considerând un număr de a  obiecte (unde a  este un număr natural), eliminăm succesiv c",
+        "• b obiecte, unde b  este un număr natural diferit de 0. Când operația de eliminare a obiectelor din c"
+      ],
+      "examples": [
+        "EXAMPLES: • Exemple",
+        "• puterile au aceeași ultimă cifră. De exemplu, împărțind pe 1  2 34 la 4 obținem restul 2, deci număr • Exemplu:   •  9 es te puterea a doua a lui 3, deoarece cu 9 pătrate de latură 1 se poate forma"
+      ],
+      "formulas": [
+        "• Are loc egalitatea: 19  = 3 · 5 + 4 și 4  < 5."
+      ],
+      "notes": [
+        "• Atenție!  Nu oric e număr natural care are ultima cifră 0,  1,  4,  5,  6 sau 9 es te pătratul unui",
+        "• Rezolvare:Pentru a simplifica scrierea, notăm cu u(n) ultima cifră a numărului natural n.Deoarece re",
+        "• Rezolvare:Ca la problema anterioară, notăm cu u(n) ultima cifră a numărului natural n.Deoarece restu"
+      ],
+      "summary": "DEFINITIONS: • Mai general, considerând un număr de a  obiecte (unde a  este un număr natural), eliminăm succesiv c • b obiecte, unde b  este un număr natural diferit de 0"
+    },
+    {
+      "title": "Lecția 11:   Compar area puterilorL11",
+      "definitions": [
+        "• cifră este 23 = 8;",
+        "• folosesc patru cifre este  210 = 1 024."
+      ],
+      "examples": [
+        "EXAMPLES: • Exemple:    a 24 < 25 deoarece 4  < 5;  b 25 < 27 deoarece 5  < 7;  c 311 > 37 deoarece 11  > 7."
+      ],
+      "formulas": [
+        "• cifră este 23 = 8;",
+        "• folosesc patru cifre este  210 = 1 024.",
+        "• cutive ale lui 10. Primul indiciu sugerează scrierea 230 = (23)10 = 810."
+      ],
+      "notes": [
+        "• ObservațieSituație"
+      ],
+      "summary": "FORMULAS/RULES: • cifră este 23 = 8; • folosesc patru cifre este  210 = 1 024"
+    },
+    {
+      "title": "Lecția 12:   Scrier ea în baza 10. Scrierea în baza 2L12",
+      "definitions": [
+        "DEFINITIONS:",
+        "• Orice număr natural se poate scrie ca o sumă de produse în care un factor este o putere a lui 10 (de"
+      ],
+      "examples": [],
+      "formulas": [
+        "• 1 23 = 20 + 3 = 2 · 101 + 3 · 100"
+      ],
+      "notes": [
+        "• Urmăriți cu atenție următoarele scrieri:"
+      ],
+      "summary": "DEFINITIONS: • Orice număr natural se poate scrie ca o sumă de produse în care un factor este o putere a lui 10 (de FORMULAS/RULES: • 1 23 = 20 + 3 = 2 · 101 + 3 · 100 • 2 1 203  = 1 000  + 200  + 3 = 1 · 103 + 2 · 102 + 0 · 101 + 3 · 100 • 3 23 = 16 + 4 + 2 + 1 = 1 · 24 + 0 · 23 + 1 · 22 + 1 · 2 + "
+    },
+    {
+      "title": "natural mod de stocare a informațiilor în domeniul informaticii . Un b",
+      "definitions": [
+        "DEFINITIONS:",
+        "• a cantității de informație.Valoarea unui bit este ori 0, ori 1. Unități mai mari pentru stocarea inf",
+        "• operații de ordinul al doilea, iar ridicarea la putere este operație de ordinul al treilea."
+      ],
+      "examples": [
+        "EXAMPLES: • De exemplu, pentru scrierea unui cuvânt în word  se utilizează, în funcție de tipul calculatorului,"
+      ],
+      "formulas": [
+        "• 1 octet (byte) = 8 biți",
+        "• 1 kilooctet (ko) = 210 octeți",
+        "• 1 megaoctet (Mo) = 210 ko = 220 octeți",
+        "• 1 gigaoctet (Go) = 210 Mo = 230 octeți",
+        "• 1 teraoctet (To) = 210 Go = 240 octeți"
+      ],
+      "notes": [],
+      "summary": "DEFINITIONS: • a cantității de informație"
+    },
+    {
+      "title": "Lecția 1  64 Metoda reducerii la unitate",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 2  67 Metoda comparației",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 3  71 Metoda figurativă",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 4  77 Metoda mersului invers",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 5  82 Metoda falsei ipoteze",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": "Recapitulare și evaluare  85"
+    },
+    {
+      "title": "Lecția 1  64 Metoda reducerii la unitate",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 2  67 Metoda comparației",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 3  71 Metoda figurativă",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    },
+    {
+      "title": "Lecția 4  77 Metoda mersului invers",
+      "definitions": [],
+      "examples": [],
+      "formulas": [],
+      "notes": [],
+      "summary": ""
+    }
+  ]
+}
