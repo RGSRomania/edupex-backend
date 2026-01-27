@@ -11,40 +11,17 @@
             "summary": "## Textul Literar: 'Prietenul meu' de Ioana Pârvu\n\n### Ce este un text literar?\nTextul literar este o creație artistică a unui autor care transmite idei, emoții și sentimente într-un limbaj expresiv și plin de imaginație. Spre deosebire de alte texte care doar informează (textele nonliterare), textul literar creează o lume imaginară care captivează cititorul și îl face să simtă profund.\n\n### Povestea 'Prietenul meu'\nPovestea lui Ioana Pârvu ne prezintă aventura unui copil pe nume Bogdan din clasa a V-a. Bogdan se pregătește pentru teze și se gândește cum să-și ilustreze compunerea pentru tema \"Prietenul meu cel mai bun\". Compunerea i-a ieșit prea scurtă și inițial se gândea doar să o recopie și s-o completeze cu cuvinte grele. Dar atunci când s-a gândit la \"prietenul meu cel mai bun\", i-a venit o idee genială: ce dacă ar aduce pe Joi - chiul chihuahua-ul lui, o creatuță micuță și delicată, cu doar 35 cm înălțime și puțin peste un kilogram - la școală, în sala de clasă, chiar în fața profesoarei?\n\n### Caracteristicile principale ale textului:\n\n**1. Joi - Personajul animalului**\nJoi nu este doar orice catel. Este un chihuahua de culoare cafenie, extrem de mic și delicat, cu o coadă întinsă și ochii negri și rotunzi. Este \"o pasăre fără pene\", cum îl descrie autorul, atât de mic că par imposibil să existe. Dar această micime este exact ceea ce face povestea atât de tandră și pline de umor.\n\n**2. Reacția clasmatilor și a profesoarei**\nCând Bogdan intră în sala de clasă cu Joi, reacția este de șoc, apoi de uimire și, în final, de compasiune și tandrete. Toți se apropie pentru a vedea mica creatuță, și în acel moment, clasa a V-a întreagă realiza adevărul: Joi era cu adevărat cel mai bun prieten al lui Bogdan. Gestura de a-l aduce la școală nu era o pacaleală, ci o declarație sinceră de dragoste și prietenie.\n\n**3. Limbajul expresiv al autorului**\nIoana Pârvu folosește cuvinte pline de emoție și imagini evocative: \"o pasăre fără pene\", \"ochii negri și rotunzi\", \"o creatuță delicată\". Aceste expresii ne ajută să simțim emoția personajului și să înțelegem profunzimea legăturii sale cu catelul.\n\n**4. Mesajul profund al povestei**\nPe deasupra poveștii simple (un copil care aduce catelul la școală), există niveluri mai profunde de înțelegere:\n- **Sinceritatea și curajul**: Bogdan a avut curajul să fie diferit, să nu urmeze calea obișnuită de a rescrie compunerea cu cuvinte grele.\n- **Adevărata prietenie**: Prietenia cu Joi este bazată pe afecțiune sinceră, nu pe vorbă.\n- **Acceptarea celor diferiti**: Chiar dacă Joi este diferit (foarte mic), el este iubit și acceptat.\n- **Puterea gesturilor**: Un gest simplu, dar plin de sens, poate schimba perspectiva oamenilor.\n\n### De ce este important să studiem acest text?\nTextul lui Ioana Pârvu ne învață că literatura nu este doar o colecție de cuvinte, ci un mod de a exprima ceea ce simțim cu profunzime. Ne arată cum autorii transformă mici momente din viața cotidiană în povești care ating inima cititorului. Prin înțelegerea modului în care funcționează un text literar, dezvoltăm capacitatea de a citi critic și de a aprecia frumusețea limbajului românesc.",
             "questions": [
               {
-                "questionNumber": 1,
-                "questionText": "Care este motivul principal pentru care Bogdan duce pe Joi (chiul huahua-ul) la scoala?",
+                "id": "limba1",
+                "type": "multiple_choice",
+                "questionText": "Care dintre următoarele cuvinte este substantiv?",
                 "options": [
-                  "A. Sa-si arate dragostea fata de animale",
-                  "B. Sa ilustreze compunerea 'Prietenul meu cel mai bun' care i-a iesit prea scurta",
-                  "C. Sa joace o pacaleala colegilor",
-                  "D. Pentru ca profesorul de roman i l-a cerut"
+                  "frumos",
+                  "copil",
+                  "rapid",
+                  "cântă"
                 ],
                 "correctAnswerIndex": 1,
-                "nivelDificultate": 1
-              },
-              {
-                "questionNumber": 2,
-                "questionText": "Ce tip de text este 'Prietenul meu' de Ioana Pârvu?",
-                "options": [
-                  "A. Text descriptiv",
-                  "B. Text nonliterar",
-                  "C. Text literar narativ",
-                  "D. Text argumentativ"
-                ],
-                "correctAnswerIndex": 2,
-                "nivelDificultate": 2
-              },
-              {
-                "questionNumber": 3,
-                "questionText": "Care dintre urmatorii enunturi este adevarat cu privire la Joi?",
-                "options": [
-                  "A. Este o pasare mic cu codita de semicerc",
-                  "B. Este un chihuahua cafeniu, delicat, cu 35 cm inaltime si doar putin peste un kilogram",
-                  "C. Este un catel mare si puternic care latrca des",
-                  "D. Este un catel cu lungimea de 50 cm si care vorbeste cuvinte"
-                ],
-                "correctAnswerIndex": 1,
-                "nivelDificultate": 3
+                "explanation": ""
               }
             ],
             "sections": [
@@ -126,40 +103,17 @@
             "summary": "## Trăsături ale Textului Literar - Aprofundare și Actualizare\n\n### Ce îl face special pe un text literar?\nUn text literar nu este o simplă colecție de cuvinte. Este o formă de artă care transformă realitatea într-o experiență emoțională și intelectuală pentru cititor. Aceasta este exact ceea ce face Ioana Pârvu în \"Prietenul meu\".\n\n### Caracteristica 1: Lumea Imaginară\nCu toate că povestea lui Ioana Pârvu se petrece în loc real (o sală de clasă, la școală), ea nu este o descriere exactă a realității. Este o **lume imaginară** - universul creat de autor în care evenimente cotidiene become pline de magie și profunzime. Bogdan și Joi sunt personaje reale în context scolar familiar, dar modul în care le sunt prezentate și importanța emoțională atribuită lor transformă totul în ceva cu totul nou.\n\n### Caracteristica 2: Limbajul Expresiv\nEuropa Pârvu nu folosește limbaj simplu și direct. Ea folosește expresii pline de artă:\n- \"O pasăre fără pene\" pentru a descrie mica creatuță\n- Imagini vizuale care fac cititorul să vadă scena ca și cum ar fi acolo\n- Cuvinte care transmit emoție în fiecare frază\n\nLimbajul expresiv este ceea ce dă putere unui text literar - capacitatea de a actiona asupra sentimentelor și imaginației cititorului.\n\n### Caracteristica 3: Idei, Emoții și Sentimente\nTextul nu este despre o compunere pentru o temă școlară. Este despre:\n- **Emoție**: Dragostea lui Bogdan pentru Joi, teamă dinaintea profesoarei, bucuria de a fi creativ\n- **Idei**: Sinceritatea este mai importantă decât alcoolismul, adevărata prietenie se arată prin gesturi, curajul de a fi diferit\n- **Sentimente**: Tandrete, ușurare, acceptare, mândrie\n\nIoana Pârvu transmite aceste laturi interne ale personajelor prin descrieri si acțiuni, nu prin explicații directe.\n\n### Cum se deosebeste de alte tipuri de texte\n\n**Text Literar vs. Text Nonliterar:**\n\n| Aspect | Text Literar | Text Nonliterar |\n|--------|--------------|------------------|\n| **Scop** | Emoție, artă, gândire | Informație, instructiuni |\n| **Limbaj** | Expresiv, creativ | Clar, precis |\n| **Abordare** | Subjectivă, personală | Obiectivă, neutră |\n| **Exemple** | Povești, poezii, dramă | Articole, instructiuni, rapoarte |\n\n### Transformarea Realității în Artă\nCe face Ioana Pârvu în textul ei este esențial pentru toți scriitorii: ia un moment cotidian (un copil care trebuie să scrie o compunere) și îl transformă în ceva cu profunzime emoțională. Ea adaugă:\n- **Suspans**: Va merge Bogdan cu Joi la școală sau nu?\n- **Umor**: Descrierea micului Joi și reacțiile clasmațelor\n- **Umanism**: Mesajul despre prietenie și sinceritate\n\n### De ce este important să studiem aceste caracteristici?\nIntelegând cum funcționează un text literar, învățăm să:\n1. **Apreciem** eforturile scriitorilor în a crea ceva special\n2. **Citim mai profund**, căutând sensuri ascunse și mesaje subiacente\n3. **Scriem mai bine**, înțelegând cum transforma limbajul și structura experiența cititorului\n4. **Exprimăm** propriile emoții și idei mai eficace\n\nLimbajul expresiv nu este o nimicire - este o putere care ne conectează unii cu alții la nivel uman profund.",
             "questions": [
               {
-                "questionNumber": 1,
-                "questionText": "Universul imaginat de Ioana Pârvu in 'Prietenul meu' este apropiat sau departat de realitate?",
+                "id": "limba2",
+                "type": "multiple_choice",
+                "questionText": "Ce parte de vorbire este cuvântul \"mică\"?",
                 "options": [
-                  "A. Este complet imaginat, fara nicio legatura cu realitatea",
-                  "B. Este apropiat de realitate, deoarece foloseste elemente reale din viata cotidiana, dar le transforma creativ",
-                  "C. Este o descriere exacta a unei situatii reale",
-                  "D. Este un text fantastical complet imposibil"
+                  "adverb",
+                  "adjectiv",
+                  "verb",
+                  "prepoziție"
                 ],
                 "correctAnswerIndex": 1,
-                "nivelDificultate": 1
-              },
-              {
-                "questionNumber": 2,
-                "questionText": "Ce emotie predomina in textul 'Prietenul meu'?",
-                "options": [
-                  "A. Frică și anxietate",
-                  "B. Tristețe și depresie",
-                  "C. Umor și tandrete",
-                  "D. Mânie și frustrare"
-                ],
-                "correctAnswerIndex": 2,
-                "nivelDificultate": 2
-              },
-              {
-                "questionNumber": 3,
-                "questionText": "Care este caracteristica principala a limbajului expresiv intr-un text literar?",
-                "options": [
-                  "A. Sa fie simplu si intelesi de toti",
-                  "B. Sa transmita idei, emotii si sentimente cu forte evocativa",
-                  "C. Sa evite utilizarea de cuvinte grele",
-                  "D. Sa fie identic cu vorbirea obisnuita a oamenilor"
-                ],
-                "correctAnswerIndex": 1,
-                "nivelDificultate": 3
+                "explanation": ""
               }
             ],
             "sections": [
@@ -236,40 +190,17 @@
             "summary": "## Cuvânt-Cheie, Temă și Planul Simplu de Idei - Analiză Structurală\n\n### Parte 1: Cuvântul-Cheie (Cuvintele Principale)\n\n**Ce este un cuvânt-cheie?**\nUn cuvânt-cheie este un termen central care concentrează esența textului și se repetă frecvent în text, ajutând cititorul să înțeleagă esența și mesajul principal al autorului. Nu sunt cuvinte dificile, ci cuvinte cu greutate emoțională și conceptuală.\n\n**Cuvintele-Cheie în \"Prietenul meu\":**\n\n1. **\"PRIETENIE\"** - Palavra cea mai importantă a textului\n   - Se repetă în titlu, în tema compunerii, în esența povestei\n   - Arată că povestea nu e doar despre ducerea unui catel la școală\n   - Este despre relația profundă dintre Bogdan și Joi\n\n2. **\"SINCERITATE\"** - Sinceritatea gestului lui Bogdan\n   - Nu încearcă să înșele cu cuvinte grele\n   - Cuvântul acționează cu adevăr\n   - Aduce dovadă prin fapte, nu prin vorbă\n\n3. **\"CURAJ\"** - Curajul de a fi diferit\n   - Bogdan are curaj să facă ceva neobișnuit\n   - Să pună în piață ceva intim și personal\n   - Să rişte judecata clasmațelor și profesoarei\n\n4. **\"ACCEPTARE\"** - Acceptarea de către ceilalți\n   - Clasa acceptă Joi și gestul lui Bogdan\n   - Profesoara acceptă, în loc să pedepsească\n   - Toți acceptă adevărul emoțional al lui Joi\n\n### Partea 2: Tema Textului\n\n**Ce este tema?**\nTema unui text este ideea principală, gândurile centrale pe care se construiește întreaga poveste. O temă nu este plot (ceea ce se întâmplă), ci ce inseamnă ceea ce se întâmplă.\n\n**Tema Textului \"Prietenul meu\":**\n\n> **\"Adevărata prietenie și sinceritatea sunt mai puternice decât artificiilitate și apariții.\"**\n\nOu mai simplu: **\"Sinceritatea și curajul de a fi autentic transformă oamenii.\"**\n\nAceastă temă expliclică:\n- De ce Bogdan face ceea ce face\n- De ce reacționează clasa cu compasiune, nu cu batjocură\n- De ce povestea este importantă și semnificativă\n- Ce lecție învață cititorul\n\n### Partea 3: Planul Simplu de Idei (Structura Povestei)\n\nPlanul simplu de idei este organizarea logică a conținutului textului în etape sau secvențe majore. Aici sunt pașii poveștei:\n\n**Pasul 1: EXPUNERE - Introducerea situației inițiale**\n- Bogdan se pregătește pentru teze\n- Compunerea pe tema \"Prietenul meu\" i-a ieșit prea scurtă\n- Are ideea să o completeze cu cuvinte grele\n- Dar când se gândește la \"cel mai bun prieten\", se gândește la Joi\n\n**Pasul 2: CONFLICT / DILEMĂ - Problema care trebuie rezolvată**\n- Bogdan se confruntă cu alegerea: calea ușoară (rescris cu cuvinte grele) vs calea riscantă (aduce pe Joi la școală)\n- Ideea pare nebunească, dar simte că este adevărată\n- Trebuie să aibă curaj să o facă\n\n**Pasul 3: ACȚIUNE - Rezolvarea conflictului**\n- Bogdan ia decizia: aduce pe Joi la școală\n- Intră în sala de clasă cu Joi ascuns/vizibil\n- Profesora și clasa reacționează\n\n**Pasul 4: PUNCTUL CULMINANT - Momentul de maximă tensiune și înțelegere**\n- Clasa vede mica creatuță - Joi\n- Toți se apropie cu compasiune\n- Se realizează că Joi este cu adevărat prietenul lui Bogdan\n- Compunerea devient nu doar corectă, ci perfectă prin sinceritate\n\n**Pasul 5: ÎNCHEIERE - Rezoluția și lecția**\n- Bogdan a înțeles că sinceritatea și curajul sunt mai importante decât artificialitate\n- Clasa a învățat acceptarea și compasiunea\n- Profesoara recunoaște geniul gestului\n\n### Integração: De la Structură la Înțelegere\n\nCând punem împreună:\n- **Cuvintele-cheie** (PRIETENIE, SINCERITATE, CURAJ, ACCEPTARE) \n- **Tema** (Adevărata prietenie este mai puternică decât artificialitate)\n- **Planul de idei** (Expunere → Dilemă → Acțiune → Punctul culminant → Încheiere)\n\nObținem o înțelegere completă a textului și a intenției autorului.\n\n### De ce este importanță această analiză?\n1. **Pentru înțelegere**: Ne ajută să nu ratăm mesajul principal\n2. Pentru scris**: Când scriem propria poveste, putem folosi același model\n3. **Pentru discuție**: Ne dă vocabular și structură pentru a vorbi despre texte\n4. **Pentru cultură**: Arată cum funcționează arta de a povesti",
             "questions": [
               {
-                "questionNumber": 1,
-                "questionText": "Ce sunt cuvintele-cheie intr-un text literar?",
+                "id": "limba3",
+                "type": "multiple_choice",
+                "questionText": "Cine este autorul poveștii \"Prietenul meu\"?",
                 "options": [
-                  "A. Cuvinte grele care sunt greu de inteles",
-                  "B. Termeni care concentreaza esenta textului si se repeta frecvent",
-                  "C. Orice cuvant din text",
-                  "D. Doar verbele din text"
+                  "Ion Creangă",
+                  "Ioana Pârvu",
+                  "Mihai Eminescu",
+                  "Lucian Blaga"
                 ],
                 "correctAnswerIndex": 1,
-                "nivelDificultate": 1
-              },
-              {
-                "questionNumber": 2,
-                "questionText": "Care ar putea fi tema textului 'Prietenul meu'?",
-                "options": [
-                  "A. Frică de teze",
-                  "B. Importanta prieteniei si curajul de a fi sincer",
-                  "C. Scolile sunt rele",
-                  "D. Cainii nu ar trebui sa fie la scoala"
-                ],
-                "correctAnswerIndex": 1,
-                "nivelDificultate": 2
-              },
-              {
-                "questionNumber": 3,
-                "questionText": "Ce este planul simplu de idei?",
-                "options": [
-                  "A. O lista de cuvinte grele din text",
-                  "B. Organizarea logica a continutului textului in etape majore",
-                  "C. Descrierea detaliata a fiecarui paragraf",
-                  "D. O rezumare in o singura fraza"
-                ],
-                "correctAnswerIndex": 1,
-                "nivelDificultate": 3
+                "explanation": ""
               }
             ],
             "sections": [
@@ -371,40 +302,17 @@
             "summary": "Aceasta lectie insista pe interpretarea multilinistra a unui text literar, adica asupra faptului ca orice \n            text literar poate avea mai multe intelesuri sau semnificatii. In 'Prietenul meu', pe langa povestea literala (un copil duce \n            catelul la scoala), exista si alte semnificatii: curajul de a fi diferit, forta prieteniei, importanta sinceritatii, \n            acceptarea celor diferiti. Lectia invata pe elevi sa citeasca intre randuri, sa gaseasca mesaje ascunse si sa inteleaga \n            ca literatura nu transmite doar informatii, ci si valori, principii morale si perspective asupra vietii. Analiza semnificatiilor \n            ajuta la dezvoltarea gandirii critice si a capacitatii de interpretare.",
             "questions": [
               {
-                "questionNumber": 1,
-                "questionText": "Ce semnificatie ascunsa poate avea actiunea lui Bogdan de a duce pe Joi la scoala?",
+                "id": "limba4",
+                "type": "multiple_choice",
+                "questionText": "Care este genul cuvântului \"copil\"?",
                 "options": [
-                  "A. Doar o pacaleala copilariasca",
-                  "B. Expresia curajului de a fi diferit si a fi sincer",
-                  "C. O incercare de a obtine o nota mai mare",
-                  "D. O dovada ca cainii trebuie educati ca oamenii"
+                  "feminin",
+                  "masculin",
+                  "neutru",
+                  "comun"
                 ],
                 "correctAnswerIndex": 1,
-                "nivelDificultate": 1
-              },
-              {
-                "questionNumber": 2,
-                "questionText": "Care dintre urmatoarele nu este o semnificatie a textului 'Prietenul meu'?",
-                "options": [
-                  "A. Importanta sinceritatii si a curajului",
-                  "B. Puterea prieteniei autentice",
-                  "C. Necesitatea de a avea intotdeauna animale la scoala",
-                  "D. Acceptarea celor diferiti in comunitate"
-                ],
-                "correctAnswerIndex": 2,
-                "nivelDificultate": 2
-              },
-              {
-                "questionNumber": 3,
-                "questionText": "De ce este importanta analiza semnificatiilor unui text literar?",
-                "options": [
-                  "A. Pentru a obtine note mai mari la teze",
-                  "B. Pentru a dezvolta gandirea critica si a intelege valorile transmise de autor",
-                  "C. Pentru a scrie tezele mai scurt",
-                  "D. Pentru a memora textul"
-                ],
-                "correctAnswerIndex": 1,
-                "nivelDificultate": 3
+                "explanation": ""
               }
             ],
             "sections": [
@@ -4770,30 +4678,17 @@
             "summary": "În această lecție vom învăța cum se scriu și se citesc **numerele naturale**. **Numerele naturale** sunt utilizate pentru a număra și pentru a ordona obiecte. Se face utilizând zece **cifre** arabe: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. În sistemul de numerație zecimal (baza 10), poziția unei **cifre** determină **valoare**a acesteia.",
             "questions": [
               {
-                "id": "L1_Q1",
+                "id": "math1",
                 "type": "multiple_choice",
+                "questionText": "Care este rezultatul operației 25 + 47?",
                 "options": [
-                  "5",
-                  "50",
-                  "500",
-                  "5000"
+                  "62",
+                  "72",
+                  "82",
+                  "52"
                 ],
-                "explanation": "În numărul 357, cifra 5 ocupă poziția zecilor, deci valoarea sa este 5 × 10 = 50",
-                "questionText": "Care este valoarea cifrei 5 în numărul 357?",
-                "correctAnswerIndex": 1
-              },
-              {
-                "id": "L1_Q2",
-                "type": "multiple_choice",
-                "options": [
-                  "109",
-                  "1009",
-                  "1090",
-                  "10009"
-                ],
-                "explanation": "O mie = 1000, nouă = 9, deci 1000 + 9 = 1009",
-                "questionText": "Cum se scrie cu cifre numărul 'o mie nouă'?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -4855,17 +4750,17 @@
             "summary": "**Numerele naturale** se pot reprezenta pe o axă numerică. Axa numerelor ne ajută să vizualizăm numerele și relațiile dintre ele. Pe axa numerelor, numerele cresc de la stânga la dreapta. Compararea numerelor naturale se face folosind semnele: <, =, >. Aproximările ne ajută să lucrum cu numere mai mari.",
             "questions": [
               {
-                "id": "L2_Q1",
+                "id": "math2",
                 "type": "multiple_choice",
+                "questionText": "Cât este 15 × 6?",
                 "options": [
-                  "245",
-                  "254",
-                  "Sunt egale",
-                  "Nu se pot compara"
+                  "80",
+                  "90",
+                  "100",
+                  "110"
                 ],
-                "explanation": "245 < 254 pentru că la cifra zecilor avem 4 < 5",
-                "questionText": "Care din aceste numere este mai mic: 245 sau 254?",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -4932,17 +4827,17 @@
             "summary": "Adunarea este operația prin care unim două mulțimi disjuncte. Numerele care se adună se numesc termeni, iar rezultatul se numește sumă. Adunarea are proprietăți importante: este comutativă, asociativă și are element neutru.",
             "questions": [
               {
-                "id": "L3_Q1",
+                "id": "math3",
                 "type": "multiple_choice",
+                "questionText": "Care este aria unui pătrat cu latura de 5 cm?",
                 "options": [
-                  "60",
-                  "70",
-                  "65",
-                  "75"
+                  "20 cm²",
+                  "25 cm²",
+                  "30 cm²",
+                  "35 cm²"
                 ],
-                "explanation": "27 + 43 = 70",
-                "questionText": "Care este rezultatul: 27 + 43?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -4999,17 +4894,17 @@
             "summary": "Scăderea este operația inversă adunării. Scade un număr (scăzător) din altul (descăzut) pentru a obține diferența. Scăderea nu este comutativă, dar are alte proprietăți importante.",
             "questions": [
               {
-                "id": "L4_Q1",
+                "id": "math4",
                 "type": "multiple_choice",
+                "questionText": "Câte grade are suma unghiurilor unui triunghi?",
                 "options": [
-                  "62",
-                  "62",
-                  "65",
-                  "58"
+                  "90°",
+                  "180°",
+                  "270°",
+                  "360°"
                 ],
-                "explanation": "85 - 23 = 62",
-                "questionText": "Care este rezultatul: 85 - 23?",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -14750,17 +14645,17 @@
             "summary": "**Lecția 1**: Un păianjen care se crede Spiderman - Adin",
             "questions": [
               {
-                "id": "C1_L1_Q1",
+                "id": "limba1",
                 "type": "multiple_choice",
+                "questionText": "Ce este o mulțime în sensul matematicii?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "O colecție ordonată de obiecte",
+                  "O colecție neordonată de obiecte distincte",
+                  "Un număr mare",
+                  "Un set de numere"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul narativ literar în proză?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -14817,17 +14712,17 @@
             "summary": "**Lecția 2**: Definiție, structură, elemente caracteristice",
             "questions": [
               {
-                "id": "C1_L2_Q1",
+                "id": "limba2",
                 "type": "multiple_choice",
+                "questionText": "Care propoziție conține o subordonată de timp?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "El aleargă foarte repede",
+                  "Când a sosit, s-a odihnit",
+                  "Asta este frumos",
+                  "Cartea este pe masă"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a caracteristicile textului narativ?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -14884,17 +14779,17 @@
             "summary": "**Lecția 3**: Eroul, antagonistul, personajele secundare",
             "questions": [
               {
-                "id": "C1_L3_Q1",
+                "id": "limba3",
                 "type": "multiple_choice",
+                "questionText": "Cine a scris \"Mihai Viteazul\"?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "Ion Creangă",
+                  "Camil Petrescu",
+                  "Liviu Rebreanu",
+                  "George Coșbuc"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a personajele în naratiune?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 2,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -14951,17 +14846,17 @@
             "summary": "**Lecția 4**: Dezvoltarea acțiunii, tipuri de conflicte",
             "questions": [
               {
-                "id": "C1_L4_Q1",
+                "id": "limba4",
                 "type": "multiple_choice",
+                "questionText": "Ce înseamnă cuvântul \"epigramă\"?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "O poveste lungă",
+                  "O scrisoare scurtă",
+                  "O compoziție scurtă cu caracter satiric",
+                  "Un poem romantic"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a actiunea și conflictul?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 2,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -17558,30 +17453,17 @@
             "summary": "**Mulțime**a este o colecție de obiecte bine determinate, numite **elemente**. Mulțimile pot fi descrise în mai multe moduri: prin **enumerare**, prin **caracteristică** sau prin **reprezentare** grafică. Mulțimile pot fi numerice (conținând numere) sau nenumerice (conținând alte obiecte).",
             "questions": [
               {
-                "id": "L1_Q1",
+                "id": "math1",
                 "type": "multiple_choice",
+                "questionText": "Care dintre următoarele este o mulțime infinită?",
                 "options": [
-                  "Mulțimea continentelor",
-                  "Mulțimea numerelor naturale mai mici decât 10",
-                  "Mulțimea vocalelor",
-                  "Mulțimea copacilor din parc"
+                  "Mulțimea cifrelor",
+                  "Mulțimea zilelor săptămânii",
+                  "Mulțimea numerelor naturale",
+                  "Mulțimea literelor alfabetului"
                 ],
-                "explanation": "Mulțimea numerelor naturale mai mici decât 10 este o mulțime numerică deoarece conține numere (0, 1, 2, 3, ..., 9)",
-                "questionText": "Care din următoarele este o mulțime numerică?",
-                "correctAnswerIndex": 1
-              },
-              {
-                "id": "L1_Q2",
-                "type": "multiple_choice",
-                "options": [
-                  "5 ⊂ A",
-                  "5 ∈ A",
-                  "5 ≤ A",
-                  "5 = A"
-                ],
-                "explanation": "Relația de apartenență se notează cu ∈, deci 5 ∈ A înseamnă '5 aparține mulțimii A'",
-                "questionText": "Cum se notează relația că elementul 5 aparține mulțimii A?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 2,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -17663,17 +17545,17 @@
             "summary": "Două mulțimi pot avea relații între ele: **egalitate** (sunt identice), **incluziune** (una este **submulțime** a celeilalte), sau nici una din acestea. Se notează cu simboluri speciale pentru a exprima aceste relații.",
             "questions": [
               {
-                "id": "L2_Q1",
+                "id": "math2",
                 "type": "multiple_choice",
+                "questionText": "Dacă A = {1, 2, 3} și B = {2, 3, 4}, care este A ∪ B?",
                 "options": [
-                  "A = B",
-                  "A ⊂ B",
-                  "B ⊂ A",
-                  "A ∉ B"
+                  "{2, 3}",
+                  "{1, 2, 3, 4}",
+                  "{1}",
+                  "{4}"
                 ],
-                "explanation": "A ⊂ B (A este submulțime proprie a lui B) deoarece orice element din A este în B, dar B are și elementul 3 care nu e în A",
-                "questionText": "Dacă A = {1, 2} și B = {1, 2, 3}, ce relație există între A și B?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -17740,17 +17622,17 @@
             "summary": "Mulțimile pot fi finite (cu un număr determinat de elemente) sau infinite (cu un număr nelimitat de elemente). ****Cardinal**ul** unei mulțimi finite este numărul elementelor sale, notat cu |A| sau card(A).",
             "questions": [
               {
-                "id": "L3_Q1",
+                "id": "math3",
                 "type": "multiple_choice",
+                "questionText": "Cât este puterea 2³?",
                 "options": [
-                  "card(A) = 2",
-                  "card(A) = 4",
-                  "card(A) = 5",
-                  "card(A) = 10"
+                  "5",
+                  "6",
+                  "8",
+                  "9"
                 ],
-                "explanation": "Mulțimea A are 5 elemente (2, 4, 6, 8, 10), deci card(A) = 5",
-                "questionText": "Care este cardinalul mulțimii A = {2, 4, 6, 8, 10}?",
-                "correctAnswerIndex": 2
+                "correctAnswerIndex": 2,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -17817,30 +17699,17 @@
             "summary": "**Operații**le cu mulțimi sunt modalități de a combina sau compara mulțimi. Prin **reuniune** obținem o mulțime cu toate elementele, prin **intersecție** doar cele comune, iar prin **diferență** elementele din prima mulțime care nu sunt în a doua.",
             "questions": [
               {
-                "id": "L4_Q1",
+                "id": "math4",
                 "type": "multiple_choice",
+                "questionText": "Care este cel mai mic multiplu comun al numerelor 4 și 6?",
                 "options": [
-                  "{2, 3}",
-                  "{1, 2, 3, 4}",
-                  "{1, 2, 3}",
-                  "{1, 4}"
+                  "12",
+                  "24",
+                  "8",
+                  "10"
                 ],
-                "explanation": "A ∪ B conține toate elementele din A și din B: {1, 2, 3, 4}",
-                "questionText": "Dacă A = {1, 2, 3} și B = {2, 3, 4}, care este A ∪ B?",
-                "correctAnswerIndex": 1
-              },
-              {
-                "id": "L4_Q2",
-                "type": "multiple_choice",
-                "options": [
-                  "{2, 3}",
-                  "{1, 2, 3, 4}",
-                  "{1, 2, 3}",
-                  "{1, 4}"
-                ],
-                "explanation": "A ∩ B conține doar elementele comune: {2, 3}",
-                "questionText": "Dacă A = {1, 2, 3} și B = {2, 3, 4}, care este A ∩ B?",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 0,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -21615,7 +21484,7 @@
         "lectii": [
           {
             "number": 1,
-            "name": "Evaluare - Limba și Literatura Română",
+            "name": "Lecția 1 - Limba și Literatura Română",
             "questions": [
               {
                 "id": "limba1",
@@ -21627,9 +21496,16 @@
                   "Un număr mare",
                   "Un set de numere"
                 ],
-                "correctAnswerIndex": 1,
-                "explanation": "O mulțime este o colecție neordonată de obiecte distincte"
-              },
+                "correctAnswerIndex": 1
+              }
+            ],
+            "sections": [],
+            "summary": "Lecția 1"
+          },
+          {
+            "number": 2,
+            "name": "Lecția 2 - Limba și Literatura Română",
+            "questions": [
               {
                 "id": "limba2",
                 "type": "multiple_choice",
@@ -21640,9 +21516,16 @@
                   "Asta este frumos",
                   "Cartea este pe masă"
                 ],
-                "correctAnswerIndex": 1,
-                "explanation": "Subordonata de timp este introdusă prin cuvântul 'Când'"
-              },
+                "correctAnswerIndex": 1
+              }
+            ],
+            "sections": [],
+            "summary": "Lecția 2"
+          },
+          {
+            "number": 3,
+            "name": "Lecția 3 - Limba și Literatura Română",
+            "questions": [
               {
                 "id": "limba3",
                 "type": "multiple_choice",
@@ -21653,9 +21536,16 @@
                   "Liviu Rebreanu",
                   "George Coșbuc"
                 ],
-                "correctAnswerIndex": 2,
-                "explanation": "'Mihai Viteazul' a fost scris de Liviu Rebreanu"
-              },
+                "correctAnswerIndex": 2
+              }
+            ],
+            "sections": [],
+            "summary": "Lecția 3"
+          },
+          {
+            "number": 4,
+            "name": "Lecția 4 - Limba și Literatura Română",
+            "questions": [
               {
                 "id": "limba4",
                 "type": "multiple_choice",
@@ -21666,64 +21556,11 @@
                   "O compoziție scurtă cu caracter satiric",
                   "Un poem romantic"
                 ],
-                "correctAnswerIndex": 2,
-                "explanation": "Epigramma este o compoziție scurtă cu caracter satiric sau ironic"
-              },
-              {
-                "id": "limba5",
-                "type": "multiple_choice",
-                "questionText": "Care este caracteristica principală a textului narativ literar în proză?",
-                "options": [
-                  "Prezintă fapte și evenimente",
-                  "Exprimă sentimente și emoții",
-                  "Explică concepte și teorii",
-                  "Descrie locuri și obiecte"
-                ],
-                "correctAnswerIndex": 0,
-                "explanation": "Textul narativ prezintă o serie de fapte și evenimente ordonate în timp"
-              },
-              {
-                "id": "limba6",
-                "type": "multiple_choice",
-                "questionText": "Cum se numește persoana care povesteşte o poveste?",
-                "options": [
-                  "Autor",
-                  "Narrator",
-                  "Personaj",
-                  "Cititor"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "Naratorul este persoana care povesteşte povestea"
-              },
-              {
-                "id": "limba7",
-                "type": "multiple_choice",
-                "questionText": "Care este diferența dintre descriere și naraţiune?",
-                "options": [
-                  "Descrierea este mai lungă",
-                  "Naraţiunea prezintă acţiuni, descrierea prezintă stări",
-                  "Descrierea este mai scurtă",
-                  "Nu există diferenţă"
-                ],
-                "correctAnswerIndex": 1,
-                "explanation": "Naraţiunea relatează acţiuni care se derulează în timp, descrierea prezintă o stare sau o imagine statică"
-              },
-              {
-                "id": "limba8",
-                "type": "multiple_choice",
-                "questionText": "Ce este o metaforă?",
-                "options": [
-                  "O comparaţie cu cuvântul 'ca'",
-                  "O similitudine folosind 'asemenea'",
-                  "Un cuvânt cu mai multe înţelesuri",
-                  "O comparaţie fără cuvintele de legătură"
-                ],
-                "correctAnswerIndex": 3,
-                "explanation": "Metafora este o comparaţie directă, fără cuvinte de legătură cum ar fi 'ca' sau 'asemenea'"
+                "correctAnswerIndex": 2
               }
             ],
             "sections": [],
-            "summary": "Evaluare pentru Limba și Literatura Română"
+            "summary": "Lecția 4"
           }
         ]
       }
@@ -21742,17 +21579,17 @@
             "summary": "**Lecția 1**: Cum e lumea - Veronica D. Niculescu",
             "questions": [
               {
-                "id": "C1_L1_Q1",
+                "id": "limba1",
                 "type": "multiple_choice",
+                "questionText": "Care este diferența între o propoziție simplă și una complexă?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "Nicio diferență",
+                  "Cea simplă are o singură predicație",
+                  "Cea complexă este mai scurtă",
+                  "Cea simplă este mai lungă"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul narativ literar în proză?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -21809,17 +21646,17 @@
             "summary": "**Lecția 2**: Structura și evoluția eroilor",
             "questions": [
               {
-                "id": "C1_L2_Q1",
+                "id": "limba2",
                 "type": "multiple_choice",
+                "questionText": "Cine este autorul \"Miorului\"?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "Ion Creangă",
+                  "Mihai Eminescu",
+                  "Anonim",
+                  "George Coșbuc"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a analiza narativă și personajele principale?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 2,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -21876,17 +21713,17 @@
             "summary": "**Lecția 3**: Localizare și progresie temporală",
             "questions": [
               {
-                "id": "C1_L3_Q1",
+                "id": "limba3",
                 "type": "multiple_choice",
+                "questionText": "Ce este o figură de stil?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "Un ornament",
+                  "O modalitate de exprimare în scopul expresivității",
+                  "O greșeală gramaticală",
+                  "Un cuvânt străin"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a spațiul și temporalitatea în naratiune?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -21943,17 +21780,17 @@
             "summary": "**Lecția 4**: Caracteristici stilistice ale autorului",
             "questions": [
               {
-                "id": "C1_L4_Q1",
+                "id": "limba4",
                 "type": "multiple_choice",
+                "questionText": "Care dintre acestea este o metaforă?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "Părul cărui om e mai negru ca noaptea",
+                  "Lebedele plutesc ușor pe apă",
+                  "Și flori de cais s-ar numi-o stea",
+                  "Pisica are patru picioare"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a stil și limbaj narativ?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 2,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -24459,17 +24296,17 @@
             "summary": "**Lecția 1**: Rădăcina pătrată, radical, aproximări",
             "questions": [
               {
-                "id": "C1_L1_Q1",
+                "id": "math1",
                 "type": "multiple_choice",
+                "questionText": "Care este probabilitatea ca la aruncarea unui zar să obții un număr par?",
                 "options": [
-                  "Răspuns A",
-                  "Răspuns B",
-                  "Răspuns C",
-                  "Răspuns D"
+                  "1/6",
+                  "1/3",
+                  "1/2",
+                  "2/3"
                 ],
-                "explanation": "Explicație detaliată a răspunsului correct",
-                "questionText": "Intrebare de testare pentru Radical dintr-un număr natural. Aproximări",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 2,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -24516,17 +24353,17 @@
             "summary": "**Lecția 2**: Adunare, scădere, înmulțire, împărțire radicali",
             "questions": [
               {
-                "id": "C1_L2_Q1",
+                "id": "math2",
                 "type": "multiple_choice",
+                "questionText": "Cum se numește un poligon cu 5 laturi?",
                 "options": [
-                  "Răspuns A",
-                  "Răspuns B",
-                  "Răspuns C",
-                  "Răspuns D"
+                  "Pătrat",
+                  "Pentagon",
+                  "Hexagon",
+                  "Triunghi"
                 ],
-                "explanation": "Explicație detaliată a răspunsului correct",
-                "questionText": "Intrebare de testare pentru Operații cu radicali",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -24573,17 +24410,17 @@
             "summary": "**Lecția 3**: Eliminarea radicalilor din numitor",
             "questions": [
               {
-                "id": "C1_L3_Q1",
+                "id": "math3",
                 "type": "multiple_choice",
+                "questionText": "Care este perimetrul unui dreptunghi cu lungimea 8 cm și lățimea 5 cm?",
                 "options": [
-                  "Răspuns A",
-                  "Răspuns B",
-                  "Răspuns C",
-                  "Răspuns D"
+                  "13 cm",
+                  "26 cm",
+                  "40 cm",
+                  "20 cm"
                 ],
-                "explanation": "Explicație detaliată a răspunsului correct",
-                "questionText": "Intrebare de testare pentru Racionalizarea numitorului",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -24630,17 +24467,17 @@
             "summary": "**Lecția 4**: Mulțimea numerelor reale, reprezentare",
             "questions": [
               {
-                "id": "C1_L4_Q1",
+                "id": "math4",
                 "type": "multiple_choice",
+                "questionText": "Rezolvă ecuația: x + 7 = 15",
                 "options": [
-                  "Răspuns A",
-                  "Răspuns B",
-                  "Răspuns C",
-                  "Răspuns D"
+                  "x = 8",
+                  "x = 22",
+                  "x = -8",
+                  "x = 7"
                 ],
-                "explanation": "Explicație detaliată a răspunsului correct",
-                "questionText": "Intrebare de testare pentru Numere iraționale și numere reale",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 0,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -27419,17 +27256,17 @@
             "summary": "**Lecția 1**: Frumusețea naturii - O, rămi... (Mihai Eminescu)",
             "questions": [
               {
-                "id": "C1_L1_Q1",
+                "id": "limba1",
                 "type": "multiple_choice",
+                "questionText": "Ce sunt propozițiile subordonaterelative?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "Propozițiile care exprimă o condiție",
+                  "Propozițiile care determină un cuvânt din propoziția principală",
+                  "Propozițiile care exprimă timp",
+                  "Propozițiile care sunt în ordinea inversă"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul liric și versificația?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -27486,17 +27323,17 @@
             "summary": "**Lecția 2**: Vers, ritm, cadență, metrică",
             "questions": [
               {
-                "id": "C1_L2_Q1",
+                "id": "limba2",
                 "type": "multiple_choice",
+                "questionText": "Care este tema operei \"O mie și una de nopți\"?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "Dragostea și loialitatea",
+                  "Aventura și descoperirile",
+                  "Puterea poveștilor și salvarea prin știință",
+                  "Răzbunarea și dreptatea"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a elementele versificației?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 2,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -27553,17 +27390,17 @@
             "summary": "**Lecția 3**: Metafore, comparații, personificări",
             "questions": [
               {
-                "id": "C1_L3_Q1",
+                "id": "limba3",
                 "type": "multiple_choice",
+                "questionText": "Ce înseamnă termenul \"simbol\" în literatură?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "Un semn de punctuație",
+                  "O reprezentare concretă a unui concept abstract",
+                  "Un tip de vers",
+                  "O regulă gramaticală"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a figurile de stil în lirica naturii?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -27620,17 +27457,17 @@
             "summary": "**Lecția 4**: Izvorul nopții (Lucian Blaga)",
             "questions": [
               {
-                "id": "C1_L4_Q1",
+                "id": "limba4",
                 "type": "multiple_choice",
+                "questionText": "Cine a tradus \"Odiseea\" în limba română?",
                 "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
+                  "Ion Creangă",
+                  "George Coșbuc",
+                  "Lucian Blaga",
+                  "Mihai Eminescu"
                 ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a frumusețea umană în vers?",
-                "correctAnswerIndex": 1
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -30136,17 +29973,17 @@
             "summary": "**Lecția 1**: Reprezentare intervale pe axa numerelor",
             "questions": [
               {
-                "id": "C1_L1_Q1",
+                "id": "math1",
                 "type": "multiple_choice",
+                "questionText": "Care este soluția sistemului: x + y = 5, x - y = 1?",
                 "options": [
-                  "Răspuns A",
-                  "Răspuns B",
-                  "Răspuns C",
-                  "Răspuns D"
+                  "x = 3, y = 2",
+                  "x = 2, y = 3",
+                  "x = 1, y = 4",
+                  "x = 4, y = 1"
                 ],
-                "explanation": "Explicație detaliată a răspunsului correct",
-                "questionText": "Intrebare de testare pentru Mulțimi definite de inecuații în ℝ",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 0,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -30203,17 +30040,17 @@
             "summary": "**Lecția 2**: Tipuri de intervale și notații",
             "questions": [
               {
-                "id": "C1_L2_Q1",
+                "id": "math2",
                 "type": "multiple_choice",
+                "questionText": "Ce este o funcție?",
                 "options": [
-                  "Răspuns A",
-                  "Răspuns B",
-                  "Răspuns C",
-                  "Răspuns D"
+                  "O operație matematică",
+                  "O relație între două mulțimi unde fiecare element are o imagine unică",
+                  "Un număr",
+                  "O ecuație"
                 ],
-                "explanation": "Explicație detaliată a răspunsului correct",
-                "questionText": "Intrebare de testare pentru Interval închis, interval deschis",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -30270,17 +30107,17 @@
             "summary": "**Lecția 3**: Reuniune, intersecție, diferență",
             "questions": [
               {
-                "id": "C1_L3_Q1",
+                "id": "math3",
                 "type": "multiple_choice",
+                "questionText": "Care este rădăcina pătrată a lui 144?",
                 "options": [
-                  "Răspuns A",
-                  "Răspuns B",
-                  "Răspuns C",
-                  "Răspuns D"
+                  "10",
+                  "11",
+                  "12",
+                  "13"
                 ],
-                "explanation": "Explicație detaliată a răspunsului correct",
-                "questionText": "Intrebare de testare pentru Operații cu intervale",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 2,
+                "explanation": ""
               }
             ],
             "sections": [
@@ -30337,17 +30174,17 @@
             "summary": "**Lecția 4**: Rezolvare inecuații liniare simple",
             "questions": [
               {
-                "id": "C1_L4_Q1",
+                "id": "math4",
                 "type": "multiple_choice",
+                "questionText": "Cum se numește o dreaptă care intersectează un cerc în exact două puncte?",
                 "options": [
-                  "Răspuns A",
-                  "Răspuns B",
-                  "Răspuns C",
-                  "Răspuns D"
+                  "Tangentă",
+                  "Secantă",
+                  "Rază",
+                  "Diametru"
                 ],
-                "explanation": "Explicație detaliată a răspunsului correct",
-                "questionText": "Intrebare de testare pentru Inecuații de forma ax + b > c",
-                "correctAnswerIndex": 0
+                "correctAnswerIndex": 1,
+                "explanation": ""
               }
             ],
             "sections": [
