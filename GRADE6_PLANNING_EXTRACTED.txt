@@ -1,0 +1,141 @@
+PLANIFICARE DIDACTICĂ
+
+Disciplina: Matematică clasa a VI a
+Structurare: pe unități de învățare și lecții
+
+UNITATEA DE ÎNVĂȚARE 1 – Mulțimi. Mulțimea numerelor naturale
+
+Mulțimi: descriere, notații, reprezentări. Mulțimi numerice și nenumerice. Relația dintre un element și o mulțime
+
+Relații între mulțimi
+
+Mulțimi finite. Cardinalul unei mulțimi finite. Mulțimi infinite. Mulțimea numerelor naturale
+
+Operații cu mulțimi: reuniune, intersecție, diferență
+
+Descompunerea numerelor naturale în produs de puteri de numere prime
+
+Determinarea celui mai mare divizor comun și a celui mai mic multiplu comun. Numere prime între ele
+
+Proprietăți ale divizibilității în ℕ
+
+Exerciții recapitulative
+
+Evaluare
+
+UNITATEA DE ÎNVĂȚARE 2 – Rapoarte și proporții
+
+Rapoarte
+
+Proporții. Proprietatea fundamentală a proporțiilor. Determinarea unui termen necunoscut dintr-o proporție
+
+Proporții derivate
+
+Șir de rapoarte egale
+
+Mărimi direct proporționale
+
+Mărimi invers proporționale
+
+Regula de trei simplă
+
+Elemente de organizare a datelor. Reprezentarea datelor prin grafice în contextul proporționalității. Reprezentarea datelor cu ajutorul unor softuri matematice
+
+Probabilități
+
+Exerciții recapitulative
+
+Evaluare
+
+UNITATEA DE ÎNVĂȚARE 3 – Mulțimea numerelor întregi
+
+Mulțimea numerelor întregi. Opusul unui număr întreg. Reprezentarea pe axa numerelor. Modulul unui număr întreg. Compararea și ordonarea numerelor întregi
+
+Adunarea numerelor întregi. Proprietăți
+
+Scăderea numerelor întregi
+
+Înmulțirea numerelor întregi. Proprietăți
+
+Împărțirea numerelor întregi
+
+Puterea cu exponent număr natural a unui număr întreg nenul. Reguli de calcul cu puteri
+
+Ordinea efectuării operațiilor și folosirea parantezelor
+
+Ecuații în mulțimea numerelor întregi
+
+Inecuații în mulțimea numerelor întregi
+
+Probleme rezolvabile cu ajutorul ecuațiilor și inecuațiilor în contextul numerelor întregi
+
+Exerciții recapitulative
+
+Evaluare
+
+UNITATEA DE ÎNVĂȚARE 4 – Mulțimea numerelor raționale
+
+Număr rațional. Mulțimea numerelor raționale. Reprezentarea pe axa numerelor. Opusul și modulul unui număr rațional. Compararea și ordonarea numerelor raționale
+
+Adunarea numerelor raționale. Proprietăți. Scăderea numerelor raționale
+
+Înmulțirea numerelor raționale. Proprietăți
+
+Împărțirea numerelor raționale
+
+Puterea cu exponent număr întreg a unui număr rațional nenul. Reguli de calcul cu puteri
+
+Ordinea efectuării operațiilor și folosirea parantezelor
+
+Ecuații cu numere raționale
+
+Probleme rezolvabile folosind ecuații
+
+Exerciții recapitulative
+
+Evaluare
+
+UNITATEA DE ÎNVĂȚARE 5 – Noțiuni geometrice fundamentale
+
+Unghiuri opuse la vârf. Unghiuri formate în jurul unui punct. Unghiuri complementare și suplimentare
+
+Unghiuri adiacente. Bisectoarea unui unghi. Construcția bisectoarei unui unghi
+
+Drepte paralele. Axioma paralelelor. Criterii de paralelism. Aplicații practice
+
+Drepte perpendiculare și oblice. Distanța de la un punct la o dreaptă. Mediatoarea unui segment. Simetria față de o dreaptă
+
+Cerc: definiție, construcție, elemente. Unghi la centru. Măsuri
+
+Pozițiile unei drepte față de un cerc. Pozițiile relative a două cercuri
+
+Exerciții recapitulative
+
+Evaluare
+
+UNITATEA DE ÎNVĂȚARE 6 – Triunghiul
+
+Triunghiul: definiție, elemente, clasificare, perimetru. Suma măsurilor unghiurilor unui triunghi. Unghi exterior
+
+Construcția triunghiurilor. Inegalități între elementele triunghiului
+
+Linii importante în triunghi
+
+Congruența triunghiurilor oarecare
+
+Criterii de congruență a triunghiurilor
+
+Criterii de congruență a triunghiurilor dreptunghice
+
+Metoda triunghiurilor congruente
+
+Proprietăți ale triunghiului isoscel
+
+Proprietăți ale triunghiului echilateral
+
+Proprietăți ale triunghiului dreptunghic
+
+Exerciții recapitulative
+
+Evaluare
+

@@ -1,564 +1,257 @@
-# 🧪 Local Testing Guide - Account Creation System
+# 🧪 LOCAL TESTING GUIDE - MATEMATICA EXTRACTION
 
-**Date:** January 22, 2026
-**Purpose:** Test registration and login locally before deploying to devices
+## Quick Start - Test Everything Locally
 
----
-
-## 🚀 Prerequisites
-
-Make sure you have installed:
-- ✅ Node.js (v18+)
-- ✅ npm (v9+)
-- ✅ MongoDB (local or Atlas connection)
-- ✅ Git
-- ✅ A code editor (VS Code recommended)
-
----
-
-## 📋 Step 1: Start MongoDB
-
-### Option A: Local MongoDB
+### Prerequisites Check
 ```bash
-# Start MongoDB service (macOS with Homebrew)
+# Verify MongoDB is ready
+brew services list | grep mongodb
+
+# Verify you have 3 terminal windows ready
+```
+
+---
+
+## Step-by-Step Local Testing
+
+### Terminal 1: Start MongoDB
+```bash
 brew services start mongodb-community
-
-# Or manually start it
-mongod
-
-# Verify it's running
-mongo --eval "db.adminCommand('ping')"
+# Wait for it to start (2-3 seconds)
 ```
 
-### Option B: MongoDB Atlas (Cloud)
-Already configured in `.env` file - no action needed
-
----
-
-## 📋 Step 2: Set Up Environment Variables
-
-### Backend (.env)
+### Terminal 2: Start Backend
 ```bash
 cd /Users/mdica/PycharmProjects/EduPex/backend
-
-# Check if .env exists
-cat .env
+npm start
 ```
 
-Should contain:
+**Wait for:**
 ```
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/edupex
-# OR for Atlas:
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/edupex
-
-JWT_SECRET=your_secret_key_here
-NODE_ENV=development
+✅ Server running on port 5000
+✅ Connected to MongoDB successfully
 ```
 
-If `.env` doesn't exist or is incomplete, create it:
-```bash
-cat > .env << 'EOF'
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/edupex
-JWT_SECRET=dev_secret_key_12345
-NODE_ENV=development
-EOF
-```
-
-### Frontend (.env.development)
+### Terminal 3: Start Frontend
 ```bash
 cd /Users/mdica/PycharmProjects/EduPex/frontend
-
-# Should have:
-REACT_APP_API_URL=http://localhost:5000/api
-NODE_ENV=development
-```
-
-If it doesn't exist:
-```bash
-cat > .env.development << 'EOF'
-REACT_APP_API_URL=http://localhost:5000/api
-NODE_ENV=development
-EOF
-```
-
----
-
-## 📋 Step 3: Install Dependencies
-
-### Backend
-```bash
-cd /Users/mdica/PycharmProjects/EduPex/backend
-
-# Install dependencies
-npm install
-
-# Verify server.js exists
-ls -la server.js
-```
-
-### Frontend
-```bash
-cd /Users/mdica/PycharmProjects/EduPex/frontend
-
-# Install dependencies
-npm install
-
-# Verify all packages installed
-npm list | grep -E "react|redux"
-```
-
----
-
-## 📋 Step 4: Start Backend Server
-
-### Terminal 1 - Backend
-```bash
-cd /Users/mdica/PycharmProjects/EduPex/backend
-
-# Start the server
-npm start
-# OR
-node server.js
-
-# Expected output:
-# 🚀 Server running on port 5000
-# ✅ MongoDB connected
-# [Timestamp] GET /api/health
-```
-
-**Verify backend is running:**
-```bash
-curl http://localhost:5000/api/health
-# Should return: { "status": "healthy", ... }
-```
-
----
-
-## 📋 Step 5: Start Frontend (React Development Server)
-
-### Terminal 2 - Frontend
-```bash
-cd /Users/mdica/PycharmProjects/EduPex/frontend
-
-# Start React dev server
-npm start
-
-# Expected output:
-# webpack compiled with ... warnings
-# Compiled successfully!
-# 
-# You can now view edupex in the browser.
-#   Local:            http://localhost:3000
-```
-
-Browser should open automatically to `http://localhost:3000`
-
----
-
-## 🧪 Step 6: Test Registration Locally
-
-### Test 1: Create New Account
-
-1. **Open browser:** http://localhost:3000
-2. **Click "Inregistreaza-te"** button
-3. **Fill in form:**
-   ```
-   Username: testuser123
-   Email: testuser123@test.com
-   Password: TestPass123
-   Confirm Password: TestPass123
-   First Name: Test
-   Last Name: User
-   Grade Level: 5
-   ```
-4. **Click "Inregistreaza-te" button**
-
-**Expected Result:**
-- ✅ No errors
-- ✅ Form submits
-- ✅ Redirects to dashboard
-- ✅ Can see lessons
-
-**Check Backend Logs:**
-```
-POST /api/users/register
-User registered successfully
-```
-
-**Check MongoDB:**
-```bash
-# In another terminal
-mongo edupex
-> db.users.findOne({ email: "testuser123@test.com" })
-# Should show user document with hashed password
-```
-
----
-
-### Test 2: Try Duplicate Email
-
-1. **Try to register same email again:**
-   ```
-   Username: anotheruser
-   Email: testuser123@test.com  # Same email!
-   Password: TestPass123
-   ...
-   ```
-
-2. **Click register**
-
-**Expected Result:**
-- ✅ Error message: "Acest email este deja folosit..."
-- ✅ Form doesn't submit
-- ✅ User not created
-
-**Check Backend Logs:**
-```
-EMAIL_ALREADY_EXISTS error returned
-```
-
----
-
-### Test 3: Try Duplicate Username
-
-1. **Try to register same username:**
-   ```
-   Username: testuser123  # Same username!
-   Email: anotheruser@test.com
-   Password: TestPass123
-   ...
-   ```
-
-2. **Click register**
-
-**Expected Result:**
-- ✅ Error message: "Acest nume de utilizator este deja folosit..."
-- ✅ Form doesn't submit
-- ✅ User not created
-
----
-
-### Test 4: Password Mismatch
-
-1. **Fill form with mismatched passwords:**
-   ```
-   Password: TestPass123
-   Confirm Password: DifferentPass456
-   ...
-   ```
-
-2. **Try to click register**
-
-**Expected Result:**
-- ✅ Client-side error before submission
-- ✅ Error message: "Parolele nu coincid."
-- ✅ Form won't submit
-
----
-
-### Test 5: Login After Registration
-
-1. **Logout** (if there's a logout button or refresh page)
-2. **Go to Login page**
-3. **Enter credentials:**
-   ```
-   Email: testuser123@test.com
-   Password: TestPass123
-   ```
-4. **Click Login**
-
-**Expected Result:**
-- ✅ Login successful
-- ✅ Redirects to dashboard
-- ✅ Same user data appears
-- ✅ Can access lessons
-
----
-
-## 🔍 API Testing with Curl
-
-### Test Register Endpoint
-```bash
-curl -X POST http://localhost:5000/api/users/register \
-  -H "Content-Type: application/json" \
-  -d '{
-    "username": "curl_test_user",
-    "email": "curl_test@test.com",
-    "password": "TestPass123",
-    "firstName": "Curl",
-    "lastName": "Test",
-    "gradeLevel": 5
-  }'
-
-# Expected response:
-# {
-#   "message": "User registered successfully",
-#   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
-#   "user": { "id": "...", "username": "curl_test_user", ... }
-# }
-```
-
-### Test Login Endpoint
-```bash
-curl -X POST http://localhost:5000/api/users/login \
-  -H "Content-Type: application/json" \
-  -d '{
-    "email": "curl_test@test.com",
-    "password": "TestPass123"
-  }'
-
-# Expected response:
-# {
-#   "message": "Login successful",
-#   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
-#   "user": { "id": "...", "username": "curl_test_user", ... }
-# }
-```
-
-### Test with Invalid Email
-```bash
-curl -X POST http://localhost:5000/api/users/login \
-  -H "Content-Type: application/json" \
-  -d '{
-    "email": "nonexistent@test.com",
-    "password": "TestPass123"
-  }'
-
-# Expected response:
-# { "message": "Credențiale invalide" }
-```
-
----
-
-## 🗄️ MongoDB Verification
-
-### Check Created Users
-```bash
-# Connect to MongoDB
-mongo edupex
-
-# List all users
-db.users.find().pretty()
-
-# Find specific user
-db.users.findOne({ email: "testuser123@test.com" })
-
-# Count users
-db.users.countDocuments()
-
-# Check if password is hashed
-db.users.findOne({}, { password: 1 })
-# Should show: "password" : "$2a$10$...[bcrypt hash]..."
-
-# Exit MongoDB
-exit
-```
-
----
-
-## 🐛 Troubleshooting Local Testing
-
-### Backend won't start
-```bash
-# Check if port 5000 is already in use
-lsof -i :5000
-
-# Kill process using port 5000
-kill -9 <PID>
-
-# Try starting again
 npm start
 ```
 
-### Can't connect to MongoDB
-```bash
-# Check if MongoDB is running
-ps aux | grep mongod
-
-# Start MongoDB
-brew services start mongodb-community
-
-# Or for Atlas, verify connection string in .env
-cat .env | grep MONGODB_URI
+**Wait for:**
+```
+webpack compiled successfully
 ```
 
-### Frontend won't compile
-```bash
-# Clear cache and node_modules
-rm -rf node_modules package-lock.json
-npm install
+Then browser auto-opens to: `http://localhost:3000`
 
-# Try again
-npm start
+---
+
+## Testing the Matematica Extraction
+
+### Step 1: Login
+1. Browser should show login page at `http://localhost:3000`
+2. Enter:
+   - Email: `test@edupex.com`
+   - Password: `test123`
+3. Click "Autentificare"
+
+### Step 2: Navigate to Matematica
+1. After login, you should see "Acasă" or main page
+2. Look for navigation to "Clasa a V a"
+3. Select "Matematica"
+4. You should see the 13 lessons
+
+### Step 3: Open a Lesson
+1. Click any lesson (e.g., "Punct, dreaptă, plan")
+2. Check:
+   - ✅ Title appears
+   - ✅ Summary text is visible (from PDF extraction)
+   - ✅ Images are loading (619 extracted images)
+   - ✅ Content is readable
+
+### Step 4: Verify Images
+1. In browser, open DevTools (F12)
+2. Go to Network tab
+3. Look for requests to:
+   - `http://localhost:5000/api/curriculum` (serving content)
+   - `/extracted_images/lesson_image_*.png` (loading images)
+4. Images should show 200 OK status
+
+### Step 5: Check Console
+1. Open DevTools Console (F12 → Console)
+2. Should see NO red errors
+3. Only warnings are OK
+
+---
+
+## What to Verify
+
+### Content Verification
+
+- [ ] Lesson summaries are NOT empty
+- [ ] Summaries are 1,400+ characters
+- [ ] Text includes definitions and examples
+- [ ] Content looks like it came from the manual
+
+### Image Verification
+
+- [ ] Images appear in lessons
+- [ ] Images are not broken/404
+- [ ] Multiple images per lesson visible
+- [ ] Images are clear and readable
+
+### Lesson Verification
+
+- [ ] All 13 lessons are accessible
+- [ ] Each lesson has unique title
+- [ ] Each lesson has content
+- [ ] Each lesson has images
+
+### API Verification
+
+- [ ] Backend serves curriculum at: `/api/curriculum`
+- [ ] Images served from: `/public/extracted_images/`
+- [ ] No 404 errors
+- [ ] All requests return 200 OK
+
+---
+
+## If Something Doesn't Work
+
+### No Images Showing?
+1. Check if `frontend/public/extracted_images/` has files:
+   ```bash
+   ls -la /Users/mdica/PycharmProjects/EduPex/frontend/public/extracted_images/ | wc -l
+   # Should show ~620 (including . and ..)
+   ```
+
+2. Check backend can serve them:
+   ```bash
+   curl http://localhost:5000/public/extracted_images/lesson_image_0_0.png > /tmp/test.png
+   ls -lh /tmp/test.png
+   # Should be > 0 bytes
+   ```
+
+3. Hard refresh browser: `Cmd+Shift+R`
+
+### Content Empty/Missing?
+1. Check curriculum_structure.json was updated:
+   ```bash
+   cd /Users/mdica/PycharmProjects/EduPex
+   node -e "const d = require('./curriculum_structure.json'); console.log('Lessons:', d['Clasa a V a']['Matematica'].length); console.log('Lesson 1 summary length:', d['Clasa a V a']['Matematica'][0].summary.length)"
+   ```
+
+2. Should show:
+   - `Lessons: 13`
+   - `Summary length: 1400+`
+
+3. If not, curriculum wasn't updated. Re-run mapping script:
+   ```bash
+   python3 /Users/mdica/PycharmProjects/EduPex/map_content_to_lessons.py
+   cp curriculum_structure_updated.json curriculum_structure.json
+   ```
+
+### Backend Won't Start?
+1. Check MongoDB:
+   ```bash
+   lsof -i :27017
+   # Should show mongod process
+   ```
+
+2. Check if port 5000 is free:
+   ```bash
+   lsof -i :5000
+   # If something is using it, kill it:
+   kill -9 <PID>
+   ```
+
+3. Restart backend
+
+### Frontend Won't Compile?
+1. Clear cache:
+   ```bash
+   rm -rf /Users/mdica/PycharmProjects/EduPex/frontend/node_modules/.cache
+   ```
+
+2. Restart npm:
+   ```bash
+   cd frontend && npm start
+   ```
+
+---
+
+## Expected Output When Everything Works
+
+**Terminal 1 (MongoDB):**
+```
+(no output, just running)
 ```
 
-### CORS errors
+**Terminal 2 (Backend):**
 ```
-Access to XMLHttpRequest has been blocked by CORS policy
+Server running on port 5000
+Connected to MongoDB successfully
+[API requests logging]
 ```
 
-**Solution:** Backend already has CORS configured in `server.js`
-- Make sure backend is running on http://localhost:5000
-- Make sure frontend is running on http://localhost:3000
-- Check that .env.development has correct API_URL
+**Terminal 3 (Frontend):**
+```
+webpack compiled successfully
+Compiled successfully!
+[Module requests logging]
+```
 
-### API responds 500 error
-```bash
-# Check backend logs for detailed error
-# Look at terminal where npm start is running
-
-# Common issues:
-# - MongoDB not connected
-# - .env variables not set
-# - Missing dependencies
+**Browser:**
+```
+Login Page → Login → Clasa V a → Matematica → 13 Lessons Listed
+Click Lesson → Full content displays with images ✅
 ```
 
 ---
 
-## ✅ Complete Local Testing Checklist
+## Once Everything Works Locally
 
-- [ ] MongoDB running locally or Atlas configured
-- [ ] Backend .env file created with correct settings
-- [ ] Frontend .env.development file created
-- [ ] Backend dependencies installed (`npm install`)
-- [ ] Frontend dependencies installed (`npm install`)
-- [ ] Backend server started (`npm start` - should see "🚀 Server running")
-- [ ] Frontend dev server started (`npm start` - should open browser)
-- [ ] Can access http://localhost:3000 in browser
-- [ ] Can see login/register page
-- [ ] Register endpoint responds with `curl` test
-- [ ] Create new account successfully
-- [ ] Error on duplicate email
-- [ ] Error on duplicate username
-- [ ] Error on password mismatch
-- [ ] Login works after registration
-- [ ] JWT token received
-- [ ] User data visible in MongoDB
-- [ ] Can access lessons after login
-- [ ] Logout and login again works
-- [ ] Progress data persists
-
+Then we can:
+1. ✅ Verify extraction is correct
+2. ✅ Test all 13 lessons load properly
+3. ✅ Confirm images display correctly
+4. ✅ Check content quality
+5. ✅ Then safely push to GitHub
 
 ---
 
-## 📊 Expected File Structure for Local Testing
+## Troubleshooting Checklist
 
-```
-EduPex/
-├── backend/
-│   ├── .env                 ← Create this
-│   ├── server.js
-│   ├── models/
-│   │   └── User.js
-│   ├── routes/
-│   │   └── userRoutes.js
-│   └── package.json
-│
-├── frontend/
-│   ├── .env.development     ← Create this
-│   ├── public/
-│   ├── src/
-│   │   ├── pages/
-│   │   │   └── Register.js
-│   │   ├── redux/
-│   │   │   └── actions/
-│   │   │       └── userActions.js
-│   │   └── utils/
-│   │       └── api.js
-│   └── package.json
-```
+- [ ] MongoDB running on port 27017
+- [ ] Backend running on port 5000
+- [ ] Frontend running on port 3000
+- [ ] Can access http://localhost:3000
+- [ ] Can login with test@edupex.com / test123
+- [ ] Can navigate to Matematica
+- [ ] Can see 13 lessons listed
+- [ ] Can open a lesson
+- [ ] Lesson has summary text (long text, not empty)
+- [ ] Lesson shows images
+- [ ] Images load without 404 errors
+- [ ] No red errors in browser console
+
+If all checked: **Extraction is working perfectly!** ✅
 
 ---
 
-## 🎯 Advanced: Debug Mode
+## Test Data
 
-### Enable Detailed Logging
+**Test User:**
+- Email: `test@edupex.com`
+- Password: `test123`
 
-**Backend - server.js already has logging**
-
-Check for logs:
-```bash
-# Look for detailed API logs showing:
-# - Request received
-# - Validation steps
-# - Database operations
-# - Response sent
-```
-
-**Frontend - Check Browser Console**
-
-Press `F12` → Console tab:
-- Registration submission logs
-- API request/response
-- Redux action dispatch
-- localStorage updates
+**Test Subject:**
+- Class: Clasa a V a
+- Subject: Matematica
+- Lessons: 13 (all with PDF content + 619 images)
 
 ---
 
-## 📝 Sample Test Scenarios
-
-### Scenario 1: Happy Path
-```
-1. Register: user1@test.com
-2. See success message
-3. Auto-login to dashboard
-4. View lessons
-5. Logout
-6. Login with same email/password
-7. Progress still there
-```
-
-### Scenario 2: Error Handling
-```
-1. Register: test@test.com
-2. Try again with same email
-3. See error
-4. Change email slightly
-5. Register successfully
-6. Try wrong password
-7. See error
-8. Correct password works
-```
-
-### Scenario 3: Data Persistence
-```
-1. Register: john@test.com
-2. Verify in MongoDB
-3. Password is bcrypt hashed
-4. Logout
-5. Login with email/password
-6. Same user data returned
-7. Verify token in localStorage
-```
-
----
-
-## 🚀 Ready to Test!
-
-You now have everything needed to test account creation locally:
-1. Both servers running (backend + frontend)
-2. MongoDB ready
-3. Comprehensive test procedures
-4. Troubleshooting guide
-5. API testing examples
-
-Start with **Test 1** and work through each scenario!
-
----
-
-## 📞 Getting Help
-
-If something doesn't work:
-1. Check the **Troubleshooting** section above
-2. Look at backend/frontend logs
-3. Use curl to test API directly
-4. Check MongoDB for data
-5. Verify .env files are correct
-
----
-
-**Happy Testing!** 🎉
-
+**Start with Terminal 1, then 2, then 3. Then test in browser!**
 
