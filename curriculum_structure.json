@@ -21607,6 +21607,126 @@
           }
         ]
       }
+    ],
+    "Limba și literatură română": [
+      {
+        "number": 1,
+        "name": "Capitolul 1 - Limba și Literatura Română",
+        "lectii": [
+          {
+            "number": 1,
+            "name": "Evaluare - Limba și Literatura Română",
+            "questions": [
+              {
+                "id": "limba1",
+                "type": "multiple_choice",
+                "questionText": "Ce este o mulțime în sensul matematic?",
+                "options": [
+                  "O colecție ordonată de obiecte",
+                  "O colecție neordonată de obiecte distincte",
+                  "Un număr mare",
+                  "Un set de numere"
+                ],
+                "correctAnswerIndex": 1,
+                "explanation": "O mulțime este o colecție neordonată de obiecte distincte"
+              },
+              {
+                "id": "limba2",
+                "type": "multiple_choice",
+                "questionText": "Care propoziție conține o subordonată de timp?",
+                "options": [
+                  "El aleargă foarte repede",
+                  "Când a sosit, s-a odihnit",
+                  "Asta este frumos",
+                  "Cartea este pe masă"
+                ],
+                "correctAnswerIndex": 1,
+                "explanation": "Subordonata de timp este introdusă prin cuvântul 'Când'"
+              },
+              {
+                "id": "limba3",
+                "type": "multiple_choice",
+                "questionText": "Cine a scris 'Mihai Viteazul'?",
+                "options": [
+                  "Ion Creangă",
+                  "Camil Petrescu",
+                  "Liviu Rebreanu",
+                  "George Coșbuc"
+                ],
+                "correctAnswerIndex": 2,
+                "explanation": "'Mihai Viteazul' a fost scris de Liviu Rebreanu"
+              },
+              {
+                "id": "limba4",
+                "type": "multiple_choice",
+                "questionText": "Ce înseamnă cuvântul 'epigramă'?",
+                "options": [
+                  "O poveste lungă",
+                  "O scrisoare scurtă",
+                  "O compoziție scurtă cu caracter satiric",
+                  "Un poem romantic"
+                ],
+                "correctAnswerIndex": 2,
+                "explanation": "Epigramma este o compoziție scurtă cu caracter satiric sau ironic"
+              },
+              {
+                "id": "limba5",
+                "type": "multiple_choice",
+                "questionText": "Care este caracteristica principală a textului narativ literar în proză?",
+                "options": [
+                  "Prezintă fapte și evenimente",
+                  "Exprimă sentimente și emoții",
+                  "Explică concepte și teorii",
+                  "Descrie locuri și obiecte"
+                ],
+                "correctAnswerIndex": 0,
+                "explanation": "Textul narativ prezintă o serie de fapte și evenimente ordonate în timp"
+              },
+              {
+                "id": "limba6",
+                "type": "multiple_choice",
+                "questionText": "Cum se numește persoana care povesteşte o poveste?",
+                "options": [
+                  "Autor",
+                  "Narrator",
+                  "Personaj",
+                  "Cititor"
+                ],
+                "correctAnswerIndex": 1,
+                "explanation": "Naratorul este persoana care povesteşte povestea"
+              },
+              {
+                "id": "limba7",
+                "type": "multiple_choice",
+                "questionText": "Care este diferența dintre descriere și naraţiune?",
+                "options": [
+                  "Descrierea este mai lungă",
+                  "Naraţiunea prezintă acţiuni, descrierea prezintă stări",
+                  "Descrierea este mai scurtă",
+                  "Nu există diferenţă"
+                ],
+                "correctAnswerIndex": 1,
+                "explanation": "Naraţiunea relatează acţiuni care se derulează în timp, descrierea prezintă o stare sau o imagine statică"
+              },
+              {
+                "id": "limba8",
+                "type": "multiple_choice",
+                "questionText": "Ce este o metaforă?",
+                "options": [
+                  "O comparaţie cu cuvântul 'ca'",
+                  "O similitudine folosind 'asemenea'",
+                  "Un cuvânt cu mai multe înţelesuri",
+                  "O comparaţie fără cuvintele de legătură"
+                ],
+                "correctAnswerIndex": 3,
+                "explanation": "Metafora este o comparaţie directă, fără cuvinte de legătură cum ar fi 'ca' sau 'asemenea'"
+              }
+            ],
+            "sections": [],
+            "summary": "Evaluare pentru Limba și Literatura Română"
+          }
+        ]
+      }
     ]
   },
   "Clasa a VII a": {
