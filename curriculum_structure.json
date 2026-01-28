@@ -11381,21 +11381,7 @@
             "number": "1",
             "name": "Textul narativ - Povești tradiționale",
             "summary": "**Lecția 1**: Definiție și caracteristici narative",
-            "questions": [
-              {
-                "id": "C1_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul narativ - povești tradiționale?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -11448,21 +11434,7 @@
             "number": "2",
             "name": "Elementele poveștii",
             "summary": "**Lecția 2**: Personaje, acțiune, timp, spațiu",
-            "questions": [
-              {
-                "id": "C1_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a elementele poveștii?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -11515,21 +11487,7 @@
             "number": "3",
             "name": "Descrierea în naratiune",
             "summary": "**Lecția 3**: Portrete și peisaje",
-            "questions": [
-              {
-                "id": "C1_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a descrierea în naratiune?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -11582,21 +11540,7 @@
             "number": "4",
             "name": "Dialogul în poveste",
             "summary": "**Lecția 4**: Con****vers****ație între personaje",
-            "questions": [
-              {
-                "id": "C1_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a dialogul în poveste?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -11649,21 +11593,7 @@
             "number": "5",
             "name": "Povestea scurtă - Aventuri pentru copii",
             "summary": "**Lecția 5**: **Text**e clasice",
-            "questions": [
-              {
-                "id": "C1_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a povestea scurtă - aventuri pentru copii?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -11716,21 +11646,7 @@
             "number": "6",
             "name": "Analyse și interpretare de povești",
             "summary": "**Lecția 6**: Înțelegerea mesajului",
-            "questions": [
-              {
-                "id": "C1_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a analyse și interpretare de povești?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -11783,21 +11699,7 @@
             "number": "7",
             "name": "Scrierea unei povești proprii",
             "summary": "**Lecția 7**: Creație **literar**ă",
-            "questions": [
-              {
-                "id": "C1_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a scrierea unei povești proprii?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -11850,21 +11752,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - Povești",
-            "questions": [
-              {
-                "id": "C1_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -11924,21 +11812,7 @@
             "number": "1",
             "name": "Textul descriptiv - Natura și peisaje",
             "summary": "**Lecția 1**: **Descriere** obiectivă și subiectivă",
-            "questions": [
-              {
-                "id": "C2_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul descriptiv - natura și peisaje?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -11991,21 +11865,7 @@
             "number": "2",
             "name": "Descrierea elementelor naturii",
             "summary": "**Lecția 2**: Arbori, flori, animale, apă",
-            "questions": [
-              {
-                "id": "C2_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a descrierea elementelor naturii?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12058,21 +11918,7 @@
             "number": "3",
             "name": "Descrierea spațiilor abitato",
             "summary": "**Lecția 3**: Case, locuri cunoscute",
-            "questions": [
-              {
-                "id": "C2_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a descrierea spațiilor abitato?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12125,21 +11971,7 @@
             "number": "4",
             "name": "Figuri de stil în descriere",
             "summary": "**Lecția 4**: Comparații, metafore, epitetă",
-            "questions": [
-              {
-                "id": "C2_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a figuri de stil în descriere?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12192,21 +12024,7 @@
             "number": "5",
             "name": "Textul observativ și senzorial",
             "summary": "**Lecția 5**: Culoare, miros, sunet, gust, pipăit",
-            "questions": [
-              {
-                "id": "C2_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul observativ și senzorial?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12259,21 +12077,7 @@
             "number": "6",
             "name": "Descrierea unui obiec",
             "summary": "**Lecția 6**: Portret obiect",
-            "questions": [
-              {
-                "id": "C2_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a descrierea unui obiec?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12326,21 +12130,7 @@
             "number": "7",
             "name": "Compunere descriptivă proprie",
             "summary": "**Lecția 7**: Scriere personală",
-            "questions": [
-              {
-                "id": "C2_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a compunere descriptivă proprie?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12393,21 +12183,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - Descrieri",
-            "questions": [
-              {
-                "id": "C2_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12467,21 +12243,7 @@
             "number": "1",
             "name": "Versul și versificația",
             "summary": "**Lecția 1**: ****Vers****, intonație, ritm",
-            "questions": [
-              {
-                "id": "C3_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a versul și versificația?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12534,21 +12296,7 @@
             "number": "2",
             "name": "Rima și rimele în vers",
             "summary": "**Lecția 2**: Rimă plană, bogată, asoner",
-            "questions": [
-              {
-                "id": "C3_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a rima și rimele în vers?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12601,21 +12349,7 @@
             "number": "3",
             "name": "Strofele - forme poetice",
             "summary": "**Lecția 3**: Distih, tercet, catren",
-            "questions": [
-              {
-                "id": "C3_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a strofele - forme poetice?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12668,21 +12402,7 @@
             "number": "4",
             "name": "Figuri de stil în poeme",
             "summary": "**Lecția 4**: Aliterație, onomatopee, comparație",
-            "questions": [
-              {
-                "id": "C3_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a figuri de stil în poeme?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12735,21 +12455,7 @@
             "number": "5",
             "name": "Poetul și inspirația",
             "summary": "**Lecția 5**: Teme ale poemelor copiilor",
-            "questions": [
-              {
-                "id": "C3_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a poetul și inspirația?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12802,21 +12508,7 @@
             "number": "6",
             "name": "Modele de versuri clasici",
             "summary": "**Lecția 6**: Autori români consacrați",
-            "questions": [
-              {
-                "id": "C3_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a modele de versuri clasici?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12869,21 +12561,7 @@
             "number": "7",
             "name": "Creația poetică personală",
             "summary": "**Lecția 7**: Scrierea unei strofe",
-            "questions": [
-              {
-                "id": "C3_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a creația poetică personală?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -12936,21 +12614,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - ****Vers****uri",
-            "questions": [
-              {
-                "id": "C3_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13010,21 +12674,7 @@
             "number": "1",
             "name": "Textul dramatic - Piese scurte",
             "summary": "**Lecția 1**: **Dialog** și acțiune scenică",
-            "questions": [
-              {
-                "id": "C4_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul dramatic - piese scurte?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13077,21 +12727,7 @@
             "number": "2",
             "name": "Personajele în teatru",
             "summary": "**Lecția 2**: Tipuri și caracterizare",
-            "questions": [
-              {
-                "id": "C4_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a personajele în teatru?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13144,21 +12780,7 @@
             "number": "3",
             "name": "Replici și monolog",
             "summary": "**Lecția 3**: Cuvântul în scenă",
-            "questions": [
-              {
-                "id": "C4_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a replici și monolog?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13211,21 +12833,7 @@
             "number": "4",
             "name": "Sceneta și jocul dramatic",
             "summary": "**Lecția 4**: Improvizație și performanță",
-            "questions": [
-              {
-                "id": "C4_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a sceneta și jocul dramatic?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13278,21 +12886,7 @@
             "number": "5",
             "name": "Didascaliile și instrucțiunile scenice",
             "summary": "**Lecția 5**: Indicații pentru actori",
-            "questions": [
-              {
-                "id": "C4_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a didascaliile și instrucțiunile scenice?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13345,21 +12939,7 @@
             "number": "6",
             "name": "Parodie și comedie ușoară",
             "summary": "**Lecția 6**: Umor pe scenă",
-            "questions": [
-              {
-                "id": "C4_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a parodie și comedie ușoară?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13412,21 +12992,7 @@
             "number": "7",
             "name": "Joc de rol și dramatizare",
             "summary": "**Lecția 7**: Practicare și intonație",
-            "questions": [
-              {
-                "id": "C4_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a joc de rol și dramatizare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13479,21 +13045,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - **Teatru**",
-            "questions": [
-              {
-                "id": "C4_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13553,21 +13105,7 @@
             "number": "1",
             "name": "Textul expozitiv - Articole și referate",
             "summary": "**Lecția 1**: Prezentare de informații",
-            "questions": [
-              {
-                "id": "C5_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul expozitiv - articole și referate?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13620,21 +13158,7 @@
             "number": "2",
             "name": "Descrierea unei proceduri",
             "summary": "**Lecția 2**: Instrucțiuni și moduri de lucru",
-            "questions": [
-              {
-                "id": "C5_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a descrierea unei proceduri?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13687,21 +13211,7 @@
             "number": "3",
             "name": "Texte de referință - Dicționare, enciclopedii",
             "summary": "**Lecția 3**: Căutare și utilizare informații",
-            "questions": [
-              {
-                "id": "C5_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a texte de referință - dicționare, enciclopedii?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13754,21 +13264,7 @@
             "number": "4",
             "name": "Publicitate și persuasiune",
             "summary": "**Lecția 4**: Mesaje și scopuri persuasive",
-            "questions": [
-              {
-                "id": "C5_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a publicitate și persuasiune?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13821,21 +13317,7 @@
             "number": "5",
             "name": "Scrisori și invitații",
             "summary": "**Lecția 5**: Formă și conținut",
-            "questions": [
-              {
-                "id": "C5_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a scrisori și invitații?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13888,21 +13370,7 @@
             "number": "6",
             "name": "Notițe și planuri",
             "summary": "**Lecția 6**: Organizare de idei",
-            "questions": [
-              {
-                "id": "C5_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a notițe și planuri?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -13955,21 +13423,7 @@
             "number": "7",
             "name": "Jurnal și memento personal",
             "summary": "**Lecția 7**: Scriere reflectivă",
-            "questions": [
-              {
-                "id": "C5_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a jurnal și memento personal?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -14022,21 +13476,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - **Text**e practice",
-            "questions": [
-              {
-                "id": "C5_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -14096,21 +13536,7 @@
             "number": "1",
             "name": "Citire și înțelegere de texte",
             "summary": "**Lecția 1**: Lecturi di****vers****e",
-            "questions": [
-              {
-                "id": "C6_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a citire și înțelegere de texte?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -14163,21 +13589,7 @@
             "number": "2",
             "name": "Autori de literatură pentru copii",
             "summary": "**Lecția 2**: Opere consacrate",
-            "questions": [
-              {
-                "id": "C6_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a autori de literatură pentru copii?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -14230,21 +13642,7 @@
             "number": "3",
             "name": "Genuri literare diverse",
             "summary": "**Lecția 3**: Poveștile, ****vers****uri, **teatru**",
-            "questions": [
-              {
-                "id": "C6_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a genuri literare diverse?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -14297,21 +13695,7 @@
             "number": "4",
             "name": "Ilustrații și cărți ilustrate",
             "summary": "**Lecția 4**: Imagini și **text**",
-            "questions": [
-              {
-                "id": "C6_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a ilustrații și cărți ilustrate?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -14364,21 +13748,7 @@
             "number": "5",
             "name": "Biblioteca și raft de cărți",
             "summary": "**Lecția 5**: Explorare **literar**ă",
-            "questions": [
-              {
-                "id": "C6_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a biblioteca și raft de cărți?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -14431,21 +13801,7 @@
             "number": "6",
             "name": "Proiecte de grup - Clubul de lectură",
             "summary": "**Lecția 6**: Discuții și pareri",
-            "questions": [
-              {
-                "id": "C6_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a proiecte de grup - clubul de lectură?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -14498,21 +13854,7 @@
             "number": "7",
             "name": "Portofoliu cu creații personale",
             "summary": "**Lecția 7**: Colecție de scrieri proprii",
-            "questions": [
-              {
-                "id": "C6_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a portofoliu cu creații personale?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -14565,21 +13907,7 @@
             "number": "8",
             "name": "Evaluare finală și perspective",
             "summary": "**Lecția 8**: Bilanț și continuare",
-            "questions": [
-              {
-                "id": "C6_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a evaluare finală și perspective?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15069,21 +14397,7 @@
             "number": "6",
             "name": "Caracteristicile textului descriptiv",
             "summary": "**Lecția 6**: **Descriere** obiectivă și subiectivă",
-            "questions": [
-              {
-                "id": "C1_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a caracteristicile textului descriptiv?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15136,21 +14450,7 @@
             "number": "7",
             "name": "Limbajul figurativ în descriere",
             "summary": "**Lecția 7**: Comparații, metafore, personificări",
-            "questions": [
-              {
-                "id": "C1_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a limbajul figurativ în descriere?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15203,21 +14503,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Practică și consolidare",
-            "questions": [
-              {
-                "id": "C1_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15277,21 +14563,7 @@
             "number": "1",
             "name": "Textul narativ literar în proză avansat",
             "summary": "**Lecția 1**: Oracolul - Mircea Cărtărescu",
-            "questions": [
-              {
-                "id": "C2_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul narativ literar în proză avansat?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15344,21 +14616,7 @@
             "number": "2",
             "name": "Analiza personajelor și relațiilor",
             "summary": "**Lecția 2**: Dinamica relațiilor interpersonale",
-            "questions": [
-              {
-                "id": "C2_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a analiza personajelor și relațiilor?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15411,21 +14669,7 @@
             "number": "3",
             "name": "Spațiul și timpul în naratiune",
             "summary": "**Lecția 3**: Locuri și momente în poveste",
-            "questions": [
-              {
-                "id": "C2_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a spațiul și timpul în naratiune?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15478,21 +14722,7 @@
             "number": "4",
             "name": "Punctul de vedere narativ",
             "summary": "**Lecția 4**: Narator omniscient și narator protagonist",
-            "questions": [
-              {
-                "id": "C2_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a punctul de vedere narativ?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15545,21 +14775,7 @@
             "number": "5",
             "name": "Prietenia în literatură",
             "summary": "**Lecția 5**: Teme și simboluri",
-            "questions": [
-              {
-                "id": "C2_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a prietenia în literatură?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15612,21 +14828,7 @@
             "number": "6",
             "name": "Proiect de grup - Prietenia în filme",
             "summary": "**Lecția 6**: Analiză de filme și documentare",
-            "questions": [
-              {
-                "id": "C2_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a proiect de grup - prietenia în filme?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15679,21 +14881,7 @@
             "number": "7",
             "name": "Limbajul emoțional și expresiv",
             "summary": "**Lecția 7**: Cuvinte-cheie și sentimente",
-            "questions": [
-              {
-                "id": "C2_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a limbajul emoțional și expresiv?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15746,21 +14934,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Practică și consolidare",
-            "questions": [
-              {
-                "id": "C2_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15820,21 +14994,7 @@
             "number": "1",
             "name": "Textul descriptiv literar în versuri",
             "summary": "**Lecția 1**: Iarna - Vasile Alecsandri",
-            "questions": [
-              {
-                "id": "C3_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul descriptiv literar în versuri?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15887,21 +15047,7 @@
             "number": "2",
             "name": "Elementele poeziei: versul și rima",
             "summary": "**Lecția 2**: Structura **vers**ului, tipuri de rime",
-            "questions": [
-              {
-                "id": "C3_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a elementele poeziei: versul și rima?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -15954,21 +15100,7 @@
             "number": "3",
             "name": "Strofele și formele poetice",
             "summary": "**Lecția 3**: Distih, tercet, catren, strofă",
-            "questions": [
-              {
-                "id": "C3_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a strofele și formele poetice?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16021,21 +15153,7 @@
             "number": "4",
             "name": "Figuri de stil în poezie",
             "summary": "**Lecția 4**: Comparații, metafore, aliterații",
-            "questions": [
-              {
-                "id": "C3_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a figuri de stil în poezie?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16088,21 +15206,7 @@
             "number": "5",
             "name": "Textul nonliterar - Buletin meteorologic",
             "summary": "**Lecția 5**: Caracteristici și funcție",
-            "questions": [
-              {
-                "id": "C3_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul nonliterar - buletin meteorologic?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16155,21 +15259,7 @@
             "number": "6",
             "name": "Diferențe între text literar și nonliterar",
             "summary": "**Lecția 6**: Limbaj și scop",
-            "questions": [
-              {
-                "id": "C3_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a diferențe între text literar și nonliterar?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16222,21 +15312,7 @@
             "number": "7",
             "name": "Proiect individual - Obiceiuri sărbătorilor de iarnă",
             "summary": "**Lecția 7**: Cercetare și documentare",
-            "questions": [
-              {
-                "id": "C3_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a proiect individual - obiceiuri sărbătorilor de iarnă?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16289,21 +15365,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Practică și consolidare",
-            "questions": [
-              {
-                "id": "C3_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16363,21 +15425,7 @@
             "number": "1",
             "name": "Textul narativ literar în versuri",
             "summary": "**Lecția 1**: Uleiul și găinile - Grigore Alexandrescu",
-            "questions": [
-              {
-                "id": "C4_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul narativ literar în versuri?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16430,21 +15478,7 @@
             "number": "2",
             "name": "Povestea în rimi",
             "summary": "**Lecția 2**: Structura narativă a poemei",
-            "questions": [
-              {
-                "id": "C4_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a povestea în rimi?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16497,21 +15531,7 @@
             "number": "3",
             "name": "Ionia și rimele în versuri",
             "summary": "**Lecția 3**: Tipuri de **vers**uri și cadență",
-            "questions": [
-              {
-                "id": "C4_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a ionia și rimele în versuri?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16564,21 +15584,7 @@
             "number": "4",
             "name": "Mesajul și morala în poemă",
             "summary": "**Lecția 4**: Învățălură și interpretare",
-            "questions": [
-              {
-                "id": "C4_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a mesajul și morala în poemă?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16631,21 +15637,7 @@
             "number": "5",
             "name": "Umor și sarcasm în literatură",
             "summary": "**Lecția 5**: Ton și intenție autorului",
-            "questions": [
-              {
-                "id": "C4_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a umor și sarcasm în literatură?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16698,21 +15690,7 @@
             "number": "6",
             "name": "Autori consacrați ai literaturii pentru copii",
             "summary": "**Lecția 6**: Opere și contribuții",
-            "questions": [
-              {
-                "id": "C4_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a autori consacrați ai literaturii pentru copii?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16765,21 +15743,7 @@
             "number": "7",
             "name": "Adaptări și ilustrații ale poemelor",
             "summary": "**Lecția 7**: Performanțe și redări vizuale",
-            "questions": [
-              {
-                "id": "C4_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a adaptări și ilustrații ale poemelor?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16832,21 +15796,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Practică și consolidare",
-            "questions": [
-              {
-                "id": "C4_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16906,21 +15856,7 @@
             "number": "1",
             "name": "Textul narativ literar - D-l Goe…",
             "summary": "**Lecția 1**: I.L. Caragiale - Comedie și critică socială",
-            "questions": [
-              {
-                "id": "C5_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul narativ literar - d-l goe…?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -16973,21 +15909,7 @@
             "number": "2",
             "name": "Drama și comedia în literatură",
             "summary": "**Lecția 2**: Diferențe și caracteristici",
-            "questions": [
-              {
-                "id": "C5_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a drama și comedia în literatură?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -17040,21 +15962,7 @@
             "number": "3",
             "name": "Dialogul dramatic",
             "summary": "**Lecția 3**: Con**vers**ație și conflict în **dialog**",
-            "questions": [
-              {
-                "id": "C5_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a dialogul dramatic?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -17107,21 +16015,7 @@
             "number": "4",
             "name": "Textul argumentativ",
             "summary": "**Lecția 4**: Teza, dovezi și concluzii",
-            "questions": [
-              {
-                "id": "C5_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul argumentativ?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -17174,21 +16068,7 @@
             "number": "5",
             "name": "Motive pentru care călătoriile te fac mai bun",
             "summary": "**Lecția 5**: **Eseu** argumentativ - Samantha",
-            "questions": [
-              {
-                "id": "C5_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a motive pentru care călătoriile te fac mai bun?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -17241,21 +16121,7 @@
             "number": "6",
             "name": "Structura unui eseu",
             "summary": "**Lecția 6**: Introducere, dezvoltare, încheiare",
-            "questions": [
-              {
-                "id": "C5_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a structura unui eseu?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -17308,21 +16174,7 @@
             "number": "7",
             "name": "Proiect de grup - Comunități din jurul României",
             "summary": "**Lecția 7**: Cercetare și prezentare",
-            "questions": [
-              {
-                "id": "C5_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a proiect de grup - comunități din jurul româniei?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -17375,21 +16227,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Practică și consolidare",
-            "questions": [
-              {
-                "id": "C5_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -21845,21 +20683,7 @@
             "number": "5",
             "name": "Textul clasic - Amintiri din copilărie (fragment)",
             "summary": "**Lecția 5**: Ion Creangă - Memorialistica",
-            "questions": [
-              {
-                "id": "C1_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul clasic - amintiri din copilărie (fragment)?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -21912,21 +20736,7 @@
             "number": "6",
             "name": "Autobrefieul și nostalgia în scriere",
             "summary": "**Lecția 6**: Perspective și evocări",
-            "questions": [
-              {
-                "id": "C1_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a autobrefieul și nostalgia în scriere?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -21979,21 +20789,7 @@
             "number": "7",
             "name": "Comparație între texte narative diferite",
             "summary": "**Lecția 7**: Metode de analiză comparată",
-            "questions": [
-              {
-                "id": "C1_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a comparație între texte narative diferite?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22046,21 +20842,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - **Text**e narative",
-            "questions": [
-              {
-                "id": "C1_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22120,21 +20902,7 @@
             "number": "1",
             "name": "Textul narativ literar avansat",
             "summary": "**Lecția 1**: Popa Tanda - Ioan Slavici",
-            "questions": [
-              {
-                "id": "C2_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul narativ literar avansat?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22187,21 +20955,7 @@
             "number": "2",
             "name": "Personajele și psihologia umană",
             "summary": "**Lecția 2**: Motivații și comportament",
-            "questions": [
-              {
-                "id": "C2_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a personajele și psihologia umană?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22254,21 +21008,7 @@
             "number": "3",
             "name": "Conflictul și tensiunea dramatică",
             "summary": "**Lecția 3**: Dezvoltarea conflictului în narație",
-            "questions": [
-              {
-                "id": "C2_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a conflictul și tensiunea dramatică?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22321,21 +21061,7 @@
             "number": "4",
             "name": "Morala și mesajul textului",
             "summary": "**Lecția 4**: Înțelesuri și simboluri",
-            "questions": [
-              {
-                "id": "C2_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a morala și mesajul textului?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22388,21 +21114,7 @@
             "number": "5",
             "name": "Textul clasic - Inocenții (fragment)",
             "summary": "**Lecția 5**: Ioana Prvulescu - Proza contemporană",
-            "questions": [
-              {
-                "id": "C2_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul clasic - inocenții (fragment)?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22455,21 +21167,7 @@
             "number": "6",
             "name": "Valorile în literatură și în viață",
             "summary": "**Lecția 6**: Etică și uman",
-            "questions": [
-              {
-                "id": "C2_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a valorile în literatură și în viață?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22522,21 +21220,7 @@
             "number": "7",
             "name": "Proiect de grup - Valorile mele, valorile comunității",
             "summary": "**Lecția 7**: Cercetare și reflecție",
-            "questions": [
-              {
-                "id": "C2_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a proiect de grup - valorile mele, valorile comunității?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22589,21 +21273,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - Valori și moral",
-            "questions": [
-              {
-                "id": "C2_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22663,21 +21333,7 @@
             "number": "1",
             "name": "Structura textului poetic",
             "summary": "**Lecția 1**: Lacul - Mihai Eminescu",
-            "questions": [
-              {
-                "id": "C3_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a structura textului poetic?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22730,21 +21386,7 @@
             "number": "2",
             "name": "Versul, rima și metrică",
             "summary": "**Lecția 2**: Elemente de **vers**ificație",
-            "questions": [
-              {
-                "id": "C3_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a versul, rima și metrică?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22797,21 +21439,7 @@
             "number": "3",
             "name": "Figurile de stil în poezie",
             "summary": "**Lecția 3**: Metafore, comparații, personificări",
-            "questions": [
-              {
-                "id": "C3_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a figurile de stil în poezie?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22864,21 +21492,7 @@
             "number": "4",
             "name": "Textul liric - Am legat… (Marin Sorescu)",
             "summary": "**Lecția 4**: Lirismul și confesiunea",
-            "questions": [
-              {
-                "id": "C3_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul liric - am legat… (marin sorescu)?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22931,21 +21545,7 @@
             "number": "5",
             "name": "Sentimentele și emoțiile în vers",
             "summary": "**Lecția 5**: Exprimarea emoțională",
-            "questions": [
-              {
-                "id": "C3_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a sentimentele și emoțiile în vers?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -22998,21 +21598,7 @@
             "number": "6",
             "name": "Textul clasic - Iarna (Mircea Cărtărescu)",
             "summary": "**Lecția 6**: Modernitatea în **poezie**",
-            "questions": [
-              {
-                "id": "C3_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul clasic - iarna (mircea cărtărescu)?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23065,21 +21651,7 @@
             "number": "7",
             "name": "Analiza și interpretarea poemelor",
             "summary": "**Lecția 7**: Metode și perspective",
-            "questions": [
-              {
-                "id": "C3_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a analiza și interpretarea poemelor?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23132,21 +21704,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - **Text**e poetice",
-            "questions": [
-              {
-                "id": "C3_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23206,21 +21764,7 @@
             "number": "1",
             "name": "Textul narativ literar - Două loturi",
             "summary": "**Lecția 1**: I.L. Caragiale - Comedie și critică socială",
-            "questions": [
-              {
-                "id": "C4_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul narativ literar - două loturi?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23273,21 +21817,7 @@
             "number": "2",
             "name": "Socul și ironia în literatură",
             "summary": "**Lecția 2**: Tehnici de critică socială",
-            "questions": [
-              {
-                "id": "C4_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a socul și ironia în literatură?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23340,21 +21870,7 @@
             "number": "3",
             "name": "Personajele și tipologia umană",
             "summary": "**Lecția 3**: Caractere și comportament social",
-            "questions": [
-              {
-                "id": "C4_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a personajele și tipologia umană?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23407,21 +21923,7 @@
             "number": "4",
             "name": "Textul multimodal - Enciclopedia",
             "summary": "**Lecția 4**: Porțelanul - **Text** informativi și **literar**",
-            "questions": [
-              {
-                "id": "C4_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul multimodal - enciclopedia?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23474,21 +21976,7 @@
             "number": "5",
             "name": "Sursele de informație și credibilitate",
             "summary": "**Lecția 5**: Cercetare și verificare",
-            "questions": [
-              {
-                "id": "C4_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a sursele de informație și credibilitate?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23541,21 +22029,7 @@
             "number": "6",
             "name": "Textul clasic - Cerșetorul și regele",
             "summary": "**Lecția 6**: Jean-Claude Carriere - Conturi filosofice",
-            "questions": [
-              {
-                "id": "C4_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul clasic - cerșetorul și regele?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23608,21 +22082,7 @@
             "number": "7",
             "name": "Filosofia și literatura",
             "summary": "**Lecția 7**: Idei și expresie artistică",
-            "questions": [
-              {
-                "id": "C4_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a filosofia și literatura?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23675,21 +22135,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - Comedia și filosofia",
-            "questions": [
-              {
-                "id": "C4_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23749,21 +22195,7 @@
             "number": "1",
             "name": "Textul dramatic - Vrem să vă dăruim câte o fereastră",
             "summary": "**Lecția 1**: Matei Vișniec - **Drama** contemporană",
-            "questions": [
-              {
-                "id": "C5_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul dramatic - vrem să vă dăruim câte o fereastră?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23816,21 +22248,7 @@
             "number": "2",
             "name": "Structura piesei de teatru",
             "summary": "**Lecția 2**: Acte, scene, monolog și **dialog**",
-            "questions": [
-              {
-                "id": "C5_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a structura piesei de teatru?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23883,21 +22301,7 @@
             "number": "3",
             "name": "Didascalii și instrucțiuni scenice",
             "summary": "**Lecția 3**: Indicații regizoral",
-            "questions": [
-              {
-                "id": "C5_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a didascalii și instrucțiuni scenice?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -23950,21 +22354,7 @@
             "number": "4",
             "name": "Dialogul în textul nonliterar - Interviul",
             "summary": "**Lecția 4**: Interviu cu Matei Vișniec",
-            "questions": [
-              {
-                "id": "C5_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a dialogul în textul nonliterar - interviul?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -24017,21 +22407,7 @@
             "number": "5",
             "name": "Conversația și comunicare eficace",
             "summary": "**Lecția 5**: Tehnici de **dialog**",
-            "questions": [
-              {
-                "id": "C5_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a conversația și comunicare eficace?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -24084,21 +22460,7 @@
             "number": "6",
             "name": "Textul clasic - Visul unei nopți de vară (fragment)",
             "summary": "**Lecția 6**: William Shakespeare - Teatrul uni**vers**al",
-            "questions": [
-              {
-                "id": "C5_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul clasic - visul unei nopți de vară (fragment)?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -24151,21 +22513,7 @@
             "number": "7",
             "name": "De la text la scenă",
             "summary": "**Lecția 7**: Adaptare și punere în scenă",
-            "questions": [
-              {
-                "id": "C5_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a de la text la scenă?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -24218,21 +22566,7 @@
             "number": "8",
             "name": "Proiect de grup - De la text la spectacol",
             "summary": "**Lecția 8**: Realizare teatrală",
-            "questions": [
-              {
-                "id": "C5_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a proiect de grup - de la text la spectacol?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -27522,21 +25856,7 @@
             "number": "5",
             "name": "Sentimentul și expresia lirică",
             "summary": "**Lecția 5**: Emoție și estetică",
-            "questions": [
-              {
-                "id": "C1_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a sentimentul și expresia lirică?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -27589,21 +25909,7 @@
             "number": "6",
             "name": "Frumusețea artei și creației",
             "summary": "**Lecția 6**: Lecția de citire (Nichita Stănescu)",
-            "questions": [
-              {
-                "id": "C1_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a frumusețea artei și creației?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -27656,21 +25962,7 @@
             "number": "7",
             "name": "Textul liric comparat - O pasăre naltă",
             "summary": "**Lecția 7**: Dan Coman - Analiză și interpretare",
-            "questions": [
-              {
-                "id": "C1_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul liric comparat - o pasăre naltă?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -27723,21 +26015,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - **Text**e **liric**e",
-            "questions": [
-              {
-                "id": "C1_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -27797,21 +26075,7 @@
             "number": "1",
             "name": "Textul dramatic - Take, Ianke și Cadr",
             "summary": "**Lecția 1**: Victor Ion Popa - Comedie și caracter",
-            "questions": [
-              {
-                "id": "C2_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul dramatic - take, ianke și cadr?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -27864,21 +26128,7 @@
             "number": "2",
             "name": "Structura piesei de teatru",
             "summary": "**Lecția 2**: Acte, scene, personaje, dialog",
-            "questions": [
-              {
-                "id": "C2_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a structura piesei de teatru?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -27931,21 +26181,7 @@
             "number": "3",
             "name": "Analiza caracterelor dramatice",
             "summary": "**Lecția 3**: Psihologie și comportament",
-            "questions": [
-              {
-                "id": "C2_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a analiza caracterelor dramatice?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -27998,21 +26234,7 @@
             "number": "4",
             "name": "Conflictul dramatic și rezolvarea",
             "summary": "**Lecția 4**: Tensiune și catharsis",
-            "questions": [
-              {
-                "id": "C2_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a conflictul dramatic și rezolvarea?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28065,21 +26287,7 @@
             "number": "5",
             "name": "Textul nonliterar - Cronica de spectacol",
             "summary": "**Lecția 5**: Omenescul personajelor - Ștefan Po",
-            "questions": [
-              {
-                "id": "C2_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul nonliterar - cronica de spectacol?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28132,21 +26340,7 @@
             "number": "6",
             "name": "Critică și interpretare teatrală",
             "summary": "**Lecția 6**: Evaluare și apreciere",
-            "questions": [
-              {
-                "id": "C2_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a critică și interpretare teatrală?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28199,21 +26393,7 @@
             "number": "7",
             "name": "Textul clasic - Nathan înțeleptul (fragment)",
             "summary": "**Lecția 7**: Gotthold Ephraim Lessing - Filosofie",
-            "questions": [
-              {
-                "id": "C2_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul clasic - nathan înțeleptul (fragment)?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28266,21 +26446,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - **Text**e **dramatic**e",
-            "questions": [
-              {
-                "id": "C2_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28340,21 +26506,7 @@
             "number": "1",
             "name": "Textul literar dincolo de clasificări",
             "summary": "**Lecția 1**: În Țara-Obiectelor-cu-Suflet (Angelica Neagu)",
-            "questions": [
-              {
-                "id": "C3_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul literar dincolo de clasificări?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28407,21 +26559,7 @@
             "number": "2",
             "name": "Imaginație și realitate în naratiune",
             "summary": "**Lecția 2**: Lumi paralele și alternate",
-            "questions": [
-              {
-                "id": "C3_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a imaginație și realitate în naratiune?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28474,21 +26612,7 @@
             "number": "3",
             "name": "Simbolism și alegorie",
             "summary": "**Lecția 3**: Semnificații ascunse",
-            "questions": [
-              {
-                "id": "C3_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a simbolism și alegorie?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28541,21 +26665,7 @@
             "number": "4",
             "name": "Textul modern și experimentul literar",
             "summary": "**Lecția 4**: Forme noi de expresie",
-            "questions": [
-              {
-                "id": "C3_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul modern și experimentul literar?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28608,21 +26718,7 @@
             "number": "5",
             "name": "Textul clasic - Pescărușul Jonathan Livingston",
             "summary": "**Lecția 5**: Richard Bach - Spiritualitate (fragmente)",
-            "questions": [
-              {
-                "id": "C3_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul clasic - pescărușul jonathan livingston?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28675,21 +26771,7 @@
             "number": "6",
             "name": "Mesaj și filosofie în ficțiune",
             "summary": "**Lecția 6**: Idei transmise prin poveste",
-            "questions": [
-              {
-                "id": "C3_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a mesaj și filosofie în ficțiune?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28742,21 +26824,7 @@
             "number": "7",
             "name": "Proiect de grup - Limbi inventate",
             "summary": "**Lecția 7**: Creativitate și invenție lingvistică",
-            "questions": [
-              {
-                "id": "C3_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a proiect de grup - limbi inventate?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28809,21 +26877,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - **Text**e inovatoare",
-            "questions": [
-              {
-                "id": "C3_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28883,21 +26937,7 @@
             "number": "1",
             "name": "Textul epic - Iapa lui Vodă",
             "summary": "**Lecția 1**: Mihail Sadoveanu - Legendă și realitate",
-            "questions": [
-              {
-                "id": "C4_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul epic - iapa lui vodă?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -28950,21 +26990,7 @@
             "number": "2",
             "name": "Structura epică și eroismul",
             "summary": "**Lecția 2**: Figuri legendare și fapte",
-            "questions": [
-              {
-                "id": "C4_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a structura epică și eroismul?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29017,21 +27043,7 @@
             "number": "3",
             "name": "Tradițional și modern în epopeea",
             "summary": "**Lecția 3**: Reinterpretări ale miturilor",
-            "questions": [
-              {
-                "id": "C4_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a tradițional și modern în epopeea?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29084,21 +27096,7 @@
             "number": "4",
             "name": "Morală și înțelepciune în epic",
             "summary": "**Lecția 4**: Învățătură și cultură",
-            "questions": [
-              {
-                "id": "C4_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a morală și înțelepciune în epic?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29151,21 +27149,7 @@
             "number": "5",
             "name": "Textul clasic - Hainele cele noi ale Împăratului",
             "summary": "**Lecția 5**: Hans Christian Andersen - Adevăr și ipocrizie (fragment)",
-            "questions": [
-              {
-                "id": "C4_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul clasic - hainele cele noi ale împăratului?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29218,21 +27202,7 @@
             "number": "6",
             "name": "Satiră și critică socială",
             "summary": "**Lecția 6**: Expunerea absurdului",
-            "questions": [
-              {
-                "id": "C4_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a satiră și critică socială?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29285,21 +27255,7 @@
             "number": "7",
             "name": "Proiect de grup - Realizarea unei reclame",
             "summary": "**Lecția 7**: Persuasiune și comunicare",
-            "questions": [
-              {
-                "id": "C4_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a proiect de grup - realizarea unei reclame?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29352,21 +27308,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - **Text**e **epic**e și satirice",
-            "questions": [
-              {
-                "id": "C4_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29426,21 +27368,7 @@
             "number": "1",
             "name": "Textul epic modern - Fahrenheit 451",
             "summary": "**Lecția 1**: Ray Bradbury - Distopie și critică",
-            "questions": [
-              {
-                "id": "C5_L1_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul epic modern - fahrenheit 451?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29493,21 +27421,7 @@
             "number": "2",
             "name": "Lumile posibile și scenarii futuri",
             "summary": "**Lecția 2**: Science fiction și filosofie",
-            "questions": [
-              {
-                "id": "C5_L2_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a lumile posibile și scenarii futuri?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29560,21 +27474,7 @@
             "number": "3",
             "name": "Societatea și individul în conflict",
             "summary": "**Lecția 3**: Libertate și conformism",
-            "questions": [
-              {
-                "id": "C5_L3_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a societatea și individul în conflict?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29627,21 +27527,7 @@
             "number": "4",
             "name": "Textul nonliterar - Textul de opinie",
             "summary": "**Lecția 4**: Când vei fi adult, e posibil să nu ai...",
-            "questions": [
-              {
-                "id": "C5_L4_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul nonliterar - textul de opinie?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29694,21 +27580,7 @@
             "number": "5",
             "name": "Argumentație și convingere",
             "summary": "**Lecția 5**: Logică și retorica persuasivă",
-            "questions": [
-              {
-                "id": "C5_L5_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a argumentație și convingere?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29761,21 +27633,7 @@
             "number": "6",
             "name": "Textul clasic - Prima lecție de geometrie",
             "summary": "**Lecția 6**: Ov. S. Crohmălniceanu - Modernitate (fragmente)",
-            "questions": [
-              {
-                "id": "C5_L6_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a textul clasic - prima lecție de geometrie?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29828,21 +27686,7 @@
             "number": "7",
             "name": "Reflecție și concluzii finale",
             "summary": "**Lecția 7**: Perspectiva asupra lumii și viitorului",
-            "questions": [
-              {
-                "id": "C5_L7_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a reflecție și concluzii finale?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
@@ -29895,21 +27739,7 @@
             "number": "8",
             "name": "Exerciții și evaluare",
             "summary": "**Lecția 8**: Test complet - **Text**e prospective",
-            "questions": [
-              {
-                "id": "C5_L8_Q1",
-                "type": "multiple_choice",
-                "options": [
-                  "Opțiunea A",
-                  "Opțiunea B - răspuns corect",
-                  "Opțiunea C",
-                  "Opțiunea D"
-                ],
-                "explanation": "Răspunsul corect demonstrează înțelegerea conceptului principal",
-                "questionText": "Care este caracteristica principală a exerciții și evaluare?",
-                "correctAnswerIndex": 1
-              }
-            ],
+            "questions": [],
             "sections": [
               {
                 "title": "Teorie 1",
